@@ -1,0 +1,95 @@
+{
+  "Active Item Options": {
+    "Driver - Disable all held items": true,
+    "Driver - List of disallowed held items (item shortnames)": [],
+    "Passenger - Disable all held items": false,
+    "Passenger - List of disallowed held items (item shortnames)": [
+      "explosive.timed",
+      "rocket.launcher",
+      "surveycharge",
+      "explosive.satchel"
+    ]
+  },
+  "Button Configuration": {
+    "Accelerate": "FORWARD",
+    "Brake / Reverse": "BACKWARD",
+    "Hand Brake": "SPRINT",
+    "Open fuel tank": "FIRE_THIRD",
+    "Open inventory": "RELOAD",
+    "Toggle lights": "RELOAD",
+    "Turn Left": "LEFT",
+    "Turn Right": "RIGHT"
+  },
+  "Fuel Options": {
+    "Amount of fuel to give spawned vehicles (maximum)": 50,
+    "Amount of fuel to give spawned vehicles (minimum)": 10,
+    "Fuel consumption rate (seconds per litre)": 10,
+    "Fuel type (item shortname)": "lowgradefuel",
+    "Requires fuel": true,
+    "Spawn vehicles with fuel": true
+  },
+  "Inventory Options": {
+    "Drop inventory on death": true,
+    "Enable inventory system": true,
+    "Inventory size (max 36)": 36
+  },
+  "Movement Settings": {
+    "Anti Roll - Front horizontal force": 3500.0,
+    "Anti Roll - Rear horizontal force": 3500.0,
+    "Anti Roll - Vertical force": 500.0,
+    "Engine - Acceleration torque": 600.0,
+    "Engine - Brake  torque": 800.0,
+    "Engine - Maximum speed": 90.0,
+    "Engine - Reverse  torque": 500.0,
+    "Steering - Automatically counter steer": false,
+    "Steering - Max angle": 60.0,
+    "Steering - Max angle at speed": 20.0,
+    "Suspension - Damper": 2000.0,
+    "Suspension - Distance": 0.2,
+    "Suspension - Force": 40000.0,
+    "Suspension - Target position (min 0, max 1)": 0.4
+  },
+  "Passenger Options": {
+    "Allow passengers": true,
+    "Require passenger to be a clan mate (Clans)": true,
+    "Require passenger to be a friend (FriendsAPI)": true,
+    "Время блокировки чат команды (в минутах)": 60.0
+  },
+  "Repair Options": {
+    "Amount of damage repaired per hit": 30,
+    "Amount of item required to repair": 10,
+    "Repair system enabled": true,
+    "Shortname of item required to repair": "scrap"
+  },
+  "Spawnable Options": {
+    "Enable automatic vehicle spawning": true,
+    "Maximum spawned vehicles at any time": 5,
+    "Spawnfile name": "",
+    "Time between autospawns (seconds)": 1800,
+    "Use RandomSpawns for spawn locations": false
+  },
+  "UI Options": {
+    "Fuel settings": {
+      "Background alpha": 0.05,
+      "Background color (hex)": "#F2F2F2",
+      "Display to player": true,
+      "Position - X maximum": 0.83,
+      "Position - X minimum": 0.69,
+      "Position - Y maximum": 0.096,
+      "Position - Y minimum": 0.06,
+      "Status alpha": 1.0,
+      "Status color (hex)": "#ce422b"
+    },
+    "Health settings": {
+      "Background alpha": 0.05,
+      "Background color (hex)": "#F2F2F2",
+      "Display to player": true,
+      "Position - X maximum": 0.83,
+      "Position - X minimum": 0.69,
+      "Position - Y maximum": 0.135,
+      "Position - Y minimum": 0.1,
+      "Status alpha": 0.6,
+      "Status color (hex)": "#ce422b"
+    }
+  }
+}

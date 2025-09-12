@@ -1,0 +1,4908 @@
+[
+  {
+    "Name": "autokit",
+    "DisplayName": "autokit",
+    "Amount": 0,
+    "Cooldown": 60000.0,
+    "Hide": true,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pickaxe",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 392.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hatchet",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 383.5,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "oxotnik",
+    "DisplayName": "Охотник",
+    "Amount": 0,
+    "Cooldown": 900.0,
+    "Hide": false,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "wood.armor.helmet",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "arrow.hv",
+        "Amount": 30,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bow.hunting",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 49.75,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "arrow.hv",
+          "ammoAmount": 1
+        },
+        "Content": null
+      },
+      {
+        "ShortName": "knife.bone",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 97.4,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "dom",
+    "DisplayName": "Дом",
+    "Amount": 2,
+    "Cooldown": 86000.0,
+    "Hide": false,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "wood",
+        "Amount": 2000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 2000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 2500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "box.wooden.large",
+        "Amount": 2,
+        "Blueprint": 0,
+        "SkinID": 2842043026,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bed",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "furnace",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2438390138,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lock.code",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "door.double.hinged.metal",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2101572637,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "med",
+    "DisplayName": "Мед",
+    "Amount": 0,
+    "Cooldown": 1200.0,
+    "Hide": false,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 2,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bandage",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "eda",
+    "DisplayName": "Еда",
+    "Amount": 0,
+    "Cooldown": 900.0,
+    "Hide": false,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "apple",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bearmeat.cooked",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "can.beans",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "bonus",
+    "DisplayName": "Бонус за преписку",
+    "Amount": 1,
+    "Cooldown": 600.0,
+    "Hide": false,
+    "Permission": "kits.reward",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "easter.goldegg",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "easter.silveregg",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "halloween.lootbag.large",
+        "Amount": 3,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "supply.signal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "halloween.lootbag.small",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "vipres",
+    "DisplayName": "Вип ресурсы",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.vip",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "sulfur",
+        "Amount": 25000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 1200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 3000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "charcoal",
+        "Amount": 25000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "vipcomp",
+    "DisplayName": "Вип компоненты",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.vip",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rope",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 45,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "vipgun",
+    "DisplayName": "Вип оружие",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.vip",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "pistol.m92",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "pistol.m92",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "pistol.m92",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "smg.2",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "smg.mp5",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "smg.2",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "smg.mp5",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.pistol",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol.fire",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "premres",
+    "DisplayName": "Премиум ресурсы",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.prem",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "sulfur",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 90000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 1800,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 85000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 8500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 8500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "charcoal",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 20000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 1500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "premcomp",
+    "DisplayName": "Премиум компоненты",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.prem",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rope",
+        "Amount": 120,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 85,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 20,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 20,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 20,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 75,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 85,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "premgun",
+    "DisplayName": "Премиум оружие",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.prem",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.lr300",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "shotgun.spas12",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.shotgun",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "shotgun.spas12",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.shotgun",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "shotgun.spas12",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.shotgun",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.m39",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.m39",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.shotgun.slug",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "prembonus",
+    "DisplayName": "Премиум бонус",
+    "Amount": 1,
+    "Cooldown": 84600.0,
+    "Hide": false,
+    "Permission": "kits.prem",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 20,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "woodtea.pure",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "supply.signal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "autoturret",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepres",
+    "DisplayName": "KEEP Ресурсы",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.keep",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "sulfur",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 130000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 2300,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 8000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "charcoal",
+        "Amount": 85000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 2000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepcomp",
+    "DisplayName": "KEEP компоненты",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Permission": "kits.keep",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rope",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 85,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 180,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepgun",
+    "DisplayName": "KEEP оружие",
+    "Amount": 0,
+    "Cooldown": 84600.0,
+    "Hide": false,
+    "Permission": "kits.keep",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "hmlmg",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 350.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "hmlmg",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 350.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.lr300",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "rifle.lr300",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "rocket.launcher",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rocket.basic",
+          "ammoAmount": 0
+        },
+        "Content": null
+      },
+      {
+        "ShortName": "rocket.launcher",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rocket.basic",
+          "ammoAmount": 0
+        },
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 244,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 244,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 244,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepmed",
+    "DisplayName": "KEEP мед",
+    "Amount": 0,
+    "Cooldown": 28800.0,
+    "Hide": false,
+    "Permission": "kits.keep",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepbonus",
+    "DisplayName": "KEEP бонус",
+    "Amount": 1,
+    "Cooldown": 2880028.0,
+    "Hide": false,
+    "Permission": "kits.keep",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "woodtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "supply.signal",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "autoturret",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepprores",
+    "DisplayName": "KEEPPRO ресурсы",
+    "Amount": 0,
+    "Cooldown": 84600.0,
+    "Hide": false,
+    "Permission": "kits.keeppro",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "sulfur",
+        "Amount": 150000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 185000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 3500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 12000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 200000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 180000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 13000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 13000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "charcoal",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 40000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 4500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepprocomp",
+    "DisplayName": "KEEPPRO компоненты.",
+    "Amount": 0,
+    "Cooldown": 84600.0,
+    "Hide": false,
+    "Permission": "kits.keeppro",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rope",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 35,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 35,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 35,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 150,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 300,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 130,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepprogun",
+    "DisplayName": "KEEPPRO оружие",
+    "Amount": 0,
+    "Cooldown": 84600.0,
+    "Hide": false,
+    "Permission": "kits.keeppro",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "lmg.m249",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 500.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "lmg.m249",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 500.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "hmlmg",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 350.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.8x.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.explosive",
+        "Amount": 756,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keeppromed",
+    "DisplayName": "KEEPPRO мед",
+    "Amount": 0,
+    "Cooldown": 28800.0,
+    "Hide": false,
+    "Permission": "kits.keeppro",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "keepprobonus",
+    "DisplayName": "KEEPPRO бонус",
+    "Amount": 1,
+    "Cooldown": 883600.0,
+    "Hide": false,
+    "Permission": "kits.keeppro",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "autoturret",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "autoturret",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "woodtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "supply.signal",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "woodtea.pure",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "pech",
+    "DisplayName": "Волшебные перчатки",
+    "Amount": 0,
+    "Cooldown": 3600.0,
+    "Hide": false,
+    "Permission": "kits.pech",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "burlap.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 1742796979,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Name": "kielie",
+    "DisplayName": "kielie",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "metal.refined",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 11200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "Общие настройки": {
+    "Через сколько секунд удалять залутаный ящик": 4,
+    "Откат на телепорт": 600,
+    "Максимальное количество добывающих": 5,
+    "Включить топ?": false,
+    "Авто очистка данных игроков вайпе (Время игроков и Топ)": true,
+    "Название файла (copypaste)": "Сменить",
+    "Фото для пользовательского интерфейса": "https://i.imgur.com/k9HzQLM.jpg",
+    "Размер зоны": {
+      "x": 150.0,
+      "y": 150.0,
+      "z": 150.0
+    },
+    "Shortname для тикетов": "glue",
+    "Только 1 тикет в ящике": true,
+    "Через сколько секунд удалять выброщенные предметы": 10,
+    "Наказание за нахождение в зоне после окончания времени фарма (1 - радиация + урон, 2 - мгновенная смерть)": 1
+  },
+  "Настройки тикетов": [
+    {
+      "Скин айди тикета": 2852472024,
+      "Имя тикета": "Ticket 60",
+      "Ссылка на картинку": "https://i.imgur.com/BHUj7e3.png",
+      "Сколько тикет дает времени на фарм (в секундах)": 60,
+      "Ящики из которых может выпасть тикет с шансом": {
+        "crate_elite": 30,
+        "crate_normal": 10
+      }
+    },
+    {
+      "Скин айди тикета": 2852471535,
+      "Имя тикета": "Ticket 30",
+      "Ссылка на картинку": "https://i.imgur.com/VusjY8D.png",
+      "Сколько тикет дает времени на фарм (в секундах)": 30,
+      "Ящики из которых может выпасть тикет с шансом": {
+        "crate_normal": 40
+      }
+    },
+    {
+      "Скин айди тикета": 2852471429,
+      "Имя тикета": "Ticket 10",
+      "Ссылка на картинку": "https://i.imgur.com/A1dN4N0.png",
+      "Сколько тикет дает времени на фарм (в секундах)": 10,
+      "Ящики из которых может выпасть тикет с шансом": {
+        "crate_normal_2": 20,
+        "crate_tools": 20
+      }
+    }
+  ],
+  "Настройки респавна объектов (в секундах)": {
+    "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab": 1,
+    "assets/rust.ai/agents/stag/stag.prefab": 120,
+    "assets/rust.ai/agents/bear/bear.prefab": 360,
+    "assets/rust.ai/agents/boar/boar.prefab": 360,
+    "assets/rust.ai/agents/wolf/wolf.prefab": 240,
+    "assets/rust.ai/agents/chicken/chicken.prefab": 60,
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab": 10,
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab": 10,
+    "assets/bundled/prefabs/radtown/loot_barrel_1.prefab": 120,
+    "assets/bundled/prefabs/radtown/loot_barrel_2.prefab": 160,
+    "assets/bundled/prefabs/radtown/oil_barrel.prefab": 140,
+    "assets/bundled/prefabs/radtown/crate_elite.prefab": 10,
+    "assets/bundled/prefabs/radtown/crate_normal.prefab": 360,
+    "assets/bundled/prefabs/radtown/crate_normal_2.prefab": 10,
+    "assets/bundled/prefabs/radtown/crate_tools.prefab": 240,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab": 240,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_tools.prefab": 240,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab": 480,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab": 360,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab": 240
+  },
+  "Настройка очков для топа": {
+    "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab": 1,
+    "assets/rust.ai/agents/stag/stag.prefab": 1,
+    "assets/rust.ai/agents/bear/bear.prefab": 1,
+    "assets/rust.ai/agents/boar/boar.prefab": 1,
+    "assets/rust.ai/agents/wolf/wolf.prefab": 1,
+    "assets/rust.ai/agents/chicken/chicken.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab": 1,
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab": 1,
+    "assets/bundled/prefabs/radtown/loot_barrel_1.prefab": 1,
+    "assets/bundled/prefabs/radtown/loot_barrel_2.prefab": 1,
+    "assets/bundled/prefabs/radtown/oil_barrel.prefab": 1,
+    "assets/bundled/prefabs/radtown/crate_elite.prefab": 4,
+    "assets/bundled/prefabs/radtown/crate_normal.prefab": 3,
+    "assets/bundled/prefabs/radtown/crate_normal_2.prefab": 2,
+    "assets/bundled/prefabs/radtown/crate_tools.prefab": 2,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab": 2,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_tools.prefab": 2,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab": 4,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab": 3,
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab": 2
+  },
+  "Запрещеные предметы (shortName)": [
+    "syringe.medical",
+    "antiradpills"
+  ],
+  "Запрещенные комманды": [
+    "kit"
+  ],
+  "Config version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 4
+  }
+}

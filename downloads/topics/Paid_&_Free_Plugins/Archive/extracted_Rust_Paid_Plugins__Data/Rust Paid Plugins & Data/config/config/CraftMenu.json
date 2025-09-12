@@ -1,0 +1,27 @@
+{
+  "Main Settings": {
+    "Wipe Blueprints at Map Wipe": false,
+    "Sound Effects": true,
+    "Categories (Max 6)": {
+      "construction": "assets/icons/construction.png",
+      "weapons": "assets/icons/bullet.png",
+      "clothing": "assets/icons/clothing.png",
+      "electrical": "assets/icons/electric.png",
+      "vehicles": "assets/icons/horse_ride.png",
+      "dlc": "assets/icons/download.png"
+    },
+    "Permissions required for each category": false
+  },
+  "Crafting Time": {
+    "Enabled": false,
+    "Default Craft Time for all items (in seconds)": 5,
+    "Specific Craft Time (in seconds)": {
+      "rifle.m39": 60,
+      "pistol.m92": 45,
+      "rifle.lr300": 80,
+      "rifle.l96": 120,
+      "lmg.m249": 200,
+      "multiplegrenadelauncher": 200
+    }
+  }
+}

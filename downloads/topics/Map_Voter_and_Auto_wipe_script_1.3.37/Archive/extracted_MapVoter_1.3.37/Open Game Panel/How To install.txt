@@ -1,0 +1,33 @@
+Video :
+https://youtu.be/vobMg8oOmBg
+1- Open AutoWipe.sh in Text Editor find ./RustDedicated and change rcon password and port.
+2- Upload AutoWipe.sh and AutoWipeConfig.txt to File Manager.
+	Go to your server folder and run this command chmod +x AutoWipe.sh then  chmod +x discord.sh
+	Example : 
+	cd /home/ogp_agent/OGP_User_Files/rustDev
+	chmod +x AutoWipe.sh
+	chmod +x discord.sh
+	sudo apt-get install jq
+	sudo apt-get install sed
+3-Download and unzip oxide 
+	wget https://github.com/OxideMod/Oxide.Rust/releases/latest/download/Oxide.Rust-linux.zip -O Oxide.Rust-linux.zip
+	unzip -o Oxide.Rust-linux.zip
+	rm Oxide.Rust-linux.zip
+4- install steamcmd if its not installed and then copy steamcmd folder to server folder
+	cp -R {steamcmd path} {your server folder}
+	Example :
+	cp -R  /root/.steam/steamcmd /home/ogp_agent/OGP_User_Files/3
+5- You must put all server variables in server/my_server_identity/cfg/server.cfg
+6- Replace rust_linux64.xml in /var/www/html/modules/config_games/server_configs with rust_linux64.xml in Mapvoter-V*.*.*/OpenGamePanel you downloaded (Only once)
+	Remove rust_linux64.xml
+	rm rust_linux64.xml
+	make new one 
+	touch rust_linux64.xml
+	edit new file with nano
+	nano rust_linux64.xml
+	copy everything in rust_linux64
+	save  CTRL+s then CTRL+x to exit
+7- open AutoWipeConfig.txt and replace https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks with your discord channel webhook link.
+8- start your server.
+
+

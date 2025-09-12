@@ -1,0 +1,640 @@
+{
+  "multiplegrenadelauncher": {
+    "Name": "Гранатомет",
+    "Image": "multiplegrenadelauncher.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 900,
+    "Resources": {
+      "metal.fragments": 750,
+      "metalpipe": 6,
+      "metal.refined": 150
+    }
+  },
+  "rifle.lr300": {
+    "Name": "ЛР 300",
+    "Image": "rifle.lr300.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 900,
+    "Resources": {
+      "riflebody": 1,
+      "metal.refined": 125,
+      "metal.fragments": 350
+    }
+  },
+  "pistol.m92": {
+    "Name": "Берета",
+    "Image": "pistol.m92.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 2,
+    "ResearchCost": 450,
+    "Resources": {
+      "semibody": 1,
+      "metal.refined": 80
+    }
+  },
+  "rifle.m39": {
+    "Name": "М39",
+    "Image": "rifle.m39.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 650,
+    "Resources": {
+      "riflebody": 1,
+      "metal.fragments": 350,
+      "metal.refined": 120
+    }
+  },
+  "rifle.l96": { 
+    "Name": "Л96",
+    "Image": "rifle.l96.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "riflebody": 1,
+      "metal.fragments": 500,
+      "metal.refined": 250
+    }
+  },
+  "lmg.m249": { 
+    "Name": "М249",
+    "Image": "lmg.m249.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 1250,
+    "Resources": {
+      "riflebody": 2,
+      "metal.fragments": 750,
+      "metal.refined": 450
+    }
+  },
+  "weapon.mod.8x.scope": { 
+    "Name": "16 кратный",
+    "Image": "weapon.mod.8x.scope.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 1250,
+    "Resources": {
+      "metal.fragments": 50,
+      "metal.refined": 180
+    }
+  },
+  "ammo.grenadelauncher.he": { 
+    "Name": "40mm граната",
+    "Image": "ammo.grenadelauncher.he.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 750,
+    "Resources": {
+      "metal.fragments": 50,
+      "gunpowder": 75
+    }
+  },
+  "ammo.grenadelauncher.smoke": { 
+    "Name": "40mm дымовая граната",
+    "Image": "ammo.grenadelauncher.smoke.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 750,
+    "Resources": {
+      "metal.fragments": 50,
+      "gunpowder": 25
+    }
+  },
+  "ammo.rocket.smoke": { 
+    "Name": "Дымовая ракета",
+    "Image": "ammo.rocket.smoke.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 450,
+    "Resources": {
+      "metal.fragments": 120,
+      "lowgradefuel": 75,
+      "gunpowder": 45
+    }
+  },
+
+  "spinner.wheel": { 
+    "Name": "Казино",
+    "Image": "https://rustplugins.net/products/placeanything/gamblingwheel.png",
+    "SkinID": 2682493718,
+    "Category": "construction",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "spinner.wheel": 1,
+      "metal.fragments": 75
+    }
+  },
+  "arcade.machine.chippy": { 
+    "Name": "Слоты",
+    "Image": "https://rustplugins.net/products/placeanything/slotmachine.png",
+    "SkinID": 2682435313,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 150,
+    "Resources": {
+      "techparts": 2,
+      "metal.fragments": 75
+    }
+  },
+  "box.wooden.large{1}": { 
+    "Name": "Переработчик",
+    "Image": "https://rustplugins.net/products/craftmenu/recycler_icon.png",
+    "SkinID": 1594245394,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 650,
+    "Resources": {
+      "metal.fragments": 1500,
+      "techparts": 30,
+      "metal.refined": 2000
+    }
+  },
+  "door.double.hinged.toptier": { 
+    "Name": "Большая МВК дверь",
+    "Image": "https://rustplugins.net/products/craftmenu/vault-icon.png",
+    "SkinID": 2643584466,
+    "Category": "construction",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "gears": 5,
+      "metal.refined": 50
+    }
+  },
+  "door.closer": { 
+    "Name": "Доводчик двери",
+    "Image": "door.closer.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "metalspring": 2,
+      "metal.fragments": 75
+    }
+  },
+  "mining.quarry": { 
+    "Name": "Рудный карьер",
+    "Image": "mining.quarry.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "wood": 1500,
+      "gears": 7,
+      "metal.fragments": 750
+    }
+  },
+  "samsite": { 
+    "Name": "ПВО турель",
+    "Image": "samsite.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 3,
+    "ResearchCost": 650,
+    "Resources": {
+      "targeting.computer": 3,
+      "techparts": 8,
+      "metal.refined": 150
+    }
+  },
+  "mining.pumpjack": { 
+    "Name": "Нефтевышка",
+    "Image": "mining.pumpjack.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "wood": 1500,
+      "metalpipe": 15,
+      "metal.fragments": 750
+    }
+  },
+
+
+
+
+
+  "nightvisiongoggles": { 
+    "Name": "ПНВ",
+    "Image": "nightvisiongoggles.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 3,
+    "ResearchCost": 350,
+    "Resources": {
+      "techparts": 6,
+      "cloth": 15,
+      "metal.refined": 75
+    }
+  },
+  "diving.tank": { 
+    "Name": "Балоны кислорода",
+    "Image": "diving.tank.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 250,
+    "Resources": {
+      "tarp": 12,
+      "sewingkit": 6,
+      "propanetank": 4
+    }
+  },
+  "hazmatsuit_scientist_peacekeeper": { 
+    "Name": "Униформа миротворца",
+    "Image": "https://rustplugins.net/products/craftmenu/hazmatsuit_scientist_peacekeeper.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 250,
+    "Resources": {
+      "tarp": 10,
+      "sewingkit": 5,
+      "metal.refined": 25
+    }
+  },
+  "diving.wetsuit": { 
+    "Name": "Гидрокостюм",
+    "Image": "diving.wetsuit.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 1,
+    "ResearchCost": 125,
+    "Resources": {
+      "tarp": 6,
+      "sewingkit": 2,
+      "cloth": 25
+    }
+  },
+  "clatter.helmet": { 
+    "Name": "Огненый шлем",
+    "Image": "clatter.helmet.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 125,
+    "Resources": {
+      "tarp": 8,
+      "sewingkit": 2,
+      "metal.fragments": 65
+    }
+  },
+  "cratecostume": { 
+    "Name": "Костюм МГС",
+    "Image": "cratecostume.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "wood": 350,
+      "rope": 2
+    }
+  },
+
+
+
+  
+
+  "jackhammer": {
+    "Name": "Отбойник",
+    "Image": "jackhammer.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "techparts": 2,
+      "metal.refined": 150
+    }
+  },
+  "electric.generator.small": {
+    "Name": "Генертаор 500МВТ",
+    "Image": "electric.generator.small.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "techparts": 15,
+      "metal.refined": 500,
+      "wiretool": 5
+    }
+  },
+  "generator.wind.scrap": {
+    "Name": "Ветряк",
+    "Image": "generator.wind.scrap.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 2,
+    "ResearchCost": 650,
+    "Resources": {
+      "gears": 12,
+      "metal.refined": 320,
+      "techparts": 10
+    }
+  },
+  "industrial.wall.light": {
+    "Name": "Промышленный фонарь",
+    "Image": "industrial.wall.light.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 30
+    }
+  },
+  "battery.small": {
+    "Name": "Батарейка",
+    "Image": "battery.small.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 15,
+      "bleach": 1,
+      "lowgradefuel": 35
+    }
+  },
+  "targeting.computer": {
+    "Name": "Компьютер",
+    "Image": "targeting.computer.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 75,
+      "techparts": 6
+    }
+  },
+
+
+
+
+
+  "gears": {
+    "Name": "Шестеренки",
+    "Image": "https://rustlabs.com/img/items180/gears.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 50,
+    "Resources": {
+      "metal.fragments": 25,
+      "scrap": 125
+    }
+  },
+  "metalspring": {
+    "Name": "Пружина",
+    "Image": "https://rustlabs.com/img/items180/metalspring.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 50,
+    "Resources": {
+      "metal.refined": 4,
+      "scrap": 50
+    }
+  },
+  "techparts": {
+    "Name": "Микросхема",
+    "Image": "https://rustlabs.com/img/items180/techparts.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 2,
+    "ResearchCost": 75,
+    "Resources": {
+      "metal.refined": 25,
+      "metal.fragments": 30,
+      "scrap": 50
+    }
+  },
+  "weapon.mod.burstmodule": {
+    "Name": "Переключатель стрельбы",
+    "Image": "https://rustlabs.com/img/items180/weapon.mod.burstmodule.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 2,
+    "ResearchCost": 30,
+    "Resources": {
+      "metal.fragments": 100,
+      "metal.refined": 25
+    }
+  },  
+  "aiming.module.mlrs": {
+    "Name": "Модуль МРЛС",
+    "Image": "https://rustlabs.com/img/items180/aiming.module.mlrs.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 3,
+    "ResearchCost": 100,
+    "Resources": {
+      "carburetor3": 1,
+      "metal.refined": 250
+    }
+  },
+  "explosive.timed": {
+    "Name": "С4",
+    "Image": "https://rustlabs.com/img/items180/explosive.timed.png",
+    "SkinID": 0,
+    "Category": "vehicles",
+    "Tier": 3,
+    "ResearchCost": 200,
+    "Resources": {
+      "techparts": 4,
+      "gunpowder": 3500,
+      "sulfur": 3500,
+      "lowgradefuel": 100	  
+    }
+  },
+
+
+
+  "fun.boomboxportable": {
+    "Name": "Магнитофон",
+    "Image": "fun.boomboxportable.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 120
+    } 
+  },
+  "boombox": {
+    "Name": "Колонка",
+    "Image": "boombox.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 200,
+      "metal.fragments": 100,
+      "cloth": 20
+    } 
+  },
+  "fun.casetterecorder": {
+    "Name": "Диктофон",
+    "Image": "fun.casetterecorder.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "megaphone": {
+    "Name": "Мегафон",
+    "Image": "megaphone.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 50,
+      "metal.fragments": 75
+    } 
+  },
+  "discoball": {
+    "Name": "Дискошар",
+    "Image": "discoball.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 50
+    } 
+  },
+  "cassette": {
+    "Name": "Большая касета",
+    "Image": "cassette.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100
+    } 
+  },
+  "drumkit": {
+    "Name": "Барабаны",
+    "Image": "drumkit.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100,
+      "wood": 200
+    } 
+  },
+  "microphonestand": {
+    "Name": "Стэнд с микрофоном",
+    "Image": "microphonestand.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "newyeargong": {
+    "Name": "Гонг",
+    "Image": "newyeargong.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 100,
+      "metal.fragments": 50
+    } 
+  },
+  "abovegroundpool": {
+    "Name": "Бассейн",
+    "Image": "abovegroundpool.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 500,
+      "tarp": 3,
+      "metal.fragments": 200
+    } 
+  },
+  "boogieboard": {
+    "Name": "Серф",
+    "Image": "boogieboard.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "tarp": 1,
+      "metal.fragments": 75
+    } 
+  },
+  "piano": {
+    "Name": "Пианино",
+    "Image": "piano.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 200,
+      "metal.fragments": 100
+    } 
+  },
+  "connected.speaker": {
+    "Name": "Вещатель",
+    "Image": "connected.speaker.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "telephone": {
+    "Name": "Телефон",
+    "Image": "telephone.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100,
+      "techparts": 1,
+      "wood": 50
+    } 
+  }
+
+
+}

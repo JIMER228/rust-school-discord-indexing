@@ -1,0 +1,1 @@
+Copy & Overwrite the "plugins" folder in your servers/rustserver/oxide folder. Where ever your Rust oxide/plugins folder is copy this folder there.

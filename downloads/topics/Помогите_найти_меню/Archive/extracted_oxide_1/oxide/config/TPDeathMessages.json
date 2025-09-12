@@ -1,0 +1,84 @@
+{
+  "Показывать хедшоты": true,
+  "Показывать смерть НПЦ": true,
+  "Названия": {
+    "npcplayer": "NPC",
+    "guntrap.deployed": "Guntrap",
+    "landmine": "Landmine",
+    "beartrap": "Bear trap",
+    "flameturret.deployed": "Flame turret",
+    "flameturret_fireball": "Flame turret",
+    "autoturret_deployed": "Turret",
+    "sentry.scientist.static": "Turret NPC",
+    "sentry.bandit.static": "Turret NPC",
+    "spikes.floor": "Spikes",
+    "spikes_static": "Spikes",
+    "teslacoil.deployed": "Tesla",
+    "barricade.wood": "Barricade",
+    "barricade.woodwire": "Barricade",
+    "barricade.metal": "Barricade",
+    "bradleyapc": "BradleyAPC",
+    "gates.external.high.wood": "Gates",
+    "gates.external.high.stone": "Gates",
+    "icewall": "Ice wall",
+    "wall.external.high.ice": "Ice wall",
+    "wall.external.high.stone": "Wall",
+    "wall.external.high.wood": "Wall",
+    "campfire": "Campfire",
+    "skull_fire_pit": "Campfire",
+    "lock.code": "Codelock",
+    "boar": "Boar",
+    "bear": "Bear",
+    "polarbear": "Polar Bear",
+    "wolf": "Wolf",
+    "stag": "Stag",
+    "chicken": "Chicken",
+    "horse": "Horse",
+    "minicopter.entity": "Minicopter",
+    "scraptransporthelicopter": "Transport helicopter",
+    "patrolhelicopter": "Patrol helicopter",
+    "napalm": "Napalm",
+    "fireball_small": "Fire",
+    "fireball_small_shotgun": "Fire",
+    "fireball_small_arrow": "Fire",
+    "sam_site_turret_deployed": "SAM",
+    "cactus-1": "Cactus",
+    "cactus-2": "Cactus",
+    "cactus-3": "Cactus",
+    "cactus-4": "Cactus",
+    "cactus-5": "Cactus",
+    "cactus-6": "Cactus",
+    "cactus-7": "Cactus",
+    "hotairballoon": "Hot air balloon",
+    "cave_lift_trigger": "Lift"
+  },
+  "Показывать моды оружия": true,
+  "Префикс в чате": "<color=#55ff8a>[TPDeathMessages]</color>",
+  "Цвет ника по привилегиям (По стандарту белый)": {
+    "tpdeathmessages.premium": {
+      "Цвет ника если игрока убили (hex)": "#55ff8a",
+      "Цвет ника если игрок убил (hex)": "#55ff8a"
+    },
+    "tpdeathmessages.vip": {
+      "Цвет ника если игрока убили (hex)": "#f9ff55",
+      "Цвет ника если игрок убил (hex)": "#f9ff55"
+    },
+    "tpdeathmessages.deluxe": {
+      "Цвет ника если игрока убили (hex)": "#7303c0",
+      "Цвет ника если игрок убил (hex)": "#7303c0"
+    },
+    "tpdeathmessages.godlike": {
+      "Цвет ника если игрока убили (hex)": "#ff0000",
+      "Цвет ника если игрок убил (hex)": "#ff5363"
+    }
+  },
+  "Использовать имена НПЦ прописанные сервером и/или плагинами": false,
+  "Показывать смерть животных": true,
+  "Максимальное количество уведомлений": 3,
+  "Время появления новой строчки в секундах": "1",
+  "Настройка интерфейса": {
+    "Цвет задней панели убийства": "#17171b",
+    "Цвет панели с дистанцией": "#FFFFFFFF",
+    "Отступ сверху": 38
+  }
+}

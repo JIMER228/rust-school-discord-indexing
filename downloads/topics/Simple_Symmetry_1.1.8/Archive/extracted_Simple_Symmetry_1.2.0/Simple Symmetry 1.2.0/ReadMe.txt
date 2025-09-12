@@ -1,0 +1,49 @@
+
+ _____  _                    _                             __               ______                     _                  _               
+|_   _|| |                  | |                           / _|              | ___ \                   | |                (_)              
+  | |  | |__    __ _  _ __  | | __  _   _   ___   _   _  | |_   ___   _ __  | |_/ / _   _  _ __   ___ | |__    __ _  ___  _  _ __    __ _ 
+  | |  | '_ \  / _` || '_ \ | |/ / | | | | / _ \ | | | | |  _| / _ \ | '__| |  __/ | | | || '__| / __|| '_ \  / _` |/ __|| || '_ \  / _` |
+  | |  | | | || (_| || | | ||   <  | |_| || (_) || |_| | | |  | (_) || |    | |    | |_| || |   | (__ | | | || (_| |\__ \| || | | || (_| |
+  \_/  |_| |_| \__,_||_| |_||_|\_\  \__, | \___/  \__,_| |_|   \___/ |_|    \_|     \__,_||_|    \___||_| |_| \__,_||___/|_||_| |_| \__, |
+                                     __/ |                                                                                           __/ |
+                                    |___/                                                                                           |___/ 
+
+Instructions
+------------
+1. Copy the data folder from this zip into your data folder
+2. Copy the plugin into your plugins folder
+3. Edit the Config file as needed
+4. Edit the Language file as needed
+5. Reload the plugin
+
+For Help and Support, Please join my discord
+
+https://discord.gg/TrJ7jnS233
+
+-Shady14u
+
+
+
+LICENSE AGREEMENT
+
+This License Agreement ("Agreement") is made and entered into between Shady14u ("Licensor") and the individual or entity that has obtained a copy of the Rust plugin ("Licensee").
+
+1. Grant of License. Licensor grants to Licensee a non-transferable, non-exclusive license to use the Rust plugin (the "Software") in accordance with the terms and conditions set forth in this Agreement.
+
+2. Restrictions on Use. Licensee may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software. Licensee may not distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.
+
+3. Proprietary Rights. Licensee acknowledges and agrees that the Software, including any modifications or enhancements thereto, and any related documentation are the exclusive property of Licensor and are protected by United States copyright law and international copyright treaties. Licensee has no rights in the Software other than those expressly granted in this Agreement.
+
+4. Term and Termination. This Agreement shall remain in effect until terminated by either party. Licensor may terminate this Agreement immediately upon notice to Licensee if Licensee breaches any provision of this Agreement. Upon termination of this Agreement, Licensee shall immediately cease all use of the Software and shall destroy all copies of the Software in its possession.
+
+5. Warranty and Disclaimer. Licensor warrants that the Software will perform substantially in accordance with its documentation. Except for the foregoing warranty, Licensor makes no representations or warranties with respect to the Software, whether express, implied, or statutory. Licensor specifically disclaims any implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+6. Limitation of Liability. In no event shall Licensor be liable for any indirect, incidental, consequential, or punitive damages arising out of or related to this Agreement or the use of the Software, even if Licensor has been advised of the possibility of such damages. In no event shall Licensor's total liability exceed the amount paid by Licensee for the Software.
+
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [Your State], without giving effect to its conflicts of law principles.
+
+8. Entire Agreement. This Agreement constitutes the entire agreement between Licensor and Licensee with respect to the subject matter hereof and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between Licensor and Licensee.
+
+9. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+By purchasing and/or using the Software, Licensee acknowledges that it has read this Agreement, understands it, and agrees to be bound by its terms and conditions.

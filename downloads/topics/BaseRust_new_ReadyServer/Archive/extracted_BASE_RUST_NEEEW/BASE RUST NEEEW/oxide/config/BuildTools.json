@@ -1,0 +1,109 @@
+{
+  "Remove Commands": [
+    "remove"
+  ],
+  "Upgrade Commands": [
+    "up",
+    "building.upgrade"
+  ],
+  "Work with Notify?": true,
+  "Setting Modes": [
+    {
+      "Icon (assets/url)": "assets/icons/clear.png",
+      "Type (Remove/Wood/Stone/Metal/TopTier)": "Remove",
+      "Permission (ex: buildtools.1)": ""
+    },
+    {
+      "Icon (assets/url)": "assets/icons/level_wood.png",
+      "Type (Remove/Wood/Stone/Metal/TopTier)": "Wood",
+      "Permission (ex: buildtools.1)": ""
+    },
+    {
+      "Icon (assets/url)": "assets/icons/level_stone.png",
+      "Type (Remove/Wood/Stone/Metal/TopTier)": "Stone",
+      "Permission (ex: buildtools.1)": ""
+    },
+    {
+      "Icon (assets/url)": "assets/icons/level_metal.png",
+      "Type (Remove/Wood/Stone/Metal/TopTier)": "Metal",
+      "Permission (ex: buildtools.1)": ""
+    },
+    {
+      "Icon (assets/url)": "assets/icons/level_top.png",
+      "Type (Remove/Wood/Stone/Metal/TopTier)": "TopTier",
+      "Permission (ex: buildtools.1)": ""
+    }
+  ],
+  "Upgrade Settings": {
+    "Time of action": 30,
+    "Cooldown (default | 0 - disable)": 0,
+    "Cooldowns": {
+      "buildtool.vip": 0,
+      "buildtool.premium": 0
+    },
+    "Block After Wipe (default | 0 - disable)": 0,
+    "Block After Wipe": {
+      "buildtool.vip": 0,
+      "buildtool.premium": 0
+    }
+  },
+  "Remove Settings": {
+    "Blocked items to remove (prefab)": [
+      "shortname 1",
+      "shortname 2",
+      "shortname 3"
+    ],
+    "Return Item": true,
+    "Returnable Item Percentage": 100.0,
+    "Can friends remove? (Friends)": false,
+    "Can clanmates remove? (Clans)": true,
+    "Can teammates remove?": true,
+    "Require a cupboard": false,
+    "Remove by cupboard? (those who are authorized in the cupboard can remove)": true,
+    "Condition Settings": {
+      "Default (from game)": true,
+      "Use percent?": false,
+      "Percent (value)": 0.0
+    },
+    "Time of action": 30,
+    "Cooldown (default | 0 - disable)": 0,
+    "Cooldowns": {
+      "buildtool.vip": 0,
+      "buildtool.premium": 0
+    },
+    "Block After Wipe (default | 0 - disable)": 0,
+    "Block After Wipe": {
+      "buildtool.vip": 0,
+      "buildtool.premium": 0
+    }
+  },
+  "Block Settings": {
+    "Work with NoEscape?": true,
+    "Work with Clans? (clan members will be able to delete/upgrade)": true,
+    "Work with Friends? (friends will be able to delete/upgrade)": true,
+    "Can those authorized in the cupboard delete/upgrade?": true,
+    "Is an upgrade/remove cupbaord required?": false
+  },
+  "Additional Slot Settings": {
+    "Enabled": true
+  },
+  "UI Settings": {
+    "Color 1": {
+      "HEX": "#ffa500",
+      "Opacity (0 - 100)": 100.0,
+      "_color": null
+    },
+    "Color 2": {
+      "HEX": "#2C2C2C",
+      "Opacity (0 - 100)": 100.0,
+      "_color": null
+    },
+    "Color 3": {
+      "HEX": "#B64040",
+      "Opacity (0 - 100)": 100.0,
+      "_color": null
+    },
+    "Offset Y": 0.0,
+    "Offset X": 0.0
+  }
+}

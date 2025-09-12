@@ -1,0 +1,20 @@
+{
+  "Ключевые фразы, для исключения строк с ними из логов": [
+    "#RNA#",
+    "Steam Inventory result timed out for",
+    "[Physics.PhysX] RigidBody::setRigidBodyFlag:",
+    "Failed to create agent because it is not close enough to the NavMesh"
+  ],
+  "Ключевые фразы, для исключения строк с ними из консоли (из логов так же)": [
+    "SwitchParent Missed",
+    "Resetting",
+    "changed its network group to null",
+    " (destroying)",
+    "was killed by AntiVehicle",
+    "is using deprecated hook 'OnActiveItemChange",
+    "Loading Prefab Bundle "
+  ],
+  "Слова для фильтрации чата в чат группу": [
+    "[ChatPlus] "
+  ]
+}

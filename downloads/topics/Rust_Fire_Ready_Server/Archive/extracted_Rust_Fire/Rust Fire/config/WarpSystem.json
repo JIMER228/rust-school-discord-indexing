@@ -1,0 +1,28 @@
+{
+  "Messages": {
+    "CANT_WARP_WHILE_BUILDING_BLOCKED": "Вы не можете телепортироваться, пока находитесь в заблокированной зоне здания!",
+    "CANT_WARP_WHILE_DUCKING": "Вы не можете телепортироваться, пока вы ныряете!",
+    "CANT_WARP_WHILE_RUNNING": "ы не можете телепортироваться во время работы!",
+    "CANT_WARP_WHILE_SWIMMING": "Вы не можете телепортироваться, пока плаваете!",
+    "CANT_WARP_WHILE_WOUNDED": "Вы не можете телепортироваться, пока вы ранены!",
+    "COOLDOWN_MESSAGE": "Вам придется подождать <color=#91FFB5>{0}</color> second(s) прежде чем вы сможете снова телепортироваться.",
+    "TELEPORTED_TO": "Вы телепортировались в <color=#91FFB5>{0}</color>",
+    "TELEPORTED_TO_LAST_LOCATION": "Вы телепортировались обратно в свое последнее место!",
+    "TELEPORTING_IN_TO": "Телепорт в <color=orange>{0}</color> second(s) to <color=#91FFB5>{1}</color>",
+    "WARP_ADDED": "Warp добавлен с именем: <color=#91FFB5>{0}</color>",
+    "WARP_EXISTS": "Эта деформация уже существует!",
+    "WARP_LIST": "Warp ID: <color=#91FFB5>{2}</color>\nWarp Name: <color=cyan>{0}</color> \nPermission:<color=orange> {1} </color> \nMaxUses Remaining: <color=lime>{3}</color>",
+    "WARP_REMOVED": "Вы удалили телепорт <color=#91FFB5>{0}</color>"
+  },
+  "Settings": {
+    "Cooldown": 120,
+    "EnableCooldown": true,
+    "Warp_Back_Atleast_Required_Authlevel": 1,
+    "WarpBackTimer": 5,
+    "WarpIfBuildingBlocked": true,
+    "WarpIfDucking": true,
+    "WarpIfRunning": true,
+    "WarpIfSwimming": true,
+    "WarpIfWounded": true
+  }
+}

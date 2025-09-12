@@ -1,0 +1,37 @@
+{
+  "Messages": {
+    "BlockedItem": "{0} уже заблокирован!",
+    "BlockSucces": "{0} заблокирован для крафта.",
+    "CraftBlockedItem": "{0} заблокирован и не может быть скрафчен!",
+    "CurrentCraftingRate": "Крафтинг рейт {0}%.",
+    "InvalidItem": "{0} не является допустимым элементом. Пожалуйста, используйте имя элемента, как оно указано в списке элементов. Ex: Camp Fire",
+    "ModifyCraftingRate": "Скорость обработки теперь установлена на {0}%.",
+    "ModifyCraftingRateError": "Новая скорость обработки должна быть числом. 0 - это мгновенное ремесло, 100 - нормальное, а 200 - двойное!",
+    "ModifyCraftingRateItem": "Скорость обработки для {0} теперь установлена на  {1}%.",
+    "NoBlockedItems": "Ничего не было заблокировано.",
+    "NoItemRate": "Вам нужно указать элемент и новую скорость обработки для этой команды.",
+    "NoItemSpecified": "Вам нужно указать элемент для этой команды.",
+    "NoPermission": "У вас нет разрешения на использование этой команды.",
+    "ShowBlockedItems": "Следующие элементы заблокированы: ",
+    "UnblockItem": "{0} не заблокирован!",
+    "UnblockSucces": "{0} больше не блокируется обработкой."
+  },
+  "Options": {
+    "BlockedItems": [
+      "Incendiary 5.56 Rifle Ammo",
+      "Explosive 5.56 Rifle Ammo",
+      "12 Gauge Incendiary Shell",
+      "Incendiary Pistol Bullet"
+    ],
+    "CompleteCurrentCraftingOnShutdown": true,
+    "CraftingExperienceRate": 0.0,
+    "CraftingRate": 0.0,
+    "IndividualCraftingRates": {},
+    "InstantCraftForAdmins": true,
+    "InstantCraftForModerators": true
+  },
+  "Settings": {
+    "ChatPrefix": "Rust Fire",
+    "ChatPrefixColor": "#008000ff"
+  }
+}

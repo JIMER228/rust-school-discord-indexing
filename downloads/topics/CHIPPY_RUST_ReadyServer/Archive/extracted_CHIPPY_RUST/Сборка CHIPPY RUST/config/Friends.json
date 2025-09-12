@@ -1,0 +1,391 @@
+{
+  "Добавлять в команду | Add to team": true,
+  "Максимальное кол-во друзей | Max Friends": 3,
+  "Задержка между сообщениями FF | Delay between FF messages": 1.0,
+  "Закрывать интерфейс после нажатия на кнопку | Close the interface after clicking on the button": true,
+  "Огонь по друзьям | Friendly Fire": false,
+  "Двери | Doors": true,
+  "Турели | Turrets": true,
+  "Шкаф | Cupboard": true,
+  "Ящики | Containers": true,
+  "ПВО | SAMs": true,
+  "Добавлять друга к остальным друзьям? | Add a friend to other friends?": true,
+  "Включить логирование в консоль? | Enable logging to the console?": true,
+  "Включить логирование в файл? | Enable logging to the file?": true,
+  "Фон | Background": {
+    "Изображение | Image": "",
+    "Цвет | Color": {
+      "HEX": "#0D1F4E",
+      "Непрозрачность | Opacity (0 - 100)": 95.0
+    },
+    "Сохранять цвет изображения? | Save Image Color": false,
+    "Sprite": "Assets/Content/UI/UI.Background.Tile.psd",
+    "Material": "Assets/Icons/IconMaterial.mat",
+    "OffsetMin": "0 0",
+    "OffsetMax": "0 0",
+    "AnchorMin": "0 0",
+    "AnchorMax": "1 1"
+  },
+  "Заглавие | Title": {
+    "Font Size": 38,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "-150 300",
+    "OffsetMax": "150 360",
+    "AnchorMin": "0.5 0.5",
+    "AnchorMax": "0.5 0.5"
+  },
+  "Закрыть | Close": {
+    "Font Size": 24,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "-35 -35",
+    "OffsetMax": "-5 -5",
+    "AnchorMin": "1 1",
+    "AnchorMax": "1 1"
+  },
+  "Ошибка | Error": {
+    "Font Size": 38,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "-300 -150",
+    "OffsetMax": "300 150",
+    "AnchorMin": "0.5 0.5",
+    "AnchorMax": "0.5 0.5"
+  },
+  "Назад | Back": {
+    "Font Size": 60,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "0 -40",
+    "OffsetMax": "65 40",
+    "AnchorMin": "0 0.5",
+    "AnchorMax": "0 0.5"
+  },
+  "Вперёд | Next": {
+    "Font Size": 60,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "-65 -40",
+    "OffsetMax": "0 40",
+    "AnchorMin": "1 0.5",
+    "AnchorMax": "1 0.5"
+  },
+  "Настройка интерфейса | Interface Settings": {
+    "Высота | Height": 100.0,
+    "Ширина | Width": 820.0,
+    "Отступ | Margin": 20.0,
+    "Количество на странице | Count On Page": 4,
+    "Цвет | Color": {
+      "HEX": "#1D3676",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "Аватарка | Avatar": {
+      "OffsetMin": "5 5",
+      "OffsetMax": "95 95",
+      "AnchorMin": "0 0",
+      "AnchorMax": "0 0"
+    },
+    "Никнейм | Nickname": {
+      "Максимальная длина | Max Lenght": 30,
+      "Font Size": 38,
+      "Font": "robotocondensed-regular.ttf",
+      "Align": "LowerLeft",
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "OffsetMin": "100 40",
+      "OffsetMax": "500 100",
+      "AnchorMin": "0 0",
+      "AnchorMax": "0 0"
+    },
+    "Статус | Status": {
+      "Font Size": 16,
+      "Font": "robotocondensed-regular.ttf",
+      "Align": "UpperLeft",
+      "Цвет игрока онлайн | Online Color": {
+        "HEX": "#B5FFC9",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "Цвет игрока оффлайн | Offline Color": {
+        "HEX": "#B46292",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "OffsetMin": "100 0",
+      "OffsetMax": "200 50",
+      "AnchorMin": "0 0",
+      "AnchorMax": "0 0"
+    },
+    "Кнопка | Button": {
+      "Высота | Height": 35.0,
+      "Ширина | Width": 120.0,
+      "Отступ | Margin": 5.0,
+      "AnchorMin": "1 0.5",
+      "AnchorMax": "1 0.5"
+    },
+    "Кнопки | Buttons": [
+      {
+        "Тип | Type": "Doors",
+        "Текст | Text": "Двери",
+        "Команда | Command": "friend doors {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "Cupboard",
+        "Текст | Text": "Шкаф",
+        "Команда | Command": "friend cupboard {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "Containers",
+        "Текст | Text": "Ящики",
+        "Команда | Command": "friend containers {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "Turrets",
+        "Текст | Text": "Турели",
+        "Команда | Command": "friend turrets {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "None",
+        "Текст | Text": "Исключить",
+        "Команда | Command": "friend remove {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "FriendlyFire",
+        "Текст | Text": "Урон",
+        "Команда | Command": "ff {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "None",
+        "Текст | Text": "ТП",
+        "Команда | Command": "tpr {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      },
+      {
+        "Тип | Type": "Sams",
+        "Текст | Text": "ПВО",
+        "Команда | Command": "friend sams {user}",
+        "Активный Цвет | Active Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Неактивный Цвет | Disactive Color": {
+          "HEX": "#5D8FDF",
+          "Непрозрачность | Opacity (0 - 100)": 35.0
+        },
+        "Font Size": 20,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#1D3676",
+          "Непрозрачность | Opacity (0 - 100)": 100.0
+        }
+      }
+    ],
+    "AnchorMin": "0.5 0.5",
+    "AnchorMax": "0.5 0.5"
+  },
+  "Приглашение в друзья | Friend Invite": {
+    "Ключ изображения | Image Key": "friend",
+    "Ссылка на изображение | Image Url": "https://i.imgur.com/qAxHQIn.png",
+    "Время показа | Show Time": 30.0,
+    "Кнопки | Buttons": [
+      {
+        "Цвет | Color": {
+          "HEX": "#528A4E",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Ключ языкового файла | Lang Key": "Accept",
+        "Команда | Command": "friend accept",
+        "Font Size": 14,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#FFFFFF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "OffsetMin": "-137.5 5",
+        "OffsetMax": "-2.5 25",
+        "AnchorMin": "0.5 0",
+        "AnchorMax": "0.5 0"
+      },
+      {
+        "Цвет | Color": {
+          "HEX": "#50488A",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "Ключ языкового файла | Lang Key": "Cancel",
+        "Команда | Command": "friend cancel",
+        "Font Size": 14,
+        "Font": "robotocondensed-regular.ttf",
+        "Align": "MiddleCenter",
+        "Text Color": {
+          "HEX": "#FFFFFF",
+          "Непрозрачность | Opacity (0 - 100)": 95.0
+        },
+        "OffsetMin": "2.5 5",
+        "OffsetMax": "137.5 25",
+        "AnchorMin": "0.5 0",
+        "AnchorMax": "0.5 0"
+      }
+    ]
+  },
+  "Оповещение | Notification": {
+    "Ключ изображения | Image Key": "friend",
+    "Ссылка на изображение | Image Url": "https://i.imgur.com/qAxHQIn.png",
+    "Время показа | Show Time": 5.0,
+    "Кнопки | Buttons": []
+  },
+  "Найти друга | Find a Friend": {
+    "Цвет | Color": {
+      "HEX": "#1D3676",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "Ключ языкового файла | Lang Key": "FindFriend",
+    "Команда | Command": "playerslist",
+    "Font Size": 14,
+    "Font": "robotocondensed-regular.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#5D8FDF",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "OffsetMin": "-150 25",
+    "OffsetMax": "150 60",
+    "AnchorMin": "0.5 0",
+    "AnchorMax": "0.5 0"
+  },
+  "PlayerDatabase": {
+    "Включено": false,
+    "Поле": "Friends"
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 21,
+    "Patch": 1
+  }
+}

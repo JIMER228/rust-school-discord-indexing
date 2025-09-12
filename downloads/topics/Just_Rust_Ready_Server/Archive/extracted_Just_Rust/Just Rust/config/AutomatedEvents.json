@@ -1,0 +1,34 @@
+{
+  "Events": {
+    "Bradley": {
+      "Enabled": true,
+      "MaximumTimeBetween": 60,
+      "MinimumTimeBetween": 60
+    },
+    "CargoPlane": {
+      "Enabled": true,
+      "MaximumTimeBetween": 80,
+      "MinimumTimeBetween": 55
+    },
+    "CargoShip": {
+      "Enabled": true,
+      "MaximumTimeBetween": 120,
+      "MinimumTimeBetween": 80
+    },
+    "Chinook": {
+      "Enabled": true,
+      "MaximumTimeBetween": 120,
+      "MinimumTimeBetween": 120
+    },
+    "Helicopter": {
+      "Enabled": true,
+      "MaximumTimeBetween": 150,
+      "MinimumTimeBetween": 100
+    },
+    "XMasEvent": {
+      "Enabled": false,
+      "MaximumTimeBetween": 120,
+      "MinimumTimeBetween": 60
+    }
+  }
+}

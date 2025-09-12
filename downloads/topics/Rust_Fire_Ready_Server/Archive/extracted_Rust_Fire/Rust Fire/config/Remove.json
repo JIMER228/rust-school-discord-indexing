@@ -1,0 +1,21 @@
+{
+  "Command": "remove",
+  "Need ability to build for removing": true,
+  "Need ownership for removing": true,
+  "Friends can remove": true,
+  "A. Deployables": {
+    "Return item with same condition": true,
+    "Return item": true
+  },
+  "B. Building blocks": {
+    "Percent of block cost": 100
+  },
+  "C. GUI settings": {
+    "Duration": 40,
+    "Panel color": "1 1 1 0.02",
+    "Text color": "1 1 1 1",
+    "Text size": 14,
+    "Anchor min": "0.355 0.11",
+    "Anchor max": "0.63 0.14"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "V1.Discord.NotLinkedError": "You're not allowed to chat with the server unless you are linked.",
+  "V1.Discord.JoinLeave.ConnectedMessage": ":white_check_mark: ({0:HH:mm}) **{1}** has joined.",
+  "V1.Discord.JoinLeave.DisconnectedMessage": ":x: ({0:HH:mm}) **{1}** has disconnected. ({2})",
+  "V1.Discord.OnlineOffline.OnlineMessage": ":green_circle: The server is now online",
+  "V1.Discord.OnlineOffline.OfflineMessage": ":red_circle: The server has shutdown",
+  "V1.Discord.ChatChannel.Message": ":desktop: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.ChatChannel.LinkedMessage": ":speech_left: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.ChatChannel.UnlinkedMessage": ":chains: ({0:HH:mm}) **{1}#{2}**: {3}",
+  "V1.Discord.TeamChannel.Message": ":busts_in_silhouette: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.CardsChannel.Message": ":black_joker: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.AdminChat.Message": ":mechanic: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.AdminChat.Permission": ":no_entry: You're not allowed to use admin chat channel because you do not have permission.",
+  "V1.Server.DiscordTag": "[#5f79d6][Discord][/#]",
+  "V1.Server.UnlinkedMessage": "{0} [#5f79d6]{1}#{2}[/#]: {3}",
+  "V1.Server.LinkedMessage": "{0} [#5f79d6]{1}[/#]: {2}",
+  "V1.Server.ClanTag": "[{0}] "
+}

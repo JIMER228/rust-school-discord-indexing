@@ -1,0 +1,45 @@
+{
+  "DefaultPreset": {
+    "Acceleration": 1.0,
+    "TopSpeed": 1.0,
+    "FuelEconomy": 1.0
+  },
+  "PresetsRequiringPermission": [
+    {
+      "Name": "tier1",
+      "Acceleration": 0.6,
+      "TopSpeed": 0.6,
+      "FuelEconomy": 0.6
+    },
+    {
+      "Name": "tier2",
+      "Acceleration": 0.8,
+      "TopSpeed": 0.8,
+      "FuelEconomy": 0.8
+    },
+    {
+      "Name": "tier3",
+      "Acceleration": 1.0,
+      "TopSpeed": 1.0,
+      "FuelEconomy": 1.0
+    },
+    {
+      "Name": "tier4",
+      "Acceleration": 2.0,
+      "TopSpeed": 2.0,
+      "FuelEconomy": 2.0
+    },
+    {
+      "Name": "tier5",
+      "Acceleration": 3.0,
+      "TopSpeed": 3.0,
+      "FuelEconomy": 3.0
+    },
+    {
+      "Name": "tier6",
+      "Acceleration": 4.0,
+      "TopSpeed": 4.0,
+      "FuelEconomy": 4.0
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Показывать смерть НПЦ": true,
+  "Префикс в чате": "<color=#55ff8a>[DeathMessages]</color>",
+  "Время появления новой строчки в секундах": "1",
+  "Показывать смерть животных": true,
+  "Показывать хедшоты": true,
+  "Максимальное количество уведомлений": 3,
+  "Названия": {
+    "npcplayer": "NPC",
+    "guntrap.deployed": "Guntrap",
+    "landmine": "Landmine",
+    "beartrap": "Bear trap",
+    "flameturret.deployed": "Flame turret",
+    "flameturret_fireball": "Flame turret",
+    "autoturret_deployed": "Turret",
+    "sentry.scientist.static": "Turret NPC",
+    "sentry.bandit.static": "Turret NPC",
+    "spikes.floor": "Spikes",
+    "spikes_static": "Spikes",
+    "teslacoil.deployed": "Tesla",
+    "barricade.wood": "Barricade",
+    "barricade.woodwire": "Barricade",
+    "barricade.metal": "Barricade",
+    "bradleyapc": "BradleyAPC",
+    "gates.external.high.wood": "Gates",
+    "gates.external.high.stone": "Gates",
+    "icewall": "Ice wall",
+    "wall.external.high.ice": "Ice wall",
+    "wall.external.high.stone": "Wall",
+    "wall.external.high.wood": "Wall",
+    "campfire": "Campfire",
+    "skull_fire_pit": "Campfire",
+    "lock.code": "Codelock",
+    "boar": "Boar",
+    "bear": "Bear",
+    "polarbear": "Polar Bear",
+    "wolf": "Wolf",
+    "stag": "Stag",
+    "chicken": "Chicken",
+    "horse": "Horse",
+    "minicopter.entity": "Minicopter",
+    "scraptransporthelicopter": "Transport helicopter",
+    "patrolhelicopter": "Patrol helicopter",
+    "napalm": "Napalm",
+    "fireball_small": "Fire",
+    "fireball_small_shotgun": "Fire",
+    "fireball_small_arrow": "Fire",
+    "sam_site_turret_deployed": "SAM",
+    "cactus-1": "Cactus",
+    "cactus-2": "Cactus",
+    "cactus-3": "Cactus",
+    "cactus-4": "Cactus",
+    "cactus-5": "Cactus",
+    "cactus-6": "Cactus",
+    "cactus-7": "Cactus",
+    "hotairballoon": "Hot air balloon",
+    "cave_lift_trigger": "Lift"
+  },
+  "Цвет ника по привилегиям (По стандарту белый)": {
+    "deathmessages.premium": {
+      "Цвет ника если игрока убили (hex)": "#ff0000",
+      "Цвет ника если игрок убил (hex)": "#ff0000"
+    },
+    "deathmessages.vip": {
+      "Цвет ника если игрока убили (hex)": "#7303c0",
+      "Цвет ника если игрок убил (hex)": "#7303c0"
+    },
+    "deathmessages.deluxe": {
+      "Цвет ника если игрока убили (hex)": "#21bf52",
+      "Цвет ника если игрок убил (hex)": "#21bf52"
+    },
+    "deathmessages.godlike": {
+      "Цвет ника если игрока убили (hex)": "#ff0000",
+      "Цвет ника если игрок убил (hex)": "#ff0000"
+    },
+    "deathmessages.elite": {
+      "Цвет ника если игрока убили (hex)": "#556fff",
+      "Цвет ника если игрок убил (hex)": "#556fff"
+    },
+    "deathmessages.cezar": {
+      "Цвет ника если игрока убили (hex)": "#3b28c9",
+      "Цвет ника если игрок убил (hex)": "#3b28c9"
+    },
+    "deathmessages.dveri": {
+      "Цвет ника если игрока убили (hex)": "#DAA520",
+      "Цвет ника если игрок убил (hex)": "#DAA520"
+    },
+    "deathmessages.aki": {
+      "Цвет ника если игрока убили (hex)": "#480607",
+      "Цвет ника если игрок убил (hex)": "#480607"
+    },
+    "deathmessages.spirit": {
+      "Цвет ника если игрока убили (hex)": "#800080",
+      "Цвет ника если игрок убил (hex)": "#800080"
+    },
+    "deathmessages.porn": {
+      "Цвет ника если игрока убили (hex)": "#0d0d0d",
+      "Цвет ника если игрок убил (hex)": "#0d0d0d"
+    },
+    "deathmessages.eva": {
+      "Цвет ника если игрока убили (hex)": "#000000",
+      "Цвет ника если игрок убил (hex)": "#000000"
+    },
+    "deathmessages.npc": {
+      "Цвет ника если игрока убили (hex)": "#4F0014",
+      "Цвет ника если игрок убил (hex)": "#4F0014"
+    },
+    "deathmessages.wu": {
+      "Цвет ника если игрока убили (hex)": "#ff4000",
+      "Цвет ника если игрок убил (hex)": "#ff4000"
+    }
+  },
+  "Использовать имена НПЦ прописанные сервером и/или плагинами": false,
+  "Показывать моды оружия": true,
+  "Настройка интерфейса": {
+    "Цвет задней панели убийства": "#00000080",
+    "Цвет панели с дистанцией": "#FFFFFF00",
+    "Отступ сверху": 41
+  }
+}

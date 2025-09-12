@@ -1,0 +1,19 @@
+{
+  "Commands": [
+    "up",
+    "upgrade",
+    "grade",
+    "bgrade"
+  ],
+  "1. Check building privilege": true,
+  "2. Check for full health": false,
+  "3. Time since last attack": 120,
+  "GUI settings:": {
+    "Duration": 30,
+    "Panel color": "0 0 0 0.15",
+    "Text color": "1 1 1 1",
+    "Text size": 15,
+    "Anchor min": "0.0 0.908",
+    "Anchor max": "1 0.958"
+  }
+}

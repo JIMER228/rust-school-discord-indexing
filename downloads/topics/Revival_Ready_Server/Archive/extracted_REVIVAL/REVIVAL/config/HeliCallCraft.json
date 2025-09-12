@@ -1,0 +1,24 @@
+{
+  "lIIlIlIIIlIIlllIlIlIIIlIIllIIIIIlIlIlIlIllIlIllIllIllIIIllIIIIlIIllIIIIlIIllIlIIlIIIIlIIIlIIllIllIIIIllIlIllllllllIllllllIIIlIIIlIlIllIIIlllllllllIlIllIIIllIIlIIIllllIIlIIllllllllIIIIIIIIIIIllIllllllIIIlIlIlIllIllIllllIlIlIIIIIIIlIllIIIIIllIIlIIIIIlIlIllIIIllIlllllIllIlIlIIIIIllIIIIIIlIIIlIlIIIlIIIIIIIlllIIIlIIllIlIlIllllIllllIIIIlllIIIlIlIlIlIllIIlIlIIlIlIlIIllIlIIlIllIIlllIlllIlIlllIIIlIIlIlllIllllIIIIIIlIlllllllIIIlllIIIIIIllIIlIIllIlIlIlIllIIlIllIlIIlIlIIIlIlIlllIlllIlIlIllIlIlIlIIlIllllIlIllllIIlIlIIll": {
+    "0": {
+      "Отображаемое имя": "Рация",
+      "Описания в меню крафта": "Рация -  с помощью нее вы сможете вызвать вертолет! Только будте готовы его сбить. Иначе он улетит (",
+      "Этот парамтр менять не нужно": "battery.small",
+      "Кд на вызов вертолета": 30,
+      "Скин ID рации": 1700982057,
+      "Команда для открытия меню": "Heli",
+      "Символ показывающий,что у игрока достаточно предметов на крафт / Symbol showing that the player has enough items to craft": "✔",
+      "Что нужно для крафта (Макс 5 предметов)": {
+        "metal.fragments": 5000,
+        "metal.refined": 150,
+        "techparts": 25,
+        "targeting.computer": 10
+      },
+      "Настройки префикса": {
+        "Команда для открытия меню": "Heli Call",
+        "Цвет префикса": "#1399f2",
+        "SteamId для аватарки": 76561198854646370
+      }
+    }
+  }
+}

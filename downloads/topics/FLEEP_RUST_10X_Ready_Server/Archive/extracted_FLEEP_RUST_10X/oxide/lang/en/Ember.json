@@ -1,0 +1,17 @@
+{
+  "Banned": "You've been banned from the server",
+  "PlayerBanned": "Player banned",
+  "PlayerUnbanned": "Player unbanned",
+  "NoPermission": "You don't have the required permissions to do that",
+  "GroupGranted": "You've been granted the {0} group",
+  "GroupRevoked": "Your {0} group has been revoked",
+  "BanCommandUsage": "Usage: /ban <(partial) name/SteamID64> <time in minutes (0 for permanent)> \"<reason>\" <global?>",
+  "UnbanCommandUsage": "Usage: /unban <SteamID64>",
+  "MultiplePlayersFound": "Multiple players found, please be more specific",
+  "NoPlayersFoundByName": "Player not found by name \"{0}\"",
+  "InvalidSteamid": "Invalid SteamID",
+  "InvalidTime": "Time must be a number, 0 for permanent",
+  "RedeemingPackage": "Redeeming the {0} package",
+  "PackageExpired": "Your {0} package has expired",
+  "Syncing": "Synchronizing groups & purchases"
+}

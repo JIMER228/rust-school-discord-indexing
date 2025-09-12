@@ -1,0 +1,126 @@
+{
+  "CanBeAttackedByNPCs": true,
+  "CanBeAttackedByTurrets": true,
+  "CanBeAttackedByHeli": true,
+  "CanBeAttackedByBradley": true,
+  "CanBeAttackedByAnimals": true,
+  "LootUpdatedByThirdPartyPlugins": true,
+  "respawnPeriodSeconds": 300,
+  "maxNpcs": 100,
+  "scaleNpcFromRulesToMaxCount": true,
+  "aidropZombiesRemoveDelaySeconds": 120,
+  "npcPresets": [
+    {
+      "name": "zombieCarrion",
+      "type": "Scarecrow",
+      "displayName": "Zombie Carrion",
+      "accuracy": 1.0,
+      "receivingDamageMultiplier": 2.0,
+      "dealingDamageMultiplier": 0.5,
+      "roamingRange": 40.0,
+      "wear": [
+        {
+          "shortname": "burlap.shoes",
+          "skin": [
+            820952520
+          ]
+        },
+        {
+          "shortname": "burlap.shirt",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "spear.stone",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2"
+        ],
+        "crateItemsMin": 1,
+        "crateItemsMax": 3,
+        "extra": null,
+        "excludeList": null
+      }
+    }
+  ],
+  "spawnRules": [
+    {
+      "monumentName": "sphere_tank",
+      "npcPresetName": "zombieCarrion",
+      "minSpread": 0.0,
+      "maxSpread": 25.0,
+      "minCount": 3,
+      "maxCount": 10
+    }
+  ],
+  "biomeSpawnRules": [
+    {
+      "biomeName": "Arctic",
+      "npcPresetName": "zombieCarrion",
+      "minCount": 10,
+      "maxCount": 20
+    }
+  ],
+  "airdropSpawnRules": [
+    {
+      "npcPresetName": "zombieCarrion",
+      "minSpread": 2.0,
+      "maxSpread": 7.0,
+      "minCount": 5,
+      "maxCount": 10
+    }
+  ],
+  "monumentNamesReadonly": [
+    "lighthouse",
+    "powerplant_1",
+    "military_tunnel_1",
+    "harbor_1",
+    "harbor_2",
+    "airfield_1",
+    "trainyard_1",
+    "water_treatment_plant_1",
+    "warehouse",
+    "satellite_dish",
+    "sphere_tank",
+    "radtown_small_3",
+    "launch_site_1",
+    "gas_station_1",
+    "supermarket_1",
+    "mining_quarry_c",
+    "mining_quarry_a",
+    "mining_quarry_b",
+    "junkyard_1"
+  ],
+  "biomeNamesReadonly": [
+    "Arctic",
+    "Arid",
+    "Temperate",
+    "Tundra"
+  ],
+  "crateNamesReadonly": [
+    "crate_elite",
+    "crate_normal",
+    "crate_normal_2",
+    "crate_basic",
+    "crate_tools",
+    "supply_drop",
+    "bradley_crate",
+    "heli_crate",
+    "loot_component_test",
+    "presentdrop"
+  ],
+  "npcTypesReadonly": [
+    "Murderer",
+    "Scarecrow",
+    "Scientist"
+  ]
+}

@@ -1,0 +1,42 @@
+QUICKSTART:
+
+Make sure that Tape Library is loaded in. It's included in the zip file under /oxide/plugins/TapeLibrary.cs
+Tape Library requires your server to disable Oxide sandboxing. Go to https://umod.org/guides/oxide/disabling-plugin-sandboxing to find out how (and why).
+
+There's also a plugin that can temporarily disable sandboxing until you can do it properly next time you restart:
+
+https://codefling.com/plugins/disable-sandbox
+
+After Tape Library is loaded in, you can copy all the *.ogg files from the zip (from /oxide/data/ogg/) to the respective folder on your server.
+If you see any errors while the *.ogg files are being loaded in, it might mean that they haven't finished copying - give it 10-20 seconds and Oxide.Reload TapeLibrary
+
+If you don't copy the files, they will be automatically downloaded to that folder by Amusement Rides. Again, if there's any errors after all the files finished loading,
+Oxide.Reload TapeLibrary.
+
+Then, copy all the plugins from /oxide/plugins/ in the zip file to the folder on your server.
+Confirm that all plugins have loaded in correctly by typing o.plugins.
+
+If you see something like...
+
+     AmusementRidesFerrisWheel - Failed to compile: Missing dependencies: AmusementRides
+     AmusementRidesMechanicalBull - Failed to compile: Missing dependencies: AmusementRides
+     AmusementRidesMerryGoRound - Failed to compile: Missing dependencies: AmusementRides
+     AmusementRidesVomitComet - Failed to compile: Missing dependencies: AmusementRides
+
+That's just Oxide for you. Type...
+
+o.reload AmusementRidesFerrisWheel AmusementRidesMerryGoRound AmusementRidesVomitComet AmusementRidesMechanicalBull
+
+And then type o.plugins again to confirm everything has loaded in. If not, remove the file from your server and re-upload it again.
+Remember, if you're uploading thorugh FTP like Filezilla, make sure you select "binary" as your transfer mode, not ASCII/text.
+
+"MUSIC & MUCH MORE" UPDATE: If you're upgrading from an earlier version (prior to 0.9.8), your current data and config won't be
+compatible. When you update, their backups are going to be saved to their respective folders (for your consideration) and new data and config will be generated.
+
+If you want to use your own *.ogg files, make sure that they're in mono, not stereo (in Audacity: Tracks -> Mix -> Mix down Stereo to Mono) and no longer than 36 seconds.
+Upload them to /oxide/data/ogg/ folder, reload TapeLibrary, and open your /oxide/config/AmusementRides.json file.
+
+There, you can add/remove ogg files (just the names, witout filename extensions) in rideCustomizations.
+
+
+Full documentation available at https://docs.google.com/document/d/1X4ZmjPGDnTZlTsBxf0li6txmowgTwF1QTSUBv1M5Hu0 

@@ -1,0 +1,20 @@
+{
+  "YourCommandName": {
+    "DisplayName": "default",
+    "Image": "https://cdn.rusthelp.com/images/256/xmas-sleigh-presentdrop.png",
+    "Message": "You just bought command",
+    "Command": "say example command for: {playername} / {steamid}",
+    "BuyPrice": 50,
+    "Currency": "eco",
+    "ShowDisplayName": false
+  },
+  "YourCommandName2": {
+    "DisplayName": "default",
+    "Image": "https://cdn.rusthelp.com/images/256/xmas-sleigh-presentdrop.png",
+    "Message": "You just bought command",
+    "Command": "say example command for: {playername} / {steamid}",
+    "BuyPrice": 50,
+    "Currency": "eco",
+    "ShowDisplayName": false
+  }
+}

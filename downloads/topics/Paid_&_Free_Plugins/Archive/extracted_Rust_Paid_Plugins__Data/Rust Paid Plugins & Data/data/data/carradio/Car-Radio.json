@@ -1,0 +1,293 @@
+{
+  "Name": "Car-Radio",
+  "Tones": [
+    {
+      "Note": "A",
+      "NoteType": "Regular",
+      "Octave": 4,
+      "Duration": 1.0
+    },
+    {
+      "Note": "D",
+      "NoteType": "Regular",
+      "Octave": 5,
+      "Duration": 1.0
+    }
+  ],
+  "Modules": {
+    "assets/content/vehicles/modularcar/module_entities/1module_cockpit.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.05,
+          "y": 1.7,
+          "z": 0.78
+        },
+        "Angle": {
+          "x": 210.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": -0.9
+        },
+        "Angle": {
+          "x": 180.0,
+          "y": 180.0,
+          "z": 180.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/modularcar/module_entities/1module_cockpit_armored.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.05,
+          "y": 1.7,
+          "z": 0.78
+        },
+        "Angle": {
+          "x": 210.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": -0.9
+        },
+        "Angle": {
+          "x": 180.0,
+          "y": 180.0,
+          "z": 180.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/modularcar/module_entities/1module_cockpit_with_engine.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.05,
+          "y": 1.7,
+          "z": 0.78
+        },
+        "Angle": {
+          "x": 210.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": -0.9
+        },
+        "Angle": {
+          "x": 180.0,
+          "y": 180.0,
+          "z": 180.0
+        },
+        "Bone": null
+      }
+    ]
+  },
+  "Vehicles": {
+    "assets/content/vehicles/sedan_a/sedantest.entity.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 2.05,
+          "z": 1.9
+        },
+        "Angle": {
+          "x": 210.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 0.55,
+          "z": 1.7
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 180.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/minicopter/minicopter.entity.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": -0.1,
+          "y": 2.0,
+          "z": 1.0
+        },
+        "Angle": {
+          "x": 180.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 0.7,
+          "z": -0.1
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": -0.1,
+          "y": 2.68,
+          "z": 3.865
+        },
+        "Angle": {
+          "x": 205.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 0.55,
+          "z": 3.6
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 180.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/boats/rhib/rhib.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 3.4,
+          "z": 0.6
+        },
+        "Angle": {
+          "x": 180.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 2.83,
+          "z": 0.62
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 180.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/boats/rowboat/rowboat.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": -1.7,
+          "y": 0.5,
+          "z": -1.8
+        },
+        "Angle": {
+          "x": 270.0,
+          "y": 270.0,
+          "z": 0.0
+        },
+        "Bone": null
+      },
+      {
+        "Prefab": "assets/prefabs/voiceaudio/boombox/boombox.static.prefab",
+        "Position": {
+          "x": 0.0,
+          "y": 0.8,
+          "z": 2.18
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 180.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/workcart/workcart.entity.prefab": [
+      {
+        "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+        "Position": {
+          "x": 0.19,
+          "y": 3.13,
+          "z": 4.95
+        },
+        "Angle": {
+          "x": 235.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ],
+    "assets/content/vehicles/crane_magnet/magnetcrane.entity.prefab": [
+      {
+        "Prefab": null,
+        "Position": {
+          "x": -0.95,
+          "y": 4.25,
+          "z": 0.5
+        },
+        "Angle": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Bone": null
+      }
+    ]
+  }
+}

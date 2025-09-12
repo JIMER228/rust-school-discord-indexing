@@ -1,0 +1,67 @@
+{
+  "adminSpawnsPublicRecycler": false,
+  "allowDamage": true,
+  "allowDeployOnGround": false,
+  "allowPickupByHammerHit": true,
+  "allowRepair": true,
+  "blackList": [],
+  "canChangePublicRecyclerParams": false,
+  "chatCommand": "rec",
+  "craftCommand": "craftrecycler",
+  "DefaultRates": {
+    "craftCooldown": 86400.0,
+    "craftLimit": 1,
+    "percentOfMaxStackToTake": 0.1,
+    "Priority": 1,
+    "Ratio": 0.5,
+    "RatioScrap": 1.0,
+    "spawnCooldown": 86400.0,
+    "spawnLimit": 1,
+    "Speed": 5.0
+  },
+  "health": 500.0,
+  "itemsNeededToCraft": {
+    "scrap": 750,
+    "gears": 25,
+    "metalspring": 25
+  },
+  "Loot": [],
+  "PermissionsRates": {
+    "viptest2": {
+      "craftCooldown": 86400.0,
+      "craftLimit": 1,
+      "percentOfMaxStackToTake": 0.1,
+      "Priority": 2,
+      "Ratio": 0.7,
+      "RatioScrap": 1.0,
+      "spawnCooldown": 86400.0,
+      "spawnLimit": 1,
+      "Speed": 3.0
+    },
+    "viptest": {
+      "craftCooldown": 86400.0,
+      "craftLimit": 1,
+      "percentOfMaxStackToTake": 0.1,
+      "Priority": 1,
+      "Ratio": 0.5,
+      "RatioScrap": 1.0,
+      "spawnCooldown": 86400.0,
+      "spawnLimit": 1,
+      "Speed": 5.0
+    }
+  },
+  "pickupOnlyOwnerFriends": true,
+  "prefabToCloneDamage": "assets/prefabs/deployable/research table/researchtable_deployed.prefab",
+  "recyclerItemName": "research.table",
+  "recyclerShortPrefabName": "researchtable_deployed",
+  "restrictUseByCupboard": true,
+  "spawnInLoot": false,
+  "trackStacking": false,
+  "useCraftCooldown": true,
+  "useCrafting": false,
+  "useCraftLimit": false,
+  "useSpawnCooldown": true,
+  "useSpawning": false,
+  "useSpawnLimit": false,
+  "useUIForCrafting": true
+}

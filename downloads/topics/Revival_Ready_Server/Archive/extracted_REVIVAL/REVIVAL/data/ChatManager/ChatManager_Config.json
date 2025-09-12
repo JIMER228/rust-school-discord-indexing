@@ -1,0 +1,73 @@
+{
+  "Префиксы": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=#ffffff>[Player]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.lite",
+      "Аргумент": "lite",
+      "Формат": "<color=#99ff99>[Lite]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.premium",
+      "Аргумент": "premium",
+      "Формат": "<color=#FFD700>[premium]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.revival",
+      "Аргумент": "revival",
+      "Формат": "<color=#42aaff>[revival]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.youtube",
+      "Аргумент": "youtube",
+      "Формат": "<color=#ff0000>[youtuber]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.admin",
+      "Аргумент": "admin",
+      "Формат": "<color=#000000>[admin]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.zervila",
+      "Аргумент": "zervila",
+      "Формат": "<color=#8b00ff>[zervila]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.mod",
+      "Аргумент": "mod",
+      "Формат": "<color=#30d5c8>[moderator]</color>"
+    }, 
+    {
+        "Привилегия": "chatmanager.swun", 
+        "Аргумент": "SwUn", 
+        "Формат": "<color=8b00ff>[SwUn BrOtHeR]</color>"
+     }
+  ],
+  "Имена": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=#55aaff>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.purple",
+      "Аргумент": "purple",
+      "Формат": "<color=#a5e664>{0}</color>"
+    }
+  ],
+  "Сообщения": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=#ffffff>{0}</color>"
+    }
+  ],
+  "Список начальных букв нецензурных слов или слова целиком | список исключений": {
+    "ебля": [],
+    "сука": [],
+    "пидор": []
+  }
+}

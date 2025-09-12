@@ -1,0 +1,15 @@
+{
+  "PreStart": "{0} Через <color=#55aaff>{1} сек.</color> подводная лодка с учеными будет проплывать мимо острова!",
+  "Start": "{0} Подводная лодка пробита и терпит крушение в квадрате <color=#55aaff>{1}</color>\nЧерез <color=#55aaff>{2} сек.</color> подводная лодка <color=#ce3f27>уничтожится</color>!\nКамеры: <color=#55aaff>Submarine1, Submarine2, Submarine3, Submarine4</color>",
+  "PreFinish": "{0} Подводная лодка <color=#ce3f27>уничтожится</color> через <color=#55aaff>{1} сек.</color>!",
+  "Finish": "{0} Подводная лодка <color=#ce3f27>уничтожена</color>!",
+  "EventActive": "{0} Ивент в данный момент активен, сначала завершите текущий ивент (<color=#55aaff>/waterstop</color>), чтобы начать следующий!",
+  "GUI": "Подводная лодка уничтожится через {0} сек. Ящики - {1}",
+  "EnterPVP": "{0} Вы <color=#ce3f27>вошли</color> в PVP зону, теперь другие игроки <color=#ce3f27>могут</color> наносить вам урон!",
+  "ExitPVP": "{0} Вы <color=#738d43>вышли</color> из PVP зоны, теперь другие игроки <color=#738d43>не могут</color> наносить вам урон!",
+  "OpenBlueDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>открыл</color> синюю дверь на подводной лодке!",
+  "OpenRedDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>открыл</color> красную дверь на подводной лодке!",
+  "HackCrate": "{0} <color=#55aaff>{1}</color> <color=#738d43>начал</color> взлом заблокированного ящика на подводной лодке!",
+  "NTeleportation": "{0} Вы <color=#ce3f27>не можете</color> телепортироваться в зоне ивента!",
+  "SendEconomy": "{0} Вы <color=#738d43>получили</color> <color=#55aaff>{1}</color> баллов в экономику за прохождение ивента"
+}

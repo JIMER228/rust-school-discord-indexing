@@ -1,0 +1,320 @@
+{
+  "Docks": {
+    "Ivent": {
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.127,
+      "Height": 0.0257,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0.005 0.6305 0.034 0.005"
+    },
+    "Message1": {
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Top",
+      "Width": 0.126,
+      "Height": 0.03,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0.872 0.484 0.00 0.305"
+    },
+    "Message2": {
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Top",
+      "Width": 0.126,
+      "Height": 0.03,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0.97 0.49 0.00 0.105"
+    },
+    "Player": {
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.05,
+      "Height": 0.03,
+      "BackgroundColor": "1 1 1 0.12",
+      "Margin": "0.005 0.67 0.034 0.9135"
+    },
+    "TextPanel": {
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 1.0,
+      "Height": 0.025,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0 0 0 0"
+    }
+  },
+  "Panels": {
+      "MessageBox": {
+      "Autoload": true,
+      "Dock": "TextPanel",
+      "PanelSettings": {
+        "MessageUpdateFrequency (seconds)": 10,
+        "MsgOrder": "random"
+      },
+      "Text": {
+        "Width": 1.0,
+        "Align": "MiddleCenter",
+        "FontColor": "1 1 1 1",
+        "FontSize": 14,
+        "Content": "No Content",
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.95,
+        "Order": 0,
+        "BackgroundColor": "0 0 0 0",
+        "Margin": "0 0 0 0.005"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Right",
+      "AnchorY": "Bottom",
+      "Width": 1.0,
+      "Height": 0.95,
+      "Order": 7,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0 0 0 0.005"
+    },
+    "MessageBox1": {
+      "Autoload": true,
+      "Dock": "Message1",
+      "PanelSettings": {
+        "MessageUpdateFrequency (seconds)": 20,
+        "MsgOrder": "normal"
+      },
+      "Text": {
+        "Width": 1.0,
+        "Align": "MiddleCenter",
+        "FontColor": "1 1 1 1",
+        "FontSize": 15,
+        "Content": "RUST <color=#ff7300>FIRE</color>",
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Top",
+        "Height": 0.95,
+        "Order": 0,
+        "BackgroundColor": "0 0 0 0.4",
+        "Margin": "0 1.5 -1.7 0.005"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Top",
+      "Width": 1.0,
+      "Height": 0.75,
+      "Order": 7,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0 0 0 0.005"
+    },
+    "MessageBox2": {
+      "Autoload": true,
+      "Dock": "Message2",
+      "PanelSettings": {
+        "MessageUpdateFrequency (seconds)": 20,
+        "MsgOrder": "normal"
+      },
+      "Text": {
+        "Width": 2.0,
+        "Align": "MiddleLeft",
+        "FontColor": "1 1 1 1",
+        "FontSize": 12,
+        "Content": "   Информация о сервере <color=#ff7300>/info</color>",
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Top",
+        "Height": 0.95,
+        "Order": 2,
+        "BackgroundColor": "0 0 0 0.4",
+        "Margin": "0 1.5 0 0.005"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Top",
+      "Width": 1.0,
+      "Height": 0.75,
+      "Order": 6,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0 0 0 0.005"
+    },
+    "OPlayers": {
+      "Autoload": true,
+      "Dock": "Player",
+      "Image": {
+        "Width": -0.1,
+        "Url": "https://i.imgur.com/QuHVToV.png",
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.8,
+        "Order": 1,
+        "BackgroundColor": "1 1 1 1",
+        "Margin": "0 0.4 0.2 0.05"
+      },
+      "Text": {
+        "Width": 1.5,
+        "Align": "MiddleLeft",
+        "FontColor": "1 1 1 1",
+        "FontSize": 15,
+        "Content": "No Content",
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 1.0,
+        "Order": 2,
+        "BackgroundColor": "1 1 1 0.12",
+        "Margin": "-1 0.195 -0.05 0.005"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.545,
+      "Height": 0.8,
+      "Order": 2,
+      "BackgroundColor": "0 0 0 0",
+      "Margin": "0 -0.05 0.1 0.01"
+    },
+    "ChinukEvent": {
+      "Autoload": true,
+      "Dock": "Ivent",
+      "PanelSettings": {
+        "ActiveColor": "1.00 0.40 0.00 1.00",
+        "InactiveColor": "1 1 1 1"
+      },
+      "Image": {
+        "Width": 0.75,
+        "Url": "http://ipic.su/img/img7/fs/newhelicreate.1526137391.png",
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.8,
+        "Order": 2,
+        "BackgroundColor": "1 1 1 1",
+        "Margin": "0 0.1 0.1 0.1"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.14,
+      "Height": 1.1,
+      "Order": 3,
+      "BackgroundColor": "1 1 1 0.12",
+      "Margin": "0 0.71 0 0.01"
+    },
+	"CargoShipEvent": {
+      "Autoload": true,
+      "Dock": "Ivent",
+      "PanelSettings": {
+        "ActiveColor": "1.00 0.40 0.00 1.00",
+        "InactiveColor": "1 1 1 1"
+      },
+      "Image": {
+        "Width": 0.75,
+        "Url": "https://i.imgur.com/URe0Z6b.png",
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.8,
+        "Order": 2,
+        "BackgroundColor": "1 1 1 1",
+        "Margin": "0 0.1 0.1 0.1"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.14,
+      "Height": 1.1,
+      "Order": 3,
+      "BackgroundColor": "1 1 1 0.12",
+    },
+    "AirdropEvent": {
+      "Autoload": true,
+      "Dock": "Ivent",
+      "PanelSettings": {
+        "ActiveColor": "1.00 0.40 0.00 1.00",
+        "InactiveColor": "1 1 1 1"
+      },
+      "Image": {
+        "Width": 0.8,
+        "Url": "https://i.imgur.com/f3Qzfdy.png",
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.8,
+        "Order": 1,
+        "BackgroundColor": "1 1 1 1",
+        "Margin": "0 0.1 0.1 0.1"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.15,
+      "Height": 1.1,
+      "Order": 5,
+      "BackgroundColor": "1 1 1 0.12",
+    },
+    "HelicopterEvent": {
+      "Autoload": true,
+      "Dock": "Ivent",
+      "PanelSettings": {
+        "ActiveColor": "1.00 0.40 0.00 1.00",
+        "InactiveColor": "1 1 1 1"
+      },
+      "Image": {
+        "Width": 0.75,
+        "Url": "https://i.imgur.com/i2GWRhl.png",
+        "Available": true,
+        "AnchorX": "Left",
+        "AnchorY": "Bottom",
+        "Height": 0.8,
+        "Order": 3,
+        "BackgroundColor": "1 1 1 0.12",
+        "Margin": "0 0.1 0.1 0.1"
+      },
+      "FadeOut": 0.0,
+      "Available": true,
+      "AnchorX": "Left",
+      "AnchorY": "Bottom",
+      "Width": 0.15,
+      "Height": 1.1,
+      "Order": 4,
+      "BackgroundColor": "1 1 1 0.12",
+      "Margin": "0 0.005 0 0.01"
+    },
+  },
+   "Messages": [
+    "Максимум человек в команде - <color=#ff7300>[ 3 ]</color>",
+	"Наша группа ВК - <color=#ff7300>vk.com/rust.fire</color>",
+	"Магазин/сайт сервера - <color=#ff7300>shop.rust-fire.ru</color>",
+	"<color=#ff7300>bind C tp.menu</color> - бинд на меню телепортации",
+	"Отобразить статистику игроков <color=#ff7300>/top</color>",
+	"На сайте доступны<color=#ff7300> [ Бесплатные Кейсы ]</color>",
+	"Меню крафта уникальных предметов - <color=#ff7300>/craft</color>",
+	"<color=#ff7300>/report</color> - отправить жалобу на игрока",
+	"Отображение нанесенного урона <color=#ff7300>/marker</color>",
+	"<color=#ff7300>/craftad</color> - скрафтить автозакрыватель двери",
+	"Проголосовав за сервер в лаунчере вы получаете <color=#ff7300>3руб/день</color>",
+	"Выбрать скин для оружия <color=#ff7300>/skin</color>"
+ ],
+  "TimeFormats": [
+    "H:mm",
+    "HH:mm",
+    "h:mm",
+    "h:mm tt"
+  ]
+}

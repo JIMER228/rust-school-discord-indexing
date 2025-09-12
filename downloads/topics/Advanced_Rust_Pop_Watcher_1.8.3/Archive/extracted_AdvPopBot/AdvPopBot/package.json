@@ -1,0 +1,17 @@
+{
+    "name": "popwatcher",
+    "version": "1.0.0",
+    "description": "Discord Bot",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Amino",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "rustrcon": "^1.0.2"
+    },
+    "nodeVersion": "12.16.3"
+  }
+  

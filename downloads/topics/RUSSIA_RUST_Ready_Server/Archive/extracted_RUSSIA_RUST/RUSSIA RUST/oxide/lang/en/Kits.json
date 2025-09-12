@@ -1,0 +1,22 @@
+{
+  "Kit Was Removed": "<color=#008B8B>[Сервер]:</color> Kit {kitname} was removed",
+  "Kit Doesn't Exist": "<color=#008B8B>[Сервер]:</color> This kit doesn't exist",
+  "Not Found Player": "<color=#008B8B>[Сервер]:</color> Player not found",
+  "To Many Player": "<color=#008B8B>[Сервер]:</color> Found multipy players",
+  "Permission Denied": "<color=#008B8B>[Сервер]:</color> Access denied",
+  "Limite Denied": "<color=#008B8B>[Сервер]:</color> Useage limite reached",
+  "Cooldown Denied": "<color=#008B8B>[Сервер]:</color> You will be able to use this kit after {time}",
+  "Reset": "<color=#008B8B>[Сервер]:</color> Kits data wiped",
+  "Kit Already Exist": "<color=#008B8B>[Сервер]:</color> Kit with the same name already exist",
+  "Kit Created": "<color=#008B8B>[Сервер]:</color> You have created a new kit - {name}",
+  "Kit Extradited": "<color=#008B8B>[Сервер]:</color> You have claimed kit - {kitname}",
+  "Kit Cloned": "<color=#008B8B>[Сервер]:</color> You inventory was copyed to the kit",
+  "UI Amount": "Timeleft: {amount}",
+  "Help": "/kit name|add|clone|remove|list|reset",
+  "Help Add": "/kit add <kitname>",
+  "Help Clone": "/kit clone <kitname>",
+  "Help Remove": "/kit remove <kitname>",
+  "Help Give": "/kit give <kitname> <playerName|steamID>",
+  "Give Succes": "You have successfully given the player {0} a set {1}",
+  "No Space": "Can't redeem kit. Not enought space"
+}

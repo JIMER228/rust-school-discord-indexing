@@ -1,0 +1,64 @@
+{
+  "Items": [],
+  "Kits": [
+    {
+      "Kit": "ICE_KIT",
+      "UniqueId": 1,
+      "Name": "ICE_KIT",
+      "Description": "",
+      "Cooldown": 43200,
+      "Icon": "https://i.ibb.co/D964k4s/image.png",
+      "Nitro": false,
+      "Price": 1
+    },
+    {
+      "Kit": "ICE_KIT_2",
+      "UniqueId": 2,
+      "Name": "ICE_KIT_2",
+      "Description": "",
+      "Cooldown": 86400,
+      "Icon": "https://i.ibb.co/Msfsw1d/ss.png",
+      "Nitro": false,
+      "Price": 1
+    }
+  ],
+  "Commands": [
+    {
+      "Commands": [
+        "iq.eco give $player.id 50"
+      ],
+      "UniqueId": 3,
+      "Name": "50руб /shop",
+      "Description": "",
+      "Cooldown": 86400,
+      "Icon": "https://i.ibb.co/ggsD2ZS/ffffm.png",
+      "Nitro": false,
+      "Price": 1
+    },
+    {
+      "Commands": [
+        "iq.eco give $player.id 100"
+      ],
+      "UniqueId": 4,
+      "Name": "100руб /shop",
+      "Description": "",
+      "Cooldown": 172800,
+      "Icon": "https://i.ibb.co/ggsD2ZS/ffffm.png",
+      "Nitro": false,
+      "Price": 1
+    },
+    {
+      "Commands": [
+        "iq.eco give $player.id 150"
+      ],
+      "UniqueId": 5,
+      "Name": "150руб /shop",
+      "Description": "",
+      "Cooldown": 259200,
+      "Icon": "https://i.ibb.co/ggsD2ZS/ffffm.png",
+      "Nitro": false,
+      "Price": 1
+    }
+  ],
+  "IncrementalId": 5
+}

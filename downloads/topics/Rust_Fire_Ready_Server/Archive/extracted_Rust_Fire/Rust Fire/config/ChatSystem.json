@@ -1,0 +1,88 @@
+{
+  "A. Global chat settings": {
+    "1. Message cooldown": 3,
+    "2. Log messages": true
+  },
+  "B. Words settings": {
+    "1. Blacklist": [
+      "shit",
+      "fuck",
+      "color=",
+      "size=",
+      "гандон",
+      "http",
+      "connect",
+      ".com",
+      ".ru",
+      ".su",
+      "шлюха",
+      ".tv",
+      "шлюхи",
+      "пидор",
+      "пидар",
+      "пидарас",
+      "ебаная",
+      "ебаный",
+      "пидорас",
+      "pussy"
+    ],
+    "2. Whitelist": [
+      "bullshit",
+      "shits",
+      "fuckup"
+    ],
+    "3. Auto-mute for bad word": 600
+  },
+  "C. Prefixes": [
+    {
+      "1. Permission": "chatmanager.admin",
+      "2. Tag": "<color=#FDD9B5>[ Админ ]</color>",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.moder",
+      "2. Tag": "<color=#51fcbb>[Модератор]</color>",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.youtube",
+      "2. Tag": "<color=#FF4D4F>[YouTube]</color>",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.helper",
+      "2. Tag": "<color=#F896EA>[Helper]</color>",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.firepro",
+      "2. Tag": "[<color=#C062F3>FIRE</color><color=#CC80F5>PRO</color>]",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.fire",
+      "2. Tag": "[<color=#ff7300>FIRE</color>]",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.elite",
+      "2. Tag": "[<color=#6CF6FE>ELITE</color>]",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.premium",
+      "2. Tag": "[<color=#C2FD53>PREMIUM</color>]",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.vip",
+      "2. Tag": "[<color=#FFD700>VIP</color>]",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    },
+    {
+      "1. Permission": "chatmanager.default",
+      "2. Tag": "",
+      "3. Format": "{tag} <color=#55aaff>{name}</color>: {message}"
+    }
+  ]
+}

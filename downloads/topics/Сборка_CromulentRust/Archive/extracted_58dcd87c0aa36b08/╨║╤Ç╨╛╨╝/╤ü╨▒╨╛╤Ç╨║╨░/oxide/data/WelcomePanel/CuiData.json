@@ -1,0 +1,178 @@
+{
+  "background": {
+    "anchorMin": "0 0",
+    "anchorMax": "1 1",
+    "color": "0 0 0 0.8",
+    "material": "assets/content/ui/uibackgroundblur.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "background2": {
+    "anchorMin": "0 0",
+    "anchorMax": "1 1",
+    "color": "0.12 0.12 0.12 1",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "offsetContainer": {
+    "anchorMin": "0.5 0.5",
+    "anchorMax": "0.5 0.5",
+    "color": "0 0 0 0.0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "https://i.ibb.co/HCTmKnB/15.png",
+    "fade": 0.0
+  },
+  "mainPanel": {
+    "anchorMin": "0.4 -0.015",
+    "anchorMax": "0.98 1.008",
+    "color": "0 0 0 0.0",
+    "material": "assets/content/ui/uibackgroundblur.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "sidePanel": {
+    "anchorMin": "0 0",
+    "anchorMax": "0 0",
+    "color": "0 0 0 0.75",
+    "material": "assets/content/ui/uibackgroundblur.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "titlePanel": {
+    "anchorMin": "0.178 0.745",
+    "anchorMax": "0.9 0.85",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "logoPanel": {
+    "anchorMin": "0 0",
+    "anchorMax": "0 0",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "closeButton": {
+    "anchorMin": "0.54 0.035",
+    "anchorMax": "0.62 0.07999998",
+    "color": "0.56 0.20 0.15 0.9",
+    "material": "assets/content/ui/uibackgroundblur.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "contentPanel": {
+    "anchorMin": "0.42 0.095",
+    "anchorMax": "0.94 0.748",
+    "color": "0 0 0 0.0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.5
+  },
+  "highlightBtn": {
+    "anchorMin": "0 0",
+    "anchorMax": "1 1",
+    "color": "0.80 0.25 0.16 1",
+    "material": "assets/content/ui/uibackgroundblur.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn1": {
+    "anchorMin": "0.4345 0.905",
+    "anchorMax": "0.5195 0.98",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn2": {
+    "anchorMin": "0.5395001 0.905",
+    "anchorMax": "0.6445 0.98",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn3": {
+    "anchorMin": "0.6445 0.905",
+    "anchorMax": "0.7495 0.98",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn4": {
+    "anchorMin": "0.7495 0.905",
+    "anchorMax": "0.8595 0.98",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn5": {
+    "anchorMin": "0.8594999 0.905",
+    "anchorMax": "0.9594999 0.98",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn6": {
+    "anchorMin": "0.0395 0.12",
+    "anchorMax": "0.1795 0.19",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn7": {
+    "anchorMin": "0.2145 0.12",
+    "anchorMax": "0.3545 0.19",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn8": {
+    "anchorMin": "0 0",
+    "anchorMax": "0 0",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn9": {
+    "anchorMin": "0 0",
+    "anchorMax": "0 0",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "menuBtn10": {
+    "anchorMin": "0 0",
+    "anchorMax": "0 0",
+    "color": "0 0 0 0",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "",
+    "fade": 0.0
+  },
+  "nextButton": {
+    "anchorMin": "0.99 0.013",
+    "anchorMax": "1.01 0.48",
+    "color": "0.25 0.23 0.22 0.95",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "https://rustplugins.net/products/welcomepanel/5/btn-pagedown.png",
+    "fade": 0.0
+  },
+  "previousButton": {
+    "anchorMin": "0.99 0.488",
+    "anchorMax": "1.01 0.975",
+    "color": "0.25 0.23 0.22 0.95",
+    "material": "assets/icons/iconmaterial.mat",
+    "image": "https://rustplugins.net/products/welcomepanel/5/btn-pageup.png",
+    "fade": 0.0
+  }
+}

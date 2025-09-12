@@ -1,0 +1,266 @@
+{
+  "ID": "",
+  "Enabled? [true/false]": true,
+  "Position": "(1156.34, 5.66, -524.32)",
+  "Rotation": "(0.00, 0.00, 0.00)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 16,
+      "Maximum numbers - Day": 24,
+      "Minimum numbers - Night": 6,
+      "Maximum numbers - Night": 8,
+      "NPCs setting": {
+        "Names": [
+          "Scientist",
+          "Soldier"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": false,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 1720668215
+          },
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 941172099
+          },
+          {
+            "ShortName": "coffeecan.helmet",
+            "SkinID (0 - default)": 2803024592
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "SkinID (0 - default)": 2803024300
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "SkinID (0 - default)": 2803024010
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "pistol.prototype17",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": "ammo.pistol"
+          },
+          {
+            "ShortName": "grenade.beancan",
+            "Amount": 10,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(59.73, 4.64, -106.24)",
+        "(66.61, 4.64, -112.26)",
+        "(91.52, -0.14, -107.07)",
+        "(95.37, 26.99, -103.90)",
+        "(-3.27, -4.80, -129.79)",
+        "(-57.35, -4.80, -160.12)",
+        "(-136.33, 0.52, 116.37)",
+        "(-120.59, 0.52, 91.45)",
+        "(-118.82, -4.11, 68.34)",
+        "(-110.01, -4.11, 44.09)",
+        "(-87.31, 0.52, -1.85)",
+        "(-35.35, 0.53, 40.77)",
+        "(-0.28, -4.11, 46.00)",
+        "(38.04, -4.11, 64.59)",
+        "(59.40, -4.11, 63.59)",
+        "(36.71, 0.51, 56.94)",
+        "(-27.10, 0.51, 33.96)",
+        "(71.81, 0.17, -103.57)",
+        "(69.48, -0.14, -126.13)",
+        "(63.01, -0.06, -106.14)",
+        "(-26.43, 0.55, 137.95)",
+        "(-34.77, -4.11, 144.43)",
+        "(-46.76, -4.11, 130.66)",
+        "(-92.05, -4.11, 120.56)",
+        "(-119.68, -4.11, 109.97)",
+        "(9.95, 27.14, -13.42)",
+        "(16.09, 27.14, -10.75)",
+        "(-30.26, 9.16, 7.94)",
+        "(-19.01, 0.18, -12.39)",
+        "(91.24, 9.02, 82.43)",
+        "(105.95, 13.55, 66.18)",
+        "(124.54, 18.05, -2.09)",
+        "(155.63, 9.14, -80.28)",
+        "(165.24, -0.11, -114.79)",
+        "(-78.39, 30.76, -272.96)",
+        "(-79.58, 26.99, -274.59)",
+        "(-140.37, 18.02, -194.22)",
+        "(-161.69, -0.14, -172.68)",
+        "(-159.28, -0.10, -136.15)",
+        "(-163.43, -0.14, 236.92)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    },
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 20,
+      "Maximum numbers - Day": 20,
+      "Minimum numbers - Night": 6,
+      "Maximum numbers - Night": 8,
+      "NPCs setting": {
+        "Names": [
+          "Scientist",
+          "Soldier"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": false,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "jumpsuit.suit.blue",
+            "SkinID (0 - default)": 0
+          },
+          {
+            "ShortName": "twitch.headset",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "pistol.prototype17",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": "ammo.pistol"
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-257.32, 13.52, 194.25)",
+        "(-254.84, 9.02, 194.30)",
+        "(-255.95, 4.52, 194.46)",
+        "(-251.88, 0.02, 191.45)",
+        "(-88.26, 9.02, 253.19)",
+        "(-94.82, 4.52, 252.51)",
+        "(-90.14, 0.02, 255.55)",
+        "(62.17, 9.02, 176.07)",
+        "(57.65, 4.52, 181.04)",
+        "(61.78, 0.02, 179.33)",
+        "(154.18, -0.14, 2.55)",
+        "(162.42, 0.03, 0.59)",
+        "(183.50, 4.52, -57.23)",
+        "(186.61, 0.02, -60.05)",
+        "(182.47, 9.02, -151.97)",
+        "(177.87, 9.02, -148.36)",
+        "(48.14, 13.41, -276.16)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

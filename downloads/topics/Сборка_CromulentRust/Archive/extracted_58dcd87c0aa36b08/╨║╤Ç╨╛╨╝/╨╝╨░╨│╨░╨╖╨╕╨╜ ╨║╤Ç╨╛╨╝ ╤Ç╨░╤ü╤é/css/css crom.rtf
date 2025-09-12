@@ -1,0 +1,738 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 .menubox \{\
+    margin: 5px;\
+    translate: 5px 5px;\
+\}\
+/*.menubox > a > div > h3\{\
+    font-size: 18px;\
+\}*/\
+.menubox > a > div \{\
+    margin: 5px;\
+\}\
+.menubox > a > div > p\{\
+    margin: 1px;\
+\}\
+.MonitoringServer-module__progressBarAnim \{\
+    display: none;\
+    font-size: 14px!important;\
+    position: absolute;\
+    top: 0;\
+    left: 0;\
+    height: 100%;\
+    opacity: .8;\
+    background: #9c84ef;\
+    background: conic-gradient(from -30deg at 25%,transparent 240deg,rgba(255,255,255,.15) 0%) 0/1.44em,conic-gradient(from -30deg at 75%,rgba(255,255,255,.15) 240deg,transparent 0%) 0/1.44em;\
+    box-shadow: inset 0 0 0px #000;\
+    animation: MonitoringServer-module__monitoringAnimation 2s linear infinite\
+\}\
+:root[data-theme] \{\
+    --bg-color-800: #9c84ef;\
+\}\
+.MonitoringServer-module__wrapper[data-monitoringserverid="total"] \{\
+    display: none;\
+\}\
+:root[data-theme] \{\
+    --font-color-800: #000000;\
+    --font-color-700: #000000;\
+    --font-color-900: #000000;\
+\}\
+.pelmen \{\
+    translate: -800px -2512px;\
+    scale: 0.4;\
+\}\
+.pelmen .text \{\
+    translate: 150px -55px;\
+    scale: 2;\
+\}\
+.CountSelector-module__changeCountBtn.CountSelector-module__left \{\
+    border-right: 2px solid #f5f5f500;\
+\}\
+\
+.CountSelector-module__changeCountBtn.CountSelector-module__right \{\
+    border-left: 2px solid #f5f5f500;\
+\}\
+\
+.WelcomeSelectServer-module__header.boxHeader \{\
+    border-radius: 15px 15px 0px 0px;\
+    color: #000;\
+    background: #fff;\
+\}\
+\
+.ModalLayout-module__modal.WelcomeSelectServer-module__modal .boxBody \{\
+    background: #fff;\
+\}\
+.ModalLayout-module__modal.WelcomeSelectServer-module__modal .boxBody > span \{\
+    color: #000;\
+\}\
+.bonus__header \{\
+    text-align: center;\
+\}\
+.Button-module__btn.Button-module__gray \{\
+    background-color: #9c84ef;\
+    border: none;\
+\}\
+.Button-module__btn.Button-module__gray:hover \{\
+    background-color: var(--accent-color-900);\
+    border: none;\
+\}\
+.Cookie-module__wrapper \{\
+    z-index: 50;\
+    position: fixed;\
+    bottom: 10px;\
+    left: 50%;\
+    transform: translate(-50%);\
+    padding: 15px;\
+    border-radius: 5px;\
+    background-color: #1c1b22;\
+    display: flex;\
+    align-items: center;\
+    box-shadow: 0 0 10px rgba(0,0,0,.3)\
+\}\
+\
+.Shop-module__wrapper \{\
+    translate: 0px -25px;\
+\}\
+.TotalSum-module__currency \{\
+    background-color: #ffffff;\
+    border-radius: 5px 0px 0px 5px;\
+\}\
+.CountSelector-module__inputWrapper \{\
+    background: none;\
+\}\
+.KitContent-module__itemCount, .KitContent-module__itemName \{\
+    background-color: #fff0;\
+    color: #fff;\
+\}\
+\
+.TotalSum-module__input \{\
+    background-color: #e6e7e8;\
+    border-radius: 0px 5px 5px 0px;\
+\}\
+\
+.CountSelector-module__changeCountBtn.CountSelector-module__right, .CountSelector-module__changeCountBtn.CountSelector-module__left, .CountSelector-module__input, .productModalDescription \{\
+    background-color: #e6e7e8;\
+\}\
+\
+.productModalDescription \{\
+    border-radius: 5px;\
+    background-color: #e6e7e800;\
+\}\
+\
+.contactbut > button > a > img \{\
+    background: #6883e5;\
+    border-radius: 50%;\
+    transform: scale(1);\
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);\
+    z-index: 1;\
+\}\
+\
+.contactbut > button2 > a > img \{\
+    background: #4d76a1;\
+    border-radius: 50%;\
+    transform: scale(1);\
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);\
+    z-index: 1;\
+\}\
+\
+.contactbut > button > a > img:hover \{\
+    transform: scale(1.2);\
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);\
+    z-index: 1;\
+\}\
+\
+.contactbut > button2 > a > img:hover \{\
+    transform: scale(1.2);\
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);\
+    z-index: 1;\
+\}\
+\
+.contactbut > button \{\
+    background: #16151c00;\
+    border-radius: 0px 20px 20px 0px;\
+    translate: 95px;\
+    z-index: 1;\
+\}\
+\
+.contactbut > button2 \{\
+    display: none;\
+\}\
+\
+.contactbut \{\
+    translate: -60px;\
+    background: #9c84ef00 !important;\
+    z-index: 1;\
+\}\
+\
+.CountSelector-module__changeCountBtn.CountSelector-module__right \{\
+    border-radius: 0px 5px 5px 0px;\
+\}\
+\
+.CountSelector-module__changeCountBtn.CountSelector-module__left \{\
+    border-radius: 5px 0px 0px 5px;\
+\}\
+\
+.TotalSum-module__inputWrapper \{\
+    background: #100f1400;\
+\}\
+\
+.ProfileContent-module__header.boxHeader \{\
+    display: none;\
+\}\
+.MonitoringServer-module__info > span \{\
+    display: none;\
+\}\
+.ProfileContent-module__title:after \{\
+    content: " [\uc0\u1087 \u1088 \u1086 \u1084 \u1086 \u1082 \u1086 \u1076 \u1099  \u1084 \u1086 \u1078 \u1085 \u1086  \u1085 \u1072 \u1081 \u1090 \u1080  \u1074  discord.gg/crom-rust]";\
+\}\
+.Selector-module__dropDownWrapper.BasketFilters-module__serverSelector .Selector-module__dropDownCurrentItem \{\
+    display: none;\
+\}\
+.MonitoringServer-module__progressBarWrapper \{\
+    opacity: .8;\
+    background: #9c84ef;\
+    background: conic-gradient(from -30deg at 25%,#9c84ef 240deg,rgb(185 168 244) 0%) 0/1.44em,conic-gradient(from -30deg at 75%,rgba(255,255,255,.15) 240deg,transparent 0%) 0/1.44em;\
+    box-shadow: inset 0 0 0px #000;\
+    animation: MonitoringServer-module__monitoringAnimation 2s linear infinite\
+\}\
+.BasketTable-module__tableLine:nth-child(2n-1) \{\
+    background-color: #f3f4f6;\
+\}\
+.Pagination-module__pagination > button \{\
+    background-color: #f3f4f6;\
+\}\
+.HistoryTable-module__tableLine:nth-child(2n-1) \{\
+    background-color: #f3f4f6;\
+\}\
+.MonitoringServer-module__progressInfo \{\
+    display: none;\
+\}\
+.MonitoringServer-module__btns:before \{\
+    content: "\uc0\u12644 \u12644 \u1089 \u1082 \u1086 \u1087 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  IP \u1089 \u1077 \u1088 \u1074 \u1077 \u1088 \u1072  \u8594 \u10240 ";\
+\}\
+.RewardKitContent-module__img, .RewardKitContent-module__productCount .RewardKitContent-module__item, .RewardItemContent-module__item, .RewardItemContent-module__img, .RewardItemContent-module__productCount \{\
+    border-radius: 15px;\
+    background-color: #2400ff00 !important;\
+\}\
+\
+.BasketContent-module__wrapper .boxBody, .HistoryContent-module__wrapper .boxBody \{\
+    border-radius: 15px;\
+    background-color: #16151c00;\
+\}\
+\
+.ProfileContent-module__timedDiscountInfo.ProfileContent-module__box \{\
+    border-radius: 5px;\
+    background-color: #100f14;\
+\}\
+\
+.Selector-module__dropDownCurrentItem \{\
+    border-radius: 5px;\
+\}\
+\
+.BasketFilters-module__wrapper, .BasketSearch-module__wrapper \{\
+    background-color: #1c1b2200;\
+\}\
+\
+.BasketSearch-module__iconWrapper, .HistorySearch-module__iconWrapper \{\
+    background-color: #848484;\
+    border-radius: 5px 0px 0px 5px;\
+\}\
+\
+.BasketTable-module__tableTitle, .HistoryTable-module__tableTitle \{\
+    color: #000;\
+\}\
+\
+.HistoryContent-module__header.boxHeader \{\
+    display: none;\
+\}\
+\
+.BasketTable-module__tableHeader, .HistoryTable-module__tableHeader \{\
+    background-color: #ffffff;\
+    border-radius: 5px;\
+\}\
+\
+.BasketSearch-module__input, .HistorySearch-module__input \{\
+    background-color: #ffffff;\
+    border-radius: 0px 5px 5px 0px;\
+    \
+\}\
+.ProfileNav-module__img \{\
+  border-radius: 20px\
+\}\
+.ProfileNav-module__navItem \{\
+    background-color: #ffffff;\
+\}\
+\
+.ProfileNav-module__header.boxHeader \{\
+    background-color: #f3f4f6;\
+    border-radius: 15px 15px 0px 0px;\
+\}\
+\
+.ProfileNav-module__body.boxBody \{\
+    background-color: #f3f4f6;\
+\}\
+\
+.BasketContent-module__header.boxHeader \{\
+    display: none;\
+\}\
+\
+.ProfileContent-module__infoWrapper.ProfileContent-module__box, .Selector-module__dropDownCurrentItem, .ProfileContent-module__input \{\
+    background-color: #ffffff;\
+\}\
+\
+.ProfileNav-module__wrapper .boxFooter \{\
+    background-color: #f3f4f6;\
+    border-radius: 0px 0px 15px 15px;\
+\}\
+\
+.ProfileContent-module__infoLine+.ProfileContent-module__infoLine \{\
+    border-top: 0px solid var(--bg-color-800)\
+\}\
+\
+.ProfileContent-module__body.boxBody \{\
+    border-radius: 15px;\
+    background-color: #f3f4f6;\
+\}\
+\
+.Widgets-module__widgetWrapper .boxHeader \{\
+    display: none;\
+\}\
+.container.headerContainer .Header-module__wrapper > h1 > a \{\
+    color: ##16151c !important;\
+\}\
+.DesktopCopyright-module__wrapper, .DesktopCopyright-module__wrapper > a \{\
+    color: #000000;\
+\}\
+\
+.DesktopCopyright-module__wrapper \{\
+    color: #000;\
+    background-color: #16151c00 !important;\
+\}\
+.LangSwitcher-module__currentLang \{\
+    display: none;\
+\}\
+\
+.Product-module__img:hover \{\
+    filter: grayscale(100%);\
+\}\
+.Product-module__img \{\
+    width: 100%;\
+    transition: all 0.2s ease-out;\
+    margin-top: 12px;\
+    filter: grayscale(40%);\
+\
+    padding: 10%;\
+    translate: 0px -10px;\
+\}\
+\
+.Product-module__price, .Product-module__name, .Product-module__count, .Product-module__discount \{\
+    z-index: 1;\
+\}\
+\
+.Header-module__wrapper, Header-module__newYearVibe \{\
+    background-color: #ffffff;\
+    border-radius: 15px;\
+    box-shadow: 0px 2px 5px -3px black;\
+    transform: translateY(10px);\
+\}\
+\
+.Banner-module__img \{\
+    border-radius: 15px;\
+    padding-top: 5px;\
+\}\
+\
+.Product-module__wrapper \{\
+    border-radius: 15px;\
+    background-color: #fefefe;\
+    transition: all 200ms;\
+    box-shadow: 0px 2px 5px -3px black;\
+\}\
+\
+.Product-module__discount \{\
+    background-color: #ffffff00;\
+    !important; font-size: 18px\
+\}\
+\
+.Selector-module__dropDownItem:hover,.Selector-module__dropDownItem:focus,.Selector-module__dropDownItem.Selector-module__active \{\
+    background-color: #9C84EF;\
+\}\
+\
+.Product-module__wrapper:hover \{\
+    padding: 15px;\
+    transition: all 0.2s ease-out;\
+\}\
+\
+.Product-module__name \{\
+    background-color: #fff0;\
+    !important; text-align: center;\
+    font-size: 15px;\
+\}\
+\
+.boxHeader.Shop-module__header \{\
+    display: none;\
+\}\
+\
+.Categories-module__categories \{\
+    text-align: center;\
+    overflow: scroll;\
+    display: grid;\
+    height: 120px;\
+    align-content: flex-start;\
+    overflow: overlay;\
+\}\
+\
+.Categories-module__categories > button \{\
+    margin: 2px;\
+    background-color: #1c1b22;\
+\}\
+\
+.Categories-module__categories > button:active, .Categories-module__categories > button:focus, .Categories-module__categories > button:hover \{\
+    background-color: #9C84EF;\
+\}\
+\
+.Categories-module__category.Categories-module__active, .Categories-module__category:hover \{\
+    background-color: #9C84EF;\
+\}\
+\
+:root[data-theme=red_black] \{\
+    --accent-color-800: #9C84EF;\
+\}\
+\
+.Categories-module__category \{\
+    width: 820px;\
+\}\
+\
+::-webkit-scrollbar \{\
+    display: none;\
+\}\
+\
+.Product-module__price \{\
+    background-color: #fff0;\
+    translate: 0px 180px;\
+    width: 150px;\
+    text-align: -webkit-center;\
+    display: block;\
+    color: #ee3e61;\
+    font-size: 13px;\
+    font-weight: 500;\
+\}\
+\
+.Product-module__oldPrice \{\
+    color: #828282;\
+    font-size: 12px;\
+\}\
+\
+.ModalLayout-module__modal.ProductModal-module__item > div \{\
+    background-color: #1d1b1a;\
+    !important; \}\
+\
+.ModalLayout-module__modal.ProductModal-module__item .ProductModal-module__header.boxHeader \{\
+    background: rgba(137, 137, 137, 0.05);\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 15px 15px 0px 0px;\
+\}\
+\
+.ModalLayout-module__modal.ProductModal-module__item .boxBody \{\
+    background: rgb(179 74 74 / 5%);\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; \}\
+\
+.ModalLayout-module__modal.ProductModal-module__item .ItemContent-module__footer.boxFooter \{\
+    background: rgba(137, 137, 137, 0.05);\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 0px 0px 15px 15px;\
+\}\
+\
+.ModalLayout-module__modal.ProductModal-module__dropdown .ProductModal-module__header.boxHeader \{\
+    background: rgb(255 255 255);\
+    !important;\
+    border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important;\
+    backdrop-filter: blur(75px);\
+    !important;\
+    border-radius: 15px 15px 0px 0px;\
+\}\
+\
+.ModalLayout-module__modal.ProductModal-module__dropdown .boxBody \{\
+    background: rgb(255 255 255);\
+    !important;\
+    border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important;\
+    backdrop-filter: blur(75px);\
+    !important;\
+    \}\
+\
+.ModalLayout-module__modal.ProductModal-module__dropdown .SelectContent-module__footer.boxFooter, .ItemContent-module__footer.boxFooter \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 0px 0px 15px 15px;\
+\}\
+.Product-module__discount \{\
+    background: #fff;\
+    color: #000000;\
+    border-radius: 15px;\
+    box-shadow: 0px 2px 5px -3px black;\
+    scale: 0.9;\
+\}\
+.Product-module__wrapper \{\
+    height: 220px;\
+    border-radius: 30px 10px;\
+\}\
+.productModalContainsItem \{\
+    background-color: #29292e;\
+    border-radius: 15px;\
+\}\
+.NavServerDropDown-module__btn \{\
+    display: none;\
+\}\
+.ModalLayout-module__positionWrapper .ProductModal-module__header.boxHeader \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 15px 15px 0px 0px;\
+\}\
+\
+.KitContent-module__containsItem \{\
+    border-radius: 15px;\
+    background-color: #fff0;\
+\}\
+\
+.ModalLayout-module__positionWrapper .boxBody \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; \}\
+\
+.ModalLayout-module__positionWrapper .KitContent-module__footer.boxFooter \{\
+    background: rgb(255 255 255);\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 0px 0px 15px 15px;\
+\}\
+\
+.Shop-module__wrapper .boxBody, .Shop-module__wrapper .boxFooter \{\
+    border-radius: 15px;\
+    background-color: #ff141400;\
+\}\
+\
+.Widgets-module__widgetWrapper .boxFooter \{\
+    display: none;\
+\}\
+\
+.Widgets-module__widgetWrapper .MonitoringWidget-module__body.boxBody \{\
+    background-color: #ffffff;\
+    border-radius: 15px;\
+\}\
+\
+.RouletteContent-module__lineWrapper \{\
+    position: relative;\
+    width: 100%;\
+    overflow: hidden;\
+    background: #1c1c1f;\
+    display: flex;\
+    height: 290px;\
+    align-items: center\
+\}\
+\
+.Servers-module__servers > button \{\
+    background-color: #1c1b22;\
+    color: #fff;\
+\}\
+.PlayerMenu-module__wrapper \{\
+    color: #black;\
+\}\
+.Servers-module__servers > button:focus, .Servers-module__servers > button:active, .Servers-module__servers > button:hover \{\
+    background-color: #9c84ef;\
+\}\
+\
+.ProductItemSelector-module__label:before \{\
+    content: "\uc0\u1042 \u1099  \u1074 \u1099 \u1073 \u1088 \u1072 \u1083 \u1080  ";\
+\}\
+\
+.productModalImg, .ProductItemSelector-module__img \{\
+    border-radius: 15px;\
+\}\
+\
+.ProductItemSelector-module__item.ProductItemSelector-module__active,.ProductItemSelector-module__item:hover,.ProductItemSelector-module__item:focus \{\
+    border: 1px solid #9c84ef;\
+\}\
+.Search-module__wrapper \{\
+    background: none;\
+\}\
+\
+.Search-module__input \{\
+    background-color: #ffffff;\
+    border-radius: 0px 15px 15px 0px;\
+\}\
+.Search-module__iconWrapper \{\
+    background-color: #848484;\
+    border-radius: 15px 0px 0px 15px;\
+\}\
+\
+* \{\
+    color: #black;\
+\}\
+.Categories-module__categories \{\
+    display: none;\
+\}\
+.Product-module__name \{\
+    bottom: 37px;\
+    translate: -0px -10px;\
+    transform: translateY(0%);\
+    padding: 5px;\
+    width: 100%;\
+    color: black;\
+    background: rgba(0,0,0,0);\
+    transition: transform 0.4s ease;\
+    background-color: #fff0;\
+    !important; text-align: center;\
+    font-size: 13px;\
+    white-space: nowrap;\
+    overflow: hidden;\
+    text-overflow: ellipsis;\
+\}\
+\
+.ModalLayout-module__modal.PlayerBalance-module__modal .boxHeader.PlayerBalanceModal-module__header \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 15px 15px 0px 0px;\
+\}\
+\
+.ModalLayout-module__modal.PlayerBalance-module__modal .boxBody \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; \}\
+\
+.ModalLayout-module__modal.PlayerBalance-module__modal .boxFooter.PlayerBalanceModal-module__footer, .RouletteContent-module__footer.boxFooter \{\
+    background: #f3f4f6;\
+    !important; border: 1px solid rgba(255, 255, 255, 0.09);\
+    !important; backdrop-filter: blur(75px);\
+    !important; border-radius: 0px 0px 15px 15px;\
+\}\
+\
+.PlayerBalanceModal-module__inputWrapper \{\
+    background-color: #f3f4f6;\
+\}\
+\
+.PlayerBalanceModal-module__currency \{\
+    background-color: ##f3f4f6;\
+    border-radius: 5px 0px 0px 5px;\
+\}\
+\
+.PlayerBalanceModal-module__input \{\
+    background-color: #e6e7e8;\
+    border-radius: 0px 5px 5px 0px;\
+\}\
+\
+.Shop-module__wrapper .boxFooter \{\
+    translate: 0px 10px;\
+\}\
+.HistorySearch-module__wrapper \{\
+    background: none;\
+\}\
+\
+.ProfileContent-module__infoWrapper .ProfileContent-module__title, .ProfileContent-module__infoWrapper .Selector-module__dropDownWrapper \{\
+    display: none;\
+\}\
+.Cookie-module__text \{\
+    color: #fff;\
+\}\
+\
+.desc-service-cezar \{\
+  background: #ffffff;\
+  height: 30px;\
+  border-radius: 0 15px 15px 0;\
+  padding-left: 15px;\
+  padding-top: 5px;\
+  margin-bottom: -25px;\
+  box-shadow: -3px 0 #3023c2;\
+  color: black;\
+\}\
+.desc-service-vip \{\
+  background: #ffffff;\
+  height: 30px;\
+  border-radius: 0 15px 15px 0;\
+  padding-left: 15px;\
+  padding-top: 5px;\
+  margin-bottom: -25px;\
+  box-shadow: -3px 0 #b5612b;\
+  color: black;\
+\}\
+.desc-service-premium \{\
+  background: #ffffff;\
+  height: 30px;\
+  border-radius: 0 15px 15px 0;\
+  padding-left: 15px;\
+  padding-top: 5px;\
+  margin-bottom: 10px;\
+  box-shadow: -3px 0 #2e63c3;\
+  color: black;\
+\}\
+.desc-service-deluxe \{\
+  background: #ffffff;\
+  height: 30px;\
+  border-radius: 0 15px 15px 0;\
+  padding-left: 15px;\
+  padding-top: 5px;\
+  margin-bottom: 10px;\
+  box-shadow: -3px 0 #c538b5;\
+  color: black;\
+\}\
+.desc-service-elite \{\
+  background: #ffffff;\
+  height: 30px;\
+  border-radius: 0 15px 15px 0;\
+  padding-left: 15px;\
+  padding-top: 5px;\
+  margin-bottom: 10px;\
+  box-shadow: -3px 0 #537cd8;\
+  color: black;\
+\}\
+\
+.Page-module__header \{\
+  background: #ffffff;\
+  border-radius: 20px 20px 0px 0px;\
+\}\
+.Page-module__wrapper .boxBody \{\
+  background: #ffffff;\
+  border-radius: 0px 0px 20px 20px;\
+\}\
+.PlayerBalanceModal-module__currency \{\
+    background: #fff;\
+\}\
+.gs-loader \{\
+                position: fixed;\
+                top: 0;\
+                left: 0;\
+                right: 0;\
+                bottom: 0;\
+                z-index: 30000;\
+                user-select: none;\
+                transition: all .3s;\
+                display: flex;\
+                align-items: center;\
+                justify-content: center;\
+                background-color: #282828;\
+\
+            \}\
+\
+            .gs-loader__spinner \{\
+                width: 128px;\
+                height: 128px;\
+                border: none;\
+                display: block;\
+                margin: 0 auto;\
+                animation: rotation 1s linear infinite;\
+                content: url("https://cdn.discordapp.com/attachments/1189890475113590784/1203468276726759425/02CWTN.png");\
+            \}}

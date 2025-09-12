@@ -1,0 +1,14 @@
+{
+  "NoPermission": "You do not have access to that command!",
+  "InvalidInput": "Please enter valid command syntax!",
+  "OutdoorsBlocked": "You cannot set resource spawnpoints outside of building privelige areas",
+  "SpawnPointAlreadySet": "You already have a spawnpoint set for this resource!",
+  "RemoveAll": "Your resource spawn data has been wiped succesfully!",
+  "RemoveIndividual": "Your resource spawn data has been wiped succesfully for this ore type!",
+  "Info": "<br>Set up to 3 spawn points for resources with this plugin. <br>Commands: <br>/rs add/remove sulfur/metal/stone <br>Example: <br>/rs add sulfur - sets spawn point for sulfur <br>/rs remove sulfur - removes spawn point for sulfur <br>/rs remove all - wipes all spawn points",
+  "AdminInfo": "<br>Currect respawn timers: <br>Sulfur - {0} sec<br>Metal - {1} sec<br>Stone - {2} sec",
+  "OutOfReach": "Please look closer to the ground!",
+  "Spawned": "The following ore spawnpoint has been set: ",
+  "Error": "An error occured, please contact the plugin developer!",
+  "Prefix": "<color=#ff6100>[Resource VIP] </color>"
+}

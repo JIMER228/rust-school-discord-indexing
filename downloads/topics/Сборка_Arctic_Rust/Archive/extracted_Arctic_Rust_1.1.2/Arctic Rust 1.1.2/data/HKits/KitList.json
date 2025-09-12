@@ -1,0 +1,1862 @@
+[
+  {
+    "Название категории": "Бесплатные",
+    "Картинка": "https://rustlabs.com/img/items180/battery.small.png",
+    "Лист с китами": [
+      {
+        "Name": "Старт",
+        "DisplayName": "Старт",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/hatchet.png",
+        "Cooldown": 600.0,
+        "Hide": false,
+        "Permission": "kits.default",
+        "Items": [
+          {
+            "ShortName": "hat.boonie",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 844289539,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pants.shorts",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 794678401,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "shirt.collared",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 819818852,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "stone.pickaxe",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "stonehatchet",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bandage",
+            "Amount": 3,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "snowball",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 2979
+      },
+      {
+        "Name": "Домик",
+        "DisplayName": "Домик",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/building.planner.png",
+        "Cooldown": 21600.0,
+        "Hide": false,
+        "Permission": "kits.default",
+        "Items": [
+          {
+            "ShortName": "wood",
+            "Amount": 2000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "wood",
+            "Amount": 2000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "stones",
+            "Amount": 2000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "stones",
+            "Amount": 2000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lock.code",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "door.hinged.wood",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "cupboard.tool",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "beachtowel",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pookie.bear",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "building.planner",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hammer",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 145
+      },
+      {
+        "Name": "Еда",
+        "DisplayName": "Еда",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/pumpkin.png",
+        "Cooldown": 600.0,
+        "Hide": false,
+        "Permission": "kits.default",
+        "Items": [
+          {
+            "ShortName": "pumpkin",
+            "Amount": 3,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "blueberries",
+            "Amount": 2,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "mushroom",
+            "Amount": 5,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "fish.cooked",
+            "Amount": 2,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bearmeat.cooked",
+            "Amount": 4,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 9965
+      },
+      {
+        "Name": "Инструменты",
+        "DisplayName": "Инструменты",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/stonehatchet.png",
+        "Cooldown": 600.0,
+        "Hide": false,
+        "Permission": "kits.default",
+        "Items": [
+          {
+            "ShortName": "stone.pickaxe",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "stonehatchet",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 1571
+      },
+      {
+        "Name": "Хиллки",
+        "DisplayName": "Хиллки",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/bandage.png",
+        "Cooldown": 300.0,
+        "Hide": false,
+        "Permission": "kits.default",
+        "Items": [
+          {
+            "ShortName": "bandage",
+            "Amount": 5,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "black.raspberries",
+            "Amount": 3,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 4423
+      },
+      {
+        "Name": "Бонус",
+        "DisplayName": "Бонус",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/xmas.present.large.png",
+        "Cooldown": 43200.0,
+        "Hide": false,
+        "Permission": "kits.namereward",
+        "Items": [
+          {
+            "ShortName": "arrow.wooden",
+            "Amount": 25,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bone.armor.suit",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hat.oxmask",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "crossbow",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "arrow.wooden",
+              "ammoAmount": 1
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "furnace",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "fishtrophy",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "icepick.salvaged",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 500.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "axe.salvaged",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 500.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pistol.nailgun",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "ammo.nailgun.nails",
+              "ammoAmount": 16
+            },
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 8991
+      }
+    ]
+  },
+  {
+    "Название категории": "VIP",
+    "Картинка": "https://gspics.org/images/2024/02/09/0ZeKm8.png",
+    "Лист с китами": [
+      {
+        "Name": "Снаряжение",
+        "DisplayName": "Снаряжение",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/pistol.prototype17.png",
+        "Cooldown": 43200.0,
+        "Hide": false,
+        "Permission": "kits.vip",
+        "Items": [
+          {
+            "ShortName": "hazmatsuit",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 450.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "ammo.pistol",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pistol.prototype17",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "ammo.pistol",
+              "ammoAmount": 18
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bandage",
+            "Amount": 10,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "largemedkit",
+            "Amount": 2,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 4713
+      },
+      {
+        "Name": "Ресурсы",
+        "DisplayName": "Ресурсы",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/scrap.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.vip",
+        "Items": [
+          {
+            "ShortName": "stones",
+            "Amount": 4000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "wood",
+            "Amount": 4000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.fragments",
+            "Amount": 500,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.refined",
+            "Amount": 25,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "sulfur",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "cloth",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 100,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 7543
+      },
+      {
+        "Name": "Бонус",
+        "DisplayName": "Бонус",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/hazmatyoutooz.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.vip",
+        "Items": [
+          {
+            "ShortName": "heavyscientistyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hazmatyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "icepick.salvaged",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 500.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "axe.salvaged",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 500.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "oretea",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "woodtea",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 139
+      }
+    ]
+  },
+  {
+    "Название категории": "PREMIUM",
+    "Картинка": "https://gspics.org/images/2024/02/09/0ZerrE.png",
+    "Лист с китами": [
+      {
+        "Name": "Снаряжение",
+        "DisplayName": "Снаряжение",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/smg.thompson.png",
+        "Cooldown": 43200.0,
+        "Hide": false,
+        "Permission": "kits.premium",
+        "Items": [
+          {
+            "ShortName": "hat.wolf",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "mask.bandana",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "jacket",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pants",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hoodie",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "burlap.gloves",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 150.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "ammo.pistol",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "smg.thompson",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "ammo.pistol",
+              "ammoAmount": 20
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bandage",
+            "Amount": 10,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "largemedkit",
+            "Amount": 2,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 7281
+      },
+      {
+        "Name": "Ресурсы",
+        "DisplayName": "Ресурсы",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/scrap.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.premium",
+        "Items": [
+          {
+            "ShortName": "stones",
+            "Amount": 8000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "wood",
+            "Amount": 8000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.refined",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.fragments",
+            "Amount": 1000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "cloth",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "sulfur",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "gunpowder",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 3946
+      },
+      {
+        "Name": "Бонус",
+        "DisplayName": "Бонус",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/hazmatyoutooz.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.premium",
+        "Items": [
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "maxhealthtea.advanced",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "heavyscientistyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hazmatyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "icepick.salvaged",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 500.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "chainsaw",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "woodtea.advanced",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "oretea",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 4983
+      }
+    ]
+  },
+  {
+    "Название категории": "КАБАНЧИК",
+    "Картинка": "https://gspics.org/images/2024/02/09/0Zes6j.png",
+    "Лист с китами": [
+      {
+        "Name": "Снаряжение",
+        "DisplayName": "Снаряжение",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/smg.mp5.png",
+        "Cooldown": 43200.0,
+        "Hide": false,
+        "Permission": "kits.kaban",
+        "Items": [
+          {
+            "ShortName": "coffeecan.helmet",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 200.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "shoes.boots",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 150.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "roadsign.gloves",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hoodie",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pants",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 150.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "ammo.pistol",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "rifle.bolt",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "ammo.rifle",
+              "ammoAmount": 2
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "ammo.rifle",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.silencer",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "smg.mp5",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": {
+              "ammoType": "ammo.pistol",
+              "ammoAmount": 30
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bandage",
+            "Amount": 10,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 4573
+      },
+      {
+        "Name": "Ресурсы",
+        "DisplayName": "Ресурсы",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/scrap.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.kaban",
+        "Items": [
+          {
+            "ShortName": "stones",
+            "Amount": 12000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "wood",
+            "Amount": 12000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.refined",
+            "Amount": 200,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.fragments",
+            "Amount": 4000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 400,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "cloth",
+            "Amount": 400,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "sulfur",
+            "Amount": 400,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "gunpowder",
+            "Amount": 400,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 454
+      },
+      {
+        "Name": "Бонус",
+        "DisplayName": "Бонус",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/hazmatyoutooz.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.kaban",
+        "Items": [
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "woodtea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "supply.signal",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "jackhammer",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "heavyscientistyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "chainsaw",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hazmatyoutooz",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "healingtea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "oretea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 2606
+      }
+    ]
+  },
+  {
+    "Название категории": "GOD",
+    "Картинка": "https://gspics.org/images/2024/02/09/0ZeB7m.png",
+    "Лист с китами": [
+      {
+        "Name": "Снаряжение",
+        "DisplayName": "Снаряжение",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/rifle.ak.png",
+        "Cooldown": 43200.0,
+        "Hide": false,
+        "Permission": "kits.god",
+        "Items": [
+          {
+            "ShortName": "roadsign.kilt",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 150.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.facemask",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 320.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "shoes.boots",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.plate.torso",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 360.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "pants",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "hoodie",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "tactical.gloves",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "wear",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.silencer",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "ammo.rifle",
+            "Amount": 256,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 10,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "bandage",
+            "Amount": 10,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "rifle.ak",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 150.0,
+            "Weapon": {
+              "ammoType": "ammo.rifle",
+              "ammoAmount": 30
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "rifle.l96",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 60.0,
+            "Weapon": {
+              "ammoType": "ammo.rifle",
+              "ammoAmount": 5
+            },
+            "Content": []
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 107
+      },
+      {
+        "Name": "Ресурсы",
+        "DisplayName": "Ресурсы",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/scrap.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.god",
+        "Items": [
+          {
+            "ShortName": "stones",
+            "Amount": 16000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "wood",
+            "Amount": 16000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.refined",
+            "Amount": 250,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "metal.fragments",
+            "Amount": 5000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 800,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "cloth",
+            "Amount": 800,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "sulfur",
+            "Amount": 1000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "gunpowder",
+            "Amount": 1000,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 2216
+      },
+      {
+        "Name": "Бонус",
+        "DisplayName": "Бонус",
+        "DisplayNamePermission": "ARCTIC RUST",
+        "CustomImage": "https://rustlabs.com/img/items180/hazmatyoutooz.png",
+        "Cooldown": 86400.0,
+        "Hide": false,
+        "Permission": "kits.god",
+        "Items": [
+          {
+            "ShortName": "lowgradefuel",
+            "Amount": 50,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "halloween.lootbag.large",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "woodtea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "supply.signal",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "supply.signal",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "main",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "jackhammer",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 300.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "chainsaw",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "autoturret",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 100.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "maxhealthtea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "healingtea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          },
+          {
+            "ShortName": "oretea.pure",
+            "Amount": 1,
+            "Blueprint": 0,
+            "SkinID": 0,
+            "Container": "belt",
+            "Condition": 0.0,
+            "Weapon": null,
+            "Content": null
+          }
+        ],
+        "UniversalNumber": 5806
+      }
+    ]
+  }
+]

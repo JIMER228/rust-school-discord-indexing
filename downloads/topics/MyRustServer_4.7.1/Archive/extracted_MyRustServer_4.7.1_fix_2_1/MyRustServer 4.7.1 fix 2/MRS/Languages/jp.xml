@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Localization>
+  <Texts>
+<Text controlId="TabPage12" value="Webhooks 3" />
+<Text controlId="MetroLabel82" value="サムネイル:" />
+<Text controlId="MetroLabel176" value="色:" />
+<Text controlId="MetroLabel163" value="ロールメンションID:" />
+<Text controlId="MetroLabel75" value="色:" />
+<Text controlId="MetroLabel49" value="ロールメンションID:" />
+<Text controlId="MetroLabel173" value="サムネイル:" />
+<Text controlId="MetroLabel174" value="WebhookURL:" />
+<Text controlId="MetroLabel175" value="Carbonアップデート" />
+<Text controlId="MetroButton32" value="テスト送信" />
+<Text controlId="MetroButton31" value="設定を保存" />
+<Text controlId="MetroLabel149" value="Oxideアップデート" />
+<Text controlId="MetroButton26" value="テスト送信" />
+<Text controlId="MetroLabel144" value="WebhookURL:" />
+<Text controlId="MetroButton4" value="設定を保存" />
+<Text controlId="MetroButton7" value="エラーログを送信" />
+<Text controlId="ToolStripMenuItem10" value="削除" />
+<Text controlId="ToolStripMenuItem21" value="言語" />
+<Text controlId="RussianToolStripMenuItem" value="ロシア語（多くのエラーあり）" />
+<Text controlId="ToolStripMenuItem34" value="WebSocketに接続" />
+<Text controlId="CbWipeServer" value="サーバーをワイプ" />
+<Text controlId="Label51" value="バージョン:" />
+<Text controlId="Toolplayer" value="プレイヤー: " />
+<Text controlId="Toolsleepers" value="スリーパー:" />
+<Text controlId="ToolJoining" value="参加中:" />
+<Text controlId="Toolfps" value="FPS:" />
+<Text controlId="Toolentitycount" value="エンティティ数:" />
+<Text controlId="Toolcpu" value="CPU:" />
+<Text controlId="ToolRAM" value="RAM:" />
+<Text controlId="LStatusTop" value="ステータス" />
+<Text controlId="MetroLabel107" value="ステータスを表示" />
+<Text controlId="BSupport" value="サポート" />
+<Text controlId="BDashboard" value="ダッシュボード" />
+<Text controlId="BInstaller" value="インストーラー" />
+<Text controlId="BSettings" value="設定" />
+<Text controlId="BDiscordRemote" value="Discord" />
+<Text controlId="BPlugins" value="プラグイン" />
+<Text controlId="BServerMessages" value="メッセージ" />
+<Text controlId="BWipeManager" value="ワイプ管理" />
+<Text controlId="BPlayerManager" value="プレイヤー管理" />
+<Text controlId="BOxide" value="拡張機能" />
+<Text controlId="BConsole" value="コンソール" />
+<Text controlId="MetroButton17" value="設定を保存" />
+<Text controlId="TabPage11" value="Webhooks 2" />
+<Text controlId="MetroLabel171" value="\n = 改行" />
+<Text controlId="MetroLabel191" value="! = サーバーIP:ポート" />
+<Text controlId="MetroLabel192" value="$ = サーバー画像" />
+<Text controlId="MetroLabel193" value="? = 時間（秒）" />
+<Text controlId="MetroLabel161" value="色:" />
+<Text controlId="MetroLabel151" value="サーバー再起動" />
+<Text controlId="MetroLabel152" value="WebhookURL:" />
+<Text controlId="MetroLabel155" value="サムネイル:" />
+<Text controlId="DCServerWipecolor" value="アクア" />
+<Text controlId="MetroLabel153" value="ロールメンションID:" />
+<Text controlId="MetroLabel158" value="ロールメンションID:" />
+<Text controlId="MetroLabel162" value="色:" />
+<Text controlId="MetroLabel154" value="ロールメンションID:" />
+<Text controlId="MetroLabel159" value="色:" />
+<Text controlId="MetroLabel164" value="サムネイル:" />
+<Text controlId="MetroLabel160" value="サムネイル:" />
+<Text controlId="MetroLabel165" value="WebhookURL:" />
+<Text controlId="MetroLabel166" value="クライアントアップデート" />
+<Text controlId="MetroLabel157" value="WebhookURL:" />
+<Text controlId="MetroLabel167" value="ロールメンションID:" />
+<Text controlId="MetroLabel168" value="サーバーアップデート" />
+<Text controlId="MetroLabel169" value="WebhookURL:" />
+<Text controlId="MetroLabel170" value="サムネイル:" />
+<Text controlId="MetroLabel156" value="サーバーワイプ" />
+<Text controlId="MetroLabel172" value="色:" />
+<Text controlId="MetroLabel105" value="画像:" />
+<Text controlId="MetroLabel126" value="テキスト:" />
+<Text controlId="MetroLabel127" value="画像:" />
+<Text controlId="MetroLabel125" value="テキスト:" />
+<Text controlId="MetroButton29" value="設定を保存" />
+<Text controlId="MetroButton25" value="テスト送信" />
+<Text controlId="MetroButton27" value="テスト送信" />
+<Text controlId="MetroButton28" value="テスト送信" />
+<Text controlId="MetroButton24" value="テスト送信" />
+<Text controlId="MetroLabel102" value="テストメッセージ チャンネル_ID:" />
+<Text controlId="Botsendtest" value="テストメッセージを送信" />
+<Text controlId="TabPage10" value="Webhooks" />
+<Text controlId="MetroLabel190" value="\n = 改行" />
+<Text controlId="MetroLabel114" value="! = サーバーIP:ポート" />
+<Text controlId="MetroLabel180" value="ロールメンションID:" />
+<Text controlId="MetroLabel181" value="起動中" />
+<Text controlId="MetroLabel182" value="WebhookURL:" />
+<Text controlId="MetroLabel183" value="サムネイル:" />
+<Text controlId="MetroLabel184" value="テキスト:" />
+<Text controlId="MetroLabel185" value="色:" />
+<Text controlId="MetroLabel186" value="画像:" />
+<Text controlId="MetroLabel79" value="$ = サーバー画像" />
+<Text controlId="MetroLabel147" value="ロールメンションID:" />
+<Text controlId="MetroLabel148" value="色:" />
+<Text controlId="MetroLabel150" value="サムネイル:" />
+<Text controlId="MetroLabel146" value="WebhookURL:" />
+<Text controlId="MetroLabel145" value="サーバーストップ" />
+<Text controlId="MetroLabel142" value="ロールメンションID:" />
+<Text controlId="MetroLabel143" value="色:" />
+<Text controlId="MetroLabel141" value="サムネイル:" />
+<Text controlId="MetroLabel140" value="WebhookURL:" />
+<Text controlId="MetroLabel139" value="サーバーオフライン" />
+<Text controlId="MetroLabel138" value="ロールメンションID:" />
+<Text controlId="MetroLabel137" value="サーバーオンライン" />
+<Text controlId="MetroLabel131" value="WebhookURL:" />
+<Text controlId="MetroLabel135" value="サムネイル:" />
+<Text controlId="MetroLabel119" value="テキスト:" />
+<Text controlId="MetroLabel136" value="色:" />
+<Text controlId="MetroLabel130" value="画像:" />
+<Text controlId="MetroLabel128" value="画像:" />
+<Text controlId="MetroLabel129" value="画像:" />
+<Text controlId="MetroLabel133" value="? = 時間（秒）" />
+<Text controlId="MetroButton35" value="テスト送信" />
+<Text controlId="MetroButton23" value="テスト送信" />
+<Text controlId="MetroButton22" value="テスト送信" />
+<Text controlId="MetroButton21" value="テスト送信" />
+<Text controlId="BtnSaveMessage" value="メッセージを保存" />
+<Text controlId="TabPage4" value="カスタムメッセージ" />
+<Text controlId="MetroLabel99" value="コマンド" />
+<Text controlId="MetroLabel50" value="コマンド" />
+<Text controlId="MetroLabel48" value="コマンド" />
+<Text controlId="MetroLabel14" value="コマンド" />
+<Text controlId="MetroLabel5" value="コマンド" />
+<Text controlId="MetroLabel98" value="テストメッセージ" />
+<Text controlId="MetroLabel92" value="#4 カスタムメッセージ" />
+<Text controlId="MetroLabel93" value="間隔（分）" />
+<Text controlId="MetroLabel94" value="#3 カスタムメッセージ" />
+<Text controlId="MetroLabel95" value="#2 カスタムメッセージ" />
+<Text controlId="MetroLabel96" value="間隔（分）" />
+<Text controlId="MetroLabel97" value="#1 カスタムメッセージ" />
+<Text controlId="Customtestmessage" value="テストメッセージを送信" />
+<Text controlId="Btcustommessage" value="メッセージを保存" />
+<Text controlId="TabPage9" value="Bot設定" />
+<Text controlId="LinkLabel12" value="Discord Bot コマンド" />
+<Text controlId="LinkLabel11" value="Discord Bot ガイド" />
+<Text controlId="BunifuGroupBox8" value="Discordコンソール" />
+<Text controlId="LinkLabel8" value="Discord開発者ポータル" />
+<Text controlId="BunifuGroupBox4" value="Discord Bot設定" />
+<Text controlId="MetroLabel84" value="Botステータスを隠す" />
+<Text controlId="MetroLabel76" value="MRS起動時にBotを開始" />
+<Text controlId="MetroLabel134" value="% = 最大人数" />
+<Text controlId="MetroLabel132" value="$ = オンラインプレイヤー" />
+<Text controlId="MetroLabel74" value="サーバーID:" />
+<Text controlId="MetroLabel104" value="ゲーム設定:" />
+<Text controlId="MetroLabel73" value="ロールID: (権限)" />
+<Text controlId="Botdisconnect" value="Botを切断" />
+<Text controlId="MetroLabel72" value="Botトークン:" />
+<Text controlId="Botconnect" value="Botを接続" />
+<Text controlId="MetroLabel113" value="接頭辞:" />
+<Text controlId="BunifuGroupBox3" value="Discord WebHook設定" />
+<Text controlId="MetroLabel80" value="ワイプ通知を送信" />
+<Text controlId="MetroLabel77" value="サーバー状態通知 (オンライン/オフライン/再起動/停止)" />
+<Text controlId="MetroLabel78" value="アップデート通知 (サーバー/クライアント/Oxide/Carbon)" />
+<Text controlId="MetroButton20" value="設定を保存" />
+<Text controlId="MetroLabel103" value="テストメッセージ:" />
+<Text controlId="TabPage16" value="権限管理" />
+<Text controlId="Label44" value="権限" />
+<Text controlId="Label43" value="プレイヤー" />
+<Text controlId="Label42" value="グループ" />
+<Text controlId="ToolStripMenuItem28" value="グループを追加" />
+<Text controlId="ToolStripMenuItem26" value="グループを削除" />
+<Text controlId="ToolStripMenuItem27" value="ユーザーを追加" />
+<Text controlId="ToolStripMenuItem30" value="SteamIDをコピー" />
+<Text controlId="ToolStripMenuItem29" value="ユーザーを削除" />
+<Text controlId="MetroButton12" value="Carbonをアンインストール" />
+<Text controlId="MetroButton11" value="Carbonをインストールまたは更新" />
+<Text controlId="Btnaddcommand" value="コマンドを追加" />
+<Text controlId="ToolStripMenuItem36" value="Steamプロフィールを開く" />
+<Text controlId="ToolStripMenuItem37" value="SteamIDをコピー" />
+<Text controlId="ToolStripMenuItem38" value="名前をコピー" />
+<Text controlId="ToolStripMenuItem39" value="IPを確認" />
+<Text controlId="ToolStripMenuItem42" value="プレイヤーをキル" />
+<Text controlId="ToolStripMenuItem44" value="プレイヤーをBAN (理由付き)" />
+<Text controlId="MetroButton6" value="リロード" />
+<Text controlId="TabPage8" value="BANリスト" />
+<Text controlId="MetroButton18" value="リロード" />
+<Text controlId="ToolStripMenuItem22" value="Steamプロフィールを開く" />
+<Text controlId="ToolStripMenuItem23" value="SteamIDをコピー" />
+<Text controlId="ToolStripMenuItem24" value="名前をコピー" />
+<Text controlId="ToolStripMenuItem25" value="プレイヤーのBANを解除" />
+<Text controlId="TabPage14" value="設定" />
+<Text controlId="Label50" value="メッセージ" />
+<Text controlId="Label49" value="国のブロック" />
+<Text controlId="MetroButton8" value="国リスト" />
+<Text controlId="Label48" value="メッセージ" />
+<Text controlId="Label47" value="メッセージ" />
+<Text controlId="Label46" value="最大BAN回数でキック" />
+<Text controlId="Label36" value="最大許容Pingでキック" />
+<Text controlId="LinkLabel10" value="(Steam APIキー)" />
+<Text controlId="MetroButton5" value="保存" />
+<Text controlId="TabPage3" value="サーバーメッセージ" />
+<Text controlId="MetroLabel179" value="低FPS警告の送信" />
+<Text controlId="MetroLabel178" value="ロールメンションID:" />
+<Text controlId="MetroLabel177" value="色:" />
+<Text controlId="MetroLabel115" value="? = 参加" />
+<Text controlId="Btnbackup" value="バックアップを作成" />
+<Text controlId="MetroLabel87" value="自動バックアップ" />
+<Text controlId="MetroButton2" value="設定を保存" />
+<Text controlId="MetroLabel86" value="X日ごと:" />
+<Text controlId="MetroLabel89" value="次のバックアップ" />
+<Text controlId="OpenToolStripMenuItem" value="開く" />
+<Text controlId="ToolStripMenuItem11" value="削除" />
+<Text controlId="WipeTab" value="ワイプ" />
+<Text controlId="Btnwipe" value="サーバーをワイプ" />
+<Text controlId="WipeSheduleTab" value="ワイプスケジュール" />
+<Text controlId="BunifuGroupBox6" value="カスタムフォルダ/ファイル" />
+<Text controlId="ToolStripMenuItem31" value="削除" />
+<Text controlId="MetroButton34" value="フォルダを追加" />
+<Text controlId="MetroButton33" value="ファイルを追加" />
+<Text controlId="BunifuGroupBox5" value="ワイプ日" />
+<Text controlId="MetroLabel117" value="次のワイプ:" />
+<Text controlId="MetroLabel100" value="カスタムマップ" />
+<Text controlId="MetroLabel51" value="カスタムフォルダ/ファイル" />
+<Text controlId="MetroLabel52" value="カスタムシード" />
+<Text controlId="MetroLabel53" value="ワイプ時に新しいマップシード" />
+<Text controlId="MetroLabel54" value="プレイヤートークン" />
+<Text controlId="MetroLabel55" value="プレイヤー状態" />
+<Text controlId="MetroLabel60" value="プレイヤーID" />
+<Text controlId="MetroLabel61" value="プレイヤーの死" />
+<Text controlId="MetroLabel62" value="バックパック" />
+<Text controlId="MetroLabel63" value="マップ" />
+<Text controlId="MetroLabel64" value="設計図" />
+<Text controlId="MetroLabel65" value="フルワイプ" />
+<Text controlId="MetroLabel66" value="ログ" />
+<Text controlId="Btsheduleadd" value="スケジュールを追加" />
+<Text controlId="CustomSeedTab" value="カスタム" />
+<Text controlId="Btnrandomemap" value="ランダムマップを追加" />
+<Text controlId="MetroButton1" value="ファイルを追加" />
+<Text controlId="MetroLabel68" value="カスタムフォルダ/ファイル" />
+<Text controlId="MetroLabel67" value="カスタムシード" />
+<Text controlId="MetroLabel18" value="カスタムマップ" />
+<Text controlId="ToolStripMenuItem18" value="削除" />
+<Text controlId="ToolStripMenuItem35" value="編集" />
+<Text controlId="Btaddcustommap" value="マップを追加" />
+<Text controlId="Btnaddfolder" value="フォルダを追加" />
+<Text controlId="ToolStripMenuItem17" value="削除" />
+<Text controlId="ToolStripMenuItem16" value="削除" />
+<Text controlId="Btaddmap" value="マップを追加" />
+<Text controlId="TabPage6" value="Oxide" />
+<Text controlId="TabPage17" value="インストール/アップデート" />
+<Text controlId="BUninstallOxide" value="Oxide アンインストール" />
+<Text controlId="BInstallOxide" value="Oxideインストール/更新" />
+<Text controlId="BStartServer" value="サーバーを起動" />
+<Text controlId="Label6" value="強制再起動" />
+<Text controlId="Label34" value="CPU優先度" />
+<Text controlId="Label11" value="設定" />
+<Text controlId="Label12" value="ゲームモード" />
+<Text controlId="CombForceRestart" value="06:00" />
+<Text controlId="Label33" value="強制再起動（24時間）" />
+<Text controlId="Label13" value="CPUアフィニティ" />
+<Text controlId="Label28" value="拡張機能" />
+<Text controlId="Label14" value="サーバー自動再起動" />
+<Text controlId="Label32" value="起動時のみアップデート" />
+<Text controlId="Label27" value="CPUアフィニティを有効化" />
+<Text controlId="Label23" value="サーバー自動アップデート" />
+<Text controlId="Btncpuaffinity" value="CPUアフィニティ" />
+<Text controlId="BUninstallDiscordExtension" value="Discord拡張機能
+アンインストール" />
+<Text controlId="BUninstallRustEdit" value="RustEdit
+アンインストール" />
+<Text controlId="BInstallDiscordExtension" value="Discord拡張機能
+インストール/更新" />
+<Text controlId="BInstallRustEdit" value="RustEdit
+インストール/更新" />
+<Text controlId="BVerifyServerFiles" value="サーバーファイルを確認" />
+<Text controlId="BInstallServer" value="サーバーをインストールまたは更新" />
+<Text controlId="TabPage1" value="サーバー設定" />
+<Text controlId="Label40" value="Windowsファイアウォールにポートを追加" />
+<Text controlId="MetroLabel120" value="画像サイズ 256x256" />
+<Text controlId="MetroButton14" value="アップロード" />
+<Text controlId="MetroButton13" value="アップロード" />
+<Text controlId="MetroLabel106" value="サーバーIP:" />
+<Text controlId="MetroLabel112" value="クエリポート:" />
+<Text controlId="Lblrconip" value="Rcon IP:" />
+<Text controlId="Btnnewseed" value="ランダムシード" />
+<Text controlId="BtnAddUsers" value="ユーザーを追加" />
+<Text controlId="Btnaddmap" value="マップを追加" />
+<Text controlId="Btndescription" value="編集" />
+<Text controlId="Btnsavesettings" value="設定を保存" />
+<Text controlId="TabPage13" value="ConVars" />
+<Text controlId="BunifuGroupBox7" value="コンソール変数" />
+<Text controlId="ToolStripMenuItem15" value="削除" />
+<Text controlId="BAddConVars" value="変数を追加" />
+<Text controlId="TabPage5" value="詳細設定" />
+<Text controlId="MetroLabel81" value="サーバー起動時にバックアップを作成" />
+<Text controlId="MetroLabel118" value="サーバーコンソールを起動時に最小化" />
+<Text controlId="MetroLabel116" value="プロセス起動コマンド" />
+<Text controlId="MetroButton10" value="プロセス起動引数を追加" />
+<Text controlId="ToolStripMenuItem6" value="削除" />
+<Text controlId="MetroLabel108" value="MyRustServer起動時にRustサーバーを起動" />
+<Text controlId="BunifuGroupBox1" value="自動バックアップ設定" />
+<Text controlId="LinkLabel13" value="バックアップフォルダ:" />
+<Text controlId="MetroLabel90" value="時間:" />
+<Text controlId="PDes5" value="説明" />
+<Text controlId="PAuthor5" value="開発者" />
+<Text controlId="PVersion5" value="バージョン" />
+<Text controlId="PName3" value="プラグイン名" />
+<Text controlId="PDes3" value="説明" />
+<Text controlId="PAuthor3" value="開発者" />
+<Text controlId="PVersion3" value="バージョン" />
+<Text controlId="PDes2" value="説明" />
+<Text controlId="PAuthor2" value="開発者" />
+<Text controlId="PVersion2" value="バージョン" />
+<Text controlId="PName2" value="プラグイン名" />
+<Text controlId="PName1" value="プラグイン名" />
+<Text controlId="PDes1" value="説明" />
+<Text controlId="PAuthor1" value="開発者" />
+<Text controlId="PVersion1" value="バージョン" />
+<Text controlId="BunifuDropdown1" value="タイトル (A-Z)" />
+<Text controlId="MetroButton30" value="検索" />
+<Text controlId="MetroLabel16" value="あなたのSteamID:" />
+<Text controlId="MetroLabel19" value="画像サイズ 1024x512" />
+<Text controlId="MetroLabel2" value="最大人数:" />
+<Text controlId="lblserverport" value="サーバーポート:" />
+<Text controlId="lblrconport" value="Rconポート:" />
+<Text controlId="lblappport" value="Rust+ポート:" />
+<Text controlId="lblservermap" value="サーバーマップ:" />
+<Text controlId="lblmapsize" value="マップサイズ:" />
+<Text controlId="lblmapseed" value="マップシード:" />
+<Text controlId="lblcustommap" value="カスタムマップ:" />
+<Text controlId="lblrconpw" value="Rconパスワード:" />
+<Text controlId="lbltags" value="タグ:" />
+<Text controlId="lbldescription" value="説明:" />
+<Text controlId="lblapplogo" value="Appロゴ:" />
+<Text controlId="lblweburl" value="ウェブURL:" />
+<Text controlId="lbllogourl" value="ロゴ:" />
+<Text controlId="lblnameserver" value="サーバー名:" />
+<Text controlId="MetroLabel44" value="サーバーを表示" />
+<Text controlId="MetroLabel13" value="サーバー" />
+<Text controlId="Label1" value="最終ワイプ:" />
+<Text controlId="MetroLabel32" value="再起動前のサーバーメッセージ" />
+<Text controlId="MetroLabel33" value="サーバーアップデート前のメッセージ" />
+<Text controlId="MetroLabel39" value="重启时间（分钟" />
+<Text controlId="MetroLabel34" value="Oxideアップデート前のサーバーメッセージ" />
+<Text controlId="MetroLabel37" value="重启时间（分钟" />
+<Text controlId="MetroLabel38" value="重启时间（分钟" />
+<Text controlId="MetroLabel35" value="サーバーワイプ前のメッセージ" />
+<Text controlId="MetroLabel36" value="重启时间（分钟" />
+<Text controlId="MetroButton19" value="サーバーをセーブ" />
+<Text controlId="Label2" value="コントロールパネル" />
+<Text controlId="BKillServer" value="サーバーを強制停止" />
+<Text controlId="BRestartServer" value="サーバーを再起動/停止" />
+<Text controlId="MetroLabel26" value="プレイヤーの死" />
+<Text controlId="MetroLabel25" value="バックパック" />
+<Text controlId="MetroLabel24" value="マップ" />
+<Text controlId="MetroLabel23" value="設計図" />
+<Text controlId="MetroLabel22" value="フルワイプ" />
+<Text controlId="ToolStripMenuItem14" value="削除" />
+<Text controlId="MetroLabel20" value="ログ" />
+<Text controlId="ColumnHeader4" value="ファイル名" />
+<Text controlId="TabEditor1" value="プラグイン" />
+<Text controlId="BtnLoadPlugins" value="プラグインを読み込む" />
+<Text controlId="TabUpdate1" value="アップデート" />
+<Text controlId="MetroButton3" value="有料プラグイン" />
+<Text controlId="Btnblacklixt" value="ブラックリストに登録" />
+<Text controlId="BtnAutoUpdatePlugins" value="すべてのプラグインをアップデート" />
+<Text controlId="Btncheckplugins" value="アップデートを確認" />
+<Text controlId="MetroLabel21" value="自動アップデート (2時間ごとにチェック)" />
+<Text controlId="TabConfig1" value="エディター" />
+<Text controlId="TabInstaller1" value="プラグインインストーラー" />
+<Text controlId="PName10" value="プラグイン名" />
+<Text controlId="PDes10" value="説明" />
+<Text controlId="PAuthor10" value="開発者" />
+<Text controlId="PVersion10" value="バージョン" />
+<Text controlId="PName9" value="プラグイン名" />
+<Text controlId="PDes9" value="説明" />
+<Text controlId="PAuthor9" value="開発者" />
+<Text controlId="PVersion9" value="バージョン" />
+<Text controlId="PName8" value="プラグイン名" />
+<Text controlId="PDes8" value="説明" />
+<Text controlId="PAuthor8" value="開発者" />
+<Text controlId="PVersion8" value="バージョン" />
+<Text controlId="PName6" value="プラグイン名" />
+<Text controlId="PDes6" value="説明" />
+<Text controlId="PAuthor6" value="開発者" />
+<Text controlId="PVersion6" value="バージョン" />
+<Text controlId="PName7" value="プラグイン名" />
+<Text controlId="PDes7" value="説明" />
+<Text controlId="PAuthor7" value="開発者" />
+<Text controlId="PVersion7" value="バージョン" />
+<Text controlId="PName4" value="プラグイン名" />
+<Text controlId="PDes4" value="説明" />
+<Text controlId="PAuthor4" value="開発者" />
+<Text controlId="PVersion4" value="バージョン" />
+<Text controlId="PName5" value="プラグイン名" />
+<Text controlId="ToolStripMenuItem7" value="リロード" />
+<Text controlId="ToolStripMenuItem12" value="アップデート" />
+<Text controlId="ToolStripMenuItem8" value="ウェブサイトを見る" />
+<Text controlId="ToolStripMenuItem20" value="有効/無効" />
+<Text controlId="ToolStripMenuItem9" value="削除" />
+<Text controlId="OpenSteamprofile" value="Steamプロフィールを開く" />
+<Text controlId="CopySteamID" value="SteamIDをコピー" />
+<Text controlId="CopyName" value="名前をコピー" />
+<Text controlId="CheckIP" value="IPを確認" />
+<Text controlId="ToolStripMenuItem32" value="アイテムを与える" />
+<Text controlId="ToolStripMenuItem33" value="プレイヤーを回復" />
+<Text controlId="KillPlayer" value="プレイヤーをキル" />
+<Text controlId="KickPlayer" value="プレイヤーをキック (理由付き)" />
+<Text controlId="BanPlayer" value="プレイヤーをBAN (理由付き)" />
+<Text controlId="Teleportto" value="テレポート" />
+<Text controlId="SetAdminToolStripMenuItem" value="プレイヤーを自分のところにテレポート" />
+<Text controlId="SetModToolStripMenuItem" value="自分をプレイヤーのところにテレポート" />
+<Text controlId="Permissions" value="権限" />
+<Text controlId="SetAdminToolStripMenuItem1" value="管理者に設定" />
+<Text controlId="SetModToolStripMenuItem1" value="モデレーターに設定" />
+<Text controlId="RemoveAdminToolStripMenuItem1" value="管理者を解除" />
+<Text controlId="RemoveModToolStripMenuItem1" value="モデレーターを解除" />
+<Text controlId="LinkLabel4" value="Oxide権限" />
+<Text controlId="MetroLabel15" value="自動スクロール" />
+<Text controlId="MetroLabel3" value="コマンドを送信" />
+<Text controlId="Lblconsole" value="サーバーコンソール" />
+<Text controlId="Lblquickc" value="クイックコマンド" />
+<Text controlId="ToolStripMenuItem19" value="削除" />
+<Text controlId="MetroLabel40" value="カスタムフォルダ/ファイル" />
+<Text controlId="MetroButton9" value="フォルダを追加" />
+<Text controlId="MetroLabel45" value="自動ワイプスケジュール" />
+<Text controlId="ToolStripMenuItem13" value="削除" />
+<Text controlId="MetroLabel42" value="カスタムシード" />
+<Text controlId="MetroLabel31" value="拡張データを表示" />
+<Text controlId="MetroLabel30" value="ワイプ時に新しいマップシード" />
+<Text controlId="MetroLabel29" value="プレイヤートークン" />
+<Text controlId="MetroLabel28" value="プレイヤー状態" />
+<Text controlId="MetroLabel27" value="プレイヤーID" />
+<Text controlId="Label16" value="プレイヤー数:" />
+<Text controlId="Label24" value="サーバーPID:" />
+<Text controlId="Label19" value="稼働時間:" />
+<Text controlId="Label18" value="エンティティ数:" />
+<Text controlId="Label17" value="FPS:" />
+<Text controlId="MetroLabel7" value="導入済:" />
+<Text controlId="MetroLabel10" value="導入済:" />
+<Text controlId="MetroLabel57" value="導入済:" />
+<Text controlId="MetroLabel58" value="導入済:" />
+<Text controlId="MetroLabel11" value="最新版:" />
+<Text controlId="MetroLabel4" value="最新版:" />
+<Text controlId="Label22" value="就寝中:" />
+<Text controlId="Label21" value="参加中:" />
+<Text controlId="Label20" value="プロトコル:" />
+<Text controlId="Label31" value="最終ワイプ:" />
+<Text controlId="Label37" value="RAM使用量:" />
+<Text controlId="Label38" value="サーバーIP:" />
+<Text controlId="Label15" value="サーバー概要" />
+<Text controlId="MetroLabel189" value="サーバーを表示" />
+<Text controlId="MetroLabel46" value="導入済:" />
+<Text controlId="MetroLabel47" value="最新版:" />
+<Text controlId="MetroLabel122" value="導入済:" />
+<Text controlId="MetroLabel121" value="最新版:" />
+<Text controlId="MetroLabel71" value="間隔（分）:" />
+<Text controlId="MetroLabel91" value="間隔（分）:" />
+<Text controlId="MetroLabel83" value="サーバータイトルに日付を表示" />
+<Text controlId="MetroButton38" value="OxideをCarbonに変換" />
+<Text controlId="MetroButton36" value="すべて無効化" />
+<Text controlId="MetroButton37" value="すべて有効化" />
+<Text controlId="MetroButton41" value="リストを読み込む" />
+<Text controlId="MetroButton40" value="リストをクリア" />
+<Text controlId="TabPage7" value="オンライン" />
+<Text controlId="TabPage15" value="オフライン" />
+  </Texts>
+</Localization>

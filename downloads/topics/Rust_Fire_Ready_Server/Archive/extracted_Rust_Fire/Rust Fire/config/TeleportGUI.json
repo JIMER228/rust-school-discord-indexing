@@ -1,0 +1,46 @@
+{
+  "PrefixEnabled": true,
+  "PrefixText": "<color=orange>TP: </color>",
+  "DefaultTimeUntilTeleport": 15,
+  "TimeUntilTeleport": {
+    "teleportgui.vip": 12,
+    "teleportgui.elite": 8,
+    "teleportgui.god": 3,
+    "teleportgui.none": 0,
+    "teleportgui.premium": 10,
+    "teleportgui.fire": 5
+  },
+  "TPCommandAliases": [],
+  "RequestTimeoutTime": 30.0,
+  "DefaultCooldown": 300.0,
+  "Cooldowns": {
+    "teleportgui.vip": 240.0,
+    "teleportgui.elite": 120.0,
+    "teleportgui.god": 15.0,
+    "teleportgui.none": 0.0,
+    "teleportgui.premium": 180.0,
+    "teleportgui.fire": 60.0
+  },
+  "DefaultDailyLimit": 0,
+  "DailyLimit": {
+    "teleportgui.vip": 0,
+    "teleportgui.elite": 0,
+    "teleportgui.god": 0,
+    "teleportgui.none": 0
+  },
+  "AdminTPSilent": false,
+  "AdminTPEnabled": false,
+  "AllowTeleportWhilstBleeding": false,
+  "AllowTeleportToBuildBlockedPlayer": false,
+  "AllowTeleportFromBuildBlock": true,
+  "UseEconomicsPlugin": false,
+  "EconomicsPrice": 100.0,
+  "UseServerRewardsPlugin": false,
+  "ServerRewardsPrice": 10,
+  "PayAfterUsingDailyLimits": false,
+  "BlockTPCrafting": false,
+  "AllowSpecialCharacters": false,
+  "CancelTeleportOnDamage": true,
+  "CanTeleportIntoZone": true,
+  "CanTeleportFromZone": true
+}

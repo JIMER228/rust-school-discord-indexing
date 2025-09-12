@@ -1,0 +1,19 @@
+{
+  "noFunds": "Not enough funds to upgrade furnace.",
+  "upSucc": "Furnace was successfully upgraded.",
+  "noPerms": "You missing permissions to access upgrade menu.",
+  "info": "Upgrades are tied to particular furnace, after picking up or destroying furnace, upgrades are lost. Type /furnace for more info.",
+  "speedTitle": "Smelting Speed",
+  "fuelTitle": "Fuel Efficiency",
+  "outTitle": "Resource Output",
+  "speedDesc": "Speeding up smelting process.",
+  "fuelDesc": "Decreasing fuel usage per tick.",
+  "outDesc": "Chance to receive extra smelted item.",
+  "maxLevel": "✓ Already Max Level",
+  "upFor": "Upgrade for",
+  "chatCommand": "<size=19><color=#FF6800>Furnace Levels</color></size> \n\n Upgrades are tied to particular furnace, after picking up or destroying furnace, upgrades are lost. \n\n To apply purchased upgrades just toggle furnace <color=#FFD6BA>'off'</color> and <color=#FFD6BA>'on'</color>. \n\n <size=16><color=#FFB888>Available Upgrades</color></size>\n• Smelting Speed   <color=#FFD6BA><size=10>/furnace speed</size></color>\n• Fuel Usage   <color=#FFD6BA><size=10>/furnace fuel</size></color> \n• Output Modifier   <color=#FFD6BA><size=10>/furnace output</size></color>",
+  "chatCommandSpeed": "<size=14><color=#FF6800>Speed Upgrades</color></size>\n<size=11>Lower value equals higher smelting speed.</size>\n",
+  "chatCommandFuel": "<size=14><color=#FF6800>Fuel Upgrades</color></size>\n<size=11>Lower value means wood lower food consuption when smelting.</size>\n",
+  "chatCommandOut": "<size=14><color=#FF6800>Output Upgrades</color></size>\n<size=11>Resource output multiplier.</size>\n",
+  "upgradeBtn": "Upgrade"
+}

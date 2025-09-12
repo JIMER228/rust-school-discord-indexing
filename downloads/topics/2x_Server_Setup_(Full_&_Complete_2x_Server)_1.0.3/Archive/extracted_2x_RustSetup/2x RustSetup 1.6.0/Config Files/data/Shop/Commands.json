@@ -1,0 +1,20 @@
+{
+  "YourCommandName": {
+    "DisplayName": "default",
+    "Image": "https://rustlabs.com/img/items180/water.salt.png",
+    "Message": "You just bought command",
+    "Command": "chat.say {playername} or {steamid}",
+    "BuyPrice": 50,
+    "Currency": "eco",
+    "ShowDisplayName": false
+  },
+  "YourCommandName2": {
+    "DisplayName": "default",
+    "Image": "https://rustlabs.com/img/items180/water.salt.png",
+    "Message": "You just bought command",
+    "Command": "chat.say {playername} or {steamid}",
+    "BuyPrice": 50,
+    "Currency": "eco",
+    "ShowDisplayName": false
+  }
+}

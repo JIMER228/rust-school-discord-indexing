@@ -1,0 +1,45 @@
+{
+  "The location of the basic building blocks (Cannot be destroyed)": [
+  ],
+  "Regular Entities": [
+	{
+      "Prefab": "assets/prefabs/io/electric/lights/sirenlightorange.prefab",
+      "Skin": 0,
+      "Position": "(-0.114, 0.492, 4.373)",
+      "Rotation": "(0, 0, 0)"
+    },
+	{
+      "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+      "Skin": 0,
+      "Position": "(-0.139, 1.168, 2.885)",
+      "Rotation": "(270, 180, 0)"
+    }
+  ],
+  "Decor Entities": [
+	{
+      "Prefab": "assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.deployed.prefab",
+      "Skin": 0,
+      "Position": "(-0.123, 0.393, 3.363)",
+      "Rotation": "(270, 180, 0)"
+    },
+	{
+      "Prefab": "assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.deployed.prefab",
+      "Skin": 0,
+      "Position": "(-0.123, -0.259, 3.363)",
+      "Rotation": "(90, 0, 0)"
+    },
+	{
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(0.049, 0.432, -1.967)",
+      "Rotation": "(90.00, 0.00, 0)"
+    },
+  ],
+  "Box Colliders" : [
+	{
+      "Local Position": "(-0.143, -0.521, 1.335)",
+      "Local Rotation": "(0, 0, 0)",
+      "Size": "(2.35, 1.25, 5)"
+    }
+  ]
+}

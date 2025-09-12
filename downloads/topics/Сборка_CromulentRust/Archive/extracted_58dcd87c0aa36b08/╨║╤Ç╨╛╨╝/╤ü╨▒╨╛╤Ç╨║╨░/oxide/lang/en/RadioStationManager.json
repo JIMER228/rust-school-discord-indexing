@@ -1,0 +1,14 @@
+{
+  "ArgsReq1": "Invalid args use: /stnremove stnNAME",
+  "ArgsReq2": "Invalid args use: /stnadd stnNAME,stnURL",
+  "NoPerms": "You don't have permission to use this command.",
+  "StnNA": "Station not found",
+  "StnAdded": "Radio Station {0} was added url:{1}",
+  "StnRemoved": "Radio Station {0} was removed",
+  "StnsCleared": "All custom stations have been cleared",
+  "StnsList": "Custom Stations: {0}",
+  "StationAddCMD": "stnadd",
+  "StationRemoveCMD": "stnremove",
+  "StationListCMD": "stnlist",
+  "StationClearCMD": "stnclear"
+}

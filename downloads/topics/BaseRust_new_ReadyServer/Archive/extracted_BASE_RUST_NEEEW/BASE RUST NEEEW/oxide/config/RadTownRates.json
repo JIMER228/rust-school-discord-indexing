@@ -1,0 +1,65 @@
+{
+  "Общие настройки": {
+    "Откат до следующего захвата в секундах": 14400,
+    "Сколько секунд длится захват": 600,
+    "Во сколько раз умножать (от ваших рейтов)": 2,
+    "Название файла с постройкой": "rt_1",
+    "Список лута который умножаем": [
+      "metalpipe",
+      "metalblade",
+      "metalspring",
+      "gears",
+      "roadsigns",
+      "riflebody",
+      "rope",
+      "semibody",
+      "sewingkit",
+      "sheetmetal",
+      "smgbody",
+      "tarp",
+      "techparts",
+      "cctv.camera",
+      "targeting.computer",
+      "sulfur",
+      "stones",
+      "scrap",
+      "lowgradefuel",
+      "metal.fragments",
+      "leather",
+      "metal.refined",
+      "gunpowder",
+      "cloth",
+      "wood"
+    ]
+  },
+  "Настройки маркеров": {
+    "Радиус маркера": 0.5,
+    "Прозрачность маркера": 0.4,
+    "Цвет маркера когда РТ можно захватить": "#10c916",
+    "Цвет маркера когда РТ захватывают": "#ed0707",
+    "Цвет маркера когда РТ нельзя захваить": "#ffb700"
+  },
+  "Настройки РТ": {
+    "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab": {
+      "Название РТ": "Железнодорожное Депо",
+      "На каком расстояние от рубильника умножать лут": 250
+    },
+    "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab": {
+      "Название РТ": "Аэродром",
+      "На каком расстояние от рубильника умножать лут": 250
+    },
+    "assets/bundled/prefabs/autospawn/monument/xlarge/launch_site_1.prefab": {
+      "Название РТ": "Космодром",
+      "На каком расстояние от рубильника умножать лут": 300
+    },
+    "assets/bundled/prefabs/autospawn/monument/large/military_tunnel_1.prefab": {
+      "Название РТ": "Военный тунель",
+      "На каком расстояние от рубильника умножать лут": 300
+    }
+  },
+  "Версия конфига": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  }
+}

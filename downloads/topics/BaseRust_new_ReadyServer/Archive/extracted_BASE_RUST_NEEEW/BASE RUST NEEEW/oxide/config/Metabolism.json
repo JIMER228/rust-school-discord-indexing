@@ -1,0 +1,29 @@
+{
+  "Permission -> Settings": {
+    "metabolism.prince": {
+      "Water on respawn": 1000.0,
+      "Calories on respawn": 1000.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.monarch": {
+      "Water on respawn": 500.0,
+      "Calories on respawn": 500.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.knight": {
+      "Water on respawn": 400.0,
+      "Calories on respawn": 400.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.shooter": {
+      "Water on respawn": 300.0,
+      "Calories on respawn": 300.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.default": {
+      "Water on respawn": 250.0,
+      "Calories on respawn": 250.0,
+      "Health on respawn": 75.0
+    }
+  }
+}

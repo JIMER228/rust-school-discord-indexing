@@ -1,0 +1,18 @@
+{
+  "Text_CallCheck": "You have been called for verification!\nYou have 5 minutes to submit your discord!\nUse the command: <color=#d1b160>/{0} <Your discord></color>",
+  "Message_For_Player": "<color=#525454>[Message from </color><color=#76c6cc><b>{0}</b></color><color=#525454>]</color> {1}",
+  "OnPlayerBan_Broadcast_NeverUnBan": "Player <color=#c78b48>{0}</color> <color=#c78b48>permanently</color> has been banned for: <color=#c78b48>{1}</color>",
+  "OnPlayerBan_Broadcast": "Banned <color=#c78b48>{0}</color> until <color=#c78b48>{1:F}</color> due to: <color=#c78b48>{2}</color>",
+  "OnPlayerBan_Kick_NeverUnBan": "You are banned by <color=#c78b48>permanently</color> for the reason: <color=#c78b48>{0}</color>",
+  "OnPlayerBan_Kick": "You are banned until <color=#c78b48>{0:f}</color>, because of: <color=#c78b48>{1}</color>",
+  "Kick_Has_License": "You have a license, connect with it!",
+  "Kick_VPN": "Connect without VPN!",
+  "NoticeModers_CountRep_Player_Discord": "ALO MODORI!!1! the player already has more than {0} reports!",
+  "NoticeModers_CountRep_Player_Discord_Ping": "",
+  "NoticeModers_CountRep_Player": "Player <color=#c78b48>{0}</color> already has over {1} reports!",
+  "OnPlayerBan_OtherServer_Kick_NeverUnBan": "You are banned from another server <color=#c78b48>permanently</color>, for the reason: <color=#c78b48>{0}</color>",
+  "OnPlayerBan_OtherServer_Kick": "You are banned from another server until <color=#c78b48>{0:F}</color>, because of: <color=#c78b48>{1}</color>",
+  "CallCheck_Discord_NotOnCheck": "You are not checking now!",
+  "CallCheck_Discord_NotDiscord": "You didn't enter your discord!",
+  "CallCheck_Discord_DiscordSpecified": "You specified discord: {0}"
+}

@@ -1,0 +1,410 @@
+{
+  "Cooldown between events": 3600,
+  "Minimal players to start event": 15,
+  "Randomize events": false,
+  "Events": [
+    {
+      "Shortname": "Альпинист",
+      "Display name": "АЛЬПИНИСТ",
+      "Duration": 300,
+      "Description": "Захватите самую высокую позицию на карте и удерживайте её!",
+      "Type": "KingOfTheHill",
+      "Targets": [],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "Разрушитель",
+      "Display name": "РАЗРУШИТЕЛЬ",
+      "Duration": 300,
+      "Description": "Сокрушите как можно больше бочек! Чем больше - тем больше шансов выйграть!",
+      "Type": "Kill",
+      "Targets": [
+        "loot-barrel-1",
+        "loot-barrel-2",
+        "loot_barrel_1",
+        "loot_barrel_2"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "Фармер",
+      "Display name": "ФАРМЕР",
+      "Duration": 300,
+      "Description": "Будьте прожорливы и соберите как можно больше всех ресурсов!",
+      "Type": "Gather",
+      "Targets": [
+        "wood",
+        "stones",
+        "sulfur.ore",
+        "metal.ore",
+        "hq.metal.ore",
+        "cloth",
+        "leather",
+        "fat.animal"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "npc",
+      "Display name": "NPC КИЛЛЕР",
+      "Duration": 300,
+      "Description": "Учёных стало слишком много.Найди и убей их.",
+      "Type": "Kill",
+      "Targets": [
+        "bandit_guard",
+        "murderer",
+        "scarecrow",
+        "scientist_astar_full_any",
+        "scientist_junkpile_pistol",
+        "scientist_turret_any",
+        "scientist",
+        "scientist_gunner",
+        "scientistjunkpile",
+        "scientistpeacekeeper",
+        "scientiststationary",
+        "heavyscientist",
+        "scientistnpc"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "Лесоруб",
+      "Display name": "ЛЕСОРУБ",
+      "Duration": 300,
+      "Description": "Просто хватай топор и бегом собирать дерево!",
+      "Type": "Gather",
+      "Targets": [
+        "wood"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "Камнелом",
+      "Display name": "КАМНЕЛОМ",
+      "Duration": 300,
+      "Description": "Хватай кирку и бегом добывать камень!",
+      "Type": "Gather",
+      "Targets": [
+        "stones"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    },
+    {
+      "Shortname": "Браконьер",
+      "Display name": "БРАКОНЬЕР",
+      "Duration": 300,
+      "Description": "Сезон охоты открыт. Теперь можно поохотится.\nУбей как можно больше живности (человек не животное)",
+      "Type": "Kill",
+      "Targets": [
+        "stag",
+        "wolf",
+        "horse",
+        "chicken",
+        "boar",
+        "bear"
+      ],
+      "Rewards": [
+        {
+          "Places": [
+            1
+          ],
+          "Item": {
+            "Command": "sr add {userid} 25",
+            "Shortname": "",
+            "Description": "25 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            2
+          ],
+          "Item": {
+            "Command": "sr add {userid} 15",
+            "Shortname": "",
+            "Description": "15 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        },
+        {
+          "Places": [
+            3
+          ],
+          "Item": {
+            "Command": "sr add {userid} 10",
+            "Shortname": "",
+            "Description": "10 RP",
+            "Amount": 1,
+            "Skin": 0,
+            "Display name": null,
+            "Blueprint": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Weapon customization": {
+    "Whether to add a prefix to the weapon": true,
+    "weapon prefix": "[No recoil]",
+    "Item ShortName / settings": {
+      "rifle.ak": {
+        "Max Ammo (not more than 1000)": 30,
+        "Return percentage 100 - there will be no recoil. 50 - recoil reduced by 50%": 100,
+        "SkinId": 0
+      },
+      "rifle.lr300": {
+        "Max Ammo (not more than 1000)": 30,
+        "Return percentage 100 - there will be no recoil. 50 - recoil reduced by 50%": 100,
+        "SkinId": 0
+      },
+      "smg.thompson": {
+        "Max Ammo (not more than 1000)": 20,
+        "Return percentage 100 - there will be no recoil. 50 - recoil reduced by 50%": 100,
+        "SkinId": 0
+      },
+      "smg.2": {
+        "Max Ammo (not more than 1000)": 24,
+        "Return percentage 100 - there will be no recoil. 50 - recoil reduced by 50%": 100,
+        "SkinId": 0
+      },
+      "smg.mp5": {
+        "Max Ammo (not more than 1000)": 30,
+        "Return percentage 100 - there will be no recoil. 50 - recoil reduced by 50%": 100,
+        "SkinId": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Chat command": "ad",
+  "Door Closer chat command": "closer",
+  "Other Options": {
+    "Use prefix in chat messages": true,
+    "Admins bypass restrictions": false,
+    "Prevent use if player is raid blocked": true,
+    "Prevent use if player is combat blocked": false,
+    "Prevent pick up of door closes": true
+  },
+  "Delay Options": {
+    "Door closer": {
+      "Minimum": 5.0,
+      "Maximum": 900.0
+    },
+    "Ladder hatch": {
+      "Minimum": 5.0,
+      "Maximum": 900.0
+    }
+  },
+  "Default Settings": {
+    "Auto-lock on placement": true,
+    "Deploy on doors": true,
+    "Deploy on boxes": true,
+    "Deploy on lockers": true,
+    "Deploy on cupboards": true,
+    "Deploy door closer": true,
+    "Door close delay": 5.0,
+    "Ladder hatch close delay": 5.0,
+    "Use guest code": true
+  },
+  "Data Management": {
+    "Save data in ProtoBuf format": false,
+    "Purge user data after X days of inactivity (0 is disabled)": 7
+  },
+  "UI Colors": {
+    "Background": {
+      "Hex": "2E3049",
+      "Alpha": 0.8
+    },
+    "Panel": {
+      "Hex": "2E3049",
+      "Alpha": 0.8
+    },
+    "Button": {
+      "Hex": "37394A",
+      "Alpha": 0.8
+    },
+    "Highlight": {
+      "Hex": "AA92ED",
+      "Alpha": 1.0
+    },
+    "Close": {
+      "Hex": "AA92ED",
+      "Alpha": 1.0
+    }
+  },
+  "Hide door closers": false,
+  "Version": {
+    "Major": 3,
+    "Minor": 0,
+    "Patch": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Name.Outpost": "Outpost",
+  "Name.Bandit": "Bandit Camp",
+  "Error.NoPermission": "You do not have permission to use this command",
+  "Error.TPPending": "You already have a teleport pending",
+  "Error.Hostile": "You can not teleport whilst you are marked hostile",
+  "Error.Cooldown": "You must wait another <color=#ce422b>{0}</color> before teleporting again",
+  "Error.RaidBlocked": "You can not teleport while <color=#ce422b>raid blocked</color>!",
+  "Error.CombatBlocked": "You can not teleport while <color=#ce422b>combat blocked</color>!",
+  "Error.BuildingBlocked": "You can not teleport while <color=#ce422b>building blocked</color>!",
+  "Notification.TPPending": "Teleporting to <color=#ce422b>{0}</color> in <color=#ce422b>{1}</color>",
+  "Notification.NonePending": "You do not have any teleports pending",
+  "Notification.Cancelled": "Cancelled pending teleports",
+  "Notification.NoAreas": "No custom spawn areas have been setup",
+  "Notification.NoAreaWithName": "No spawn area found with the name : {0}",
+  "Notification.NoAreaSpecified": "No area specified"
+}

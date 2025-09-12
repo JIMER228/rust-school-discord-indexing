@@ -1,0 +1,3 @@
+[2023-01-23 05:04:25] System.NullReferenceException: Object reference not set to an instance of an object
+  at Oxide.Plugins.DiscordStatus.Format (System.String message) [0x00000] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.DiscordStatus.UpdateStatus () [0x00053] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 

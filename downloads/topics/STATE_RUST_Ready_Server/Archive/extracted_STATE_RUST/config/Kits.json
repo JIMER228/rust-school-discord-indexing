@@ -1,0 +1,91 @@
+{
+  "Цвет фона": "0 0 0 0.5",
+  "Цвет фона доступного набора": "0.4392 0.5215 0.2980 0.9",
+  "Цвет фона недоступного набора": "0.7882 0.2666 0.1882 0.9",
+  "Количество наборов в строке": 7,
+  "Высота панельки набора": 0.1,
+  "Ширина панельки набора": 0.11,
+  "Расстояние между панельками наборов": 0.01,
+  "Минимальная позиция углов картинки на наборе": "0.1 0.1",
+  "Максимальная позиция углов картинки на наборе": "0.9 0.9",
+  "Прозрачность картинки на наборе": "0.7",
+  "Использовать логирование": true,
+  "Соответствие количества патронов оружию": {
+    "bow.hunting": {
+      "Key": "arrow.wooden",
+      "Value": 50
+    },
+    "crossbow": {
+      "Key": "arrow.wooden",
+      "Value": 50
+    },
+    "pistol.eoka": {
+      "Key": "ammo.handmade.shell",
+      "Value": 50
+    },
+    "pistol.revolver": {
+      "Key": "ammo.pistol",
+      "Value": 50
+    },
+    "pistol.semiauto": {
+      "Key": "ammo.pistol",
+      "Value": 50
+    },
+    "pistol.python": {
+      "Key": "ammo.pistol",
+      "Value": 50
+    },
+    "pistol.m92": {
+      "Key": "ammo.pistol",
+      "Value": 50
+    },
+    "shotgun.waterpipe": {
+      "Key": "ammo.shotgun.fire",
+      "Value": 30
+    },
+    "shotgun.double": {
+      "Key": "ammo.shotgun.fire",
+      "Value": 50
+    },
+    "shotgun.pump": {
+      "Key": "ammo.shotgun.fire",
+      "Value": 50
+    },
+    "shotgun.spas12": {
+      "Key": "ammo.shotgun.fire",
+      "Value": 50
+    },
+    "smg.thompson": {
+      "Key": "ammo.pistol",
+      "Value": 60
+    },
+    "smg.2": {
+      "Key": "ammo.pistol",
+      "Value": 60
+    },
+    "smg.mp5": {
+      "Key": "ammo.pistol",
+      "Value": 60
+    },
+    "rifle.bolt": {
+      "Key": "ammo.rifle",
+      "Value": 20
+    },
+    "rifle.semiauto": {
+      "Key": "ammo.rifle",
+      "Value": 40
+    },
+    "lmg.m249": {
+      "Key": "ammo.rifle",
+      "Value": 100
+    },
+    "rifle.ak": {
+      "Key": "ammo.rifle",
+      "Value": 60
+    },
+    "rifle.lr300": {
+      "Key": "ammo.rifle",
+      "Value": 60
+    }
+  }
+}

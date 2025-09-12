@@ -1,0 +1,19 @@
+﻿{
+  "EnableInGameTime-Timer": false,
+  "EnableRealTime-Timer": false,
+  "EnableTimerOnce": true,
+  "EnableTimerRepeat": true,
+  "InGameTime-Timer": {
+    "01:00": "env.time 2",
+    "19:00": "env.time 9"
+  },
+  "RealTime-Timer": {
+    "01:55:00": "restart 300"
+  },
+  "TimerOnce": {
+    "reset.timeronce": 6000
+  },
+  "TimerRepeat": {
+  	"server.description Добро пожаловать на сервер Rust FIRE #1 \n Хочешь весело провести время с друзьями? Тогда тебе к нам. \n - Добыча ресурсов X2 \n - Компоненты Х2 \n - Система друзей [Friends,FF,HitMarker] \n - Автозакрытие дверей при выходе с сервера \n - Удаление своих построек /remove \n - Система телепортов \n - KIT | SKINS | Художник | RaidBlock": 3600
+  }
+}

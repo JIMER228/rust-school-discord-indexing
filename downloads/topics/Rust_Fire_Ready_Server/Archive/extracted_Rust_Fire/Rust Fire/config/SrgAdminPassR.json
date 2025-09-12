@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "timeSec": 30,
+  "maxAttempts": 2,
+  "adminsPass": {
+    "76561198327361395": "dfsrewfgrwgrw",
+    "78945612300000002": "456"
+  },
+  "adminsValid": [],
+  "msgPass": "<size=20><color=#FF8000>[AP]</color> <color=#00FFFF>Введите свой пароль</color></size>",
+  "msgPassWrong": "<size=20><color=#FF8000>[AP]</color> <color=#00FFFF>Не верный пароль</color></size>",
+  "msgEndTime": "Вы не ввели пароль",
+  "msgPassOk": "<size=20><color=#FF8000>[AP]</color> <color=#00FFFF>Пароль верен</color></size>"
+}

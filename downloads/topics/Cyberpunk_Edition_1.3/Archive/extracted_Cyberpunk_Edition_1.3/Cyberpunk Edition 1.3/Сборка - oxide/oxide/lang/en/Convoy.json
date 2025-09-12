@@ -1,0 +1,20 @@
+{
+  "PreStart": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0}Через <color=#EBD4AE>{1}</color>. начнется перевозка вооружения и припасов по дороге! При уничтожении каравана вы можете его разграбить!</size>",
+  "ConvoyAttacked": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} {1} <color=#B1D6F1>напал</color> на караван</size>",
+  "EventStart": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Караван <color=#EBD4AE>начал</color> движение!</size>",
+  "SecurityKill": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Охрана каравана была <color=#EBD4AE>успешно</color> уничтожена!</size>",
+  "Failed": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Грузовик с перевозимым грузом <color=#B1D6F1>уничтожен</color>! Добыча <color=#B1D6F1>потеряна</color>!</size>",
+  "StartHackCrate": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} {1} <color=#EBD4AE>начал</color> взлом заблокированного ящика!</size>",
+  "PreFinish": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Караван исчезнет через <color=#B1D6F1>{1}</color></size>",
+  "Finish": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Перевозка груза <color=#B1D6F1>окончена</color>!</size>",
+  "CantHackCrate": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Для того чтобы открыть ящик уничтожьте все <color=#B1D6F1>сопровождающие</color> транспортные средства!</size>",
+  "EventActive": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Ивент в данный момент активен, сначала завершите текущий ивент (<color=#B1D6F1>/convoystop</color>)!</size>",
+  "EnterPVP": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Вы <color=#B1D6F1>вошли</color> в PVP зону, теперь другие игроки <color=#B1D6F1>могут</color> наносить вам урон!</size>",
+  "ExitPVP": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Вы <color=#EBD4AE>вышли</color> из PVP зоны, теперь другие игроки <color=#EBD4AE>не могут</color> наносить вам урон!</size>",
+  "GUI": "Груз будет уничтожен через {0}",
+  "SendEconomy": "<size=16><color=#c2fc8d>КАРАВАН</color>\n{0} Вы <color=#EBD4AE>получили</color> <color=#55aaff>{1}</color> Cr за прохождение ивента!</size>",
+  "Hours": "ч.",
+  "Minutes": "м.",
+  "Seconds": "с.",
+  "Distance": "<size=16><color=#c2fc8d>КАРАВАН</color>\nПодойдите <color=#B1D6F1>ближе</color>!</size>"
+}

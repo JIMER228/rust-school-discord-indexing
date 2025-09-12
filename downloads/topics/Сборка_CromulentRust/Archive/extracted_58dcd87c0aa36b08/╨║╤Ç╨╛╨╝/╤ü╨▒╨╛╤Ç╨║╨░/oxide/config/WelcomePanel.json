@@ -1,0 +1,459 @@
+{
+  "Main Settings": {
+    "Open when player joins": true,
+    "Open once per wipe": false,
+    "Open at tab": 1,
+    "Block movement when browsing panel": true,
+    "Enable text tags": true,
+    "Server Title": "<size=60>RUST-CROM.RU</size>",
+    "Server Logo": "",
+    "Selected button color": "0.161 0.384 0.569 1",
+    "Base Command": "help",
+    "Additional Commands": {
+      "info": 2,
+      "wipe": 3,
+      "bonus": 4,
+      "comand": 5,
+      "contacts": 6
+    }
+  },
+  "Text Tabs": [
+    {
+      "Name": "HOME",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/home_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.0",
+      "Font": "robotocondensed-bold.ttf",
+      "Text Background Image": "https://i.ibb.co/mS2znvZ/Group-10-15.png",
+      "Text Alignment": 4,
+      "Text Lines": [
+        [
+          ""
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "ИНФОРМАЦИЯ",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/rules_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.0",
+      "Font": "robotocondensed-bold.ttf",
+      "Text Background Image": "https://i.ibb.co/23dgCkm/Group-2-7.png",
+      "Text Alignment": 4,
+      "Text Lines": [
+        [
+          "<size=16><color=#ffffff>Быстрый телепорт в город и бандитку <color=#8d8df2>(/otp | /btp)</color></color></size>",
+          "<size=16><color=#ffffff>Оповещения о рейде в VK, Discord, Telegram, Rust+ <color=#8d8df2>(/raid)</color></color></size>",
+          "<size=16><color=#ffffff>Ивент-турнир дуэли между игроками и командами!</color></size>",
+          "<size=16><color=#ffffff>Автоматическое улучшение и починка всей базы <color=#8d8df2>(кнопки в шкафу)</color></color></size>",
+          "<size=16><color=#ffffff>Автоматические двери! <color=#8d8df2>(/ad)</color></color></size>",
+          "<size=16><color=#ffffff>Рюкзак <color=#8d8df2>(кнопка возле инвентаря)</color></color></size>",
+          "\n",
+          "\n",
+          "<size=16><color=#ffffff>Улучшенный лут в ящиках и бочках!</color></size>",
+          "<size=16><color=#ffffff>Продвинутая система кланов <color=#8d8df2>(/clans)</color></color></size>",
+          "<size=16><color=#ffffff>Уникальный ивент конвой патрулирует местности по автодороге!</color></size>",
+          "<size=16><color=#ffffff>Список авторизованных игроков в шкафу!</color></size>",
+          "<size=16><color=#ffffff>DeathMessages список килов в верхнем правом углу!</color></size>",
+          "<size=16><color=#ffffff>Отключён дамаг в зимнем биоме!</color></size>",
+          "<size=16><color=#ffffff>Награды за присоединение к нашему Discord серверу деньги и наборы <color=#8d8df2>(/discord)</color></color></size>"
+        ],
+        [
+          "<size=16><color=#ffffff>Удобное меню для управления друзьями <color=#8d8df2>(/f)</color></color></size>",
+          "<size=16><color=#ffffff>Взлом ящика с чинука за 10 мин!</color></size>",
+          "<size=16><color=#ffffff>Индикатор нанесённого урона по противнику и его состояния <color=#8d8df2>(/hitmarker on | off)</color></color></size>",
+          "<size=16><color=#ffffff>Моментальное падение аирдропа!</color></size>",
+          "<size=16><color=#ffffff>Моментальные транзакции в автоматах!</color></size>",
+          "<size=16><color=#ffffff>Моментальный крафт для всех игроков!</color></size>",
+          "\n",
+          "\n",
+          "<size=16><color=#ffffff>Моментальная очистка всего инвентаря <color=#8d8df2>(/cleaninv)</color></color></size>",
+          "<size=16><color=#ffffff>Настраиваемый чат <color=#8d8df2>(/chat)</color></color></size>",
+          "<size=16><color=#ffffff>Плагин на улучшение и удаление построек <color=#8d8df2>(/remove)</color></color></size>",
+          "<size=16><color=#ffffff>Динамичное отображение PvP и рейд маркеров на G карте!</color></size>",
+          "<size=16><color=#ffffff>Увеличенные рейты ресурсов, экскаваторов и карьеров X3!</color></size>",
+          "<size=16><color=#ffffff>Вайп блок на сутки в начале каждого вайпа!</color></size>",
+          "<size=16><color=#ffffff>Щедрые бесплатные наборы <color=#8d8df2>(/kit)</color></color></size>"
+        ],
+        [
+          "<size=16><color=#ffffff>Бесплатные скины для всех игроков <color=#8d8df2>(/skin)</color></color></size>",
+          "<size=16><color=#ffffff>Телепорт меню <color=#8d8df2>(/menu)</color></color></size>",
+          "<size=16><color=#ffffff>7 уникальных ивентов <color=#8d8df2>(/event)</color></color></size>",
+          "<size=16><color=#ffffff>Рейд блок <color=#8d8df2>(5 минут)</color></color></size>",
+          "<size=16><color=#ffffff>Крафт вдалеке от верстака!</color></size>",
+          "<size=16><color=#ffffff>Список игроков <color=#8d8df2>(/list)</color></color></size>",
+          "\n",
+          "\n",
+          "<size=16><color=#ffffff>Указывающий маркер, <color=#8d8df2>(колесико мыши)</color></color></size>",
+          "<size=16><color=#ffffff>Дополнительные радиостанции для кассетного магнитофона!</color></size>",
+          "<size=16><color=#ffffff>Рандомный респавн!</color></size>",
+          "<size=16><color=#ffffff>Report System и хорошая быстрая модерация <color=#8d8df2>(/report)</color></color></size>",
+          "<size=16><color=#ffffff>Установка своих изображений в рамки <color=#8d8df2>(/sil https://site.jpg)</color></color></size>",
+          "<size=16><color=#ffffff>Увеличенные стаки!</color></size>",
+          "<size=16><color=#ffffff>Удобная система телепортов команды можно найти в разделе команды!</color></size>"
+        ],
+        [
+          "<size=16><color=#ffffff>Трейд между игроками <color=#8d8df2>(/trade)</color></color></size>",
+          "<size=16><color=#ffffff>Cортировка в ящиках три кнопки внизу!</color></size>",
+          "<size=16><color=#ffffff>Магазин транспорта машина, коптер, итд. <color=#8d8df2>(/vb)</color></color></size>",
+          "<size=16><color=#ffffff>Получение награды за вступление в группу ВК 125 руб после вайпа <color=#8d8df2>(/vk)</color></color></size>",
+          "<size=16><color=#ffffff>Хороший античит!</color></size>",
+          "<size=16><color=#ffffff>Инновационное меню для покраски домов <color=#8d8df2>(/bskin)</color></color></size>",
+          "\n",
+          "\n",
+          "<size=16><color=#ffffff>Внутри игровой магазин <color=#8d8df2>(/shop)</color></color></size>",
+          "<size=16><color=#ffffff>Детальная статистика игроков <color=#8d8df2>(/top)</color></color></size>",
+          "<size=16><color=#ffffff>Дополнительное третье место на хвосте миникоптера!</color></size>",
+          "<size=16><color=#ffffff>Ночная защита от рейдов 70% с 23 до 11 по мск!</color></size>",
+          "<size=16><color=#ffffff>Приватная лошадь которая всегда будет у вас под рукой <color=#8d8df2>(/vm)</color></color></size>",
+          "<size=16><color=#ffffff>Увеличенная скорость плавки печей  X25!</color></size>",
+          "<size=16><color=#ffffff>Скорость переработчика  1 секунда!</color></size>",
+          "<size=16><color=#ffffff>Оповещение о вайпе в <color=#8d8df2>(vk)</color></color></size>"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "ВАЙПЫ",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/wipe_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "https://i.ibb.co/Nx9XxCH/001-ponedlnik.png",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          ""
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "ПРИЗЫ",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/kits_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "https://i.ibb.co/Lv7Scgw/Group-5-1.png",
+      "Text Alignment": 3,
+      "Text Lines": [
+        [
+          ""
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "КОМАНДЫ",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/rules_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.0",
+      "Font": "robotocondensed-bold.ttf",
+      "Text Background Image": "https://i.ibb.co/23dgCkm/Group-2-7.png",
+      "Text Alignment": 4,
+      "Text Lines": [
+        [
+          "<size=14><color=#8d8df2>/menu</color><color=#ffffff> - </color>Главное меню!</size>",
+          "<size=14><color=#8d8df2>/damage количество</color><color=#ffffff> - </color>Команда для выбора X урона!</size>",
+          "<size=14><color=#8d8df2>/hp количество</color><color=#ffffff> - </color>Команда для выбора количества жизни!</size>",
+          "<size=14><color=#8d8df2>/regen set количество</color><color=#ffffff> - </color>Команда для выбора количество регена в секунду!</size>",
+          "<size=14><color=#8d8df2>/raid</color><color=#ffffff> - </color>Оповещения о рейде в VK, Discord, Telegram, Rust+!</size>",
+          "<size=14><color=#8d8df2>/ad</color><color=#ffffff> - </color>Включить/отключить автоматическое закрытие дверей!</size>",
+          "<size=14><color=#8d8df2>/otp</color><color=#ffffff> - </color>Телепортироваться на аванпост!</size>",
+          "<size=14><color=#8d8df2>/btp</color><color=#ffffff> - </color>Телепорт в лагерь бандитов!</size>",
+          "\n",
+          "\n",
+          "<size=14><color=#8d8df2>/vb</color><color=#ffffff> - </color>Магазин транспорта машина, коптер, итд.!</size>",
+          "<size=14><color=#8d8df2>/f</color><color=#ffffff> - </color>Список друзей и взаимодействия с ними!</size>",
+          "<size=14><color=#8d8df2>/store</color><color=#ffffff> - </color>Забрать привилегию из корзины магазина rust-crom.ru !</size>",
+          "<size=14><color=#8d8df2>/cleaninv</color><color=#ffffff> - </color>полностью очистить инвентарь!</size>",
+          "<size=14><color=#8d8df2>/chat</color><color=#ffffff> - </color>открыть меню управления и настройки чата!</size>",
+          "<size=14><color=#8d8df2>/backpack</color><color=#ffffff> - </color>Открыть рюкзак!</size>",
+          "<size=13><color=#8d8df2>/pm [Ник] [Сообщение]</color><color=#ffffff> - </color>отправить игроку сообщение в личную переписку!</size>",
+          "<size=13><color=#8d8df2>/r [Сообщение]</color></size><size=13><color=#ffffff> - </color>отправить сообщение игроку, который участвует с вами в личной переписке!</size>"
+        ],
+        [
+          "<size=16><color=#8d8df2>/online</color><color=#ffffff> - </color>выводит список игроков в чат!</size>",
+          "<size=16><color=#8d8df2>/transfer [Nick] [Amount]</color><color=#ffffff> - </color>передать валюту игроку!</size>",
+          "<size=16><color=#8d8df2>/balance</color><color=#ffffff> - </color>просмотр баланса!</size>",
+          "<size=16><color=#8d8df2>/remove</color><color=#ffffff> - </color>Улучшение удаления построек!</size>",
+          "<size=16><color=#8d8df2>/block</color><color=#ffffff> - </color>Информация о блокировке предметов!</size>",
+          "<size=16><color=#8d8df2>/kit</color><color=#ffffff> - </color>Получить начальный или платный набор!</size>",
+          "\n",
+          "\n",
+          "<size=16><color=#8d8df2>/skin</color><color=#ffffff> - </color>Выбрать скины!</size>",
+          "<size=16><color=#8d8df2>/event</color><color=#ffffff> - </color>Посмотреть ивенты!</size>",
+          "<size=16><color=#8d8df2>/prize</color><color=#ffffff> - </color>забрать призы!</size>",
+          "<size=16><color=#8d8df2>/list</color><color=#ffffff> - </color>Список и взаимодействие c игроками!</size>",
+          "<size=16><color=#8d8df2>/report</color><color=#ffffff> - </color>Отправить жалобу на игрока!</size>",
+          "<size=16><color=#8d8df2>/tpr ник</color><color=#ffffff> - </color>отправить запрос на телепортацию!</size>",
+          "<size=16><color=#8d8df2>/tpa</color><color=#ffffff> - </color>принять запрос на телепортацию!</size>"
+        ],
+        [
+          "<size=16><color=#8d8df2>/tpc</color><color=#ffffff> - </color>отменить телепортацию!</size>",
+          "<size=16><color=#8d8df2>/sethome название дома</color><color=#ffffff> - </color>сохранить местоположение дома!</size>",
+          "<size=16><color=#8d8df2>/home название дома</color><color=#ffffff> - </color>телепортироваться к местоположению дома!</size>",
+          "<size=16><color=#8d8df2>/removehome название дома</color><color=#ffffff> - </color>удалить местоположение дома!</size>",
+          "<size=16><color=#8d8df2>/homelist</color><color=#ffffff> - </color>открыть список всех сохраненных точек на карте!</size>",
+          "<size=16><color=#8d8df2>/atp</color><color=#ffffff> - </color>Автоматическое принятие ТП!</size>",
+          "\n",
+          "\n",
+          "<size=16><color=#8d8df2>/atp add Name</color><color=#ffffff> - </color>Добавление игрока в автопринятие.!</size>",
+          "<size=16><color=#8d8df2>/atp remove Name</color><color=#ffffff> - </color>Удаление игрока со списка.!</size>",
+          "<size=16><color=#8d8df2>/atp list</color><color=#ffffff> - </color>Список игроков автоприёма.!</size>",
+          "<size=16><color=#8d8df2>/trade</color><color=#ffffff> - </color>Трейд между игроками!</size>",
+          "<size=16><color=#8d8df2>/vk</color><color=#ffffff> - </color>Оповещение о вайпе в вк, награды за вступление в вк!</size>",
+          "<size=16><color=#8d8df2>/info</color><color=#ffffff> - </color>Информация о сервере!</size>",
+          "<size=16><color=#8d8df2>/shop</color><color=#ffffff> - </color>Внутриигровой магазин!</size>",
+          "<size=16><color=#8d8df2>/top</color><color=#ffffff> - </color>Детальная статистика и топ игроков!</size>"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "КОНТАКТЫ",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/1/discord.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "1",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 4,
+      "Text Lines": [
+        [
+          "<size=25>discord.gg/<color=#c14229><b><size=22>RUSTPLUGINS</size></b></color></size>",
+          "Become verified customer and get faster support.",
+          "\n\n\n",
+          "Full documentation at <b>docs.rustplugins.net/welcomepanellite</b>"
+        ]
+      ],
+      "Addon (plugin name)": "sociallinks"
+    }
+  ],
+  "Base Ui Elements": {
+    "background": {
+      "Color": "0 0 0 0.8",
+      "Material": "assets/content/ui/uibackgroundblur.mat",
+      "Image": "",
+      "Anchor Min": "0 0",
+      "Anchor Max": "1 1",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "offset_container": {
+      "Color": "0.50 0.50 1.00 0.40",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.5 0.5",
+      "Anchor Max": "0.5 0.5",
+      "Offset Min": "-680 -360",
+      "Offset Max": "680 360",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "main": {
+      "Color": "0.70 0.67 0.65 0.07",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0.315 0.175",
+      "Anchor Max": "0.80 0.748",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "side": {
+      "Color": "0.70 0.67 0.65 0.07",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0.187 0.175",
+      "Anchor Max": "0.308 0.748",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "content": {
+      "Color": "0 0 0 0.0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.32 0.182",
+      "Anchor Max": "0.795 0.740",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "title": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.185 0.745",
+      "Anchor Max": "0.9 0.85",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 3,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "logo": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": null,
+      "Anchor Min": "0.069 0.704",
+      "Anchor Max": "0.166 0.878",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "close_button": {
+      "Color": "0.757 0.259 0.161 1.00",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0.73 0.125",
+      "Anchor Max": "0.80 0.16",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": "✘ CLOSE",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "next_button": {
+      "Color": "1 1 1 0.30",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/next.png",
+      "Anchor Min": "0.953 0.013",
+      "Anchor Max": "0.995 0.06",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "back_button": {
+      "Color": "1 1 1 0.30",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/back.png",
+      "Anchor Min": "0.902 0.013",
+      "Anchor Max": "0.943 0.06",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    }
+  },
+  "Tab Buttons": [
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.700",
+      "Anchor Max": "0.3095 0.748",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.650",
+      "Anchor Max": "0.3095 0.697",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.600",
+      "Anchor Max": "0.3095 0.647",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.550",
+      "Anchor Max": "0.3095 0.597",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.500",
+      "Anchor Max": "0.3095 0.547",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.450",
+      "Anchor Max": "0.3095 0.497",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.400",
+      "Anchor Max": "0.3095 0.447",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.350",
+      "Anchor Max": "0.3095 0.397",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.300",
+      "Anchor Max": "0.3095 0.347",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.1845 0.250",
+      "Anchor Max": "0.3095 0.297",
+      "Material": "assets/icons/iconmaterial.mat"
+    }
+  ]
+}

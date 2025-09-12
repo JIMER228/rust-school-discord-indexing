@@ -1,0 +1,80 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "БЛОКИРОВКА ПРЕДМЕТОВ",
+    "Текст на второй строке": "НАЖМИТЕ ЧТОБЫ УЗНАТЬ БОЛЬШЕ",
+    "Название сервера": "%CONFIG%"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('1852' - на 1852 секунд вперёд, '-1852' на 1852 секунд назад)": -3360,
+    "Настройки блокировки предметов": {
+      "1800": [
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "3600": [
+        "pistol.python",
+        "pistol.semiauto",
+        "pistol.m92",
+        "shotgun.pump",
+        "shotgun.spas12",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt"
+      ],
+      "7200": [
+        "smg.2",
+        "smg.thompson",
+        "rifle.semiauto"
+      ],
+      "10800": [
+        "smg.mp5",
+        "rifle.m39",
+        "metal.facemask",
+        "metal.plate.torso"
+      ],
+      "14400": [
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.lr300",
+        "rifle.ak.ice"
+      ],
+      "86400": [
+        "lmg.m249",
+        "rifle.l96",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants",
+        "ammo.rifle.explosive",
+        "explosive.satchel",
+        "grenade.f1",
+        "grenade.beancan",
+        "hmlmg",
+        "rocket.launcher",
+        "multiplegrenadelauncher",
+        "explosive.timed",
+        "grenade.flashbang",
+        "grenade.molotov"
+      ],
+      "999999": [
+        "grenade.smoke"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Total": "ВСЁ",
+      "Food": "ЕДЫ",
+      "Attire": "БРОНЯ",
+      "Traps": "ЛОВУШЕК",
+      "Misc": "ПРОЧЕГО",
+      "Medical": "МЕДИЦИНЫ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Weapon": "ВООРУЖЕНИЕ",
+      "Ammunition": "БОЕПРИПАСЫ",
+      "Tool": "ВЗРЫВЧАТКА",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Component": "КОМПОНЕНТОВ"
+    }
+  },
+  "Включить поддержку экспериментальных функций": true
+}

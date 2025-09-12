@@ -1,0 +1,264 @@
+{
+  "Debug": {
+    "debugLogEnabled": false,
+    "version": "2.5.2"
+  },
+  "Generic": {
+    "adminInputLootRefresh": true,
+    "adminLootRefreshInterval": 3.0,
+    "alignBlueprintRarity": false,
+    "alignItemRarity": false,
+    "blockPlayerItemInput": true,
+    "blueprintProbability": 0.11,
+    "enableBradleyLoadOut": true,
+    "enableFancyDropLoot": false,
+    "enableHeliLoadOut": true,
+    "enableSkinIdFields": false,
+    "excludeCustomLootSpawns": true,
+    "excludeEventLoot": true,
+    "extendedStatus": true,
+    "includeWorkShopSkins": false,
+    "itemAmountMinMax": true,
+    "lootStackFixEnable": true,
+    "lootStackFixExclude": [
+      "place-container-name-here",
+      "example_name_1"
+    ],
+    "lootStackFixRange": 0.3,
+    "multiplyConditionedItems": false,
+    "pluginEnabled": true,
+    "renewRaritysNewProtocol": false,
+    "setupAuthLevel": 2,
+    "showAdminLootInfo": true,
+    "useSkinBoxSkins": false
+  },
+  "LootCategorys": {
+    "Limits": {
+      "Ammunition": {
+        "DropSkinned": false,
+        "LootMultiplier": 6
+      },
+      "Attire": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      },
+      "Component": {
+        "DropSkinned": false,
+        "LootMultiplier": 3
+      },
+      "Construction": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      },
+      "Food": {
+        "DropSkinned": false,
+        "LootMultiplier": 5
+      },
+      "Items": {
+        "DropSkinned": false,
+        "LootMultiplier": 3
+      },
+      "Medical": {
+        "DropSkinned": false,
+        "LootMultiplier": 3
+      },
+      "Misc": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      },
+      "Resources": {
+        "DropSkinned": false,
+        "LootMultiplier": 20
+      },
+      "Tool": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      },
+      "Traps": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      },
+      "Weapon": {
+        "DropSkinned": false,
+        "LootMultiplier": 1
+      }
+    }
+  },
+  "WeaponSpawnSetup": {
+    "bow.compound": {
+      "roundsWeaponAmount": 0,
+      "roundsWeaponType": "arrow.wooden",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "arrow.wooden"
+    },
+    "bow.hunting": {
+      "roundsWeaponAmount": 0,
+      "roundsWeaponType": "arrow.wooden",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "arrow.wooden"
+    },
+    "crossbow": {
+      "roundsWeaponAmount": 0,
+      "roundsWeaponType": "arrow.wooden",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "arrow.wooden"
+    },
+    "lmg.m249": {
+      "roundsWeaponAmount": 15,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 100,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "multiplegrenadelauncher": {
+      "roundsWeaponAmount": 0,
+      "roundsWeaponType": "ammo.grenadelauncher.he",
+      "xtraRoundsAmount": 6,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.grenadelauncher.he"
+    },
+    "pistol.eoka": {
+      "roundsWeaponAmount": 1,
+      "roundsWeaponType": "ammo.handmade.shell",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.handmade.shell"
+    },
+    "pistol.m92": {
+      "roundsWeaponAmount": 6,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 15,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "pistol.nailgun": {
+      "roundsWeaponAmount": 6,
+      "roundsWeaponType": "ammo.nailgun.nails",
+      "xtraRoundsAmount": 16,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.nailgun.nails"
+    },
+    "pistol.python": {
+      "roundsWeaponAmount": 6,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 6,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "pistol.revolver": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 8,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "pistol.semiauto": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 10,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "rifle.ak": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 30,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rifle.bolt": {
+      "roundsWeaponAmount": 2,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 4,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rifle.l96": {
+      "roundsWeaponAmount": 2,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 5,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rifle.lr300": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 30,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rifle.m39": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 20,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rifle.semiauto": {
+      "roundsWeaponAmount": 6,
+      "roundsWeaponType": "ammo.rifle",
+      "xtraRoundsAmount": 16,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rifle"
+    },
+    "rocket.launcher": {
+      "roundsWeaponAmount": 0,
+      "roundsWeaponType": "ammo.rocket.basic",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.rocket.basic"
+    },
+    "shotgun.double": {
+      "roundsWeaponAmount": 1,
+      "roundsWeaponType": "ammo.handmade.shell",
+      "xtraRoundsAmount": 2,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.handmade.shell"
+    },
+    "shotgun.pump": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.shotgun",
+      "xtraRoundsAmount": 6,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.shotgun"
+    },
+    "shotgun.spas12": {
+      "roundsWeaponAmount": 4,
+      "roundsWeaponType": "ammo.shotgun",
+      "xtraRoundsAmount": 6,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.shotgun"
+    },
+    "shotgun.waterpipe": {
+      "roundsWeaponAmount": 1,
+      "roundsWeaponType": "ammo.handmade.shell",
+      "xtraRoundsAmount": 1,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.handmade.shell"
+    },
+    "smg.2": {
+      "roundsWeaponAmount": 8,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 24,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "smg.mp5": {
+      "roundsWeaponAmount": 8,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 30,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    },
+    "smg.thompson": {
+      "roundsWeaponAmount": 7,
+      "roundsWeaponType": "ammo.pistol",
+      "xtraRoundsAmount": 20,
+      "xtraRoundsEnabled": false,
+      "xtraRoundsType": "ammo.pistol"
+    }
+  }
+}

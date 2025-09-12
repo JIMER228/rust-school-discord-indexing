@@ -1,0 +1,349 @@
+/*########## S I T E ##########*/
+body, html {
+    margin: 0;
+    background: url('../img/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    font-family: Dhurjati;
+    color: #fff;
+    font-size: larger;
+    line-height: 20px;
+}
+
+a:link, a:visited, a:active, a:hover {
+    color: rgb(255, 255, 255);
+}
+/*########## END | S I T E ##########*/
+
+
+/*########## C O N T A I N E R ##########*/ 
+.container {
+    background: url('../img/background.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    height: 90%;    
+    margin: 25px;
+
+    border: 0.2rem solid #fff;
+    border-radius: 2rem;
+    box-shadow: 0 0 .2rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem #3d3531,
+                0 0 0.8rem #9f5800,
+                0 0 2.8rem #9f5800,
+                inset 0 0 1.3rem #9f5800;
+}
+
+.glitchimg {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position: relative;
+  }
+
+  @keyframes pulsate {
+    100% {
+        box-shadow: 0 0 .2rem #fff,
+                    0 0 .2rem #fff,
+                    0 0 2rem rgb(249, 107, 25),
+                    0 0 0.8rem #9f5800,
+                    0 0 2.8rem #9f5800,
+                    inset 0 0 1.3rem #9f5800;
+    }
+
+    0% {
+        box-shadow: 0 0 .2rem #fff,
+                    0 0 .2rem #fff,
+                    0 0 2rem #9f5800,
+                    0 0 0.8rem #9f5800,
+                    0 0 2.8rem #9f5800,
+                    inset 0 0 1.3rem #9f5800;
+    }
+  }
+/*########## END | C O N T A I N E R ##########*/ 
+
+
+/*########## H E A D E R ##########*/
+.header {
+    width: 100%;
+    height: 10%;
+
+    overflow: hidden;
+    padding: 20px 10px;
+}
+
+.logo {
+    float: right; 
+    padding-right: 30px;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+/* BUTTONS */
+:root {
+  --glow-color: #ff8c00;
+}
+
+.glowing-btn {
+  position: relative;
+  color: #ff8c00;
+  cursor: pointer;
+  padding: 0.20em 1em;
+  border: 0.1em solid #fff;
+  border-radius: 0.50em;
+  background: none;
+  font-size: 1.5em;
+  letter-spacing: 0.5em;
+  margin-left: 15px;
+
+  -webkit-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),
+    0px 0px 0.5em 0px var(--glow-color);
+  -moz-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),
+    0px 0px 0.5em 0px var(--glow-color);
+  box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),
+    0px 0px 0.5em 0px var(--glow-color);
+  animation: border-flicker 2s linear infinite;
+}
+
+.glowing-txt {
+  float: left;
+  margin-right: -0.8em;
+  -webkit-text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3),
+    0 0 0.45em var(--glow-color);
+  -moz-text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3),
+    0 0 0.45em var(--glow-color);
+  text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em var(--glow-color);
+  animation: text-flicker 3s linear infinite;
+}
+
+.faulty-letter {
+  opacity: 0.5;
+  animation: faulty-flicker 2s linear infinite;
+}
+
+.glowing-btn:hover {
+  color: rgb(255, 255, 255);
+  text-shadow: none;
+  animation: none;
+}
+
+.glowing-btn:hover .glowing-txt {
+  animation: none;
+}
+
+.glowing-btn:hover .faulty-letter {
+  animation: none;
+  text-shadow: none;
+  opacity: 1;
+}
+
+.glowing-btn:hover:after {
+  opacity: 1;
+}
+
+@keyframes faulty-flicker {
+  0% {
+    opacity: 0.1;
+  }
+  2% {
+    opacity: 0.1;
+  }
+  4% {
+    opacity: 0.5;
+  }
+  19% {
+    opacity: 0.5;
+  }
+  21% {
+    opacity: 0.1;
+  }
+  23% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.5;
+  }
+  83% {
+    opacity: 0.4;
+  }
+
+  87% {
+    opacity: 1;
+  }
+}
+
+@keyframes text-flicker {
+  0% {
+    opacity: 0.1;
+  }
+
+  2% {
+    opacity: 1;
+  }
+
+  8% {
+    opacity: 0.1;
+  }
+
+  9% {
+    opacity: 1;
+  }
+
+  12% {
+    opacity: 0.1;
+  }
+  20% {
+    opacity: 1;
+  }
+  25% {
+    opacity: 0.3;
+  }
+  30% {
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 0.7;
+  }
+  72% {
+    opacity: 0.2;
+  }
+
+  77% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+
+@keyframes border-flicker {
+  0% {
+    opacity: 0.1;
+  }
+  2% {
+    opacity: 1;
+  }
+  4% {
+    opacity: 0.1;
+  }
+
+  8% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .glowing-btn{
+    font-size: 1em;
+  }
+}
+/* END | BUTTONS */
+/*########## END | H E A D E R ##########*/
+
+
+/*########## A R T I C L E ##########*/
+.article {
+    margin: 0 300px 30px 30px;;
+    text-align: left;
+    border-radius: 2rem;
+}
+/*########## END | A R T I C L E ##########*/
+
+
+/*########## F O O T E R ##########*/
+.footer {
+    position: fixed;
+    bottom: 25px;
+    width: 100%;
+    color: white;
+    text-align: left;
+}
+/*########## END | F O O T E R ##########*/
+
+
+/*########## F I R E S P A R K S ########## */
+#fire_sparks {
+    width:100%; 
+    height: 100%; 
+    position: fixed; 
+    pointer-events: none; 
+    overflow: hidden
+}
+
+.spark {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  transform: translateY(-10vh);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.spark_inner {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  mix-blend-mode: screen;
+  background-image: radial-gradient(#ffd900 0%, #fff9c1 10%);
+  box-shadow: 0 0 0.9375em 0.1875em #f8a63a;
+  animation-name: scaling;
+  animation-iteration-count: infinite
+}
+@keyframes scaling {
+  0% {transform: scale3d(0.4, 0.4, 1)}
+  50% {transform: scale3d(1.4, 1.4, 1)}
+  100% {transform: scale3d(0.4, 0.4, 1)}
+}
+/*########## END | F I R E S P A R K S ########## */
+
+
+/*#################### T A B L E T T ####################*/
+@media screen and (max-width: 1429px) {
+  .glowing-btn {
+    width: 220px;
+  }
+  
+  .glowing-btn {
+    font-size: 1em;
+    letter-spacing: 0.5em;
+  }
+}
+
+/*########## L A N D S C A P E ##########*/
+@media screen and (max-width: 1280px) {
+  .logo {
+    float: inline-end;
+  }
+
+  .glowing-btn {
+    margin-bottom: 10px;
+  }
+}
+  
+
+/*########## T A B L E T T ##########*/
+@media screen and (max-width: 906px) {
+  .logo {
+    float: inherit;
+    margin: 0 5px 15px 5px;
+  } 
+}
+
+
+/*########## M O B I L E ##########*/
+@media screen and (max-width: 428px) {
+  .article {
+    margin: 0 10px 10px 10px;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "HorseRiding": {
+    "Allowed animals": "horse",
+    "Backwards Speed": -5,
+    "Can the horse die(riding)": true,
+    "Middle mouse thirdperson": true,
+    "Require Taming": false,
+    "Smooth Animation": false,
+    "Sprint Speed": 8,
+    "Turn Speed": 4,
+    "Walk Speed": 2
+  },
+  "StopHorse": {
+    "Command Cooldown(seconds)": 300,
+    "Enable Command": true,
+    "Stop Radius": 5
+  }
+}

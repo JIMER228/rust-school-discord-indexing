@@ -1,0 +1,1502 @@
+{
+  "Картинка для обычных наград": "https://i.imgur.com/R55go13.png",
+  "Пермишн для доступа к обычным наградам": "battlepass.default",
+  "Эффект уведомления(оставить пустым если не нужно)": "assets/prefabs/misc/halloween/lootbag/effects/gold_open.prefab",
+  "Уведомлять игрока о новом уровне?": true,
+  "Настройка поинтов": {
+    "Очки за победу в ивенте Air Event(при наличии)": 10,
+    "Очки за победу в ивенте Arctic Base Event(при наличии)": 10,
+    "Очки за убийство Boss Monster(при наличии)": 5,
+    "Настрока очков за крафт предметов(предмет-поинты)": {
+      "rifle.ak": 10,
+      "pickaxe": 2,
+      "explosive.timed": 10
+    },
+    "Количество очков отнимаемое за смерть": 2,
+    "Настройка добычи": {
+      "Настройка добычи(shortname-поинты)": {
+        "wood": 2,
+        "stones": 2,
+        "sulfur.ore": 2,
+        "metal.ore": 2
+      },
+      "Настройка очков за открытие ящиков(ящик-поинты)": {
+        "crate_elite": 5,
+        "crate_normal": 2,
+        "crate_normal_2": 1,
+        "codelockedhackablecrate": 10
+      },
+      "Настройка подымаемых предметов(shortname-поинты)": {
+        "wood": 2,
+        "stones": 2,
+        "sulfur.ore": 2,
+        "metal.ore": 2
+      }
+    },
+    "Очки за победу в ивенте Harbor Event (при наличии)": 10,
+    "Очки за победу в ивенте Junkyard Event(при наличии)": 10,
+    "Количество очков за уничтожение вертолета": 5,
+    "Множитель очков с привилегиями": {
+      "battlepass.default": 1.0,
+      "battlepass.vip": 1.5,
+      "battlepass.elite": 2.0
+    },
+    "Очки за победу в ивенте Power Plant Event(при наличии)": 10,
+    "Настройка очков за разрушение/убийство/взрыв объектов(ShortPrefabName-Поинты)": {
+      "cupboard.tool.deployed": 10,
+      "floor": 2,
+      "loot_barrel_1": 2,
+      "door.hinged.metal": 5,
+      "boar": 2,
+      "bear": 4,
+      "scientistnpc_cargo": 5,
+      "scientistnpc_junkpile_pistol": 2,
+      "player": 2,
+      "bradleyapc": 10
+    },
+    "Очки за победу в ивенте Satellite Dish Event(при наличии)": 10,
+    "Очки за победу в ивенте Water Event (при наличии)": 10,
+    "Выдача очков за выполнения квестов XDQuests": {
+      "QUESTDISPLAYNAME": 1,
+      "QUESTDISPLAYNAM2": 1
+    }
+  },
+  "Картинка для VIP наград": "https://i.imgur.com/chknZZf.png",
+  "Пермишн для доступа к VIP наградам": "battlepass.vip",
+  "Список команд для открытия интерфейса": [
+    "bp",
+    "bpass",
+    "pass",
+    "battlepass"
+  ],
+  "Настройка обычных уровней": [
+    {
+      "Количество EXP для получения этого уровня": 20,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 1,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "hatchet",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 30,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 2,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.nailgun",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.nailgun.nails",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 40,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 3,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "shirt.collared",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pants.shorts",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 50,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 4,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wood.armor.jacket",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wood.armor.pants",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wood.armor.helmet",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 60,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 5,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 100,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "scrap",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 70,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 6,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "grenade.beancan",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 80,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 7,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.revolver",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 90,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 8,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "door.double.hinged.metal",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 100,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 9,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "syringe.medical",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 110,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 10,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "easter.bronzeegg",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 120,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 11,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "small.oil.refinery",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 130,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 12,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.python",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 140,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 13,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wall.external.high",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "gates.external.high.wood",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 150,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 14,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 3000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "metal.fragments",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 160,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 15,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "smg.thompson",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 170,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 16,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wall.frame.garagedoor",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 180,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 17,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "explosive.satchel",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 190,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 18,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "chainsaw",
+          "SkinID": 0
+        },
+        {
+          "Amount": 100,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "lowgradefuel",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 200,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 19,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 5000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "sulfur",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 220,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 20,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "xmas.present.large",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 240,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 21,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "multiplegrenadelauncher",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 260,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 22,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.grenadelauncher.he",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 280,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 23,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.ak",
+          "SkinID": 0
+        },
+        {
+          "Amount": 200,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 300,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 24,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.bolt",
+          "SkinID": 0
+        },
+        {
+          "Amount": 200,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 350,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 25,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "hmlmg",
+          "SkinID": 0
+        },
+        {
+          "Amount": 300,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 400,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 26,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 30,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rocket.hv",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 450,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 27,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 2,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "electric.generator.small",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 500,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 28,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 3000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "gunpowder",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.ak",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 550,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 29,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 5000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "metal.fragments",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 600,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 30,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "easter.goldegg",
+          "SkinID": 0
+        }
+      ]
+    }
+  ],
+  "Настройка VIP уровней": [
+    {
+      "Количество EXP для получения этого уровня": 20,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 1,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "axe.salvaged",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 30,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 2,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.revolver",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 40,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 3,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "hoodie",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pants",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 50,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 4,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "roadsign.jacket",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "roadsign.kilt",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "coffeecan.helmet",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 60,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 5,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 300,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "scrap",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 70,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 6,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 5,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "explosive.satchel",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 80,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 7,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.semiauto",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 90,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 8,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wall.frame.garagedoor",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 100,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 9,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "largemedkit",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 110,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 10,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "easter.silveregg",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 120,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 11,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "furnace.large",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 130,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 12,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "pistol.m92",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 140,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 13,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "wall.external.high.stone",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "gates.external.high.stone",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 150,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 14,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 400,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "metal.refined",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 160,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 15,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "smg.mp5",
+          "SkinID": 0
+        },
+        {
+          "Amount": 60,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.pistol",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 170,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 16,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "door.double.hinged.toptier",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 180,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 17,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 10,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "explosive.timed",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 190,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 18,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "jackhammer",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 200,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 19,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 3000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "gunpowder",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 220,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 20,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "xmas.present.large",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 240,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 21,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rocket.launcher",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 260,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 22,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rocket.basic",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.ak",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 280,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 23,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.lr300",
+          "SkinID": 0
+        },
+        {
+          "Amount": 200,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 300,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 24,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.l96",
+          "SkinID": 0
+        },
+        {
+          "Amount": 200,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 350,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 25,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "lmg.m249",
+          "SkinID": 0
+        },
+        {
+          "Amount": 300,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 400,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 26,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 500,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "ammo.rifle.explosive",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 450,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 27,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 5,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "autoturret",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 500,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 28,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 300,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "explosives",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 550,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 29,
+      "Выделить награду зеленым цветом?": false,
+      "Награда за уровень": [
+        {
+          "Amount": 1000,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "metal.refined",
+          "SkinID": 0
+        }
+      ]
+    },
+    {
+      "Количество EXP для получения этого уровня": 600,
+      "Картинка отображения награды(если пустое, берет 1 картинку из награды)": "",
+      "Номер уровня": 30,
+      "Выделить награду зеленым цветом?": true,
+      "Награда за уровень": [
+        {
+          "Amount": 20,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "halloween.lootbag.large",
+          "SkinID": 0
+        },
+        {
+          "Amount": 1,
+          "Display Name": "",
+          "Команды которые должны выполняться(Используйте %STEAMID% для ввода стимИД игрока)": [
+            "o.grant user %STEAMID% vip",
+            "o.grant user %STEAMID% elite"
+          ],
+          "Is blueprint?": false,
+          "ShortName": "rifle.ak",
+          "SkinID": 0
+        }
+      ]
+    }
+  ]
+}

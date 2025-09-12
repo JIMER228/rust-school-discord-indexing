@@ -1,0 +1,21 @@
+{
+  "NoAccess": "<color=#FF0000>[ServerName]</color><color=#FFFFFF> You don't have the permission to use this command</color>",
+  "UnbanMessage": "Player [{0}] is unbanned!",
+  "UnbanSyntax": "Syntax: unban < SteamID >",
+  "BanSyntax": "Syntax: ban < SteamID > < reason > < time in days(optional) > ",
+  "PlayerNotFound": "Player {0} was not found in database.\n",
+  "PlayerDefinition": "Игрока нельзя разбанить без согласования с админом!\nСвязанные SteamID: {0}",
+  "PlayerAlreadyBanned": "Player {0} is already banned.\n",
+  "Changed": "Ban duration for player {0} changed to {1}",
+  "day": "d.",
+  "Permanent": "permanent",
+  "BanEvade": "Ban evade",
+  "CantBanOwner": "Нельзя забанить Админа\n",
+  "CantBanModerator": "Нельзя забанить модератора\n",
+  "PlayerBanned": "<color=#FF0000>ServerName]</color><color=#FFFFFF> Player <color=#FF0000>{0}</color> was permanently banned! Reason: <color=#FF0000>{1}</color></color>",
+  "PlayerBannedTemp": "<color=#FF0000>[ServerName]</color><color=#FFFFFF> Player <color=#FF0000>{0}</color> was banned for <color=#FF0000>{1}</color> Reason: <color=#FF0000>{2}</color></color>",
+  "DatabaseError": "Database receiving error: list.Count != 1!\n",
+  "InformMessage": "If you believe that the ban was received unfairly, you can apply for a unban <color=#FFA500>vk.com/nnetadon</color>",
+  "ExitMessagePermBan": "You are permanently banned!\nReason:",
+  "ExitMessageTempBan": "The ban expires after {0} Reason: "
+}

@@ -1,0 +1,11 @@
+{
+  "MsgAlkad": {
+    "hide": false,
+    "fpsMin": 1,
+    "fpsMax": 1000,
+    "ramMax": 13000,
+    "ramTimeSec": 600,
+    "ramTMsgError": "[RAM] Server memory limit reached",
+    "ramTMsgLog": "[RAM] {0} MB / {1} MB"
+  }
+}

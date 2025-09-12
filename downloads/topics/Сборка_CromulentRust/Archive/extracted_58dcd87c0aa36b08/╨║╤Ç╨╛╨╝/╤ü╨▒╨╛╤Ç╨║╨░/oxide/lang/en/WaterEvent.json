@@ -1,0 +1,15 @@
+{
+  "PreStart": "{0} The Submarine will traverse the seas near the island in <color=#55aaff>{1} sec.</color>!",
+  "Start": "{0} The Submarine has breached. It's en route to grid <color=#55aaff>{1}</color>\nThe Submarine <color=#ce3f27>will self destruct</color> in <color=#55aaff>{2} sec.</color>!\nCCTVs: <color=#55aaff>Submarine1, Submarine2, Submarine3, Submarine4</color>",
+  "PreFinish": "{0} The Submarine <color=#ce3f27>will self destruct</color> in <color=#55aaff>{1} sec.</color>!",
+  "Finish": "{0} The Submarine <color=#ce3f27>self destructed</color>!",
+  "EventActive": "{0} This event is active now. To finish this event (<color=#55aaff>/waterstop</color>), then (<color=#55aaff>/waterstart</color>) to start the next one!",
+  "GUI": "The Submarine will self desctruct in {0} sec. Crates - {1}",
+  "EnterPVP": "{0} You <color=#ce3f27>have entered</color> the PVP zone, now other players <color=#ce3f27>can damage</color> you!",
+  "ExitPVP": "{0} You <color=#738d43>have left</color> the PVP zone, now other players <color=#738d43>cannot damage</color> you!",
+  "OpenBlueDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>has opened</color> The Blue Security Door on The Submarine!",
+  "OpenRedDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>has opened</color> The Red Security Door on The Submarine!",
+  "HackCrate": "{0} <color=#55aaff>{1}</color> <color=#738d43>is hacking</color> a locked crate inside The Submarine!",
+  "NTeleportation": "{0} You <color=#ce3f27>cannot</color> teleport into the event zone!",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event"
+}

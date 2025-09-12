@@ -1,0 +1,54 @@
+{
+  "Enabled": true,
+  "TasksCompleted": false,
+  "Completed": 0,
+  "CompletedForVip": 0,
+  "takeitVIP": false,
+  "db": {
+    "wood": {
+      "Amount": 15000,
+      "Enabled": true,
+      "TakeReward": true
+    },
+    "loot-barrel-1": {
+      "Amount": 7,
+      "Enabled": false,
+      "TakeReward": false
+    },
+    "player": {
+      "Amount": 20,
+      "Enabled": true,
+      "TakeReward": true
+    },
+    "scientistjunkpile": {
+      "Amount": 10,
+      "Enabled": true,
+      "TakeReward": true
+    },
+    "rifle.ak": {
+      "Amount": 0,
+      "Enabled": false,
+      "TakeReward": false
+    },
+    "codelockedhackablecrate": {
+      "Amount": 1,
+      "Enabled": false,
+      "TakeReward": false
+    },
+    "stones": {
+      "Amount": 26647,
+      "Enabled": false,
+      "TakeReward": false
+    },
+    "metal.ore": {
+      "Amount": 7320,
+      "Enabled": false,
+      "TakeReward": false
+    },
+    "sulfur.ore": {
+      "Amount": 3034,
+      "Enabled": false,
+      "TakeReward": false
+    }
+  }
+}

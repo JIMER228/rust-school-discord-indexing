@@ -1,0 +1,120 @@
+{
+  "Enabled? [true/false]": true,
+  "Position": "(-38.6, 1.2, -827.8)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 10,
+      "Maximum numbers - Day": 10,
+      "Minimum numbers - Night": 10,
+      "Maximum numbers - Night": 10,
+      "NPCs setting": {
+        "Names": [
+          "Ученый"
+        ],
+        "Health": 250.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "hazmatsuit_scientist_peacekeeper",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          },
+          {
+            "ShortName": "grenade.f1",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          },
+          {
+            "ShortName": "smg.mp5",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-55.5, 0.0, 49.6)",
+        "(-36.2, 0.0, 40.3)",
+        "(-36.7, 0.0, 23.4)",
+        "(-58.1, 0.0, -53.4)",
+        "(-58.0, 0.0, -33.2)",
+        "(-34.0, 0.0, -35.9)",
+        "(-16.3, 0.0, -0.6)",
+        "(9.4, 0.6, 5.8)",
+        "(74.6, 0.0, -19.7)",
+        "(80.1, 0.0, 10.2)",
+        "(54.1, 0.0, 36.9)",
+        "(35.2, 0.0, 22.7)",
+        "(18.2, 0.0, 37.1)",
+        "(-1.9, 0.0, 59.0)",
+        "(-18.7, 0.0, 76.4)",
+        "(3.7, 0.0, -21.4)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

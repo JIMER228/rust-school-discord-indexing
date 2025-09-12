@@ -1,0 +1,1 @@
+Before loading MapVoter.cs upload oxide.disable-sandbox to /RustDedicated_Data/Managed

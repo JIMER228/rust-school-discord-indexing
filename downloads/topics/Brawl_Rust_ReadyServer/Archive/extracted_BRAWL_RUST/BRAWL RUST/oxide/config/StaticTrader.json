@@ -1,0 +1,36 @@
+{
+  "Timeout": 60.0,
+  "TradeCommand": "trade",
+  "TradeListCommand": "ltrade",
+  "AcceptTradeCommand": "atrade",
+  "DeclineTradeCommand": "dtrade",
+  "ShowUINotice": true,
+  "UINoticeXOffset": 0.0,
+  "UINoticeYOffset": 0.0,
+  "TriggerCooldownOnDecline": true,
+  "TeamOnlyTradingList": true,
+  "Fee": {
+    "Fee": 50,
+    "DistanceThreshold": 500.0,
+    "Currency Type (0 = None, 1 = Item, 2 = ServerRewards, 3 = Economics, 4 = Other": 0,
+    "ItemShortName": "scrap",
+    "ItemCustomName": "",
+    "OtherSettings": {
+      "PluginName": "MyCurrencyPlugin",
+      "TypeMode (0 = Int, 1 = Double, 2 = Float)": 0,
+      "FullName": "My Bank",
+      "ShortName": "cc",
+      "DepositMethod": "Deposit",
+      "WithdrawMethod": "Withdraw",
+      "BalanceMethod": "Balance"
+    }
+  },
+  "Rules": {
+    "CanTradeBuildingBlocked": true,
+    "CanTradeCombatBlocked": true,
+    "CanTradeRaidBlocked": true
+  },
+  "GroupCooldowns": {
+    "default": 30.0
+  }
+}

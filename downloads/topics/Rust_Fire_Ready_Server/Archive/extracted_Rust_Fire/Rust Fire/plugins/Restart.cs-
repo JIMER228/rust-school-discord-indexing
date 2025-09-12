@@ -1,0 +1,12 @@
+﻿namespace Oxide.Plugins
+{
+    [Info("Restart", "VooDoo", "1.0.0")]
+    [Description("Restart")]
+    public class Restart : RustPlugin
+    {
+        private void OnServerInitialized()
+        {
+            rust.RunServerCommand("restart 1");
+        }
+    }
+}

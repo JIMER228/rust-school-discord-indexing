@@ -1,0 +1,29 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Got Message: Ready
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Console: Clans.cs(1467,21): warning CS0219: The variable `reply' is assigned but its value is never used
+Clans.cs(1896,18): warning CS0219: The variable `TurnirCan' is assigned but its value is never used
+Clans.cs(1977,20): warning CS0219: The variable `title' is assigned but its value is never used
+Clans.cs(2002,17): warning CS0219: The variable `clanLeaderStatus' is assigned but its value is never used
+Clans.cs(3188,13): warning CS0162: Unreachable code detected
+Clans.cs(4316,21): warning CS0219: The variable `ClanMembers2' is assigned but its value is never used
+Clans.cs(38,17): warning CS0169: The private field `Oxide.Plugins.Clans.lib' is never used
+Clans.cs(42,36): warning CS0414: The private field `Oxide.Plugins.Clans.originalNames' is assigned but its value is never used
+Clans.cs(137,16): warning CS0414: The private field `Oxide.Plugins.Clans.pluginPrefix' is assigned but its value is never used
+Clans.cs(141,16): warning CS0414: The private field `Oxide.Plugins.Clans.pluginPrefixFormat' is assigned but its value is never used
+Clans.cs(163,14): warning CS0414: The private field `Oxide.Plugins.Clans.addClanMembersAsIOFriends' is assigned but its value is never used
+Clans.cs(169,22): warning CS0414: The private field `Oxide.Plugins.Clans.activeRadarUsers' is assigned but its value is never used
+Clans.cs(170,46): warning CS0414: The private field `Oxide.Plugins.Clans.clanRadarMemberobjects' is assigned but its value is never used
+Clans.cs(171,24): warning CS0414: The private field `Oxide.Plugins.Clans.sleeperHeight' is assigned but its value is never used
+Clans.cs(172,24): warning CS0414: The private field `Oxide.Plugins.Clans.playerHeight' is assigned but its value is never used
+Clans.cs(173,14): warning CS0169: The private field `Oxide.Plugins.Clans.enableAtLogin' is never used
+Clans.cs(215,13): warning CS0414: The private field `Oxide.Plugins.Clans.PointsOfGatherMetalOre' is assigned but its value is never used
+Clans.cs(216,13): warning CS0414: The private field `Oxide.Plugins.Clans.PointsOfGatherStone' is assigned but its value is never used
+Clans.cs(217,13): warning CS0414: The private field `Oxide.Plugins.Clans.PointsOfGatherWood' is assigned but its value is never used
+Clans.cs(218,13): warning CS0414: The private field `Oxide.Plugins.Clans.PointsOfGatherHQM' is assigned but its value is never used
+Clans.cs(1084,22): warning CS0414: The private field `Oxide.Plugins.Clans.ins' is assigned but its value is never used
+Clans.cs(3120,16): warning CS0414: The private field `Oxide.Plugins.Clans.ButtonListed' is assigned but its value is never used
+
+[SERVER v1.0.24] Connection closed.
+[SERVER v1.0.24] Shutdown

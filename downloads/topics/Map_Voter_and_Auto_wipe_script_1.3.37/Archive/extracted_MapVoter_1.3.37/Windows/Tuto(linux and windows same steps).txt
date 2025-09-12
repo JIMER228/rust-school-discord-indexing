@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=ErgZ5WuTWtA
+Note : 
+-Open AutoWipeConfig.txt in your server and add your discord channel webhook link under steamcmd path.
+exmaple : 
+```
+/home/username/RustServer/server/my_server_identity/cfg/server.cfg
+/home/username/.steam/steamcmd/steamcmd.sh
+https://discord.com/api/webhooks/123456789/azesccqzazQSDfsdf_FC2zFSFsedf-sdfFDSVfe6541
+*.db
+*.db-journal
+*.sav*
+```

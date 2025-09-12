@@ -1,0 +1,34 @@
+{
+  "Can Admins Gain XP": true,
+  "Can Sleepers Gain XP": true,
+  "Earning Multipliers": {
+    "AnimalKilled": 3.0,
+    "BreakdownItem": 3.0,
+    "CollectWorldItem": 3.0,
+    "Gather": 3.0,
+    "GatherComplete": 3.0,
+    "HelicopterDamage": 3.0,
+    "ItemCrafted": 3.0,
+    "LootFound": 3.0,
+    "LootSmashed": 3.0,
+    "OtherAnimalKilled": 3.0,
+    "OtherConsumeItem": 3.0,
+    "OtherGather": 3.0,
+    "OtherHealthUsed": 3.0,
+    "OtherItemCrafted": 3.0,
+    "TrapSuccess": 3.0,
+    "UsedForCrafting": 3.0
+  },
+  "Instant Max Level": false,
+  "Level Loss On Death (Percentage of current level)": 0.0,
+  "Maximal Level": 100,
+  "Minimal Level": 1,
+  "Permission Level Range": {
+    "levelrange.vip": "5-100",
+    "levelrange.vip+": "10-100"
+  },
+  "Permission Multipliers": {
+    "multiplier.vip": 1.5,
+    "multiplier.vip+": 2.0
+  }
+}

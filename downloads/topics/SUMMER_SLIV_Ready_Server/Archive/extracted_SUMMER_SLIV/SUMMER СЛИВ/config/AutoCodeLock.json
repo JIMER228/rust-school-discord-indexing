@@ -1,0 +1,33 @@
+{
+  "Command": {
+    "codelockCommand": "codelock"
+  },
+  "Formatting": {
+    "colorCmdUsage": "yellow",
+    "colorOFF": "silver",
+    "colorON": "green",
+    "colorTextMsg": "white",
+    "pluginPrefix": "AutoCodeLock",
+    "prefixColor": "orange",
+    "prefixFormat": "<color={0}>{1}</color>: "
+  },
+  "Options": {
+    "notifyAuthCodeLock": true
+  },
+  "Permissions": {
+    "permissionAll": "autocodelock.all",
+    "permissionAutoLock": "autocodelock.autolock",
+    "permissionDeployBox": "autocodelock.deploybox",
+    "permissionDeployCupboard": "autocodelock.deploycup",
+    "permissionDeployDoor": "autocodelock.deploydoor",
+    "permissionDeployLocker": "autocodelock.deploylocker",
+    "permissionNoLockNeed": "autocodelock.nolockneed"
+  },
+  "PlayerDefaults": {
+    "AutoLock": false,
+    "DeployBox": false,
+    "DeployCupboard": false,
+    "DeployDoor": false,
+    "DeployLocker": false
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "AvailableSkins": {
+    "MissingSkinNames": {
+      "chair": "Chair",
+      "fridge": "Fridge",
+      "mask.bandana": "Bandana",
+      "pistol.python": "Python",
+      "rifle.lr300": "lr300",
+      "rug": "Rug",
+      "rug.bear": "Bearskin Rug",
+      "table": "Table"
+    },
+    "useApprovedSkins": true,
+    "usedRankedByTrendDays": 30,
+    "useInbuiltSkins": true,
+    "useManualAddedSkins": true,
+    "useWebskinsRankedByTrend": false,
+    "useWebskinsRankedByTrendMaxCount": 90
+  },
+  "Cooldown": {
+    "activateAfterSkinTaken": true,
+    "cooldownBox": 60,
+    "cooldownOverrideAdmin": true,
+    "cooldownOverrideAuthLevel": 2,
+    "enableCooldown": false
+  },
+  "CustomPermissions": {
+    "enableCustomPerms": false,
+    "permCustomDeployable": "skinscontroller.deployable",
+    "permCustomPlayerwearable": "skinscontroller.playerwearable",
+    "permCustomWeapon": "skinscontroller.weapon"
+  },
+  "ItemsBlackList": {
+    "ItemsList": [
+      "flamethrower",
+	  "box.repair.bench"
+    ]
+  },
+  "Settings": {
+    "accessOverrideAuthLevel": 2,
+    "boxUseDistance": 10.0,
+    "exludedSkinsAuthLevel": 2,
+    "forceAlsoWearables": true,
+    "forceClientAlways": false,
+    "forceClientPreload": false,
+    "hideQuickSort": false,
+    "permissionUse": "skinscontroller.use",
+    "showLoadedSkinCounts": true,
+    "skinSCommand": "skin",
+    "steamApiKey": ""
+  },
+  "SkinsAdded": {
+    "SkinList": {}
+  },
+  "SkinsExcluded": {
+    "SkinList": []
+  },
+  "UsageCost": {
+    "costBoxOpen": 5,
+    "costDeployable": 10,
+    "costExcludeAdmins": true,
+    "costPlayerwearable": 20,
+    "costWeapon": 30,
+    "enableUsageCost": false,
+    "useEconomics": false,
+    "useServerRewards": true
+  }
+}

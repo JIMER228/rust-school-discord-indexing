@@ -1,0 +1,327 @@
+{
+  "Main Settings": {
+    "Open when player joins": true,
+    "Open once per wipe": false,
+    "Open at tab": 1,
+    "Block movement when browsing panel": true,
+    "Enable text tags": true,
+    "Server Title": "<size=65><b>YOUR</b>SERVER</size>",
+    "Server Logo": "https://i.ibb.co/swWRckb/LOGO-CHANGE-ME.jpg",
+    "Scroll Bar Color": null,
+    "Scroll Track Color": null,
+    "Selected button color": "0.757 0.259 0.161 1.00",
+    "Base Command": "info",
+    "Additional Commands": {
+      "rules": 2,
+      "help": 3
+    }
+  },
+  "Text Tabs": [
+    {
+      "Name": "<size=22>HOME</size>",
+      "Icon": "",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-bold.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "ScrollView Height": 0,
+      "Text Lines": [
+        [
+          "<size=45><color=#c14229>YOURSERVER</color> 2X </size> ",
+          "<size=25>WIPE SCHEDULE <color=#c142299f>WEEKLY/MONDAY</color> @ <color=#c142299f>8:00AM</color> (UTC+1)</size>",
+          "<size=25>RATES <color=#c142299f>2x GATHER</color> | <color=#c142299f>2x LOOT</color></size> ",
+          "<size=25>GROUP LIMIT <color=#c142299f>MAX 5</color></size>",
+          "<size=25>MAPSIZE <color=#c142299f>3500</color></size> ",
+          "\n",
+          "\n",
+          "<size=15>Server is located in EU. Feel free to browse our infomation panel to find out more about the server. If you have more questions, please join our discord and we will happy to help you.</size>",
+          "\n",
+          "<size=15>\n Enjoy your time!</size>"
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "<size=22>RULES</size>",
+      "Icon": "",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 4,
+      "ScrollView Height": 0,
+      "Text Lines": [
+        [
+          "<size=45><color=#c14229>Rules</color></size>",
+          "",
+          "<size=18>Do not use any third-party paid or free programs which provide an unfair advantage in-game. This includes scripts which can perform any action that is otherwise not possible to be performed ingame.</size>",
+          "",
+          "<size=18>Do not do anything to bypass a ban on our server(s). Do not try to join with a different account if you were banned, sit it out. Any try to do so will result in additional bans.</size>",
+          "",
+          "<size=18>Do not try to use any unfair advantages which were not intentially possible within the game. This includes but is not limited to accessing unaccessible areas and creating graphic errors or using graphical adjustments.</size>",
+          "",
+          "<size=18>Do not insult other players via text chat or any other applicable communication channel. We want a friendly and comfortable place for everyone on our server(s). Not following this rule will result into temporary or permanent restrictions, in extreme cases bans.</size>",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "<size=22>HELP</size>",
+      "Icon": "",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 4,
+      "ScrollView Height": 0,
+      "Text Lines": [
+        [
+          "<size=20><color=#c14229>HELP & COMMANDS</color></size>",
+          "",
+          "<size=18><b>/kit</b>: to request kits (Free & VIP)</size>",
+          "",
+          "<size=18><b>/sethome</b> :nameofyourhome: & /home :nameofyourhome: : set a home point.</size>",
+          "",
+          "<size=18><b>/bandit</b>: Teleport to the bandit camp</size>",
+          "",
+          "<size=18><b>/remove</b>: allows players to remove entitites owned by himself</size>",
+          "",
+          "<size=18><b>/clanhelp</b>: to show all the commands regarding Clan control & creation</size>",
+          "",
+          "<size=18><b>/pm :name: :message:</b>: Will send a message privately to a player</size>",
+          "",
+          "<size=18><b>/trade :name:</b>: to make a trade with another player</size>",
+          "",
+          "<size=18><b>/bskin</b>: to open BuildingSkin Menu</size>",
+          "",
+          "<size=18><b>(VIP) /skinbox</b>: to use skinbox</size>",
+          ""
+        ]
+      ],
+      "Addon (plugin name)": ""
+    },
+    {
+      "Name": "<size=22> KIT</size>",
+      "Icon": "https://rustplugins.net/products/welcomepanellite/4/shop_button.png",
+      "Font Size": 12,
+      "Font Color": "1 1 1 1",
+      "Font Outline Color": "0 0 0 1",
+      "Font Outline Thickness": "0.5",
+      "Font": "robotocondensed-regular.ttf",
+      "Text Background Image": "",
+      "Text Alignment": 3,
+      "ScrollView Height": 0,
+      "Text Lines": [
+        [
+          "This text won't be displayed because",
+          "addon is assigned to this tab."
+        ]
+      ],
+      "Addon (plugin name)": "kits"
+    }
+  ],
+  "Base Ui Elements": {
+    "background": {
+      "Color": "0.114 0.110 0.102 0.993",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0 0",
+      "Anchor Max": "1 1",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "offset_container": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://i.ibb.co/CBS2kGs/Welcome-Panel2x.jpg",
+      "Anchor Min": "0.5 0.5",
+      "Anchor Max": "0.5 0.5",
+      "Offset Min": "-680 -360",
+      "Offset Max": "680 360",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "main": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.22 0",
+      "Anchor Max": "1 1",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "side": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0 0",
+      "Anchor Max": "0.22 1",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.1,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "content": {
+      "Color": "0 0 0 0.0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.42 0.095",
+      "Anchor Max": "0.94 0.748",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "title": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "",
+      "Anchor Min": "0.104 0.849",
+      "Anchor Max": "0.453 0.955",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 3,
+      "Text Font (not for panels)": "robotocondensed-regular.ttf"
+    },
+    "logo": {
+      "Color": "0 0 0 0",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": null,
+      "Anchor Min": "0.040 0.859",
+      "Anchor Max": "0.089 0.946",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": null,
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": null
+    },
+    "close_button": {
+      "Color": "0 0 0 0.3",
+      "Material": "assets/content/ui/uibackgroundblur-ingamemenu.mat",
+      "Image": "",
+      "Anchor Min": "0.479 0.008",
+      "Anchor Max": "0.621 0.088",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.2,
+      "Text (not for panels)": "CLOSE",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "next_button": {
+      "Color": "0 0 0 0.4",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/next.png",
+      "Anchor Min": "0.97 0.005",
+      "Anchor Max": "1 0.053",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    },
+    "back_button": {
+      "Color": "0 0 0 0.4",
+      "Material": "assets/icons/iconmaterial.mat",
+      "Image": "https://rustplugins.net/products/welcomepanellite/1/back.png",
+      "Anchor Min": "0.935 0.005",
+      "Anchor Max": "0.965 0.053",
+      "Offset Min": "0 0",
+      "Offset Max": "0 0",
+      "Fade": 0.0,
+      "Text (not for panels)": "",
+      "Text Alignment (not for panels)": 4,
+      "Text Font (not for panels)": "robotocondensed-bold.ttf"
+    }
+  },
+  "Tab Buttons": [
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.4345 0.88",
+      "Anchor Max": "0.5195 0.938",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.5195 0.875",
+      "Anchor Max": "0.6245 0.942",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.6245 0.875",
+      "Anchor Max": "0.7295 0.942",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.7295 0.875",
+      "Anchor Max": "0.8395 0.942",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.8395 0.875",
+      "Anchor Max": "0.9395 0.942",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.041 0.103",
+      "Anchor Max": "0.183 0.179",
+      "Material": "assets/icons/iconmaterial.mat"
+    },
+    {
+      "Color": "0 0 0 0",
+      "Text Alignment": 4,
+      "Text Font": "robotocondensed-bold.ttf",
+      "Anchor Min": "0.201 0.103",
+      "Anchor Max": "0.343 0.179",
+      "Material": "assets/icons/iconmaterial.mat"
+    }
+  ],
+  "Build API (optional)": {
+    "Key": null,
+    "Token": null
+  }
+}

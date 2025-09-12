@@ -1,0 +1,87 @@
+{
+  "EnablePermission": true,
+  "Vehicles": {
+    "DuoSubmarine": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "HotAirBalloon": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 10.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Kayak": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Minicopter": {
+      "DecayMultiplierInside": 1.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 10.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "ModularCar": {
+      "DecayMultiplierInside": 0.1,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 10.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "RHIB": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "RidableHorse": {
+      "DecayMultiplierInside": 0.5,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 10.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Rowboat": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "ScrapTransportHelicopter": {
+      "DecayMultiplierInside": 1.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 10.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Sled": {
+      "DecayMultiplierInside": 1.0,
+      "DecayMultiplierNearTC": 1.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Sled.Xmas": {
+      "DecayMultiplierInside": 1.0,
+      "DecayMultiplierNearTC": 1.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Snowmobile": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "SoloSubmarine": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    },
+    "Tomaha": {
+      "DecayMultiplierInside": 0.0,
+      "DecayMultiplierNearTC": 1.0,
+      "ProtectionMinutesAfterUse": 45.0,
+      "DecayIntervalSeconds": 60.0
+    }
+  }
+}

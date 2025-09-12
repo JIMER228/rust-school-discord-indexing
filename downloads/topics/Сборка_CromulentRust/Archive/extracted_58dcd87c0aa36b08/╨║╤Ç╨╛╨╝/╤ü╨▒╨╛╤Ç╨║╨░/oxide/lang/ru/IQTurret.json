@@ -1,0 +1,15 @@
+{
+  "IS_LIMIT_TRUE": "У вас <color=#dd6363>превышен</color> лимит турелей <color=#dd6363>БЕЗ ЭЛЕКТРИЧЕСТВА</color>\n \nПовысить лимит можно на сайте<color=#dd6363> RUST-CROM.RU</color>",
+  "IS_TURRET_ELECTRIC_TRUE": "Данная турель подключена <color=#dd6363>к электричеству</color>, вы не можете использовать рубильник!",
+  "IS_BUILDING_BLOCK_TOGGLE": "Вы не можете использовать рубильник в <color=#dd6363>чужом доме</color>",
+  "INFORMATION_USER_ON": "Вы успешно <color=#66e28b>включили</color> турель, вам доступно еще для включения <color=#dd6363>{0}</color> турели",
+  "INFORMATION_USER_OFF": "Вы успешно <color=#dd6363>выключили</color> турель, вам доступно еще для включения <color=#dd6363>{0}</color> турели",
+  "INFORMATION_MY_LIMIT": "Вам <color=#dd6363>доступно</color> для включения <color=#dd6363>{0}</color> турелей",
+  "SYNTAX_COMMAND_ERROR": "<color=#dd6363>Ошибка синтаксиса : </color>\nИспользуйте команды :\n1. t on - включает все выключенные\n2. t off - выключает все включенные турели\n3. t limit - показывает сколько вам еще доступно турелей без электричества",
+  "PERMISSION_COMMAND_ERROR": "<color=#dd6363>Ошибка доступа : </color>\nУ вас недостаточно прав для использования данной команды!",
+  "IS_LIMIT_TRUE_OTHER": "У владельца турели <color=#dd6363>превышен</color> лимит активных турелей <color=#dd6363>БЕЗ ЭЛЕКТРИЧЕСТВА</color>",
+  "INFORMATION_USER_ON_OTHER": "Вы успешно <color=#66e28b>включили</color> турель игрока, игроку доступно еще для включения <color=#dd6363>{0}</color> турели",
+  "INFORMATION_USER_OFF_OTHER": "Вы успешно <color=#dd6363>выключили</color> турель игрока, игрока доступно еще для включения <color=#dd6363>{0}</color> турели",
+  "INFORMATION_USER_ACTION_COMMAND_BUILDING": "Для использования этой команды вы должны находиться в зоне действия шкафа",
+  "INFORMATION_USER_ACTION_COMMAND_COOLDOWN": "Перезарядка на использование команды, подождите еще <color=#dd6363>{0}</color> секунд"
+}

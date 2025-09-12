@@ -1,0 +1,10 @@
+{
+  "voteSuccess": "{msg}Вы проголосовали, чтобы пропустить ночь!</color>",
+  "noVote": "{msg}В настоящее время голосование не открыто!</color>",
+  "alreadyOpen": "{msg}Голосование продолжаеться!</color>",
+  "invalidSyntax": "{msg}Неправильно!</color> {main}/vote open</color>{msg} || </color> {main}/vote close</color>",
+  "votingSuccessful": "{main}Голосование прошло успешно!</color>{msg} Пропускаем ночь!</color>",
+  "votingUnsuccessful": "{main}Голосование провалено!</color>{msg} Да настанет ночь!</color>",
+  "commandSyn": "{msg}Введите </color>{main}/vote</color>{msg} что бы пропустить ночь!</color>",
+  "skipNight": "Голосование"
+}

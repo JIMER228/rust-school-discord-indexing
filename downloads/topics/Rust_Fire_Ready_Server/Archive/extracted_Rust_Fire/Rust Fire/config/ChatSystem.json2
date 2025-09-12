@@ -1,0 +1,41 @@
+{
+  "A. Global chat settings": {
+    "1. Message cooldown": 3,
+    "2. Log messages": true
+  },
+  "B. Words settings": {
+    "1. Blacklist": [
+      "shit",
+      "fuck",
+      "pussy"
+    ],
+    "2. Whitelist": [
+      "bullshit",
+      "shits",
+      "fuckup"
+    ],
+    "3. Auto-mute for bad word": 600
+  },
+  "C. Prefixes": [
+    {
+      "1. Permission": "chatsystem.admin",
+      "2. Tag": "<color=#ff0000>[ADMIN]</color>",
+      "3. Format": "{tag} {name}: {message}"
+    },
+    {
+      "1. Permission": "chatsystem.vip",
+      "2. Tag": "<color=#f7ff00>[VIP]</color>",
+      "3. Format": "{tag} {name}: {message}"
+    },
+    {
+      "1. Permission": "chatsystem.vip_plus",
+      "2. Tag": "<color=#f7ff00>[VIP+]</color>",
+      "3. Format": "{tag} {name}: {message}"
+    },
+    {
+      "1. Permission": "chatsystem.default",
+      "2. Tag": "",
+      "3. Format": "{name}: {message}"
+    }
+  ]
+}

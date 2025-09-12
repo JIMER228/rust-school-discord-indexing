@@ -1,0 +1,100 @@
+{
+    "Health Boost Syringe": {
+      "calories": -20.0,
+      "hydration": -50.0,
+      "health": 40.0,
+      "healthRegen": 0.0,
+      "bleeding": -30.0,
+      "poison": 0.0,
+      "radiation": 30.0,
+      "dirtyness": 0.0,
+      "TeaBoost_enabled": true,
+      "boostType": "health",
+      "boostValue": 0.3,
+      "boostDuration": 20.0,
+      "tooltipText": "<size=12><b>Healing <color=#91b94a>+45</color></b>, <b>Max Health <color=#91b94a>+80</color></b> (20s), Removes bleeding</size>\n<size=12><b>Calories <color=#e67a2b>-120</color>, Water <color=#e67a2b>-60</color></b><b>Overdose <color=#e67a2b>+70</color></b></size>",
+      "effects": [
+        "assets/prefabs/misc/xmas/snowball/effects/strike_screenshake.prefab",
+        "healing_overlay"
+      ]
+    },
+    "Methamphetamine": {
+      "calories": 150.0,
+      "hydration": -20.0,
+      "health": 5.0,
+      "healthRegen": 0.0,
+      "bleeding": 0.0,
+      "poison": 0.0,
+      "radiation": 0.0,
+      "dirtyness": 35.0,
+      "TeaBoost_enabled": true,
+      "boostType": "scrap",
+      "boostValue": 1.30,
+      "boostDuration": 900.0,
+      "tooltipText": "<b>Healing <color=#91b94a>+5</color></b>, <b>Scrap Yield <color=#91b94a>+30%</color></b> - 15m <b>, Calories <color=#91b94a>+150</color>, Water <color=#e67a2b>-20</color></b>, <b>Overdose <color=#e67a2b>+35</color></b>",
+      "effects": [
+        "assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab",
+        "assets/bundled/prefabs/fx/gestures/take_pills.prefab",
+        "blue_overlay"
+      ]
+    },
+    "Marihuana": {
+      "calories": -180.0,
+      "hydration": -90.0,
+      "health": 15.0,
+      "healthRegen": 0.0,
+      "bleeding": -30.0,
+      "poison": 0.0,
+      "radiation": 0.0,
+      "dirtyness": 15.0,
+      "TeaBoost_enabled": true,
+      "boostType": "wood",
+      "boostValue": 1.4,
+      "boostDuration": 1200.0,
+      "tooltipText": "<b>Healing <color=#91b94a>+15</color></b>, <b>Wood Yield <color=#91b94a>+40%</color></b> - 20m, Removes bleeding ,<b>Calories <color=#e67a2b>-180</color>, Water <color=#e67a2b>-90</color></b>, <b>Overdose <color=#e67a2b>+15</color></b>",
+      "effects": [
+        "assets/content/weapons/_gestures/effects/drink.prefab",
+        "assets/prefabs/weapons/beancan grenade/effects/light_fuse.prefab",
+        "orange_overlay"
+      ]
+    },
+    "Cocaine": {
+      "calories": -40.0,
+      "hydration": -30.0,
+      "health": 25.0,
+      "healthRegen": 0.0,
+      "bleeding": -30.0,
+      "poison": 0.0,
+      "radiation": 0.0,
+      "dirtyness": 70.0,
+      "TeaBoost_enabled": true,
+      "boostType": "health",
+      "boostValue": 1.2,
+      "boostDuration": 420.0,
+      "tooltipText": "<b>Healing <color=#91b94a>+25</color></b> \n<b>Max Health <color=#91b94a>+20</color></b> - 7m\n<b>Calories <color=#e67a2b>-40</color> / Water <color=#e67a2b>-30</color></b>\n<b>Overdose <color=#e67a2b>+70</color></b>",
+      "effects": [
+        "assets/content/weapons/_gestures/effects/eat_1hand_celery.prefab",
+        "blue_overlay"
+      ]
+    },
+    "overdose_debuff": {
+      "calories": 0,
+      "hydration": 0,
+      "health": -15,
+      "healthRegen": 0.0,
+      "bleeding": 10.0,
+      "poison": 1.0,
+      "radiation": 0,
+      "dirtyness": 0,
+      "TeaBoost_enabled": true,
+      "boostType": "health",
+      "boostValue": -1.5,
+      "boostDuration": 5.0,
+      "tooltipText": "",
+      "effects": [
+        "assets/prefabs/misc/xmas/snowball/effects/strike_screenshake.prefab",
+        "assets/bundled/prefabs/fx/gestures/drink_vomit.prefab",
+        "hurt_overlay"
+      ]
+    }
+}

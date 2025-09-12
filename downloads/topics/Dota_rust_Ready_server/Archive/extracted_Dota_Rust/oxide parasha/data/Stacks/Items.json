@@ -1,0 +1,4646 @@
+[
+  {
+    "ShortName": "hat.wolf",
+    "Name": "Wolf Headdress",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "fogmachine",
+    "Name": "Fogger-3000",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "strobelight",
+    "Name": "Strobe Light",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "kayak",
+    "Name": "Kayak",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rhib",
+    "Name": "RHIB",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rowboat",
+    "Name": "Rowboat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "minihelicopter.repair",
+    "Name": "MC repair",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "aiming.module.mlrs",
+    "Name": "MLRS Aiming Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mlrs",
+    "Name": "MLRS",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.rocket.mlrs",
+    "Name": "MLRS Rocket",
+    "Default Stack Size": 6,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "scraptransportheli.repair",
+    "Name": "ScrapTransportHeliRepair",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowmobile",
+    "Name": "Snowmobile",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowmobiletomaha",
+    "Name": "Tomaha Snowmobile",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "submarineduo",
+    "Name": "Duo Submarine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "submarinesolo",
+    "Name": "Solo Submarine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wagon",
+    "Name": "Wagon",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "workcart",
+    "Name": "Work Cart",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.grenadelauncher.buckshot",
+    "Name": "40mm Shotgun Round",
+    "Default Stack Size": 24,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.grenadelauncher.he",
+    "Name": "40mm HE Grenade",
+    "Default Stack Size": 12,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.grenadelauncher.smoke",
+    "Name": "40mm Smoke Grenade",
+    "Default Stack Size": 12,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "arrow.hv",
+    "Name": "High Velocity Arrow",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "arrow.wooden",
+    "Name": "Wooden Arrow",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "arrow.bone",
+    "Name": "Bone Arrow",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "arrow.fire",
+    "Name": "Fire Arrow",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.handmade.shell",
+    "Name": "Handmade Shell",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.nailgun.nails",
+    "Name": "Nailgun Nails",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.pistol",
+    "Name": "Pistol Bullet",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.pistol.fire",
+    "Name": "Incendiary Pistol Bullet",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.pistol.hv",
+    "Name": "HV Pistol Ammo",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.rifle",
+    "Name": "5.56 Rifle Ammo",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.rifle.explosive",
+    "Name": "Explosive 5.56 Rifle Ammo",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.rifle.incendiary",
+    "Name": "Incendiary 5.56 Rifle Ammo",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.rifle.hv",
+    "Name": "HV 5.56 Rifle Ammo",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.rocket.basic",
+    "Name": "Rocket",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "ammo.rocket.fire",
+    "Name": "Incendiary Rocket",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "ammo.rocket.hv",
+    "Name": "High Velocity Rocket",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "ammo.rocket.smoke",
+    "Name": "Smoke Rocket WIP!!!!",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "ammo.shotgun",
+    "Name": "12 Gauge Buckshot",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.shotgun.fire",
+    "Name": "12 Gauge Incendiary Shell",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 1280
+  },
+  {
+    "ShortName": "ammo.shotgun.slug",
+    "Name": "12 Gauge Slug",
+    "Default Stack Size": 32,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "speargun.spear",
+    "Name": "Speargun Spear",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "submarine.torpedo.straight",
+    "Name": "Torpedo",
+    "Default Stack Size": 100,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "door.double.hinged.metal",
+    "Name": "Sheet Metal Double Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "door.double.hinged.toptier",
+    "Name": "Armored Double Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "door.double.hinged.wood",
+    "Name": "Wood Double Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "door.hinged.metal",
+    "Name": "Sheet Metal Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "door.hinged.toptier",
+    "Name": "Armored Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "door.hinged.wood",
+    "Name": "Wooden Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "floor.grill",
+    "Name": "Floor grill",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "floor.ladder.hatch",
+    "Name": "Ladder Hatch",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "floor.triangle.grill",
+    "Name": "Floor triangle grill",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "floor.triangle.ladder.hatch",
+    "Name": "Triangle Ladder Hatch",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "gates.external.high.stone",
+    "Name": "High External Stone Gate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "gates.external.high.wood",
+    "Name": "High External Wooden Gate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ladder.wooden.wall",
+    "Name": "Wooden Ladder",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.external.high.stone",
+    "Name": "High External Stone Wall",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "wall.external.high",
+    "Name": "High External Wooden Wall",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.cell.gate",
+    "Name": "Prison Cell Gate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.cell",
+    "Name": "Prison Cell Wall",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.fence.gate",
+    "Name": "Chainlink Fence Gate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.fence",
+    "Name": "Chainlink Fence",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.garagedoor",
+    "Name": "Garage Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.netting",
+    "Name": "Netting",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.shopfront",
+    "Name": "Shop Front",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.frame.shopfront.metal",
+    "Name": "Metal Shop Front",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.window.bars.metal",
+    "Name": "Metal Window Bars",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.window.bars.toptier",
+    "Name": "Reinforced Glass Window",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.window.bars.wood",
+    "Name": "Wooden Window Bars",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shutter.metal.embrasure.a",
+    "Name": "Metal horizontal embrasure",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shutter.metal.embrasure.b",
+    "Name": "Metal Vertical embrasure",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.window.glass.reinforced",
+    "Name": "Strengthened Glass Window",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shutter.wood.a",
+    "Name": "Wood Shutters",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "watchtower.wood",
+    "Name": "Watch Tower",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "diving.fins",
+    "Name": "Diving Fins",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "diving.mask",
+    "Name": "Diving Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "diving.tank",
+    "Name": "Diving Tank",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "diving.wetsuit",
+    "Name": "Wetsuit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "boots.frog",
+    "Name": "Frog Boots",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barrelcostume",
+    "Name": "A Barrel Costume",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cratecostume",
+    "Name": "Crate Costume",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.gas.mask",
+    "Name": "Gas Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "burlap.gloves.new",
+    "Name": "Burlap Gloves",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "burlap.gloves",
+    "Name": "Leather Gloves",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "roadsign.gloves",
+    "Name": "Roadsign Gloves",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "tactical.gloves",
+    "Name": "Tactical Gloves",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "ghostsheet",
+    "Name": "Ghost Costume",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.mummysuit",
+    "Name": "Mummy Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scarecrow.suit",
+    "Name": "Scarecrow Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scarecrowhead",
+    "Name": "Scarecrow Wrap",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.hide.helterneck",
+    "Name": "Hide Halterneck",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.beenie",
+    "Name": "Beenie Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.boonie",
+    "Name": "Boonie Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bucket.helmet",
+    "Name": "Bucket Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "burlap.headwrap",
+    "Name": "Burlap Headwrap",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.candle",
+    "Name": "Candle Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.cap",
+    "Name": "Baseball Cap",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clatter.helmet",
+    "Name": "Clatter Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "coffeecan.helmet",
+    "Name": "Coffee Can Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "deer.skull.mask",
+    "Name": "Bone Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "heavy.plate.helmet",
+    "Name": "Heavy Plate Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "hat.miner",
+    "Name": "Miners Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "partyhat",
+    "Name": "Party Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "riot.helmet",
+    "Name": "Riot Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wood.armor.helmet",
+    "Name": "Wood Armor Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "hoodie",
+    "Name": "Hoodie",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "bone.armor.suit",
+    "Name": "Bone Armor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "heavy.plate.jacket",
+    "Name": "Heavy Plate Jacket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "jacket.snow",
+    "Name": "Snow Jacket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jacket",
+    "Name": "Jacket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "wood.armor.jacket",
+    "Name": "Wood Chestplate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "lumberjack hoodie",
+    "Name": "Lumberjack Hoodie",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mask.balaclava",
+    "Name": "Improvised Balaclava",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mask.bandana",
+    "Name": "Bandana Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "metal.facemask",
+    "Name": "Metal Facemask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "nightvisiongoggles",
+    "Name": "Night Vision Goggles",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.ninja.suit",
+    "Name": "Ninja Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "burlap.trousers",
+    "Name": "Burlap Trousers",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "heavy.plate.pants",
+    "Name": "Heavy Plate Pants",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.hide.pants",
+    "Name": "Hide Pants",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "roadsign.kilt",
+    "Name": "Road Sign Kilt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pants.shorts",
+    "Name": "Shorts",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wood.armor.pants",
+    "Name": "Wood Armor Pants",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pants",
+    "Name": "Pants",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "attire.hide.poncho",
+    "Name": "Hide Poncho",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "burlap.shirt",
+    "Name": "Burlap Shirt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shirt.collared",
+    "Name": "Shirt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.hide.vest",
+    "Name": "Hide Vest",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shirt.tanktop",
+    "Name": "Tank Top",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shoes.boots",
+    "Name": "Boots",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "burlap.shoes",
+    "Name": "Burlap Shoes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.hide.boots",
+    "Name": "Hide Boots",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.hide.skirt",
+    "Name": "Hide Skirt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.banditguard",
+    "Name": "Bandit Guard Gear",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit.arcticsuit",
+    "Name": "Arctic Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit",
+    "Name": "Hazmat Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "hazmatsuit.nomadsuit",
+    "Name": "Nomad Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit_scientist",
+    "Name": "Scientist Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit_scientist_arctic",
+    "Name": "Arctic Scientist Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit_scientist_peacekeeper",
+    "Name": "Scientist Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hazmatsuit.spacesuit",
+    "Name": "Space Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scientistsuit_heavy",
+    "Name": "Heavy Scientist Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jumpsuit.suit.blue",
+    "Name": "Blue Jumpsuit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jumpsuit.suit",
+    "Name": "Jumpsuit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "tshirt.long",
+    "Name": "Longsleeve T-Shirt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "tshirt",
+    "Name": "T-Shirt",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "metal.plate.torso",
+    "Name": "Metal Chest Plate",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "roadsign.jacket",
+    "Name": "Road Sign Jacket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "bleach",
+    "Name": "Bleach",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ducttape",
+    "Name": "Duct Tape",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "carburetor1",
+    "Name": "Low Quality Carburetor",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "carburetor2",
+    "Name": "Medium Quality Carburetor",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "carburetor3",
+    "Name": "High Quality Carburetor",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "crankshaft1",
+    "Name": "Low Quality Crankshaft",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "crankshaft2",
+    "Name": "Medium Quality Crankshaft",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "crankshaft3",
+    "Name": "High Quality Crankshaft",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "piston1",
+    "Name": "Low Quality Pistons",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "piston2",
+    "Name": "Medium Quality Pistons",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "piston3",
+    "Name": "High Quality Pistons",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sparkplug1",
+    "Name": "Low Quality Spark Plugs",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sparkplug2",
+    "Name": "Medium Quality Spark Plugs",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sparkplug3",
+    "Name": "High Quality Spark Plugs",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "valve1",
+    "Name": "Low Quality Valves",
+    "Default Stack Size": 15,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "valve2",
+    "Name": "Medium Quality Valves",
+    "Default Stack Size": 15,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "valve3",
+    "Name": "High Quality Valves",
+    "Default Stack Size": 15,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fuse",
+    "Name": "Electric Fuse",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 500
+  },
+  {
+    "ShortName": "gears",
+    "Name": "Gears",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "glue",
+    "Name": "Glue",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "metalblade",
+    "Name": "Metal Blade",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "metalpipe",
+    "Name": "Metal Pipe",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "propanetank",
+    "Name": "Empty Propane Tank",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "roadsigns",
+    "Name": "Road Signs",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "rope",
+    "Name": "Rope",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "sewingkit",
+    "Name": "Sewing Kit",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "sheetmetal",
+    "Name": "Sheet Metal",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "metalspring",
+    "Name": "Metal Spring",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "sticks",
+    "Name": "Sticks",
+    "Default Stack Size": 100,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "tarp",
+    "Name": "Tarp",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "techparts",
+    "Name": "Tech Trash",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "riflebody",
+    "Name": "Rifle Body",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "semibody",
+    "Name": "Semi Automatic Body",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "smgbody",
+    "Name": "SMG Body",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 1000
+  },
+  {
+    "ShortName": "barricade.concrete",
+    "Name": "Concrete Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.wood.cover",
+    "Name": "Wooden Barricade Cover",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.metal",
+    "Name": "Metal Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.sandbags",
+    "Name": "Sandbag Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.stone",
+    "Name": "Stone Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.wood",
+    "Name": "Wooden Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "barricade.woodwire",
+    "Name": "Barbed Wooden Barricade",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bbq",
+    "Name": "Barbeque",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "trap.bear",
+    "Name": "Snap Trap",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bed",
+    "Name": "Bed",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "campfire",
+    "Name": "Camp Fire",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cardtable",
+    "Name": "Card Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ceilinglight",
+    "Name": "Ceiling Light",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chair",
+    "Name": "Chair",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "composter",
+    "Name": "Composter",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "computerstation",
+    "Name": "Computer Station",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "drone",
+    "Name": "Drone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "dropbox",
+    "Name": "Drop Box",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "elevator",
+    "Name": "Elevator",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fireplace.stone",
+    "Name": "Stone Fireplace",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.blue",
+    "Name": "Blue Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.champagne",
+    "Name": "Champagne Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.green",
+    "Name": "Green Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.orange",
+    "Name": "Orange Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.pattern",
+    "Name": "Pattern Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.red",
+    "Name": "Red Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.boomer.violet",
+    "Name": "Violet Boomer",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.romancandle.blue",
+    "Name": "Blue Roman Candle",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.romancandle.green",
+    "Name": "Green Roman Candle",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.romancandle.red",
+    "Name": "Red Roman Candle",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.romancandle.violet",
+    "Name": "Violet Roman Candle",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.volcano",
+    "Name": "White Volcano Firework",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.volcano.red",
+    "Name": "Red Volcano Firework",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "firework.volcano.violet",
+    "Name": "Violet Volcano Firework",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spikes.floor",
+    "Name": "Wooden Floor Spikes",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteintable",
+    "Name": "Frankenstein Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fridge",
+    "Name": "Fridge",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "furnace.large",
+    "Name": "Large Furnace",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "furnace",
+    "Name": "Furnace",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hitchtroughcombo",
+    "Name": "Hitch & Trough",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "habrepair",
+    "Name": "Hab Repair",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jackolantern.angry",
+    "Name": "Jack O Lantern Angry",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jackolantern.happy",
+    "Name": "Jack O Lantern Happy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "trap.landmine",
+    "Name": "Homemade Landmine",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "lantern",
+    "Name": "Lantern",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "box.wooden.large",
+    "Name": "Large Wood Box",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "water.barrel",
+    "Name": "Water Barrel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "locker",
+    "Name": "Locker",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mailbox",
+    "Name": "Mail Box",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mixingtable",
+    "Name": "Mixing Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "modularcarlift",
+    "Name": "Modular Car Lift",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mining.pumpjack",
+    "Name": "Pump Jack",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "small.oil.refinery",
+    "Name": "Small Oil Refinery",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "planter.large",
+    "Name": "Large Planter Box",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "planter.small",
+    "Name": "Small Planter Box",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.audioalarm",
+    "Name": "Audio Alarm",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "smart.alarm",
+    "Name": "Smart Alarm",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "smart.switch",
+    "Name": "Smart Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "storage.monitor",
+    "Name": "Storage Monitor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.battery.rechargable.large",
+    "Name": "Large Rechargeable Battery",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.battery.rechargable.medium",
+    "Name": "Medium Rechargeable Battery",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.battery.rechargable.small",
+    "Name": "Small Rechargeable Battery",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.button",
+    "Name": "Button",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.counter",
+    "Name": "Counter",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.hbhfsensor",
+    "Name": "HBHF Sensor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.laserdetector",
+    "Name": "Laser Detector",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.pressurepad",
+    "Name": "Pressure Pad",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.doorcontroller",
+    "Name": "Door Controller",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.heater",
+    "Name": "Electric Heater",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fluid.combiner",
+    "Name": "Fluid Combiner",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fluid.splitter",
+    "Name": "Fluid Splitter",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fluid.switch",
+    "Name": "Fluid Switch & Pump",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.andswitch",
+    "Name": "AND Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.blocker",
+    "Name": "Blocker",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electrical.branch",
+    "Name": "Electrical Branch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electrical.combiner",
+    "Name": "Root Combiner",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electrical.memorycell",
+    "Name": "Memory Cell",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.orswitch",
+    "Name": "OR Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.random.switch",
+    "Name": "RAND Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.rf.broadcaster",
+    "Name": "RF Broadcaster",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.rf.receiver",
+    "Name": "RF Receiver",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.xorswitch",
+    "Name": "XOR Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.fuelgenerator.small",
+    "Name": "Small Generator",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.generator.small",
+    "Name": "Test Generator",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.solarpanel.large",
+    "Name": "Large Solar Panel",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.igniter",
+    "Name": "Igniter",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.flasherlight",
+    "Name": "Flasher Light",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.simplelight",
+    "Name": "Simple Light",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.sirenlight",
+    "Name": "Siren Light",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "powered.water.purifier",
+    "Name": "Powered Water Purifier",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.switch",
+    "Name": "Switch",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.splitter",
+    "Name": "Splitter",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.sprinkler",
+    "Name": "Sprinkler",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.teslacoil",
+    "Name": "Tesla Coil",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.timer",
+    "Name": "Timer",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "electric.cabletunnel",
+    "Name": "Cable Tunnel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "waterpump",
+    "Name": "Water Pump",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mining.quarry",
+    "Name": "Mining Quarry",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "target.reactive",
+    "Name": "Reactive Target",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "box.repair.bench",
+    "Name": "Repair Bench",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "research.table",
+    "Name": "Research Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rug.bear",
+    "Name": "Rug Bear Skin",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rug",
+    "Name": "Rug",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "searchlight",
+    "Name": "Search Light",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "secretlabchair",
+    "Name": "Secret Lab Chair",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shelves",
+    "Name": "Salvaged Shelves",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.hanging.banner.large",
+    "Name": "Large Banner Hanging",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.hanging",
+    "Name": "Two Sided Hanging Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.hanging.ornate",
+    "Name": "Two Sided Ornate Hanging Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pictureframe.landscape",
+    "Name": "Landscape Picture Frame",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pictureframe.portrait",
+    "Name": "Portrait Picture Frame",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pictureframe.tall",
+    "Name": "Tall Picture Frame",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pictureframe.xl",
+    "Name": "XL Picture Frame",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pictureframe.xxl",
+    "Name": "XXL Picture Frame",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.pole.banner.large",
+    "Name": "Large Banner on pole",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.post.double",
+    "Name": "Double Sign Post",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.post.single",
+    "Name": "Single Sign Post",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.post.town",
+    "Name": "One Sided Town Sign Post",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.post.town.roof",
+    "Name": "Two Sided Town Sign Post",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.wooden.huge",
+    "Name": "Huge Wooden Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.wooden.large",
+    "Name": "Large Wooden Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.wooden.medium",
+    "Name": "Medium Wooden Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.wooden.small",
+    "Name": "Small Wooden Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "guntrap",
+    "Name": "Shotgun Trap",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sleepingbag",
+    "Name": "Sleeping Bag",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "stash.small",
+    "Name": "Small Stash",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sofa",
+    "Name": "Sofa",
+    "Default Stack Size": 2,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sofa.pattern",
+    "Name": "Sofa - Pattern",
+    "Default Stack Size": 2,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spinner.wheel",
+    "Name": "Spinning wheel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fishtrap.small",
+    "Name": "Survival Fish Trap",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "table",
+    "Name": "Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "workbench1",
+    "Name": "Workbench Level 1",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "workbench2",
+    "Name": "Workbench Level 2",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "workbench3",
+    "Name": "Workbench Level 3",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cupboard.tool",
+    "Name": "Tool Cupboard",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "tunalight",
+    "Name": "Tuna Can Lamp",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vending.machine",
+    "Name": "Vending Machine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "water.catcher.large",
+    "Name": "Large Water Catcher",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "water.catcher.small",
+    "Name": "Small Water Catcher",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "water.purifier",
+    "Name": "Water Purifier",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "generator.wind.scrap",
+    "Name": "Wind Turbine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "box.wooden",
+    "Name": "Wood Storage Box",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "apple",
+    "Name": "Apple",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "apple.spoiled",
+    "Name": "Rotten Apple",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "black.raspberries",
+    "Name": "Black Raspberries",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 125
+  },
+  {
+    "ShortName": "blueberries",
+    "Name": "Blueberries",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 125
+  },
+  {
+    "ShortName": "botabag",
+    "Name": "Bota Bag",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "grub",
+    "Name": "Grub",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "worm",
+    "Name": "Worm",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cactusflesh",
+    "Name": "Cactus Flesh",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "can.beans",
+    "Name": "Can of Beans",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "can.tuna",
+    "Name": "Can of Tuna",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chocholate",
+    "Name": "Chocolate Bar",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.anchovy",
+    "Name": "Anchovy",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.catfish",
+    "Name": "Catfish",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.cooked",
+    "Name": "Cooked Fish",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.raw",
+    "Name": "Raw Fish",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.herring",
+    "Name": "Herring",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.minnows",
+    "Name": "Minnows",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.orangeroughy",
+    "Name": "Orange Roughy",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.salmon",
+    "Name": "Salmon",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.sardine",
+    "Name": "Sardine",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.smallshark",
+    "Name": "Small Shark",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.troutsmall",
+    "Name": "Small Trout",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fish.yellowperch",
+    "Name": "Yellow Perch",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "granolabar",
+    "Name": "Granola Bar",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chicken.burned",
+    "Name": "Burnt Chicken",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chicken.cooked",
+    "Name": "Cooked Chicken",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chicken.raw",
+    "Name": "Raw Chicken Breast",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chicken.spoiled",
+    "Name": "Spoiled Chicken",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "deermeat.burned",
+    "Name": "Burnt Deer Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "deermeat.cooked",
+    "Name": "Cooked Deer Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "deermeat.raw",
+    "Name": "Raw Deer Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horsemeat.burned",
+    "Name": "Burnt Horse Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horsemeat.cooked",
+    "Name": "Cooked Horse Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horsemeat.raw",
+    "Name": "Raw Horse Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "humanmeat.burned",
+    "Name": "Burnt Human Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "humanmeat.cooked",
+    "Name": "Cooked Human Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "humanmeat.raw",
+    "Name": "Raw Human Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "humanmeat.spoiled",
+    "Name": "Spoiled Human Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bearmeat.burned",
+    "Name": "Burnt Bear Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bearmeat.cooked",
+    "Name": "Cooked Bear Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bearmeat",
+    "Name": "Raw Bear Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wolfmeat.burned",
+    "Name": "Burnt Wolf Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wolfmeat.cooked",
+    "Name": "Cooked Wolf Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wolfmeat.raw",
+    "Name": "Raw Wolf Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wolfmeat.spoiled",
+    "Name": "Spoiled Wolf Meat",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "meat.pork.burned",
+    "Name": "Burnt Pork",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "meat.pork.cooked",
+    "Name": "Cooked Pork",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "meat.boar",
+    "Name": "Raw Pork",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mushroom",
+    "Name": "Mushroom",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jar.pickle",
+    "Name": "Pickles",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "smallwaterbottle",
+    "Name": "Small Water Bottle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "waterjug",
+    "Name": "Water Jug",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.bass",
+    "Name": "Shovel Bass",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.cowbell",
+    "Name": "Cowbell",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "drumkit",
+    "Name": "Junkyard Drum Kit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.flute",
+    "Name": "Pan Flute",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.guitar",
+    "Name": "Acoustic Guitar",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.jerrycanguitar",
+    "Name": "Jerry Can Guitar",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "piano",
+    "Name": "Wheelbarrow Piano",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.tambourine",
+    "Name": "Canbourine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.trumpet",
+    "Name": "Plumber's Trumpet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.tuba",
+    "Name": "Sousaphone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xylophone",
+    "Name": "Xylobone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "car.key",
+    "Name": "Car Key",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "door.key",
+    "Name": "Door Key",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "lock.key",
+    "Name": "Key Lock",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "lock.code",
+    "Name": "Code Lock",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "blueprintbase",
+    "Name": "Blueprint",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chineselantern",
+    "Name": "Chinese Lantern",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "dragondoorknocker",
+    "Name": "Dragon Door Knocker",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.dragonmask",
+    "Name": "Dragon Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "newyeargong",
+    "Name": "New Year Gong",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.oxmask",
+    "Name": "Ox Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.ratmask",
+    "Name": "Rat Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skylantern",
+    "Name": "Sky Lantern",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skylantern.skylantern.green",
+    "Name": "Sky Lantern - Green",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skylantern.skylantern.orange",
+    "Name": "Sky Lantern - Orange",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skylantern.skylantern.purple",
+    "Name": "Sky Lantern - Purple",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skylantern.skylantern.red",
+    "Name": "Sky Lantern - Red",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "lunar.firecrackers",
+    "Name": "Firecracker String",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.tigermask",
+    "Name": "Tiger Mask",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "arcade.machine.chippy",
+    "Name": "Chippy Arcade Game",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bluedogtags",
+    "Name": "Blue Dog Tags",
+    "Default Stack Size": 5000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "dogtagneutral",
+    "Name": "Dog Tag",
+    "Default Stack Size": 5000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "reddogtags",
+    "Name": "Red Dog Tags",
+    "Default Stack Size": 5000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "door.closer",
+    "Name": "Door Closer",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.bunnyears",
+    "Name": "Bunny Ears",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.bunny.onesie",
+    "Name": "Bunny Onesie",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hat.bunnyhat",
+    "Name": "Bunny Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easterdoorwreath",
+    "Name": "Easter Door Wreath",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easterbasket",
+    "Name": "Egg Basket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.egg.suit",
+    "Name": "Egg Suit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rustige_egg_a",
+    "Name": "Rustigé Egg - Red",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rustige_egg_b",
+    "Name": "Rustigé Egg - Blue",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rustige_egg_c",
+    "Name": "Rustigé Egg - Purple",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rustige_egg_d",
+    "Name": "Rustigé Egg - Ivory",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rustige_egg_e",
+    "Name": "Rustigé Egg - Green",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.nesthat",
+    "Name": "Nest Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easter.bronzeegg",
+    "Name": "Bronze Egg",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easter.goldegg",
+    "Name": "Gold Egg",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easter.paintedeggs",
+    "Name": "Painted Egg",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "easter.silveregg",
+    "Name": "Silver Egg",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.candy",
+    "Name": "Halloween Candy",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "largecandles",
+    "Name": "Large Candle Set",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "smallcandles",
+    "Name": "Small Candle Set",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "carvable.pumpkin",
+    "Name": "Carvable Pumpkin",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "coffin.storage",
+    "Name": "Coffin",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 20
+  },
+  {
+    "ShortName": "cursedcauldron",
+    "Name": "Cursed Cauldron",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "gravestone",
+    "Name": "Gravestone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "woodcross",
+    "Name": "Wooden Cross",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.01.head",
+    "Name": "Light Frankenstein Head",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.01.legs",
+    "Name": "Light Frankenstein Legs",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.01.torso",
+    "Name": "Light Frankenstein Torso",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.02.head",
+    "Name": "Medium Frankenstein Head",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.02.legs",
+    "Name": "Medium Frankenstein Legs",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.02.torso",
+    "Name": "Medium Frankenstein Torso",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.03.head",
+    "Name": "Heavy Frankenstein Head",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.03.legs",
+    "Name": "Heavy Frankenstein Legs",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "frankensteins.monster.03.torso",
+    "Name": "Heavy Frankenstein Torso",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.graveyard.fence",
+    "Name": "Graveyard Fence",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.lootbag.large",
+    "Name": "Large Loot Bag",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.lootbag.medium",
+    "Name": "Medium Loot Bag",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.lootbag.small",
+    "Name": "Small Loot Bag",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pumpkinbasket",
+    "Name": "Pumpkin Bucket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scarecrow",
+    "Name": "Scarecrow",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skullspikes.candles",
+    "Name": "Skull Spikes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skullspikes.pumpkin",
+    "Name": "Skull Spikes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skullspikes",
+    "Name": "Skull Spikes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skulldoorknocker",
+    "Name": "Skull Door Knocker",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull_fire_pit",
+    "Name": "Skull Fire Pit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spiderweb",
+    "Name": "Spider Webs",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spookyspeaker",
+    "Name": "Spooky Speaker",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "halloween.surgeonsuit",
+    "Name": "Surgeon Scrubs",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.trophy.jar",
+    "Name": "Skull Trophy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.trophy.jar2",
+    "Name": "Skull Trophy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.trophy.table",
+    "Name": "Skull Trophy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.trophy",
+    "Name": "Skull Trophy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "movembermoustachecard",
+    "Name": "Card Movember Moustache",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "movembermoustache",
+    "Name": "Movember Moustache",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "note",
+    "Name": "Note",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "factorydoor",
+    "Name": "Factory Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "industrial.wall.light.green",
+    "Name": "Green Industrial Wall Light",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "industrial.wall.light",
+    "Name": "Industrial Wall Light",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "industrial.wall.light.red",
+    "Name": "Red Industrial Wall Light",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.human",
+    "Name": "Human Skull",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "abovegroundpool",
+    "Name": "Above Ground Pool",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "beachchair",
+    "Name": "Beach Chair",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "beachparasol",
+    "Name": "Beach Parasol",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "beachtable",
+    "Name": "Beach Table",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "beachtowel",
+    "Name": "Beach Towel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "boogieboard",
+    "Name": "Boogie Board",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "innertube",
+    "Name": "Inner Tube",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "innertube.horse",
+    "Name": "Inner Tube",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "innertube.unicorn",
+    "Name": "Inner Tube",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "tool.instant_camera",
+    "Name": "Instant Camera",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "paddlingpool",
+    "Name": "Paddling Pool",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "photo",
+    "Name": "Photograph",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "photoframe.landscape",
+    "Name": "Landscape Photo Frame",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "photoframe.large",
+    "Name": "Large Photo Frame",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "photoframe.portrait",
+    "Name": "Portrait Photo Frame",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses02black",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses02camo",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses02red",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses03black",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses03chrome",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses03gold",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sunglasses",
+    "Name": "Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "gun.water",
+    "Name": "Water Gun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pistol.water",
+    "Name": "Water Pistol",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "twitchsunglasses",
+    "Name": "Purple Sunglasses",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "twitch.headset",
+    "Name": "Headset",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hobobarrel",
+    "Name": "Hobo Barrel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "door.hinged.industrial.a",
+    "Name": "Industrial Door",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.advent",
+    "Name": "Advent Calendar",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "candycaneclub",
+    "Name": "Candy Cane Club",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.lightstring",
+    "Name": "Christmas Lights",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.door.garland",
+    "Name": "Festive Doorway Garland",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.double.door.garland",
+    "Name": "Festive Double Doorway Garland",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "candycane",
+    "Name": "Candy Cane",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "giantcandycanedecor",
+    "Name": "Giant Candy Decor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.ice.wall",
+    "Name": "Short Ice Wall",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wall.external.high.ice",
+    "Name": "High Ice Wall",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "giantlollipops",
+    "Name": "Giant Lollipop Decor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.neon.125x125",
+    "Name": "Small Neon Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.neon.125x215.animated",
+    "Name": "Medium Animated Neon Sign",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.neon.125x215",
+    "Name": "Medium Neon Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.neon.xl.animated",
+    "Name": "Large Animated Neon Sign",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sign.neon.xl",
+    "Name": "Large Neon Sign",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pookie.bear",
+    "Name": "Pookie Bear",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.lightstring.advanced",
+    "Name": "Deluxe Christmas Lights",
+    "Default Stack Size": 150,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "coal",
+    "Name": "Coal :(",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "xmas.present.large",
+    "Name": "Large Present",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.present.medium",
+    "Name": "Medium Present",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.present.small",
+    "Name": "Small Present",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sled.xmas",
+    "Name": "Sled",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sled",
+    "Name": "Sled",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowmachine",
+    "Name": "Snow Machine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowball",
+    "Name": "Snowball",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.snowballgun",
+    "Name": "",
+    "Default Stack Size": 128,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowballgun",
+    "Name": "Snowball Gun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "snowman",
+    "Name": "Snowman",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "stocking.large",
+    "Name": "SUPER Stocking",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "stocking.small",
+    "Name": "Small Stocking",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.reindeer.headband",
+    "Name": "Reindeer Antlers",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "santabeard",
+    "Name": "Santa Beard",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "santahat",
+    "Name": "Santa Hat",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "attire.snowman.helmet",
+    "Name": "Snowman Helmet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.window.garland",
+    "Name": "Festive Window Garland",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wrappedgift",
+    "Name": "Wrapped Gift",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wrappingpaper",
+    "Name": "Wrapping Paper",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmasdoorwreath",
+    "Name": "Christmas Door Wreath",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.baubels",
+    "Name": "Decorative Baubels",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.candycanes",
+    "Name": "Decorative Plastic Candy Canes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.gingerbreadmen",
+    "Name": "Decorative Gingerbread Men",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.lights",
+    "Name": "Tree Lights",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.pinecone",
+    "Name": "Decorative Pinecones",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.star",
+    "Name": "Star Tree Topper",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.decoration.tinsel",
+    "Name": "Decorative Tinsel",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "xmas.tree",
+    "Name": "Christmas Tree",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "captainslog",
+    "Name": "Captain's Log",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fishing.tackle",
+    "Name": "Fishing Tackle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bottle.vodka",
+    "Name": "Vodka Bottle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "autoturret",
+    "Name": "Auto Turret",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "flameturret",
+    "Name": "Flame Turret",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "gloweyes",
+    "Name": "Glowing Eyes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "ammo.rocket.sam",
+    "Name": "SAM Ammo",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "samsite",
+    "Name": "SAM Site",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "black.berry",
+    "Name": "Black Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.black.berry",
+    "Name": "Black Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.black.berry",
+    "Name": "Black Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "blue.berry",
+    "Name": "Blue Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.blue.berry",
+    "Name": "Blue Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.blue.berry",
+    "Name": "Blue Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "green.berry",
+    "Name": "Green Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.green.berry",
+    "Name": "Green Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.green.berry",
+    "Name": "Green Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "red.berry",
+    "Name": "Red Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.red.berry",
+    "Name": "Red Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.red.berry",
+    "Name": "Red Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "white.berry",
+    "Name": "White Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.white.berry",
+    "Name": "White Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.white.berry",
+    "Name": "White Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "yellow.berry",
+    "Name": "Yellow Berry",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.yellow.berry",
+    "Name": "Yellow Berry Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.yellow.berry",
+    "Name": "Yellow Berry Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "corn",
+    "Name": "Corn",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.corn",
+    "Name": "Corn Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.corn",
+    "Name": "Corn Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.hemp",
+    "Name": "Hemp Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.hemp",
+    "Name": "Hemp Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "potato",
+    "Name": "Potato",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.potato",
+    "Name": "Potato Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.potato",
+    "Name": "Potato Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pumpkin",
+    "Name": "Pumpkin",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "clone.pumpkin",
+    "Name": "Pumpkin Plant Clone",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "seed.pumpkin",
+    "Name": "Pumpkin Seed",
+    "Default Stack Size": 50,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fat.animal",
+    "Name": "Animal Fat",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "battery.small",
+    "Name": "Battery - Small",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "blood",
+    "Name": "Blood",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bone.fragments",
+    "Name": "Bone Fragments",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cctv.camera",
+    "Name": "CCTV Camera",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 500
+  },
+  {
+    "ShortName": "charcoal",
+    "Name": "Charcoal",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "cloth",
+    "Name": "Cloth",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "crude.oil",
+    "Name": "Crude Oil",
+    "Default Stack Size": 500,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "diesel_barrel",
+    "Name": "Diesel Fuel",
+    "Default Stack Size": 20,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "can.beans.empty",
+    "Name": "Empty Can Of Beans",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "can.tuna.empty",
+    "Name": "Empty Tuna Can",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "explosives",
+    "Name": "Explosives",
+    "Default Stack Size": 100,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "fertilizer",
+    "Name": "Fertilizer",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "gunpowder",
+    "Name": "Gun Powder",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "horsedung",
+    "Name": "Horse Dung",
+    "Default Stack Size": 100,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hq.metal.ore",
+    "Name": "High Quality Metal Ore",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 150000
+  },
+  {
+    "ShortName": "metal.refined",
+    "Name": "High Quality Metal",
+    "Default Stack Size": 100,
+    "Custom Stack Size": 150000
+  },
+  {
+    "ShortName": "leather",
+    "Name": "Leather",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "lowgradefuel",
+    "Name": "Low Grade Fuel",
+    "Default Stack Size": 500,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "metal.fragments",
+    "Name": "Metal Fragments",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "metal.ore",
+    "Name": "Metal Ore",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "paper",
+    "Name": "Paper",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "plantfiber",
+    "Name": "Plant Fiber",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "researchpaper",
+    "Name": "Research Paper",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "water.salt",
+    "Name": "Salt Water",
+    "Default Stack Size": 2147483647,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scrap",
+    "Name": "Scrap",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "stones",
+    "Name": "Stones",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 100000
+  },
+  {
+    "ShortName": "sulfur.ore",
+    "Name": "Sulfur Ore",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "sulfur",
+    "Name": "Sulfur",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "targeting.computer",
+    "Name": "Targeting Computer",
+    "Default Stack Size": 64,
+    "Custom Stack Size": 500
+  },
+  {
+    "ShortName": "water",
+    "Name": "Water",
+    "Default Stack Size": 2147483647,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull.wolf",
+    "Name": "Wolf Skull",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wood",
+    "Name": "Wood",
+    "Default Stack Size": 1000,
+    "Custom Stack Size": 500000
+  },
+  {
+    "ShortName": "healingtea.advanced",
+    "Name": "Advanced Healing Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "healingtea",
+    "Name": "Basic Healing Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "healingtea.pure",
+    "Name": "Pure Healing Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "maxhealthtea.advanced",
+    "Name": "Advanced Max Health Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 25
+  },
+  {
+    "ShortName": "maxhealthtea",
+    "Name": "Basic Max Health Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 25
+  },
+  {
+    "ShortName": "maxhealthtea.pure",
+    "Name": "Pure Max Health Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 25
+  },
+  {
+    "ShortName": "oretea.advanced",
+    "Name": "Advanced Ore Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 25
+  },
+  {
+    "ShortName": "oretea",
+    "Name": "Basic Ore Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 25
+  },
+  {
+    "ShortName": "oretea.pure",
+    "Name": "Pure Ore Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationremovetea.advanced",
+    "Name": "Advanced Rad. Removal Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationremovetea",
+    "Name": "Rad. Removal Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationremovetea.pure",
+    "Name": "Pure Rad. Removal Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationresisttea.advanced",
+    "Name": "Adv. Anti-Rad Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationresisttea",
+    "Name": "Anti-Rad Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "radiationresisttea.pure",
+    "Name": "Pure Anti-Rad Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scraptea.advanced",
+    "Name": "Advanced Scrap Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scraptea",
+    "Name": "Basic Scrap Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "scraptea.pure",
+    "Name": "Pure Scrap Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "woodtea.advanced",
+    "Name": "Advanced Wood Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "woodtea",
+    "Name": "Basic Wood Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "woodtea.pure",
+    "Name": "Pure Wood Tea",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "antiradpills",
+    "Name": "Anti-Radiation Pills",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "tool.binoculars",
+    "Name": "Binoculars",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "explosive.timed",
+    "Name": "Timed Explosive Charge",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "tool.camera",
+    "Name": "Camera",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "rf.detonator",
+    "Name": "RF Transmitter",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fishingrod.handmade",
+    "Name": "Handmade Fishing Rod",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "flare",
+    "Name": "Flare",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "flashlight.held",
+    "Name": "Flashlight",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "geiger.counter",
+    "Name": "Geiger Counter",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hosetool",
+    "Name": "Hose Tool",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "jackhammer",
+    "Name": "Jackhammer",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "keycard_blue",
+    "Name": "Blue Keycard",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "keycard_green",
+    "Name": "Green Keycard",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "keycard_red",
+    "Name": "Red Keycard",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "largemedkit",
+    "Name": "Large Medkit",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 125
+  },
+  {
+    "ShortName": "map",
+    "Name": "Paper Map",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "syringe.medical",
+    "Name": "Medical Syringe",
+    "Default Stack Size": 2,
+    "Custom Stack Size": 125
+  },
+  {
+    "ShortName": "rf_pager",
+    "Name": "RF Pager",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "building.planner",
+    "Name": "Building Plan",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 999
+  },
+  {
+    "ShortName": "grenade.smoke",
+    "Name": "Smoke Grenade",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spraycan",
+    "Name": "Spray Can",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spraycandecal",
+    "Name": "Spray Can Decal",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "supply.signal",
+    "Name": "Supply Signal",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "surveycharge",
+    "Name": "Survey Charge",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "wiretool",
+    "Name": "Wire Tool",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.chassis.2mod",
+    "Name": "Small Chassis",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.chassis.3mod",
+    "Name": "Medium Chassis",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.chassis.4mod",
+    "Name": "Large Chassis",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.chassis",
+    "Name": "Generic vehicle chassis",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.cockpit",
+    "Name": "Cockpit Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.cockpit.armored",
+    "Name": "Armored Cockpit Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.cockpit.with.engine",
+    "Name": "Cockpit With Engine Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.engine",
+    "Name": "Engine Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.flatbed",
+    "Name": "Flatbed Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.passengers.armored",
+    "Name": "Armored Passenger Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.rear.seats",
+    "Name": "Rear Seats Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.storage",
+    "Name": "Storage Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.1mod.taxi",
+    "Name": "Taxi Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.2mod.camper",
+    "Name": "Camper Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.2mod.flatbed",
+    "Name": "Large Flatbed Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.2mod.fuel.tank",
+    "Name": "Fuel Tank Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.2mod.passengers",
+    "Name": "Passenger Vehicle Module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "vehicle.module",
+    "Name": "Generic vehicle module",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "boombox",
+    "Name": "Boom Box",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.boomboxportable",
+    "Name": "Portable Boom Box",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cassette",
+    "Name": "Cassette - Long",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cassette.medium",
+    "Name": "Cassette - Medium",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cassette.short",
+    "Name": "Cassette - Short",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "fun.casetterecorder",
+    "Name": "Cassette Recorder",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "discoball",
+    "Name": "Disco Ball",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "discofloor",
+    "Name": "Disco Floor",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "discofloor.largetiles",
+    "Name": "Disco Floor",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "connected.speaker",
+    "Name": "Connected Speaker",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "laserlight",
+    "Name": "Laser Light",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "megaphone",
+    "Name": "Megaphone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "microphonestand",
+    "Name": "Microphone Stand",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "mobilephone",
+    "Name": "Mobile Phone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "soundlight",
+    "Name": "Sound Light",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "telephone",
+    "Name": "Telephone",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "weapon.mod.8x.scope",
+    "Name": "16x Zoom Scope",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.extendedmags",
+    "Name": "Extended Magazine",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.flashlight",
+    "Name": "Weapon flashlight",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.holosight",
+    "Name": "Holosight",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.lasersight",
+    "Name": "Weapon Lasersight",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.muzzleboost",
+    "Name": "Muzzle Boost",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.muzzlebrake",
+    "Name": "Muzzle Brake",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.simplesight",
+    "Name": "Simple Handmade Sight",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.silencer",
+    "Name": "Silencer",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "weapon.mod.small.scope",
+    "Name": "8x Zoom Scope",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rifle.ak",
+    "Name": "Assault Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rifle.ak.ice",
+    "Name": "Assault Rifle - ICE",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "bandage",
+    "Name": "Bandage",
+    "Default Stack Size": 3,
+    "Custom Stack Size": 125
+  },
+  {
+    "ShortName": "grenade.beancan",
+    "Name": "Beancan Grenade",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "rifle.bolt",
+    "Name": "Bolt Action Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "bone.club",
+    "Name": "Bone Club",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "knife.bone",
+    "Name": "Bone Knife",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bow.hunting",
+    "Name": "Hunting Bow",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "cakefiveyear",
+    "Name": "Birthday Cake",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "chainsaw",
+    "Name": "Chainsaw",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "salvaged.cleaver",
+    "Name": "Salvaged Cleaver",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bow.compound",
+    "Name": "Compound Bow",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "crossbow",
+    "Name": "Crossbow",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "shotgun.double",
+    "Name": "Double Barrel Shotgun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.eoka",
+    "Name": "Eoka Pistol",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "grenade.f1",
+    "Name": "F1 Grenade",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "flamethrower",
+    "Name": "Flame Thrower",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "multiplegrenadelauncher",
+    "Name": "Multiple Grenade Launcher",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "knife.butcher",
+    "Name": "Butcher Knife",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pitchfork",
+    "Name": "Pitchfork",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "sickle",
+    "Name": "Sickle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "skull",
+    "Name": "Skull",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hammer",
+    "Name": "Hammer",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hatchet",
+    "Name": "Hatchet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "hmlmg",
+    "Name": "HMLMG",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "knife.combat",
+    "Name": "Combat Knife",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "rifle.l96",
+    "Name": "L96 Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rifle.lr300",
+    "Name": "LR-300 Assault Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "lmg.m249",
+    "Name": "M249",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rifle.m39",
+    "Name": "M39 Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.m92",
+    "Name": "M92 Pistol",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "mace",
+    "Name": "Mace",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "machete",
+    "Name": "Machete",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "smg.mp5",
+    "Name": "MP5A4",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.nailgun",
+    "Name": "Nailgun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "paddle",
+    "Name": "Paddle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "pickaxe",
+    "Name": "Pickaxe",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "shotgun.waterpipe",
+    "Name": "Waterpipe Shotgun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.python",
+    "Name": "Python Revolver",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.revolver",
+    "Name": "Revolver",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rock",
+    "Name": "Rock",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "rocket.launcher",
+    "Name": "Rocket Launcher",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "axe.salvaged",
+    "Name": "Salvaged Axe",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "hammer.salvaged",
+    "Name": "Salvaged Hammer",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "icepick.salvaged",
+    "Name": "Salvaged Icepick",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "explosive.satchel",
+    "Name": "Satchel Charge",
+    "Default Stack Size": 10,
+    "Custom Stack Size": 100
+  },
+  {
+    "ShortName": "shotgun.pump",
+    "Name": "Pump Shotgun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "pistol.semiauto",
+    "Name": "Semi-Automatic Pistol",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "rifle.semiauto",
+    "Name": "Semi-Automatic Rifle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "smg.2",
+    "Name": "Custom SMG",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "shotgun.spas12",
+    "Name": "Spas-12 Shotgun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "speargun",
+    "Name": "Speargun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "stonehatchet",
+    "Name": "Stone Hatchet",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "stone.pickaxe",
+    "Name": "Stone Pickaxe",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 99999
+  },
+  {
+    "ShortName": "spear.stone",
+    "Name": "Stone Spear",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "longsword",
+    "Name": "Longsword",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "salvaged.sword",
+    "Name": "Salvaged Sword",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "smg.thompson",
+    "Name": "Thompson",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 10
+  },
+  {
+    "ShortName": "toolgun",
+    "Name": "Garry's Mod Tool Gun",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "torch",
+    "Name": "Torch",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "bucket.water",
+    "Name": "Water Bucket",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "spear.wooden",
+    "Name": "Wooden Spear",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.armor.roadsign",
+    "Name": "Roadsign Horse Armor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.armor.wood",
+    "Name": "Wooden Horse Armor",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.saddle",
+    "Name": "Horse Saddle",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.saddlebag",
+    "Name": "Saddle bag",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.shoes.advanced",
+    "Name": "High Quality Horse Shoes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "horse.shoes.basic",
+    "Name": "Basic Horse Shoes",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "locomotive",
+    "Name": "Locomotive",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "trophy",
+    "Name": "Twitch Rivals Trophy",
+    "Default Stack Size": 1,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "grenade.flashbang",
+    "Name": "Flashbang",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  },
+  {
+    "ShortName": "grenade.molotov",
+    "Name": "Molotov Cocktail",
+    "Default Stack Size": 5,
+    "Custom Stack Size": 0
+  }
+]

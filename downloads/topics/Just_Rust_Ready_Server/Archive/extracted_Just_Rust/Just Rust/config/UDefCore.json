@@ -1,0 +1,17 @@
+{
+  "AntiSpoofing": false,
+  "Debug": false,
+  "FamilyCheck": {
+    "Enable": true,
+    "Message": "На этом сервере запрещено играть с семейного доступа!"
+  },
+  "GlobalKey": "179e084d82645d680721bff32eab42f6",
+  "IsAlkad": false,
+  "Message": {
+    "AntiSpoofing": "Этот аккаунт принадлежит другому пользователю. Войдите на сервер с вашего аккаунта.",
+    "BlackList": "Вам необходимо скачать и запустить античит UDefCore чтобы пройти проверку.\nvk.com/justrustx",
+    "Closed": "Обнаружено завершение работы античита! Заново запусти UDefCore и попробуй зайти ещё раз.\nvk.com/justrustx",
+    "NotConnect": "Запусти UDefCore чтобы войти на сервер!\nvk.com/justrustx",
+    "ServerError": "Не удалось подключиться к античиту. Попробуйте зайти немного позже\nvk.com/justrustx"
+  }
+}

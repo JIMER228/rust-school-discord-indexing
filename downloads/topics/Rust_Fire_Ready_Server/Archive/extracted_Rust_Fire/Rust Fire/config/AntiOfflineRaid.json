@@ -1,0 +1,42 @@
+{
+  "absoluteTimeScale": {
+    "03": 0.1
+  },
+  "activity": [
+    "input",
+    "loot",
+    "respawn",
+    "chat",
+    "wakeup"
+  ],
+  "afkMinutes": 5,
+  "clanFirstOffline": false,
+  "clanShare": false,
+  "cooldownMinutes": 10,
+  "damageScale": {
+    "1": 0.2,
+    "12": 0.8,
+    "3": 0.35,
+    "48": 1,
+    "6": 0.5
+  },
+  "interimDamage": 0.0,
+  "minMembers": 1,
+  "playSound": false,
+  "prefabs": [
+    "door.hinged",
+    "door.double.hinged",
+    "window.bars",
+    "floor.ladder.hatch",
+    "floor.frame",
+    "wall.frame",
+    "shutter",
+    "wall.external",
+    "gates.external",
+    "box",
+    "locker"
+  ],
+  "showMessage": true,
+  "sound": "assets/prefabs/weapon mods/silencers/effects/silencer_attach.fx.prefab",
+  "VERSION": "0.3.6"
+}

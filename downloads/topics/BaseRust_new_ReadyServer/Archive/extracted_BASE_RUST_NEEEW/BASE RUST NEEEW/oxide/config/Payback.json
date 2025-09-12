@@ -1,0 +1,9 @@
+{
+  "Check temporary game bans and notify via Discord Webhook": true,
+  "Only report temp bans younger than days": 60,
+  "Notify Game Ban + Team": true,
+  "Only notify ban if has team": false,
+  "Include bm links in ban notification": false,
+  "These discord webhooks will get notified": [],
+  "notify player being attacked by cheater": true
+}

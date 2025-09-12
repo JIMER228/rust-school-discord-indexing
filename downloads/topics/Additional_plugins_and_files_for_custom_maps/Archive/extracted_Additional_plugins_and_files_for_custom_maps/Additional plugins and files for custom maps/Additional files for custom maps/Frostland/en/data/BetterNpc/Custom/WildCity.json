@@ -1,0 +1,139 @@
+{
+  "ID": "",
+  "Enabled? [true/false]": true,
+  "Position": "(-49.58, 1.36, -851.53)",
+  "Rotation": "(0.00, 0.00, 0.00)",
+  "Radius": 100.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 14,
+      "Maximum numbers - Day": 16,
+      "Minimum numbers - Night": 14,
+      "Maximum numbers - Night": 16,
+      "NPCs setting": {
+        "Names": [
+          "Scientist",
+          "Soldier"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": false,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "burlap.shirt",
+            "SkinID (0 - default)": 1587743344
+          },
+          {
+            "ShortName": "burlap.trousers",
+            "SkinID (0 - default)": 1587746365
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "SkinID (0 - default)": 1935355816
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "SkinID (0 - default)": 1935355440
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 2675531117
+          },
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 1170471712
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "rifle.ak",
+            "Amount": 1,
+            "SkinID (0 - default)": 2302017861,
+            "Mods": [
+              "weapon.mod.flashlight"
+            ],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(38.91, 0.00, -1.72)",
+        "(35.03, 0.00, 11.84)",
+        "(33.86, -0.06, 39.57)",
+        "(15.47, 0.00, 31.63)",
+        "(-3.15, -0.09, 25.92)",
+        "(-22.39, 0.00, -3.85)",
+        "(0.88, 0.02, -2.21)",
+        "(26.71, -0.12, -13.18)",
+        "(-17.70, 0.00, -3.37)",
+        "(-55.38, 0.00, -2.40)",
+        "(-74.15, -0.02, -1.99)",
+        "(-61.32, -0.11, -21.10)",
+        "(-39.03, -0.02, -29.02)",
+        "(-13.00, -0.05, -27.65)",
+        "(32.33, -0.02, -31.93)",
+        "(59.37, -0.11, -39.41)",
+        "(-35.56, -0.11, 35.88)",
+        "(-24.02, -0.05, 41.34)",
+        "(3.93, -0.04, 55.08)",
+        "(22.88, -0.10, 41.14)",
+        "(16.62, -0.09, 42.70)",
+        "(21.78, -0.10, 15.77)",
+        "(42.34, -0.09, 31.02)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

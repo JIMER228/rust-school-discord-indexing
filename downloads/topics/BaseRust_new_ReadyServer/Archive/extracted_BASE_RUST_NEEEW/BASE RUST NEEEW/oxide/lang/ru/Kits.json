@@ -1,0 +1,22 @@
+{
+  "Kit Was Removed": "<color=#008B8B>[Сервер]:</color> {kitname} был удалён",
+  "Kit Doesn't Exist": "<color=#008B8B>[Сервер]:</color> Этого комплекта не существует",
+  "Not Found Player": "<color=#008B8B>[Сервер]:</color> Игрок не найден",
+  "To Many Player": "<color=#008B8B>[Сервер]:</color> Найдено несколько игроков",
+  "Permission Denied": "<color=#008B8B>[Сервер]:</color> У вас нет полномочий использовать этот комплект",
+  "Limite Denied": "<color=#008B8B>[Сервер]:</color> Вы уже использовали этот комплект максимальное количество раз",
+  "Cooldown Denied": "<color=#008B8B>[Сервер]:</color> Вы сможете использовать этот комплект через {time}",
+  "Reset": "<color=#008B8B>[Сервер]:</color> Вы обнулили все данные о использовании комплектов игроков",
+  "Kit Already Exist": "<color=#008B8B>[Сервер]:</color> Этот набор уже существует",
+  "Kit Created": "<color=#008B8B>[Сервер]:</color> Вы создали новый набор - {name}",
+  "Kit Extradited": "<color=#008B8B>[Сервер]:</color> Вы получили комплект {kitname}",
+  "Kit Cloned": "<color=#008B8B>[Сервер]:</color> Предметы были скопированы из инвентаря в набор",
+  "UI Amount": "Осталось: {amount}",
+  "Help": "/kit name|add|clone|remove|list|reset",
+  "Help Add": "/kit add <kitname>",
+  "Help Clone": "/kit clone <kitname>",
+  "Help Remove": "/kit remove <kitname>",
+  "Help Give": "/kit give <kitname> <playerName|steamID>",
+  "Give Succes": "Вы успешно выдали игрок {0} набор {1}",
+  "No Space": "Невозможно получить кит,недостаточно места в инвентаре и слотах одежды"
+}

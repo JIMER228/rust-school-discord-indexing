@@ -1,0 +1,20 @@
+{
+  "Server name for control panel": "SUMMER RUST MAIN",
+  "API URI (Do not change it!)": "https://api-rp3859.rustpanel.ru/api/plugin",
+  "API TOKEN (Do not change it!)": "41135f332d823394090b5d7128d687c2",
+  "Unique server ID (Do not change it!)": "ecahodn90s5b1ewi",
+  "Command will open the GUI": "report",
+  "Report reasons for UI": [
+    "Читы",
+    "Макросы",
+    "Багоюз",
+    "3+"
+  ],
+  "Report cooldown (in secs)": 150,
+  "Additional scan for in-game reports (F7)": true,
+  "Show moderator avatar, when message from control panel": true,
+  "Message from control panel format (Vars: %NAME% - moderator's name, %MSG% - message)": "<color=#B1D6F1>%NAME%</color>: %MSG%",
+  "Ban kick reason (%REASON% - ban reason, %TIME% - date of unban)": "Вы забанены на этом сервере, причина: %REASON%",
+  "Ban broadcast (%TARGET% - target name, %REASON% - reason, you can keep empty for hide message": "%TARGET% was banned for %REASON%",
+  "Direct message format (when moderator is chatting with suspected player)": "<color=orange>Сообщение от модератора:</color>\n%MSG%"
+}

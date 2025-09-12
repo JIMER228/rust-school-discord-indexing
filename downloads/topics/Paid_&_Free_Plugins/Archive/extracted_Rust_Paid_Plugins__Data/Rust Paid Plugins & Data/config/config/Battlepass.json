@@ -1,0 +1,800 @@
+{
+  "Command": "pass",
+  "Commands for Missions page": [
+    "passmissions",
+    "pmissions"
+  ],
+  "Commands for Cases page": [
+    "passcase"
+  ],
+  "Commands for Inventory page": [
+    "passinv"
+  ],
+  "Permission": "battlepass.use",
+  "Background": "https://i.imgur.com/Duv8iVm.jpg",
+  "Logo": "https://i.imgur.com/mhRO2AN.png",
+  "Reset the quest after completing it?": false,
+  "Currency 1": {
+    "Rates for permissions": {
+      "battlepass.vip": 2.0,
+      "battlepass.premium": 3.0
+    },
+    "Image": "https://i.imgur.com/swNAv0k.png",
+    "Use embedded system?": true,
+    "Plugin name": "Economics",
+    "Balance add hook": "Deposit",
+    "Balance remove hook": "Withdraw",
+    "Balance show hook": "Balance"
+  },
+  "Use 2nd currency?": true,
+  "Currency 2": {
+    "Permission (empty - all)": "battlepass.vip",
+    "Image": "https://i.imgur.com/d3vGeRL.png",
+    "Use embedded system?": true,
+    "Plugin name": "Economics",
+    "Balance add hook": "Deposit",
+    "Balance remove hook": "Withdraw",
+    "Balance show hook": "Balance"
+  },
+  "Season image": "https://i.imgur.com/f2GN8m7.png",
+  "Case Image": "https://i.imgur.com/2lMM2bS.png",
+  "Inventory Image": "https://i.imgur.com/vvJe7KO.png",
+  "Image Top Awards": "https://i.imgur.com/gRFdu5D.png",
+  "Background for cases": "https://i.imgur.com/tlMMjqc.png",
+  "Cases": [
+    {
+      "Case Display Name": "Case 'Pirate Treasure'",
+      "Image": "https://i.imgur.com/tsPPUhg.png",
+      "Permission": "battlepass.vip",
+      "Cost in currency 1": 3000,
+      "Cost in currency 2": 1500,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 0,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 1881529320,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 992079579,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 1064823575,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    },
+    {
+      "Case Display Name": "Legendary case",
+      "Image": "https://i.imgur.com/3mtbqji.png",
+      "Permission": "battlepass.use",
+      "Cost in currency 1": 2000,
+      "Cost in currency 2": 1000,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 17405217,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 1596824581,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 1808727557,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 1801559865,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    },
+    {
+      "Case Display Name": "Master Case",
+      "Image": "https://i.imgur.com/NvHk5Sw.png",
+      "Permission": "battlepass.use",
+      "Cost in currency 1": 1500,
+      "Cost in currency 2": 750,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 638363617,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 368233105,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 156252404,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 1857025712,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    },
+    {
+      "Case Display Name": "Professional case",
+      "Image": "https://i.imgur.com/kZyZqy9.png",
+      "Permission": "battlepass.use",
+      "Cost in currency 1": 1000,
+      "Cost in currency 2": 500,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 761229091,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 788174420,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 652578016,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 938403066,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    },
+    {
+      "Case Display Name": "Amateur case",
+      "Image": "https://i.imgur.com/5bur68a.png",
+      "Permission": "battlepass.use",
+      "Cost in currency 1": 500,
+      "Cost in currency 2": 250,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 1637792602,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 464318772,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 287636525,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 1370293191,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    },
+    {
+      "Case Display Name": "Newbie case",
+      "Image": "https://i.imgur.com/9KIoJ2G.png",
+      "Permission": "",
+      "Cost in currency 1": 150,
+      "Cost in currency 2": 75,
+      "Items": [
+        {
+          "Display Name (for display in the interface)": "Wood (2000 pcs.)",
+          "ID": 1165829828,
+          "Chance": 80.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount (for item)": 2000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Stones (3000 pcs.)",
+          "ID": 958679562,
+          "Chance": 70.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount (for item)": 3000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Assault rifle",
+          "ID": 265751701,
+          "Chance": 50.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "rifle.ak",
+          "Skin": 0,
+          "Amount (for item)": 1,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        },
+        {
+          "Display Name (for display in the interface)": "Sulfur (10000 pcs.)",
+          "ID": 912102803,
+          "Chance": 25.0,
+          "Item type": "Item",
+          "Image (if empty - the icon is taken by shortname) ": "",
+          "Display name (for the item) (if empty - standard)": "",
+          "Shortname": "sulfur",
+          "Skin": 0,
+          "Amount (for item)": 10000,
+          "Command": "",
+          "Plugin": {
+            "Hook to call": "Withdraw",
+            "Plugin name": "Economics",
+            "Amount": 0
+          }
+        }
+      ]
+    }
+  ],
+  "Total missions per day": 7,
+  "How many hours are missions updated?": 24,
+  "Settings shared missions": {
+    "1": {
+      "Mission description": "Collect 5000 stones",
+      "Mission type": "Gather",
+      "Shortname/prefab": "stones",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 5000,
+      "Amount of main reward": 50,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "2": {
+      "Mission description": "Kill 3 players",
+      "Mission type": "Kill",
+      "Shortname/prefab": "player",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 3,
+      "Amount of main reward": 90,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "3": {
+      "Mission description": "Craft 15 rockets",
+      "Mission type": "Craft",
+      "Shortname/prefab": "ammo.rocket.basic",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 15,
+      "Amount of main reward": 75,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "4": {
+      "Mission description": "Loot 10 metal springs",
+      "Mission type": "Look",
+      "Shortname/prefab": "metalspring",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 10,
+      "Amount of main reward": 50,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "5": {
+      "Mission description": "Build 25 high exterior stone walls to protect your home",
+      "Mission type": "Build",
+      "Shortname/prefab": "wall.external.high.stone",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 25,
+      "Amount of main reward": 100,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "6": {
+      "Mission description": "Upgrade 10 Foundations to Metal",
+      "Mission type": "Upgrade",
+      "Shortname/prefab": "foundation.prefab",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 3,
+      "Amount": 10,
+      "Amount of main reward": 60,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "7": {
+      "Mission description": "Collect 10000 wood",
+      "Mission type": "Gather",
+      "Shortname/prefab": "wood",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 10000,
+      "Amount of main reward": 50,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    },
+    "8": {
+      "Mission description": "Craft 3 Armored Doors",
+      "Mission type": "Craft",
+      "Shortname/prefab": "door.hinged.toptier",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 3,
+      "Amount of main reward": 85,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "rifle.ak",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": false,
+      "Amount of second currency": 0
+    }
+  },
+  "Settings challenge of the day": {
+    "1": {
+      "Mission description": "Collect 5000 stones",
+      "Mission type": "Gather",
+      "Shortname/prefab": "stones",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 5000,
+      "Amount of main reward": 50,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    },
+    "2": {
+      "Mission description": "Kill 3 players",
+      "Mission type": "Kill",
+      "Shortname/prefab": "player",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 3,
+      "Amount of main reward": 90,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    },
+    "3": {
+      "Mission description": "Craft 15 rockets",
+      "Mission type": "Craft",
+      "Shortname/prefab": "ammo.rocket.basic",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 15,
+      "Amount of main reward": 75,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    },
+    "4": {
+      "Mission description": "Loot 10 metal springs",
+      "Mission type": "Look",
+      "Shortname/prefab": "metalspring",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 10,
+      "Amount of main reward": 50,
+      "Give extra reward?": true,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    },
+    "5": {
+      "Mission description": "Build 25 high exterior stone walls to protect your home",
+      "Mission type": "Build",
+      "Shortname/prefab": "wall.external.high.stone",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 0,
+      "Amount": 25,
+      "Amount of main reward": 100,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    },
+    "6": {
+      "Mission description": "Upgrade 10 Foundations to Metal",
+      "Mission type": "Upgrade",
+      "Shortname/prefab": "foundation.prefab",
+      "Skin (0 - any item)": 0,
+      "Upgrade Level (for 'Upgrade' missions)": 3,
+      "Amount": 10,
+      "Amount of main reward": 60,
+      "Give extra reward?": false,
+      "Settings extra reward": {
+        "Image (if empty - the icon is taken by shortname)": "https://i.imgur.com/IkEWGT8.png",
+        "Display Name (if empty - standard)": "",
+        "Display Name (for interface)": "Talon AK-47",
+        "Shortname": "",
+        "Skin": 1230963555,
+        "Amount (for item)": 1
+      },
+      "Give second currency?": true,
+      "Amount of second currency": 25
+    }
+  },
+  "Enable logging to the console?": true,
+  "Enable logging to the file?": true,
+  "PlayerDatabase": {
+    "Enabled": false,
+    "Table": "Battlepass"
+  }
+}

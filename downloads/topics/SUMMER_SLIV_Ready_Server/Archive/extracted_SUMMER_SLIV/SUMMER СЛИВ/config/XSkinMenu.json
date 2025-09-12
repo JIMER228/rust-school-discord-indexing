@@ -1,0 +1,106 @@
+{
+  "Общие настройки": {
+    "Сгенерировать/Проверять и добавлять новые скины принятые разработчиками или сделаные для твич дропсов": true,
+    "Сгенерировать/Проверять и добавлять новые скины добавленные разработчиками [ К примеру скин на хазмат ]": false,
+    "Отображать кнопку для удаления всех скинов": true,
+    "Черный список скинов которые нельзя изменить. [ Например: огненные перчатки, огненный топор ]]": [
+      1742796979,
+      841106268
+    ]
+  },
+  "Меню настроект": {
+    "Иконка включенного параметра": "assets/icons/check.png",
+    "Иконка вылюченного параметра": "assets/icons/close.png",
+    "Цвет включенного параметра": "0.53 0.77 0.35 0.8",
+    "Цвет вылюченного параметра": "1 0.4 0.35 0.8"
+  },
+  "Настройка категорий": {
+    "weapon": [
+      "pistol.revolver",
+      "pistol.semiauto",
+      "pistol.python",
+      "pistol.eoka",
+      "shotgun.waterpipe",
+      "shotgun.double",
+      "shotgun.pump",
+      "crossbow",
+      "grenade.f1",
+      "smg.2",
+      "smg.thompson",
+      "smg.mp5",
+      "rifle.ak",
+      "rifle.lr300",
+      "rocket.launcher",
+      "rifle.semiauto",
+      "rifle.bolt",
+      "longsword",
+      "salvaged.sword",
+      "bone.club",
+      "knife.bone"
+    ],
+    "construction": [
+      "wall.frame.garagedoor",
+      "door.double.hinged.toptier",
+      "door.hinged.toptier",
+      "door.hinged.metal",
+      "door.hinged.wood",
+      "barricade.concrete",
+      "barricade.sandbags"
+    ],
+    "item": [
+      "locker",
+      "vending.machine",
+      "fridge",
+      "furnace",
+      "table",
+      "chair",
+      "box.wooden.large",
+      "box.wooden",
+      "rug.bear",
+      "rug",
+      "sleepingbag",
+      "water.purifier",
+      "target.reactive"
+    ],
+    "attire": [
+      "metal.facemask",
+      "coffeecan.helmet",
+      "riot.helmet",
+      "bucket.helmet",
+      "metal.plate.torso",
+      "roadsign.jacket",
+      "roadsign.kilt",
+      "burlap.gloves",
+      "jacket.snow",
+      "jacket",
+      "tshirt.long",
+      "hoodie",
+      "pants",
+      "shoes.boots",
+      "tshirt.long",
+      "tshirt",
+      "shirt.collared",
+      "burlap.shirt",
+      "burlap.trousers",
+      "mask.bandana",
+      "burlap.headwrap",
+      "attire.hide.boots",
+      "attire.hide.pants",
+      "attire.hide.poncho",
+      "attire.hide.vest",
+      "mask.balaclava",
+      "pants.shorts"
+    ],
+    "tool": [
+      "fun.guitar",
+      "icepick.salvaged",
+      "pickaxe",
+      "stone.pickaxe",
+      "rock",
+      "hatchet",
+      "stonehatchet",
+      "explosive.satchel",
+      "hammer"
+    ]
+  }
+}

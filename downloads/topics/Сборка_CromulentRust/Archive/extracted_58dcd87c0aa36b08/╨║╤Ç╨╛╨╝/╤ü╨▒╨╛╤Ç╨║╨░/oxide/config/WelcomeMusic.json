@@ -1,0 +1,17 @@
+{
+  "Permission Name": "welcomemusic.use",
+  "Need Permission": false,
+  "Welcome Music List": [
+    {
+      "Need Permission (Empty = none)": "",
+      "Music URL": "http://sb.cs-crom.ru/map/welcome6.mp3",
+      "Music Duration (sec)": 58.0,
+      "Welcome Message (Empty = No Message)": "Чтобы отключить голосовое приветствие введите в чат команду /wm"
+    }
+  ],
+  "Only first-time join the server": false,
+  "(First-time) Music URL (Empty = none)": "",
+  "(First-time) Music Duration (sec)": 15.0,
+  "Music Delay (sec)": 5.0,
+  "Players can disable the WelcomeMusic (/wm)": true
+}

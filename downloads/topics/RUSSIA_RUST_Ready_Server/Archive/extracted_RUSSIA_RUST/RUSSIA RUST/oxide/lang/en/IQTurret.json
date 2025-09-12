@@ -1,0 +1,10 @@
+{
+  "IS_LIMIT_TRUE": "At you <color=#dd6363>превышен</color> limit of active turrets <color=#dd6363>WITHOUT ELECTRICITY</color>",
+  "IS_TURRET_ELECTRIC_TRUE": "This turret is connected <color=#dd6363>to electricity</color>, you can't use the switch!",
+  "IS_BUILDING_BLOCK_TOGGLE": "You cannot use the switch in <color=#dd6363>someone else's house</color>",
+  "INFORMATION_USER_ON": "You have successfully <color=#66e28b>enabled</color> the turret, you can still enable <color=#dd6363>{0}</color> turret",
+  "INFORMATION_USER_OFF": "You have successfully <color=#dd6363>disabled</color> the turret, you can still enable <color=#dd6363>{0}</color> turret",
+  "INFORMATION_MY_LIMIT": "<color=#dd6363> is available to you</color> to enable <color=#dd6363>{0}</color> turrets",
+  "SYNTAX_COMMAND_ERROR": "<color=#dd6363>Syntax error : </color>\nUse the commands :\n1. t on - enables all disabled turrets\n2. t off - turns off all enabled turrets\n3. t limit - shows how many turrets are still available to you without electricity",
+  "PERMISSION_COMMAND_ERROR": "<color=#dd6363>Access error : </color>\nYou don't have enough rights to use this command!"
+}

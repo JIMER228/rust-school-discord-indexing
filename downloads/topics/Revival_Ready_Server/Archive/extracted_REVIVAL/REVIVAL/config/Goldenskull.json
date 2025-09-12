@@ -1,0 +1,48 @@
+{
+  "Настройки плагина": {
+    "0": {
+      "Отображаемое имя": "Золотой череп",
+      "Этот парамтр менять не нужно": "skull.human",
+      "Шанс выпадения": 1,
+      "Кол-вл выпадения": 1,
+      "Скин ID черепа": 1683645276,
+      "Включить ли выпадения из бочек ?": true,
+      "Из каких бочек будет падать и процент выпадения": {
+        "loot-barrel-1": 15,
+        "loot-barrel-2": 5
+      },
+      "Призы за переработку": [
+        "shotgun.double",
+        "grenade.f1",
+        "smg.2",
+        "shotgun.pump",
+        "pistol.semiauto",
+        "pistol.python",
+        "weapon.mod.lasersight",
+        "weapon.mod.muzzlebrake",
+        "rifle.ak",
+        "rifle.l96",
+        "smg.thompson",
+        "rifle.semiauto",
+        "pistol.revolver",
+        "rifle.lr300"
+      ],
+      "Призы за потрошения": [
+        "shotgun.double",
+        "grenade.f1",
+        "smg.2",
+        "shotgun.pump",
+        "pistol.semiauto",
+        "pistol.python",
+        "weapon.mod.lasersight",
+        "weapon.mod.muzzlebrake",
+        "rifle.ak",
+        "rifle.l96",
+        "smg.thompson",
+        "rifle.semiauto",
+        "pistol.revolver",
+        "rifle.lr300"
+      ]
+    }
+  }
+}

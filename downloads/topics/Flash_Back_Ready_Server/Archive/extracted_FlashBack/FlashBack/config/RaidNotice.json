@@ -1,0 +1,63 @@
+{
+  "Homes": {
+    "checkForHomesNear": true,
+    "homeDistance": 60.0
+  },
+  "RaiderName": {
+    "showRaiderName": true,
+    "showRaiderNameOnlyPermission": false,
+    "showRaiderNamePermission": "raidnotice.showraidername"
+  },
+  "NotifySettings": {
+    "notifyClanButNotFriends": false,
+    "notifyFriends": false,
+    "notifyOnlyByBuildingPrivlidge": true,
+    "notifyOnlyOwner": false
+  },
+  "Settings": {
+    "includeDateTimeToMessage": false,
+    "noticePrefabsContainsWords": [
+      "door",
+      "window.bars",
+      "window.glass",
+      "floor.ladder.hatch",
+      "floor.frame",
+      "floor.grill",
+      "wall.frame",
+      "shutter",
+      "external"
+    ],
+    "notifyOnSelfRaid": false,
+    "notifyOwnerIfNoBuildingPrivlidge": true,
+    "sendOnline": true,
+    "sendNextNoticeInterval": 20.0,
+    "sendNextNoticeIntervalIfOnline": 60.0
+  },
+  "Discord": {
+    "sendDiscord": true,
+    "sendDiscordIfOnline": true
+  },
+  "Steam": {
+    "sendSteam": false,
+    "sendSteamIfOnline": false,
+    "SteamBotServerKeyAdd": "",
+    "SteamBotUrl": "",
+    "SteamBotName": "",
+    "SteamBotSteamId": "",
+    "SteamBotLogin": "",
+    "SteamBotPassword": "",
+    "SteamBotServerMainKey": "00d69fcc00949e5ced2448c5e4fc98fdd279b065ed4a350eff2f99ac73e3aa22",
+    "SteamApiKey": ""
+  },
+  "Telegram": {
+    "sendTelegram": false,
+    "sendTelegramIfOnline": false,
+    "telegramToken": ""
+  },
+  "Vkontakte": {
+    "sendVk": true,
+    "sendVkIfOnline": true,
+    "vkGroup": "https://vk.com/flashrustproject",
+    "vkToken": "a75ec158c6bfd0bae1f69ad65e220aa9e2a2e6906ccc7cc9e5f7e6c9c757bf3e22f6a65e87bd86f8c9436"
+  }
+}

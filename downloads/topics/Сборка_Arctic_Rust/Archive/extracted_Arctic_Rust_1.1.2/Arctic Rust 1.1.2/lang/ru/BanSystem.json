@@ -1,0 +1,21 @@
+{
+  "NoAccess": "<color=#FF0000>[ServerName]</color><color=#FFFFFF> У вас нету привилегии для использования команды</color>",
+  "UnbanMessage": "Игрок [{0}] разбанен!",
+  "UnbanSyntax": "Синтаксис: unban < SteamID >",
+  "BanSyntax": "Синтаксис: ban < SteamID > < причина > < дни бана (необязательно) > ",
+  "PlayerNotFound": "Игрок {0} не найден в базе банов\n",
+  "PlayerDefinition": "Игрока нельзя разбанить без согласования с админом!\nСвязанные SteamID: {0}</color></color>",
+  "PlayerAlreadyBanned": "Игрок {0} уже забанен.\n",
+  "CantBanOwner": "Нельзя забанить Админа\n",
+  "CantBanModerator": "Нельзя забанить модератора\n",
+  "Changed": "Продолжительность бана для игрока {0} изменена на {1}</color></color>",
+  "day": "дн.",
+  "Permanent": "пожизненное",
+  "BanEvade": "Обход бана",
+  "PlayerBanned": "<color=#FF0000>[ServerName]</color><color=#FFFFFF> Игрок <color=#FF0000>{0}</color> был навсегда забанен на сервере! Причина: <color=#FF0000>{1}</color></color>",
+  "PlayerBannedTemp": "<color=#FF0000>[ServerName]</color><color=#FFFFFF> Игрок <color=#FF0000>{0}</color> был забанен на <color=#FF0000>{1}</color> Причина: <color=#FF0000>{2}</color></color>",
+  "DatabaseError": "Database receiving error: list.Count != 1!\n",
+  "InformMessage": "Незаслуженный бан? Подайте заявку на <color=#FFA500>vk.com/nnetadon</color>",
+  "ExitMessagePermBan": "Вы забанены НАВСЕГДА!\nПричина: ",
+  "ExitMessageTempBan": "Вы получили временный бан! Осталось: {0} Причина: "
+}

@@ -1,0 +1,77 @@
+{
+  "DoNotTouch": {
+    "ConfigVersion": "2.0.0"
+  },
+  "General": {
+    "Chat": {
+      "ChatPrefix": "AdminRadar",
+      "IconProfile": ""
+    },
+    "Commands": {
+      "GiveRadar": false
+    },
+    "Permission (adminradar.?)": "allowed",
+    "Radar": {
+      "ShowExtendedDetails": true
+    }
+  },
+  "Settings": {
+    "Filters": {
+      "All": {
+        "DefaultInvoke": 1.5,
+        "Distance-Highest": 400.0,
+        "Distance-Lowest": 30.0,
+        "Enabled (Can Cause Server Lag)": true,
+        "Invoke-Highest": 3.0,
+        "Invoke-Lowest": 1.0,
+        "MaxDistance": 300.0
+      },
+      "DefaultFilter | player | storage | sleeper | toolcupboard | npc": "player",
+      "NPCS": {
+        "DefaultInvoke": 0.3,
+        "Distance-Highest": 300.0,
+        "Distance-Lowest": 50.0,
+        "Enabled": true,
+        "Invoke-Highest": 1.0,
+        "Invoke-Lowest": 0.1,
+        "MaxDistance": 300.0
+      },
+      "Players": {
+        "DefaultInvoke": 0.3,
+        "Distance-Highest": 1000.0,
+        "Distance-Lowest": 100.0,
+        "Enabled": true,
+        "Invoke-Highest": 1.0,
+        "Invoke-Lowest": 0.1,
+        "MaxDistance": 2000.0
+      },
+      "SleepingPlayers": {
+        "DefaultInvoke": 5.0,
+        "Distance-Highest": 300.0,
+        "Distance-Lowest": 50.0,
+        "Enabled": true,
+        "Invoke-Highest": 10.0,
+        "Invoke-Lowest": 1.0,
+        "MaxDistance": 300.0
+      },
+      "Storage": {
+        "DefaultInvoke": 5.0,
+        "Distance-Highest": 300.0,
+        "Distance-Lowest": 50.0,
+        "Enabled": true,
+        "Invoke-Highest": 10.0,
+        "Invoke-Lowest": 1.0,
+        "MaxDistance": 300.0
+      },
+      "ToolCupboards": {
+        "DefaultInvoke": 5.0,
+        "Distance-Highest": 300.0,
+        "Distance-Lowest": 50.0,
+        "Enabled": true,
+        "Invoke-Highest": 10.0,
+        "Invoke-Lowest": 1.0,
+        "MaxDistance": 300.0
+      }
+    }
+  }
+}

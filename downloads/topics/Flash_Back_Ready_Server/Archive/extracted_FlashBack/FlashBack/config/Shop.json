@@ -1,0 +1,161 @@
+{
+  "Настройка категорий || Settings Category": [
+    {
+      "Названии категории || Name Category": "Оружие",
+      "Указывать ли, что данная категория - новинка? || Should I indicate that this category is new?": true,
+      "Предметы в данной категории || Item's category": [
+        {
+          "ШортНейм предмета || ShortName Item": "pistol.semiauto",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Пешка",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 300.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "rifle.ak",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "AK-47",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 750.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "rifle.lr300",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "LR-300",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 800.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "lmg.m249",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Пулик",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 1200.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "rifle.bolt",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Винтовка",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 1000.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        }
+      ]
+    },
+    {
+      "Названии категории || Name Category": "Всякое",
+      "Указывать ли, что данная категория - новинка? || Should I indicate that this category is new?": true,
+      "Предметы в данной категории || Item's category": [
+        {
+          "ШортНейм предмета || ShortName Item": "ammo.pistol",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 100,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Пистоленые патроны",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 350.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "ammo.rifle",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 100,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Патроны 5.56",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 550.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "charcoal",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 10000,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Уголь",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 400.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "lowgradefuel",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 500,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "ТНК",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 350.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "ladder.wooden.wall",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Лестница",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 500.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "small.oil.refinery",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "НПЗ",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 800.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "torch",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Факел",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 75.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        },
+        {
+          "ШортНейм предмета || ShortName Item": "autoturret",
+          "Комманда || Commands": "",
+          "Количество предмета || Amount item": 1,
+          "СкинИД Предмета || SkinID item": 0,
+          "Название предмета || Name item": "Турель",
+          "Картинка предмета || Image Item": "",
+          "Цена предмета || Price Item": 750.0,
+          "Будет ли являться данный предмет чертежом? ||  Will be the subject of a blueprint?": false,
+          "Команда или же предмет || Command or Item": false
+        }
+      ]
+    }
+  ],
+  "CEconomics или же Economics ? || CEconomics or Economics?": false,
+  "Название валюты || Name Currencies": "F"
+}

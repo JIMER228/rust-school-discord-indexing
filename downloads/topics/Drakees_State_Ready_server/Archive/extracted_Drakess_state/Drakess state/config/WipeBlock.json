@@ -1,0 +1,106 @@
+{
+  "Заблокированные предметы": {
+	  "1800": [
+				"shotgun.waterpipe"
+	  ],
+	  "3600": [
+				"shotgun.double",
+				"pistol.revolver"
+	  ],
+	  "7200": [ 
+				"pistol.python",
+				"pistol.semiauto",
+				"bucket.helmet",
+				"riot.helmet",
+				"coffeecan.helmet",
+				"roadsign.gloves",
+				"roadsign.jacket",
+				"roadsign.kilt"
+	  ],  
+	  "10800": [
+				"flamethrower",
+				"rifle.semiauto",
+				"shotgun.pump",
+				"shotgun.spas12",
+				"grenade.beancan",
+				"grenade.f1"
+	  ],
+	  "14400": [    	
+				"smg.thompson",
+				"smg.mp5",
+				"smg.2",
+				"pistol.m92",
+				"rifle.m39",
+				"metal.facemask",
+				"metal.plate.torso",
+				"heavy.plate.pants",
+				"heavy.plate.helmet",
+				"heavy.plate.jacket",
+				"tactical.gloves"
+	  ], 
+	  "21600": [
+				"rifle.ak",
+				"rifle.bolt",
+				"rifle.lr300",
+				"rifle.l96"
+	  ],
+	  "25200": [
+				"explosive.satchel"
+	  ],
+	  "43200": [
+				"lmg.m249"
+	  ],
+	  "86400": [
+				"rocket.launcher",
+				"multiplegrenadelauncher",
+				"explosive.timed",
+				"ammo.rifle.explosive"
+	  ]
+  },
+  "Красивые названия категорий": {
+    "Броня": [
+		"bucket.helmet",
+		"riot.helmet",
+		"coffeecan.helmet",
+		"roadsign.gloves",
+		"roadsign.jacket",
+		"roadsign.kilt",
+		"metal.facemask",
+		"metal.plate.torso",
+		"heavy.plate.pants",
+		"heavy.plate.helmet",
+		"heavy.plate.jacket",
+		"tactical.gloves"
+    ],
+    "Взрывчатка": [
+		"grenade.beancan",
+		"grenade.f1",
+		"explosive.satchel",
+		"explosive.timed",
+		"ammo.rifle.explosive"
+    ],
+    "Оружие": [
+		"shotgun.waterpipe",
+		"shotgun.double",
+		"pistol.revolver",
+		"pistol.python",
+		"pistol.semiauto",
+		"flamethrower",
+		"rifle.semiauto",
+		"shotgun.pump",
+		"shotgun.spas12",
+		"smg.thompson",
+		"smg.mp5",
+		"smg.2",
+		"pistol.m92",
+		"rifle.m39",
+		"rifle.ak",
+		"rifle.bolt",
+		"rifle.lr300",
+		"rifle.l96",
+		"lmg.m249",
+		"rocket.launcher",
+		"multiplegrenadelauncher"
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+
+app/Console/Kernel.php
+Please insert this under use Illuminate\Database\Console\PruneCommand;
+
+use Pterodactyl\Console\Commands\Server\RustWipeCommand;
+
+
+
+app/Console/Kernel.php
+Please insert this under $schedule->command(CleanServiceBackupFilesCommand::class)->daily();
+
+$schedule->command(RustWipeCommand::class)->everyMinute();
+
+
+
+app/Http/Middleware/Api/Client/Server/ResourceBelongsToServer.php
+Please insert this under use Pterodactyl\Models\User;
+
+use Pterodactyl\Models\Wipe;
+use Pterodactyl\Models\WipeMap;
+
+
+
+app/Http/Middleware/Api/Client/Server/ResourceBelongsToServer.php
+Please insert this under case Schedule::class:
+
+case Wipe::class:
+case WipeMap::class:
+
+
+
+app/Models/Permission.php
+Please insert this under public const ACTION_ACTIVITY_READ = 'activity.read';
+
+public const ACTION_WIPE_MANAGE = 'wipe.manage';
+
+
+
+app/Models/Permission.php
+Please insert 
+
+'wipe' => [
+    'description' => 'Permissions that control a user\'s access to the rust server wiper.',
+    'keys' => [
+        'manage' => 'Allows a user to use the rust wiper for the server.',
+    ],
+],
+
+
+Under: 
+
+
+'activity' => [
+    'description' => 'Permissions that control a user\'s access to the server activity logs.',
+    'keys' => [
+        'read' => 'Allows a user to view the activity logs for the server.',
+    ],
+],
+
+
+
+app/Models/Server.php
+Please insert this under 'description' => 'string',
+
+'timezone' => 'nullable|string',
+
+
+
+app/Models/Server.php
+Please insert
+
+/**
+ * Gets all wipes associated with this server.
+ */
+public function wipes(): HasMany
+{
+    return $this->hasMany(Wipe::class, 'server_id');
+}
+
+/**
+ * Gets all wipe maps associated with this server.
+ */
+public function wipemaps(): HasMany
+{
+    return $this->hasMany(WipeMap::class, 'server_id');
+}
+
+
+Under:
+
+
+public function egg()
+{
+    return $this->hasOne(Egg::class, 'id', 'egg_id');
+}
+
+
+
+app/Services/Servers/ServerDeletionService.php
+Please insert this above $server->delete();
+
+foreach($server->wipes as $wipe) {
+    $wipe->delete();
+    foreach($wipe->commands as $command) {
+        $command->delete();
+    }
+}
+
+
+
+app/Transformers/Api/Client/ServerTransformer.php
+Please insert this under 'node' => $server->node->name,
+
+'timezone' => $server->timezone,
+'nest_id' => $server->nest_id,
+
+
+
+resources/scripts/api/server/getServer.ts
+Please insert this under node: string;
+
+timezone: string;
+nestId: number;
+
+
+
+resources/scripts/api/server/getServer.ts
+Please insert this under node: data.node,
+
+timezone: data.timezone,
+nestId: data.nest_id,
+
+
+
+resources/scripts/components/elements/Field.tsx
+Replace import Input from '@/components/elements/Input';
+
+import Input, { Textarea } from '@/components/elements/Input';
+
+
+
+resources/scripts/components/elements/Field.tsx
+Please insert this under export default Field;
+
+type TextareaProps = OwnProps & Omit<React.TextareaHTMLAttributes<HTMLTextAreaElement>, 'name'>;
+
+export const TextareaField = forwardRef<HTMLTextAreaElement, TextareaProps>(function TextareaField(
+    { id, name, light = false, label, description, validate, className, ...props },
+    ref
+) {
+    return (
+        <FormikField innerRef={ref} name={name} validate={validate}>
+            {({ field, form: { errors, touched } }: FieldProps) => (
+                <div className={className}>
+                    {label && (
+                        <Label htmlFor={id} isLight={light}>
+                            {label}
+                        </Label>
+                    )}
+                    <Textarea
+                        id={id}
+                        {...field}
+                        {...props}
+                        isLight={light}
+                        hasError={!!(touched[field.name] && errors[field.name])}
+                    />
+                    {touched[field.name] && errors[field.name] ? (
+                        <p className={'input-help error'}>
+                            {(errors[field.name] as string).charAt(0).toUpperCase() +
+                                (errors[field.name] as string).slice(1)}
+                        </p>
+                    ) : description ? (
+                        <p className={'input-help'}>{description}</p>
+                    ) : null}
+                </div>
+            )}
+        </FormikField>
+    );
+});
+TextareaField.displayName = 'TextareaField';
+
+
+
+resources/scripts/components/elements/Switch.tsx
+Please isnsert this under children?: React.ReactNode;
+
+checked?: boolean;
+
+
+
+resources/scripts/components/elements/Switch.tsx
+Replace const Switch = ({ name, label, description, defaultChecked, readOnly, onChange, children }: SwitchProps) => {
+
+const Switch = ({ name, label, description, defaultChecked, readOnly, onChange, children, checked }: SwitchProps) => {
+
+
+
+resources/scripts/components/elements/Switch.tsx
+Please insert this under disabled={readOnly}
+
+checked={checked}
+
+
+
+resources/scripts/routers/routes.ts
+Please insert this under import ServerActivityLogContainer from '@/components/server/ServerActivityLogContainer';
+
+import RustWipeContainer from '@/components/server/wipe/RustWipeContainer';
+
+
+
+resources/scripts/routers/routes.ts
+Please insert this under permission: string | string[] | null;
+
+nestId?: number;
+
+
+
+resources/scripts/routers/routes.ts
+Please insert this
+
+{
+    path: '/wipe',
+    permission: 'wipe.*',
+    name: 'Rust Wipe',
+    nestId: 4,
+    component: RustWipeContainer,
+},
+
+
+under:
+
+
+{
+    path: '/activity',
+    permission: 'activity.*',
+    name: 'Activity',
+    component: ServerActivityLogContainer,
+},
+
+
+
+resources/scripts/routers/ServerRouter.tsx
+Please insert this under const uuid = ServerContext.useStoreState((state) => state.server.data?.uuid);
+
+const serverNestId = ServerContext.useStoreState((state) => state.server.data?.nestId);
+
+
+
+resources/scripts/routers/ServerRouter.tsx
+Replace
+
+<Can key={route.path} action={route.permission} matchAny>
+    <NavLink to={to(route.path, true)} exact={route.exact}>
+        {route.name}
+    </NavLink>
+</Can>
+
+
+with:
+
+
+(!route.nestId || route.nestId === serverNestId) && (
+    <Can key={route.path} action={route.permission} matchAny>
+        <NavLink to={to(route.path, true)} exact={route.exact}>
+            {route.name}
+        </NavLink>
+    </Can>
+)
+
+
+
+resources/scripts/routers/ServerRouter.tsx
+Replace
+
+{routes.server.map(({ path, permission, component: Component }) => (
+    <PermissionRoute key={path} permission={permission} path={to(path)} exact>
+        <Spinner.Suspense>
+            <Component />
+        </Spinner.Suspense>
+    </PermissionRoute>
+
+
+with:
+
+{routes.server.map(({ path, permission, component: Component, nestId }) => (
+    (!nestId || nestId === serverNestId) && (
+        <PermissionRoute key={path} permission={permission} path={to(path)} exact>
+            <Spinner.Suspense>
+                <Component />
+            </Spinner.Suspense>
+        </PermissionRoute>
+    )
+
+
+
+routes/api-client.php
+Please insert this above the last });
+
+Route::group(['prefix' => '/wipe'], function () {
+    Route::get('/', [Client\Servers\WipeController::class, 'index']);
+
+    Route::post('/timezone', [Client\Servers\WipeController::class, 'timezone']);
+    Route::post('/map', [Client\Servers\WipeController::class, 'map']);
+    Route::post('/{wipe:id?}', [Client\Servers\WipeController::class, 'store']);
+
+    Route::delete('/map/{wipemap:id}', [Client\Servers\WipeController::class, 'deleteMap']);
+    Route::delete('/{wipe:id}', [Client\Servers\WipeController::class, 'delete']);
+});
+
+
+
+After done all above upload the folders included with this addon to your pterodactyl root directory and use this SSH commands in your pterodactyl root directory (/var/www/pterodactyl by default)
+
+If you haven't installed yarn already make sure you install it by following: https://pterodactyl.io/community/customization/panel.html
+- yarn run build:production
+- php artisan view:clear && php artisan cache:clear && php artisan route:clear && php artisan migrate --force && chown -R www-data:www-data *

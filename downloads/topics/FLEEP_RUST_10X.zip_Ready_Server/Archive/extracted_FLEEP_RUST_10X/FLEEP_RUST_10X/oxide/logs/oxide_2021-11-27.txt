@@ -1,0 +1,1497 @@
+18:39 [Info] Loading Oxide Core v2.0.3999...
+18:39 [Info] Loading extensions...
+18:39 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+18:39 [Error] Failed to load extension Oxide.InCore (UnauthorizedAccessException: Access to the path "/home/container/in-core/data" is denied.)
+  at System.IO.Directory.CreateDirectoriesInternal (System.String path) [0x0005e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.IO.Directory.CreateDirectory (System.String path) [0x0008f] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at InCore.Oxide.InKernel..ctor () [0x00117] in <51b9f286e5a549e592c6f9204c7e1e6c>:0 
+  at InCore.Oxide.InCore.Initialize (InCore.Oxide.InCoreLinuxExtension extension) [0x00007] in <51b9f286e5a549e592c6f9204c7e1e6c>:0 
+  at InCore.Oxide.InCoreLinuxExtension.Load () [0x00000] in <51b9f286e5a549e592c6f9204c7e1e6c>:0 
+  at Oxide.Core.Extensions.ExtensionManager.LoadExtension (System.String filename, System.Boolean forced) [0x00168] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+18:39 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+18:39 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+18:39 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+18:39 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+18:39 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:39 [Info] Local compiler MD5: 0
+18:39 [Info] Compiler MD5 hash did not match, downloading latest
+18:39 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+18:39 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+18:39 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:39 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:39 [Info] Using Covalence provider for game 'Rust'
+18:39 [Info] Loading plugins...
+18:39 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+18:39 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:06 [Info] Loading Oxide Core v2.0.3999...
+19:06 [Info] Loading extensions...
+19:06 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+19:06 [Info] [InKernel] Debug -> False
+19:06 [Info] [InExtension] Install -> InCore.Interception.dll
+19:06 [Info] [InExtension] Install -> InCore.Kernel.dll
+19:06 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+19:06 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:06 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+19:06 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:06 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:06 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:06 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:06 [Info] Using Covalence provider for game 'Rust'
+19:06 [Info] Loading plugins...
+19:06 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+19:06 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+19:06 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:06 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+19:06 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+19:06 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+19:06 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+19:06 [Info] MultiFighting was compiled successfully in 0ms
+19:06 [Info] InCompiledAssemblyPatch
+19:06 [Warning] MultiFighting has polluted the global namespace by defining <Module>
+19:06 [Warning] MultiFighting has polluted the global namespace by defining STEAM_TOKENDATA
+19:06 [Warning] MultiFighting has polluted the global namespace by defining STEAM_SESSION
+19:06 [Warning] MultiFighting has polluted the global namespace by defining STEAM_TICKET
+19:06 [Warning] MultiFighting has polluted the global namespace by defining SteamTicket
+19:06 [Warning] MultiFighting has polluted the global namespace by defining NoSteamTicket
+19:06 [Warning] MultiFighting has polluted the global namespace by defining Tokens
+19:06 [Warning] MultiFighting has polluted the global namespace by defining UserData
+19:06 [Warning] MultiFighting has polluted the global namespace by defining Users
+19:06 [Warning] MultiFighting has polluted the global namespace by defining <PrivateImplementationDetails>
+19:06 [Info] Loaded plugin  v2.9.98 by Мизантроп
+19:09 [Info] IP address from command-line: 78.46.56.22
+19:09 [Error] [] Плагин uCore не установлен!
+19:09 [Info] Unloaded plugin  v2.9.98 by Мизантроп
+19:23 [Info] Loading Oxide Core v2.0.3999...
+19:23 [Info] Loading extensions...
+19:23 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+19:23 [Info] [InKernel] Debug -> False
+19:23 [Info] [InExtension] Install -> InCore.Interception.dll
+19:23 [Info] [InExtension] Install -> InCore.Kernel.dll
+19:23 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+19:23 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:23 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+19:23 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:23 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:23 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:23 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:23 [Info] Using Covalence provider for game 'Rust'
+19:23 [Info] Loading plugins...
+19:23 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+19:23 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+19:23 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:23 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+19:23 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+19:23 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+19:23 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+19:23 [Info] MultiFighting was compiled successfully in 0ms
+19:23 [Info] InCompiledAssemblyPatch
+19:23 [Warning] MultiFighting has polluted the global namespace by defining <Module>
+19:23 [Warning] MultiFighting has polluted the global namespace by defining STEAM_TOKENDATA
+19:23 [Warning] MultiFighting has polluted the global namespace by defining STEAM_SESSION
+19:23 [Warning] MultiFighting has polluted the global namespace by defining STEAM_TICKET
+19:23 [Warning] MultiFighting has polluted the global namespace by defining SteamTicket
+19:23 [Warning] MultiFighting has polluted the global namespace by defining NoSteamTicket
+19:23 [Warning] MultiFighting has polluted the global namespace by defining Tokens
+19:23 [Warning] MultiFighting has polluted the global namespace by defining UserData
+19:23 [Warning] MultiFighting has polluted the global namespace by defining Users
+19:23 [Warning] MultiFighting has polluted the global namespace by defining <PrivateImplementationDetails>
+19:23 [Info] Loaded plugin  v2.9.98 by Мизантроп
+19:25 [Info] IP address from command-line: 78.46.56.22
+19:25 [Error] [] Плагин uCore не установлен!
+19:25 [Info] Unloaded plugin  v2.9.98 by Мизантроп
+19:28 [Info] Added '// Reference: Tags' in plugin 'uCore'
+19:28 [Info] uCore was compiled successfully in 2485ms
+19:28 [Info] InCompiledAssemblyPatch
+19:28 [Warning] uCore has polluted the global namespace by defining <Module>
+19:28 [Warning] uCore has polluted the global namespace by defining Helpers
+19:28 [Info] [uCore] Генерирую новый конфиг...
+19:28 [Info] [uCore] Загружаю базу данных...
+19:28 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+19:28 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+19:28 [Info] uAuth was compiled successfully in 458ms
+19:28 [Info] InCompiledAssemblyPatch
+19:28 [Warning] uAuth has polluted the global namespace by defining <Module>
+19:28 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+19:29 [Info] Unloaded plugin uCore v1.1.6 by Мизантроп
+19:29 [Info] [uCore] Загружаю базу данных...
+19:29 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+19:29 [Info] Unloaded plugin uCore v1.1.6 by Мизантроп
+19:29 [Info] [uCore] Загружаю базу данных...
+19:29 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+19:31 [Info] [uCore] База игроков сохранена
+19:32 [Info] Loading Oxide Core v2.0.3999...
+19:32 [Info] Loading extensions...
+19:32 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+19:32 [Info] [InKernel] Debug -> False
+19:32 [Info] [InExtension] Install -> InCore.Interception.dll
+19:32 [Info] [InExtension] Install -> InCore.Kernel.dll
+19:32 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+19:32 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+19:32 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+19:32 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+19:32 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:32 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:32 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:32 [Info] Using Covalence provider for game 'Rust'
+19:32 [Info] Loading plugins...
+19:33 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+19:33 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+19:33 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:33 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+19:33 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+19:33 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+19:33 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+19:33 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+19:33 [Info] Added '// Reference: Tags' in plugin 'uCore'
+19:33 [Info] MultiFighting, uAuth and uCore were compiled successfully in 0ms
+19:33 [Info] InCompiledAssemblyPatch
+19:33 [Warning] A plugin has polluted the global namespace by defining <Module>
+19:33 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+19:33 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+19:33 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+19:33 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+19:33 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+19:33 [Warning] A plugin has polluted the global namespace by defining Tokens
+19:33 [Warning] A plugin has polluted the global namespace by defining UserData
+19:33 [Warning] A plugin has polluted the global namespace by defining Users
+19:33 [Warning] A plugin has polluted the global namespace by defining Helpers
+19:33 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+19:33 [Info] Loaded plugin  v2.9.98 by Мизантроп
+19:33 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+19:33 [Info] [uCore] Загружаю базу данных...
+19:33 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+19:35 [Info] IP address from command-line: 78.46.56.22
+19:36 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+19:37 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+19:39 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+19:39 [Error] [] Molly ❤[76561199218909689] зашел без GameWer
+19:41 [Info] [uCore] База игроков сохранена
+19:44 [Info] SkyReportSystem was compiled successfully in 2655ms
+19:44 [Info] InCompiledAssemblyPatch
+19:44 [Warning] SkyReportSystem has polluted the global namespace by defining <Module>
+19:44 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:44 [Error] [SkyReportSystem] Не найден ImageLibrary, плагин не будет работать!
+19:44 [Info] Loaded plugin SkyReportSystem v3.2.0 by DezLife
+19:45 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+19:46 [Info] Unloaded plugin SkyReportSystem v3.2.0 by DezLife
+19:46 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:46 [Error] [SkyReportSystem] Не найден ImageLibrary, плагин не будет работать!
+19:46 [Info] Loaded plugin SkyReportSystem v3.2.0 by DezLife
+19:46 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:46 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:47 [Info] ImageLibrary was compiled successfully in 2544ms
+19:47 [Info] InCompiledAssemblyPatch
+19:47 [Warning] ImageLibrary has polluted the global namespace by defining <Module>
+19:47 [Warning] [Image Library] Retrieving item skin lists...
+19:47 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.58' took 1716ms
+19:47 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:47 [Info] Unloaded plugin SkyReportSystem v3.2.0 by DezLife
+19:47 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:47 [Warning] [SkyReportSystem] Вы не указали названия сервера, плагин будет работать некорректно!
+19:47 [Error] [SkyReportSystem] -----------------------------------
+19:47 [Error] [SkyReportSystem]            SkyReportSystem         
+19:47 [Error] [SkyReportSystem]           Author = DezLife         
+19:47 [Error] [SkyReportSystem]           Version = 3.2.0      
+19:47 [Error] [SkyReportSystem] -----------------------------------
+19:47 [Info] Loaded plugin SkyReportSystem v3.2.0 by DezLife
+19:47 [Error] Could not load plugin 'НОВОЕ' (no plugin found with that file name)
+19:47 [Error] Could not load plugin '[19:46]' (no plugin found with that file name)
+19:47 [Info] [uCore] База игроков сохранена
+19:47 [Warning] Calling 'OnPluginUnloaded' on 'ImageLibrary v2.0.58' took average 1716ms
+19:47 [Info] Unloaded plugin SkyReportSystem v3.2.0 by DezLife
+19:47 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:47 [Warning] [SkyReportSystem] Вы не указали названия сервера, плагин будет работать некорректно!
+19:47 [Error] [SkyReportSystem] -----------------------------------
+19:47 [Error] [SkyReportSystem]            SkyReportSystem         
+19:47 [Error] [SkyReportSystem]           Author = DezLife         
+19:47 [Error] [SkyReportSystem]           Version = 3.2.0      
+19:47 [Error] [SkyReportSystem] -----------------------------------
+19:47 [Info] Loaded plugin SkyReportSystem v3.2.0 by DezLife
+19:47 [Warning] [Image Library] Processing approved skins; Page 1/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 2/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 3/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 4/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 5/30
+19:47 [Info] Group 'admin' granted permission 'SkyReportSystem.moderator'
+19:47 [Warning] [Image Library] Processing approved skins; Page 6/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 7/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 8/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 9/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 10/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 11/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 12/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 13/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 14/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 15/30
+19:47 [Warning] [Image Library] Processing approved skins; Page 16/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 17/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 18/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 19/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 20/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 21/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 22/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 23/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 24/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 25/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 26/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 27/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 28/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 29/30
+19:48 [Warning] [Image Library] Processing approved skins; Page 30/30
+19:48 [Info] [Image Library] Approved skins loaded
+19:53 [Info] [uCore] База игроков сохранена
+19:54 [Info] Panel was compiled successfully in 2589ms
+19:54 [Info] InCompiledAssemblyPatch
+19:54 [Warning] Panel has polluted the global namespace by defining <Module>
+19:54 [Warning] Calling 'OnServerInitialized' on 'Panel v1.2.2' took 1068ms
+19:54 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+19:56 [Error] Could not load plugin 'MicroPanel' (no plugin found with that file name)
+19:56 [Error] Could not load plugin 'MicroPanel' (no plugin found with that file name)
+19:57 [Info] Listing 6 plugins:
+  01 "" (2.9.98) by Мизантроп (0.18s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.05s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "SkyReportSystem" (3.2.0) by DezLife (0.11s) - SkyReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (1.72s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (1.09s) - Panel.alkad
+19:57 [Error] Could not load plugin 'panel' (no plugin found with that file name)
+19:57 [Info] Unloaded plugin Panel v1.2.2 by fermenspwnz
+19:57 [Warning] Calling 'OnServerInitialized' on 'Panel v1.2.2' took 516ms
+19:57 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+20:04 [Info] [InCore] Compilation preparse -> 'AbsolutGifts'(ImageLibrary..alkad)
+20:04 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:04 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:04 [Info] AbsolutGifts and ImageLibrary were compiled successfully in 2855ms
+20:04 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+20:04 [Warning] [DEBUG] AbsolutGifts plugin is waiting for requirements to be loaded: ImageLibrary
+20:04 [Info] InCompiledAssemblyPatch
+20:04 [Warning] A plugin has polluted the global namespace by defining <Module>
+20:04 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+20:04 [Info] Loaded plugin Absolut Gifts v1.5.2 by Absolut
+20:04 [Info] [Image Library] Starting order Absolut Gifts
+20:04 [Info] [Image Library] Starting order Absolut Gifts
+20:04 [Info] [InCore] Compilation preparse -> 'AbsolutGifts'(ImageLibrary..alkad)
+20:04 [Warning] [DEBUG] Plugin compilation is already queued: AbsolutGifts (0.087 ago)
+20:04 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:04 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:04 [Info] AbsolutGifts and ImageLibrary were compiled successfully in 573ms
+20:04 [Info] Unloaded plugin Absolut Gifts v1.5.2 by Absolut
+20:04 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+20:04 [Warning] [DEBUG] AbsolutGifts plugin is waiting for requirements to be loaded: ImageLibrary
+20:04 [Info] InCompiledAssemblyPatch
+20:04 [Warning] A plugin has polluted the global namespace by defining <Module>
+20:04 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+20:04 [Info] Loaded plugin Absolut Gifts v1.5.2 by Absolut
+20:04 [Info] [Image Library] Starting order Absolut Gifts
+20:04 [Info] [Image Library] Starting order Absolut Gifts
+20:05 [Info] [uCore] База игроков сохранена
+20:05 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:05 [Error] [] NeXy?​>[76561198976953185] зашел без GameWer
+20:06 [Info] [InPluginLoader] Unload -> Absolut Gifts v1.5.2 by Absolut
+20:06 [Info] Unloaded plugin Absolut Gifts v1.5.2 by Absolut
+20:07 [Info] ChatManager was compiled successfully in 2613ms
+20:07 [Info] InCompiledAssemblyPatch
+20:07 [Warning] ChatManager has polluted the global namespace by defining <Module>
+20:07 [Warning] [ChatManager] Создание нового файла конфигурации...
+20:07 [Warning] [ChatManager] Added field to config: Выключить заглавные буквы в чате
+20:07 [Warning] [ChatManager] Added field to config: Автоматически блокировать чат за нецензурную лексику
+20:07 [Warning] [ChatManager] Added field to config: Воспроизводить звук при получении личного сообщения
+20:07 [Warning] [ChatManager] Added field to config: Полный путь к звуковому файлу
+20:07 [Warning] [ChatManager] Added field to config: Длительность блокировки чата по умолчанию(в секундах)
+20:07 [Warning] [ChatManager] Added field to config: Длительность блокировки чата за нецензурную лексику(в секундах)
+20:07 [Warning] [ChatManager] Added field to config: Цвет тега клана
+20:07 [Warning] [ChatManager] Added field to config: Убирать ссылки с ника
+20:07 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+20:07 [Error] Could not load plugin 'NoGiveNotices' (no plugin found with that file name)
+20:07 [Info] Listing 7 plugins:
+  01 "" (2.9.98) by Мизантроп (0.24s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.06s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "SkyReportSystem" (3.2.0) by DezLife (0.12s) - SkyReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (0.56s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.04s) - ChatManager.alkad
+20:08 [Info] Unloaded plugin ChatManager v1.1.1 by bazuka5801
+20:08 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+20:08 [Info] [ChatManager] 
+20:08 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: ff
+20:11 [Info] [uCore] База игроков сохранена
+20:12 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:12 [Error] [] arian.g.t.a.g[76561199217799470] зашел без GameWer
+20:17 [Info] [uCore] База игроков сохранена
+20:21 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:23 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:23 [Error] [] 愛Floppa=ДоШиКツ愛[76561199197728980] зашел без GameWer
+20:23 [Info] [uCore] База игроков сохранена
+20:25 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:25 [Error] [] 空の魂[76561199140445713] зашел без GameWer
+20:29 [Info] [uCore] База игроков сохранена
+20:30 [Info] [ChatManager] 
+20:30 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: q
+20:30 [Info] [ChatManager] 
+20:30 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: й
+20:30 [Info] [ChatManager] 
+20:30 [Info] [CHAT] [Global] 76561199218450096/*Fashist*: e
+20:32 [Info] Unloaded plugin ChatManager v1.1.1 by bazuka5801
+20:32 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+20:32 [Info] [ChatManager] 
+20:32 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: ff
+20:35 [Info] [uCore] База игроков сохранена
+20:38 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:38 [Error] [] qwerty[76561198257447134] зашел без GameWer
+20:39 [Info] Give was compiled successfully in 2534ms
+20:39 [Info] InCompiledAssemblyPatch
+20:39 [Warning] Give has polluted the global namespace by defining <Module>
+20:39 [Warning] [Give] Configuration changes saved to Give.json
+20:39 [Info] Loaded plugin Give v3.2.6 by Wulf
+20:40 [Info] NoGiveNotices was compiled successfully in 357ms
+20:40 [Info] InCompiledAssemblyPatch
+20:40 [Warning] NoGiveNotices has polluted the global namespace by defining <Module>
+20:40 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:40 [Info] [InPluginLoader] Unload -> Give v3.2.6 by Wulf
+20:40 [Info] Unloaded plugin Give v3.2.6 by Wulf
+20:40 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:40 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:41 [Info] [uCore] База игроков сохранена
+20:47 [Info] [uCore] База игроков сохранена
+20:48 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:48 [Error] [] BAD BOY[76561199183852779] зашел без GameWer
+20:53 [Info] [uCore] База игроков сохранена
+20:53 [Info] Friends was compiled successfully in 2623ms
+20:53 [Info] InCompiledAssemblyPatch
+20:53 [Warning] Friends has polluted the global namespace by defining <Module>
+20:53 [Warning] Friends has polluted the global namespace by defining <>__AnonType0`2
+20:53 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+20:53 [Info] Listing 9 plugins:
+  01 "" (2.9.98) by Мизантроп (0.50s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.12s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "SkyReportSystem" (3.2.0) by DezLife (0.15s) - SkyReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (0.73s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.02s) - ChatManager.alkad
+  08 "Friends" (2.0.2) by LAGZYA (0.01s) - Friends.alkad
+  09 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+20:53 [Info] Listing 9 plugins:
+  01 "" (2.9.98) by Мизантроп (0.50s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.12s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "SkyReportSystem" (3.2.0) by DezLife (0.15s) - SkyReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (0.73s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.02s) - ChatManager.alkad
+  08 "Friends" (2.0.2) by LAGZYA (0.01s) - Friends.alkad
+  09 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+20:53 [Info] Listing 9 plugins:
+  01 "" (2.9.98) by Мизантроп (0.50s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.12s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "SkyReportSystem" (3.2.0) by DezLife (0.15s) - SkyReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (0.73s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.02s) - ChatManager.alkad
+  08 "Friends" (2.0.2) by LAGZYA (0.01s) - Friends.alkad
+  09 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+20:53 [Error] Could not load plugin 'fried' (no plugin found with that file name)
+20:54 [Error] Could not load plugin 'friend' (no plugin found with that file name)
+20:54 [Info] [ChatManager] 
+20:54 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: Дискорд 2 минуты отказ/лив бан
+20:55 [Info] [ChatManager] 
+20:55 [Info] [CHAT] [Team] 76561199197728980/愛Floppa=ДоШиКツ愛: админ
+20:55 [Info] Unloaded plugin Friends v2.0.2 by LAGZYA
+20:55 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+20:56 [Info] [ChatManager] 
+20:56 [Info] [CHAT] [Global] 76561199197728980/愛Floppa=ДоШиКツ愛: адм, мой тимейт встать не может и  из за этого не может открыть чат
+20:56 [Info] [ChatManager] 
+20:56 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: смысле?
+20:56 [Info] [ChatManager] 
+20:56 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: ник?
+20:56 [Info] [ChatManager] 
+20:56 [Info] [CHAT] [Global] 76561199197728980/愛Floppa=ДоШиКツ愛: его дс Exide#4052
+20:57 [Info] [ChatManager] 
+20:57 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: сейчас
+20:58 [Info] [ChatManager] 
+20:58 [Info] [CHAT] [Global] 76561199215982553/꧁꧂⪓⚡FLEEK⚡⪔꧁꧂: пусть заходит в дс
+20:58 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+20:58 [Error] [] PeliAzuh[76561198258351303] зашел без GameWer
+20:59 [Info] [Friends] Произошло сохранение даты!
+20:59 [Info] [uCore] База игроков сохранена
+21:00 [Error] [] 空の魂[76561199140445713] зашел без GameWer
+21:04 [Error] [] 愛Floppa=ДоШиКツ愛[76561199197728980] зашел без GameWer
+21:05 [Info] [Friends] Произошло сохранение даты!
+21:05 [Info] [uCore] База игроков сохранена
+21:06 [Info] [ChatManager] 
+21:06 [Info] [CHAT] [Team] 76561198874499883/#SpaceRust floppyflaps: ахуеть уже 7 онлайна
+21:07 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.InitPlayer (BasePlayer player) [0x0003d] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00010] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <3fd33d57fc9b40a49b3dba9b0bd6ee42>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+21:07 [Error] [] ynkysydor[76561199194767521] зашел без GameWer
+21:08 [Info] [InPluginLoader] Unload -> SkyReportSystem v3.2.0 by DezLife
+21:08 [Info] Unloaded plugin SkyReportSystem v3.2.0 by DezLife
+21:08 [Info] IQReportSystem was compiled successfully in 2792ms
+21:08 [Info] InCompiledAssemblyPatch
+21:08 [Warning] IQReportSystem has polluted the global namespace by defining <Module>
+21:08 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:08 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:09 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:09 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:09 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:09 [Info] Listing 9 plugins:
+  01 "" (2.9.98) by Мизантроп (0.61s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.14s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "IQReportSystem" (0.2.5) by Mercury (0.00s) - IQReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (0.79s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.05s) - ChatManager.alkad
+  08 "Friends" (2.0.2) by LAGZYA (0.06s) - Friends.alkad
+  09 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+21:09 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:09 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:09 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:11 [Info] [Friends] Произошло сохранение даты!
+21:11 [Info] [uCore] База игроков сохранена
+21:11 [Warning] [IQReportSystem] Вы не настроили конфигурацию,в пункте с ВК
+21:14 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:14 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:14 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:14 [Warning] [IQReportSystem] Вы не настроили конфигурацию,в пункте с ВК
+21:17 [Info] [Friends] Произошло сохранение даты!
+21:17 [Info] [uCore] База игроков сохранена
+21:17 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:17 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:17 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:17 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:17 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:17 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:18 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:18 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:18 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:18 [Warning] [IQReportSystem] Вы не настроили конфигурацию,в пункте с ВК
+21:19 [Error] [] 空の魂[76561199140445713] зашел без GameWer
+21:19 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+21:19 [Warning] [IQReportSystem] Языковой файл загружен успешно
+21:19 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+21:19 [Warning] [IQReportSystem] Вы не настроили конфигурацию,в пункте с ВК
+21:22 [Info] RaidBlock was compiled successfully in 2651ms
+21:22 [Info] InCompiledAssemblyPatch
+21:22 [Warning] RaidBlock has polluted the global namespace by defining <Module>
+21:22 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+21:22 [Info] Unloaded plugin RaidBlock v1.0.25 by wazzzup
+21:22 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+21:23 [Info] Unloaded plugin RaidBlock v1.0.25 by wazzzup
+21:23 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+21:23 [Info] [Friends] Произошло сохранение даты!
+21:23 [Info] [uCore] База игроков сохранена
+21:29 [Info] [Friends] Произошло сохранение даты!
+21:29 [Info] [uCore] База игроков сохранена
+21:31 [Error] [] 空の魂[76561199140445713] зашел без GameWer
+21:35 [Info] [Friends] Произошло сохранение даты!
+21:35 [Info] [uCore] База игроков сохранена
+21:41 [Info] [Friends] Произошло сохранение даты!
+21:41 [Info] [uCore] База игроков сохранена
+21:47 [Info] [Friends] Произошло сохранение даты!
+21:47 [Info] [uCore] База игроков сохранена
+21:50 [Info] Gather was compiled successfully in 2580ms
+21:50 [Info] InCompiledAssemblyPatch
+21:50 [Warning] Gather has polluted the global namespace by defining <Module>
+21:50 [Info] Loaded plugin Gather v1.0.2 by walkinrey
+21:59 [Info] [Friends] Произошло сохранение даты!
+21:59 [Info] [uCore] База игроков сохранена
+22:05 [Info] [Friends] Произошло сохранение даты!
+22:05 [Info] [uCore] База игроков сохранена
+22:08 [Info] Unloaded plugin Gather v1.0.2 by walkinrey
+22:11 [Info] [Friends] Произошло сохранение даты!
+22:11 [Info] [uCore] База игроков сохранена
+22:17 [Info] [Friends] Произошло сохранение даты!
+22:17 [Info] [uCore] База игроков сохранена
+22:19 [Info] AdminPanel was compiled successfully in 2348ms
+22:19 [Info] InCompiledAssemblyPatch
+22:19 [Warning] AdminPanel has polluted the global namespace by defining <Module>
+22:19 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:20 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+22:20 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:23 [Info] [Friends] Произошло сохранение даты!
+22:23 [Info] [uCore] База игроков сохранена
+22:24 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+22:24 [Info] uAuth was compiled successfully in 2681ms
+22:24 [Info] Unloaded plugin uAuth v0.0.5 by Мизантроп
+22:24 [Info] InCompiledAssemblyPatch
+22:24 [Warning] uAuth has polluted the global namespace by defining <Module>
+22:24 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+22:24 [Error] Failed to call hook 'OnServerInitialized' on plugin 'uAuth v0.0.5' (JsonReaderException: Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 14.)
+  at Newtonsoft.Json.JsonTextReader.ReadAsBoolean () [0x00294] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006e] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Plugins.uAuth.OnServerInitialized () [0x00034] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0051e] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:24 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+22:24 [Info] Listing 11 plugins:
+  01 "" (2.9.98) by Мизантроп (1.07s) - MultiFighting.alkad
+  02 "uAuth" (0.0.5) by Мизантроп (0.05s) - uAuth.alkad
+  03 "uCore" (1.1.6) by Мизантроп (0.01s) - uCore.alkad
+  04 "IQReportSystem" (0.2.5) by Mercury (0.02s) - IQReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.03s) - ImageLibrary.alkad
+  06 "Panel" (1.2.2) by fermenspwnz (1.05s) - Panel.alkad
+  07 "ChatManager" (1.1.1) by bazuka5801 (0.10s) - ChatManager.alkad
+  08 "Friends" (2.0.2) by LAGZYA (0.22s) - Friends.alkad
+  09 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+  10 "RaidBlock" (1.0.25) by wazzzup (0.09s) - RaidBlock.alkad
+  11 "Admin Panel" (1.4.7) by nivex (0.01s) - AdminPanel.alkad
+22:24 [Info] Unloaded plugin uAuth v0.0.5 by Мизантроп
+22:24 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+22:24 [Error] Failed to call hook 'OnServerInitialized' on plugin 'uAuth v0.0.5' (JsonReaderException: Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 14.)
+  at Newtonsoft.Json.JsonTextReader.ReadAsBoolean () [0x00294] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006e] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Plugins.uAuth.OnServerInitialized () [0x00034] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0051e] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:24 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+22:25 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:27 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+22:27 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:29 [Info] [Friends] Произошло сохранение даты!
+22:29 [Info] [uCore] База игроков сохранена
+22:29 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+22:29 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:31 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:34 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:34 [Error] [] Kit Narkosha#SpaceRust[76561199007821206] зашел без GameWer
+22:35 [Info] [Friends] Произошло сохранение даты!
+22:35 [Info] [uCore] База игроков сохранена
+22:36 [Info] [ChatManager] 
+22:36 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: папочка тута)
+22:36 [Info] [ChatManager] 
+22:36 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: Тёма ты чтоль?
+22:36 [Info] [ChatManager] 
+22:36 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: а хто ещё)
+22:37 [Info] [ChatManager] 
+22:37 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: в дс заходи братка
+22:37 [Info] [ChatManager] 
+22:37 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: вопрос какой
+22:37 [Info] [ChatManager] 
+22:37 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: наш
+22:37 [Info] [ChatManager] 
+22:37 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: ютуб флик раст?
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: нет
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: у гриши попроси дс
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: ок
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: а флип раст?
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: F4 внизу жду
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: флип раст да
+22:38 [Info] [ChatManager] 
+22:38 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: в канал круглый стол
+22:39 [Info] [ChatManager] 
+22:39 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: ток общение и кровать есть
+22:39 [Info] [ChatManager] 
+22:39 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: больше нема
+22:39 [Info] [ChatManager] 
+22:39 [Info] [CHAT] [Global] 76561198874499883/#SpaceRust floppyflaps: в общение
+22:39 [Info] [ChatManager] 
+22:39 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: зошол
+22:40 [Info] [ChatManager] 
+22:40 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: дабавьте абратна
+22:40 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+22:41 [Info] [Friends] Произошло сохранение даты!
+22:41 [Info] [uCore] База игроков сохранена
+22:41 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:41 [Info] Permission 'admin' doesn't exist
+22:41 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:44 [Info] [ChatManager] 
+22:44 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: я твой рот ебал фашист ебанй
+22:44 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:46 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:46 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:48 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:48 [Error] [] Kit Narkosha#SpaceRust[76561199007821206] зашел без GameWer
+22:48 [Info] [ChatManager] 
+22:48 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: я и вы гандоны
+22:52 [Info] [ChatManager] 
+22:52 [Info] [CHAT] [Global] 76561199007821206/Kit Narkosha#SpaceRust: я к вам бегу гандоны
+22:52 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:52 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <0a84ac1354664072a57e799dae324fb4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:52 [Info] Unloaded plugin  v2.9.98 by Мизантроп
+22:52 [Info] Unloaded plugin uAuth v0.0.5 by Мизантроп
+22:52 [Info] Unloaded plugin uCore v1.1.6 by Мизантроп
+22:52 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+22:52 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+22:52 [Info] Unloaded plugin Panel v1.2.2 by fermenspwnz
+22:52 [Info] Unloaded plugin ChatManager v1.1.1 by bazuka5801
+22:52 [Info] Unloaded plugin Friends v2.0.2 by LAGZYA
+22:52 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+22:52 [Info] Unloaded plugin RaidBlock v1.0.25 by wazzzup
+22:52 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+22:52 [Info] Loading Oxide Core v2.0.3999...
+22:52 [Info] Loading extensions...
+22:52 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+22:52 [Info] [InKernel] Debug -> False
+22:52 [Info] [InExtension] Install -> InCore.Interception.dll
+22:52 [Info] [InExtension] Install -> InCore.Kernel.dll
+22:52 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+22:52 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+22:52 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+22:52 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+22:52 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+22:52 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:52 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:52 [Info] Using Covalence provider for game 'Rust'
+22:52 [Info] Loading plugins...
+22:52 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+22:52 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+22:52 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+22:52 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:52 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:52 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+22:52 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+22:52 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+22:52 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+22:52 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+22:52 [Info] Added '// Reference: Tags' in plugin 'uCore'
+22:53 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+22:53 [Info] InCompiledAssemblyPatch
+22:53 [Warning] A plugin has polluted the global namespace by defining <Module>
+22:53 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+22:53 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+22:53 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+22:53 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+22:53 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+22:53 [Warning] A plugin has polluted the global namespace by defining Tokens
+22:53 [Warning] A plugin has polluted the global namespace by defining UserData
+22:53 [Warning] A plugin has polluted the global namespace by defining Users
+22:53 [Warning] A plugin has polluted the global namespace by defining Helpers
+22:53 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+22:53 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+22:53 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:53 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+22:53 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+22:53 [Warning] [IQReportSystem] Языковой файл загружен успешно
+22:53 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+22:53 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+22:53 [Info] Loaded plugin  v2.9.98 by Мизантроп
+22:53 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+22:53 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+22:53 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+22:53 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+22:53 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+22:53 [Info] [uCore] Загружаю базу данных...
+22:53 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+22:54 [Info] JoinMessagePlus was compiled successfully in 8744ms
+22:54 [Info] InCompiledAssemblyPatch
+22:54 [Warning] JoinMessagePlus has polluted the global namespace by defining <Module>
+22:54 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+22:55 [Info] IP address from command-line: 78.46.56.22
+22:55 [Warning] Calling 'OnServerInitialized' on 'Panel v1.2.2' took 1093ms
+22:55 [Error] Failed to call hook 'OnServerInitialized' on plugin 'uAuth v0.0.5' (JsonReaderException: Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 14.)
+  at Newtonsoft.Json.JsonTextReader.ReadAsBoolean () [0x00294] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006e] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Plugins.uAuth.OnServerInitialized () [0x00034] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0051e] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:56 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:57 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerConnected (BasePlayer player) [0x00000] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00639] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:57 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+22:57 [Info] Unloaded plugin ChatManager v1.1.1 by bazuka5801
+22:57 [Info] Unloaded plugin Friends v2.0.2 by LAGZYA
+22:57 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+22:57 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+22:57 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'uAuth v0.0.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.uAuth.OnPlayerDisconnected (BasePlayer player, System.String reason) [0x00000] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0069b] in <99098ae49e8046038d5b351885b1628b>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+22:57 [Info] Unloaded plugin  v2.9.98 by Мизантроп
+22:57 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+22:57 [Info] Unloaded plugin Panel v1.2.2 by fermenspwnz
+22:57 [Info] Unloaded plugin RaidBlock v1.0.25 by wazzzup
+22:57 [Info] Unloaded plugin uAuth v0.0.5 by Мизантроп
+22:57 [Info] Unloaded plugin uCore v1.1.6 by Мизантроп
+22:57 [Info] Unloaded plugin Join Message Plus v1.0.54 by MisterPixie
+22:59 [Info] Loading Oxide Core v2.0.3999...
+22:59 [Info] Loading extensions...
+22:59 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+22:59 [Info] [InKernel] Debug -> False
+22:59 [Info] [InExtension] Install -> InCore.Interception.dll
+22:59 [Info] [InExtension] Install -> InCore.Kernel.dll
+22:59 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+22:59 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+22:59 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+22:59 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+22:59 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+22:59 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:59 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:59 [Info] Using Covalence provider for game 'Rust'
+22:59 [Info] Loading plugins...
+22:59 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+22:59 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+22:59 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+22:59 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:59 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:59 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+22:59 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+22:59 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+22:59 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+22:59 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+22:59 [Info] Added '// Reference: Tags' in plugin 'uCore'
+22:59 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+22:59 [Info] InCompiledAssemblyPatch
+22:59 [Warning] A plugin has polluted the global namespace by defining <Module>
+22:59 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+22:59 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+22:59 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+22:59 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+22:59 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+22:59 [Warning] A plugin has polluted the global namespace by defining Tokens
+22:59 [Warning] A plugin has polluted the global namespace by defining UserData
+22:59 [Warning] A plugin has polluted the global namespace by defining Users
+22:59 [Warning] A plugin has polluted the global namespace by defining Helpers
+22:59 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+22:59 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+22:59 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+22:59 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+22:59 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+22:59 [Warning] [IQReportSystem] Языковой файл загружен успешно
+22:59 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+22:59 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+22:59 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+22:59 [Info] Loaded plugin  v2.9.98 by Мизантроп
+22:59 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+22:59 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+22:59 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+22:59 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+22:59 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+22:59 [Info] [uCore] Загружаю базу данных...
+22:59 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:00 [Info] Loading Oxide Core v2.0.3999...
+23:00 [Info] Loading extensions...
+23:00 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:00 [Info] [InKernel] Debug -> False
+23:00 [Info] [InExtension] Install -> InCore.Interception.dll
+23:00 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:00 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:00 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:00 [Info] Using Covalence provider for game 'Rust'
+23:00 [Info] Loading plugins...
+23:00 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:00 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:00 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:00 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:00 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:00 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:00 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:00 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:00 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:00 [Info] InCompiledAssemblyPatch
+23:00 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:00 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:00 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:00 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:00 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:00 [Warning] A plugin has polluted the global namespace by defining UserData
+23:00 [Warning] A plugin has polluted the global namespace by defining Users
+23:00 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:00 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:00 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:00 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:00 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:00 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:00 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:00 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:00 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:00 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:00 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:00 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:00 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:00 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:00 [Info] [uCore] Загружаю базу данных...
+23:00 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:02 [Info] Loading Oxide Core v2.0.3999...
+23:02 [Info] Loading extensions...
+23:02 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:02 [Info] [InKernel] Debug -> False
+23:02 [Info] [InExtension] Install -> InCore.Interception.dll
+23:02 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:02 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:02 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:02 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:02 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:02 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:02 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:02 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:02 [Info] Using Covalence provider for game 'Rust'
+23:02 [Info] Loading plugins...
+23:03 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:03 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:03 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:03 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:03 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:03 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:03 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:03 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:03 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:03 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:03 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:03 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:03 [Info] InCompiledAssemblyPatch
+23:03 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:03 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:03 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:03 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:03 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:03 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:03 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:03 [Warning] A plugin has polluted the global namespace by defining UserData
+23:03 [Warning] A plugin has polluted the global namespace by defining Users
+23:03 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:03 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:03 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:03 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:03 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:03 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:03 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:03 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:03 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:03 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:03 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:03 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:03 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:03 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:03 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:03 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:03 [Info] [uCore] Загружаю базу данных...
+23:03 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:13 [Info] IP address from command-line: 78.46.56.22
+23:13 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+23:13 [Warning] Calling 'OnServerInitialized' on 'Panel v1.2.2' took 1681ms
+23:13 [Error] Failed to call hook 'OnServerInitialized' on plugin 'uAuth v0.0.5' (JsonReaderException: Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 14.)
+  at Newtonsoft.Json.JsonTextReader.ReadAsBoolean () [0x00294] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006e] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <8fe7f8665ff548909c2f26d557e5093a>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Plugins.uAuth.OnServerInitialized () [0x00034] in <c21a50fef5eb4f358fcecd7cb56beb19>:0 
+  at Oxide.Plugins.uAuth.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0051e] in <c21a50fef5eb4f358fcecd7cb56beb19>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <60c318df79ed41688ea59335e48d61ad>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <9882f28dc2204b4dba514a9ad18f5042>:0 
+23:14 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+23:14 [Info] Unloaded plugin ChatManager v1.1.1 by bazuka5801
+23:14 [Info] Unloaded plugin Friends v2.0.2 by LAGZYA
+23:14 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+23:14 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:14 [Info] Unloaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:14 [Info] Unloaded plugin  v2.9.98 by Мизантроп
+23:14 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+23:14 [Info] Unloaded plugin Panel v1.2.2 by fermenspwnz
+23:14 [Info] Unloaded plugin RaidBlock v1.0.25 by wazzzup
+23:14 [Info] Unloaded plugin uAuth v0.0.5 by Мизантроп
+23:14 [Info] Unloaded plugin uCore v1.1.6 by Мизантроп
+23:18 [Info] Loading Oxide Core v2.0.3999...
+23:18 [Info] Loading extensions...
+23:18 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:18 [Info] [InKernel] Debug -> False
+23:18 [Info] [InExtension] Install -> InCore.Interception.dll
+23:18 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:18 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:18 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:18 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:18 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:18 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:18 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:18 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:18 [Info] Using Covalence provider for game 'Rust'
+23:18 [Info] Loading plugins...
+23:18 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:18 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:18 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:18 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:18 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:18 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:18 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:18 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:18 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:18 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:18 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:18 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:18 [Info] InCompiledAssemblyPatch
+23:18 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:18 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:18 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:18 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:18 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:18 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:18 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:18 [Warning] A plugin has polluted the global namespace by defining UserData
+23:18 [Warning] A plugin has polluted the global namespace by defining Users
+23:18 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:18 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:18 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:18 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:18 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:18 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:18 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:18 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:18 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:18 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:18 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:18 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:18 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:18 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:18 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:18 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:18 [Info] [uCore] Загружаю базу данных...
+23:18 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:19 [Info] Loading Oxide Core v2.0.3999...
+23:19 [Info] Loading extensions...
+23:19 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:19 [Info] [InKernel] Debug -> False
+23:19 [Info] [InExtension] Install -> InCore.Interception.dll
+23:19 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:19 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:19 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:19 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:19 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:19 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:19 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:19 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:19 [Info] Using Covalence provider for game 'Rust'
+23:19 [Info] Loading plugins...
+23:19 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:19 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:19 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:19 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:19 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:19 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:19 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:19 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:19 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:19 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:19 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:19 [Info] AdminPanel, ChatManager, Friends, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:19 [Info] InCompiledAssemblyPatch
+23:19 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:19 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:19 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:19 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:19 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:19 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:19 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:19 [Warning] A plugin has polluted the global namespace by defining UserData
+23:19 [Warning] A plugin has polluted the global namespace by defining Users
+23:19 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:19 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:19 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:19 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:19 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:19 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:19 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:19 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:19 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:19 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:19 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:19 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:19 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:19 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:19 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:19 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:19 [Info] [uCore] Загружаю базу данных...
+23:19 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:25 [Info] Loading Oxide Core v2.0.3999...
+23:25 [Info] Loading extensions...
+23:25 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:25 [Info] [InKernel] Debug -> False
+23:25 [Info] [InExtension] Install -> InCore.Interception.dll
+23:25 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:25 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:25 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:25 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:25 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:25 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:25 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:25 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:25 [Info] Using Covalence provider for game 'Rust'
+23:25 [Info] Loading plugins...
+23:25 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:25 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:25 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:25 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:25 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:25 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:25 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:25 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:25 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:25 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:25 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:25 [Info] AdminPanel, ChatManager, Friends, GatherControl, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:25 [Info] InCompiledAssemblyPatch
+23:25 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:25 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:25 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:25 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:25 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:25 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:25 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:25 [Warning] A plugin has polluted the global namespace by defining UserData
+23:25 [Warning] A plugin has polluted the global namespace by defining Users
+23:25 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:25 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:25 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:25 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:25 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:25 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:25 [Info] Loaded plugin GatherControl v1.8.1 by CaseMan
+23:25 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:25 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:25 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:25 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:25 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:25 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:25 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:25 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:25 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:25 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:25 [Info] [uCore] Загружаю базу данных...
+23:25 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:26 [Info] Loading Oxide Core v2.0.3999...
+23:26 [Info] Loading extensions...
+23:26 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:26 [Info] [InKernel] Debug -> False
+23:26 [Info] [InExtension] Install -> InCore.Interception.dll
+23:26 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:26 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:26 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:26 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:26 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:26 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:26 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:26 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:26 [Info] Using Covalence provider for game 'Rust'
+23:26 [Info] Loading plugins...
+23:26 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:26 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:26 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:26 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:26 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:26 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:26 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:26 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:26 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:26 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:26 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:26 [Info] AdminPanel, ChatManager, Friends, GatherControl, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:26 [Info] InCompiledAssemblyPatch
+23:26 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:26 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:26 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:26 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:26 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:26 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:26 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:26 [Warning] A plugin has polluted the global namespace by defining UserData
+23:26 [Warning] A plugin has polluted the global namespace by defining Users
+23:26 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:26 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:26 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:26 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+23:26 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:26 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:26 [Info] Loaded plugin GatherControl v1.8.1 by CaseMan
+23:26 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:26 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:26 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:26 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:26 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:26 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:26 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:26 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:26 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:26 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:26 [Info] [uCore] Загружаю базу данных...
+23:26 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:28 [Info] Loading Oxide Core v2.0.3999...
+23:28 [Info] Loading extensions...
+23:28 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:28 [Info] [InKernel] Debug -> False
+23:28 [Info] [InExtension] Install -> InCore.Interception.dll
+23:28 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:28 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:28 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:28 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:28 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:28 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:28 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:28 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:28 [Info] Using Covalence provider for game 'Rust'
+23:28 [Info] Loading plugins...
+23:28 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:28 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:28 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:28 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:28 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:28 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:28 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:28 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:28 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:28 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:28 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:28 [Info] ChatManager, Friends, GatherControl, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:28 [Info] InCompiledAssemblyPatch
+23:28 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:28 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:28 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:28 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:28 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:28 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:28 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:28 [Warning] A plugin has polluted the global namespace by defining UserData
+23:28 [Warning] A plugin has polluted the global namespace by defining Users
+23:28 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:28 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:28 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:28 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:28 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:28 [Info] Loaded plugin GatherControl v1.8.1 by CaseMan
+23:28 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:28 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:28 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:28 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:28 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:28 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:28 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:28 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:28 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:28 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:28 [Info] [uCore] Загружаю базу данных...
+23:28 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:29 [Info] Loading Oxide Core v2.0.3999...
+23:29 [Info] Loading extensions...
+23:29 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:29 [Info] [InKernel] Debug -> False
+23:29 [Info] [InExtension] Install -> InCore.Interception.dll
+23:29 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:29 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:29 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:29 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:29 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:29 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:29 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:29 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:29 [Info] Using Covalence provider for game 'Rust'
+23:29 [Info] Loading plugins...
+23:29 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:29 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:29 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:29 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:29 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:29 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:29 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:29 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:29 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:29 [Info] Added '// Reference: Tags' in plugin 'uAuth'
+23:29 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:29 [Info] ChatManager, Friends, GatherControl, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock, uAuth and uCore were compiled successfully in 0ms
+23:29 [Info] InCompiledAssemblyPatch
+23:29 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:29 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:29 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:29 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:29 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:29 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:29 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:29 [Warning] A plugin has polluted the global namespace by defining UserData
+23:29 [Warning] A plugin has polluted the global namespace by defining Users
+23:29 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:29 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:29 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:29 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:29 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:29 [Info] Loaded plugin GatherControl v1.8.1 by CaseMan
+23:29 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:29 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:29 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:29 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:29 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:29 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:29 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:29 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:29 [Error] uAuth v0.0.5: Failed to load config file (is the config file corrupt?) (Unexpected character encountered while parsing value: F. Path 'enabled', line 2, position 13.)
+23:29 [Info] Loaded plugin uAuth v0.0.5 by Мизантроп
+23:29 [Info] [uCore] Загружаю базу данных...
+23:29 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:34 [Info] Loading Oxide Core v2.0.3999...
+23:34 [Info] Loading extensions...
+23:34 [Info] Loaded extension CSharp v2.0.4046 by Oxide Team and Contributors
+23:34 [Info] [InKernel] Debug -> False
+23:34 [Info] [InExtension] Install -> InCore.Interception.dll
+23:34 [Info] [InExtension] Install -> InCore.Kernel.dll
+23:34 [Info] Loaded extension InCoreLinux v1.0.7975 by Мизантроп
+23:34 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:34 [Info] Loaded extension Rust v2.0.5276 by Oxide Team and Contributors
+23:34 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:34 [Info] Using Covalence provider for game 'Rust'
+23:34 [Info] Loading plugins...
+23:34 [Info] Loaded plugin InCoreLinux v1.0.7975 by Мизантроп
+23:34 [Info] Loaded plugin Rust v2.0.5276 by Oxide Team and Contributors
+23:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:34 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:34 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:34 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+23:34 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'MultiFighting'
+23:34 [Info] Added '// Reference: InCore.Kernel' in plugin 'MultiFighting'
+23:34 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+23:34 [Info] Added '// Reference: Tags' in plugin 'uCore'
+23:34 [Info] ChatManager, Friends, GatherControl, IQReportSystem, ImageLibrary, JoinMessagePlus, MultiFighting, NoGiveNotices, Panel, RaidBlock and uCore were compiled successfully in 0ms
+23:34 [Info] InCompiledAssemblyPatch
+23:34 [Warning] A plugin has polluted the global namespace by defining <Module>
+23:34 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+23:34 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+23:34 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+23:34 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+23:34 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+23:34 [Warning] A plugin has polluted the global namespace by defining Tokens
+23:34 [Warning] A plugin has polluted the global namespace by defining UserData
+23:34 [Warning] A plugin has polluted the global namespace by defining Users
+23:34 [Warning] A plugin has polluted the global namespace by defining Helpers
+23:34 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+23:34 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+23:34 [Info] Loaded plugin ChatManager v1.1.1 by bazuka5801
+23:34 [Info] Loaded plugin Friends v2.0.2 by LAGZYA
+23:34 [Info] Loaded plugin GatherControl v1.8.1 by CaseMan
+23:34 [Warning] [IQReportSystem] Языковой файл загружен успешно
+23:34 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+23:34 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:34 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+23:34 [Info] Loaded plugin  v2.9.98 by Мизантроп
+23:34 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:34 [Info] Loaded plugin Panel v1.2.2 by fermenspwnz
+23:34 [Info] Loaded plugin RaidBlock v1.0.25 by wazzzup
+23:34 [Info] [uCore] Загружаю базу данных...
+23:34 [Info] Loaded plugin uCore v1.1.6 by Мизантроп
+23:42 [Info] IP address from command-line: 78.46.56.22
+23:42 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+23:42 [Warning] Calling 'OnServerInitialized' on 'Panel v1.2.2' took 1496ms
+23:48 [Info] [Friends] Произошло сохранение даты!
+23:48 [Info] [uCore] База игроков сохранена
+23:51 [Info] Listing 11 plugins:
+  01 "ChatManager" (1.1.1) by bazuka5801 (0.05s) - ChatManager.alkad
+  02 "Friends" (2.0.2) by LAGZYA (0.07s) - Friends.alkad
+  03 "GatherControl" (1.8.1) by CaseMan (0.04s) - GatherControl.alkad
+  04 "IQReportSystem" (0.2.5) by Mercury (0.03s) - IQReportSystem.alkad
+  05 "Image Library" (2.0.58) by Absolut & K1lly0u (0.04s) - ImageLibrary.alkad
+  06 "Join Message Plus" (1.0.54) by MisterPixie (0.00s) - JoinMessagePlus.alkad
+  07 "" (2.9.98) by Мизантроп (0.11s) - MultiFighting.alkad
+  08 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.alkad
+  09 "Panel" (1.2.2) by fermenspwnz (1.53s) - Panel.alkad
+  10 "RaidBlock" (1.0.25) by wazzzup (0.01s) - RaidBlock.alkad
+  11 "uCore" (1.1.6) by Мизантроп (0.00s) - uCore.alkad
+23:51 [Error] [] *Fashist*[76561199218450096] зашел без GameWer
+23:52 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:52 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:52 [Info] ImageLibrary was compiled successfully in 2782ms
+23:52 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:52 [Info] InCompiledAssemblyPatch
+23:52 [Warning] ImageLibrary has polluted the global namespace by defining <Module>
+23:52 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+23:54 [Info] [Friends] Произошло сохранение даты!
+23:54 [Info] [uCore] База игроков сохранена

@@ -1,0 +1,132 @@
+{
+  "ID": "",
+  "Enabled? [true/false]": true,
+  "Position": "(65.31, 87.34, -487.50)",
+  "Rotation": "(0.00, 0.00, 0.00)",
+  "Radius": 100.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 20,
+      "Maximum numbers - Day": 30,
+      "Minimum numbers - Night": 18,
+      "Maximum numbers - Night": 29,
+      "NPCs setting": {
+        "Names": [
+          "Mummy"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "halloween.mummysuit",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "pitchfork",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(0.16, -1.30, 3.77)",
+        "(-12.77, -1.31, 74.04)",
+        "(-14.97, -1.15, 100.33)",
+        "(-27.04, -1.26, 144.93)",
+        "(-32.19, -1.23, 172.77)",
+        "(-48.24, -1.31, 207.49)",
+        "(-75.80, -1.50, 185.31)",
+        "(-90.18, -1.43, 201.30)",
+        "(-116.35, -1.26, 204.48)",
+        "(-148.19, -1.41, 186.43)",
+        "(-179.65, -1.31, 182.24)",
+        "(-225.98, -1.31, 166.96)",
+        "(-204.21, -2.20, 109.20)",
+        "(-261.49, -1.69, 123.42)",
+        "(-301.03, -1.24, 125.57)",
+        "(-343.31, -0.84, 135.41)",
+        "(-370.89, 2.62, 127.67)",
+        "(-347.17, 2.65, 111.48)",
+        "(-288.67, 2.63, 76.10)",
+        "(-171.35, 2.65, 3.40)",
+        "(-144.97, 2.62, -13.73)",
+        "(-116.85, 2.97, -20.16)",
+        "(-58.23, -1.31, -62.80)",
+        "(-35.07, -1.31, -70.99)",
+        "(-8.10, -1.31, -83.89)",
+        "(7.54, -1.30, -97.69)",
+        "(26.58, -1.30, -108.94)",
+        "(-33.27, -1.39, 104.19)",
+        "(-53.46, -1.39, 98.82)",
+        "(44.57, -1.31, 143.55)",
+        "(29.78, -1.31, 136.03)",
+        "(14.24, -1.43, 122.06)",
+        "(0.79, -1.32, 135.26)",
+        "(-35.90, -1.44, 117.92)",
+        "(-53.11, -1.46, 109.91)",
+        "(-61.95, -1.46, 101.11)",
+        "(-66.80, -1.45, 84.24)",
+        "(-78.85, -1.56, 56.66)",
+        "(24.22, -1.28, -14.69)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "The location of the basic building blocks (Cannot be destroyed)": [
+  ],
+  "Regular Entities": [
+	{
+      "Prefab": "assets/prefabs/io/electric/lights/sirenlightorange.prefab",
+      "Skin": 0,
+      "Position": "(-0.003, 1.392, -0.208)",
+      "Rotation": "(0, 0, 0)"
+    },
+	{
+      "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+      "Skin": 0,
+      "Position": "(0, 1.392, -0.389)",
+      "Rotation": "(0, 180, 0)"
+    }
+  ],
+  "Decor Entities": [
+	{
+      "Prefab": "assets/prefabs/deployable/mailbox/mailbox.deployed.prefab",
+      "Skin": 0,
+      "Position": "(0.003, 0.216, -0.005)",
+      "Rotation": "(0, 180, 0)"
+    }
+  ],
+  "Box Colliders" : [
+  ]
+}

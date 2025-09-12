@@ -1,0 +1,23 @@
+{
+  "FirstKillSecondsToDisappear": 60,
+  "NextKillsSecondsToDecrease": 120,
+  "MaxRadius": 1.3,
+  "MinRadius": 0.1,
+  "DifferenceBetweenMinAndMax": 3.6,
+  "RadiusIncreaseDependedOfKills": 0.1,
+  "RadiusMovingStep": 0.2,
+  "MinDistanceToCreateNewSpot": 25.0,
+  "MaxKillsOnSpot": 20,
+  "AlphaIncreaseDependedOfKills": 0.6,
+  "MaxAlpha": 0.7,
+  "Color1": {
+    "H": 0.0,
+    "S": 1.0,
+    "V": 1.0
+  },
+  "Color2": {
+    "H": 0.0,
+    "S": 1.0,
+    "V": 1.0
+  }
+}

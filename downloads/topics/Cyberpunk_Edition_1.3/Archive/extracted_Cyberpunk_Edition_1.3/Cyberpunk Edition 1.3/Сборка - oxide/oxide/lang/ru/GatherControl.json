@@ -1,0 +1,18 @@
+{
+  "SunriseMessage": "Наступает утро. Рейтинг добычи уменьшен.",
+  "SunsetMessage": "Наступает ночь. Рейтинг добычи увеличен.",
+  "GatherRateInfo": "Ваши множители добычи ресурсов:",
+  "NoGatherRate": "У вас нет множителей добычи!",
+  "GatherRateInfoPlayer": "У игрока {0} есть следующие множители:",
+  "NoGatherRatePlayer": "У игрока {0} нет множителей добычи!",
+  "RateResource": "Множитель добычи ресурсов (день/ночь)",
+  "RateResourceBonus": "Множитель добычи бонуса из руды (день/ночь)",
+  "RateResourceHQM": "Множитель добычи МВК из руды (день/ночь)",
+  "RatePickup": "Множитель поднятия предметов (день/ночь)",
+  "RateQuarry": "Множитель добычи карьеров (день/ночь)",
+  "RateCropGather": "Множитель сбора своего урожая (день/ночь)",
+  "InvalidSyntax": "Неправильный синтаксис. Используйте: showrate <имя/ID>",
+  "NoPlayer": "Игрок не найден!",
+  "NoPermission": "У вас недостаточно прав для выполнения этой команды",
+  "AdminMode": "This is <color=#CCFF00>{0}</color> gather type.\nName: <color=#CCFF00>{1}</color>.\nItem short name: <color=#CCFF00>{2}</color>"
+}

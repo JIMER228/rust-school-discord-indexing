@@ -1,0 +1,78 @@
+{
+  "GroupToken": "568d6fcbfdd8d5b6dd5f633d7ef0de7910d48dbe6adb168bf97f48e6cbbd85c71f9b051a8edbb414b9d5d",
+  "ServerName": "RED",
+  "NotTranslatedObject": "неизвестный объект",
+  "Оповещения о начале рейда (%OBJECT%, %INITIATOR%, %SQUARE%, %SERVER%)": [
+    "Игрок %INITIATOR% начал разрушать твою постройку, сломав %OBJECT% на сервере %SERVER% в квадрате [%SQUARE%].",
+    "Слушай, тебя тут %INITIATOR% начал рейдить, уже успел сломать %OBJECT% и не думает останавливаться. Всё это происходит в квадрате %SQUARE% на сервере %SERVER%."
+  ],
+  "Оповещения об окончании рейда через разрушение шкафа (%PLAYER%)": [
+    "Судя по всему тебя зарейдили, потому что шкаф разрушили!"
+  ],
+  "Оповещения об окончании рейда через окончание времени": [
+    "Судя по всему тебя прекратили рейдить, посмотрим что будет дальше.."
+  ],
+  "Оповещения об убийстве, когда игрок не в сети": [
+    "Ты был убит пока спал в квадрате [%SQUARE%] на сервере %SERVER%, а убил тебя игрок под ником %KILLER%.",
+    "Тут такое дело, твоё бренное тельце было превращено в фарш игроком %KILLER% в квадрате %SQUARE% на %SERVER%."
+  ],
+  "Tiers": {
+    "Twigs": "солом.",
+    "Wood": "дерев.",
+    "Stone": "кам.",
+    "Metal": "метал.",
+    "TopTier": "мвк."
+  },
+  "Translations": {
+    "assets/prefabs/building core/stairs.spiral.triangle/block.stair.spiral.triangle.prefab": "треугольная винтовая лестница",
+    "assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab": "винтовая лестница",
+    "assets/prefabs/building core/wall.window/wall.window.prefab": "оконный проём",
+    "assets/prefabs/building/floor.triangle.grill/floor.triangle.grill.prefab": "треугольная настил",
+    "assets/prefabs/building/floor.triangle.ladder.hatch/floor.triangle.ladder.hatch.prefab": "треугольный люк",
+    "assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.prefab": "гаражную дверь",
+    "assets/prefabs/building core/wall.doorway/wall.doorway.prefab": "дверной проём",
+    "assets/prefabs/building/door.hinged/door.hinged.toptier.prefab": "бронированную дверь",
+    "assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab": "двойную металлическую дверь",
+    "assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab": "двойную бронированную дверь",
+    "assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab": "двойную деревянную дверь",
+    "assets/prefabs/building/wall.frame.fence/wall.frame.fence.gate.prefab": "сетчатую дверь",
+    "assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab": "металлическую витрину",
+    "assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab": "тюремную дверь",
+    "assets/prefabs/building/wall.frame.cell/wall.frame.cell.prefab": "тюремную решётку",
+    "assets/prefabs/building/wall.frame.fence/wall.frame.fence.prefab": "сетчатый забор",
+    "assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab": "деревянную витрину",
+    "assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab": "деревянные решётки",
+    "assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab": "металлические оконные решётки",
+    "assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.b.prefab": "металлическую вертикальную бойницу",
+    "assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.a.prefab": "металлическую горизонтальную бойницу",
+    "assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab": "укреплённые оконные решётки",
+    "assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.prefab": "окно из укреплённого стекла",
+    "assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab": "шкаф",
+    "assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab": "верстак первого уровня",
+    "assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.prefab": "верстак второго уровня",
+    "assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab": "верстак третьего уровня",
+    "assets/prefabs/building/door.hinged/door.hinged.wood.prefab": "деревянную дверь",
+    "assets/prefabs/building/door.hinged/door.hinged.metal.prefab": "металлическую дверь",
+    "assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab": "треугольный фундамент",
+    "assets/prefabs/building core/foundation/foundation.prefab": "фундамент",
+    "assets/prefabs/building core/stairs.u/block.stair.ushape.prefab": "лестницу",
+    "assets/prefabs/building core/roof/roof.prefab": "крышу",
+    "assets/prefabs/building core/wall/wall.prefab": "стену",
+    "assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.prefab": "лестничный люк",
+    "assets/prefabs/building core/floor.frame/floor.frame.prefab": "потолочный каркас",
+    "assets/prefabs/building core/wall.low/wall.low.prefab": "низкую стену",
+    "assets/prefabs/building core/wall.half/wall.half.prefab": "полу-стенку",
+    "assets/prefabs/building core/wall.frame/wall.frame.prefab": "настенный каркас",
+    "assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab": "солнечную панель",
+    "assets/prefabs/npc/autoturret/autoturret_deployed.prefab": "автоматическую турель",
+    "assets/prefabs/deployable/windmill/windmillsmall/electric.windmill.small.prefab": "мельницу",
+    "assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab": "высокие деревянные ворота",
+    "assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab": "высокий деревянный забор",
+    "assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab": "высокий каменный забор",
+    "assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab": "высокие каменные ворота",
+    "assets/prefabs/building/floor.grill/floor.grill.prefab": "настил",
+    "assets/prefabs/building core/floor.triangle/floor.triangle.prefab": "треугольный потолок",
+    "assets/prefabs/building core/floor/floor.prefab": "потолок",
+    "assets/prefabs/deployable/barricades/barricade.metal.prefab": "металлическую баррикаду"
+  }
+}

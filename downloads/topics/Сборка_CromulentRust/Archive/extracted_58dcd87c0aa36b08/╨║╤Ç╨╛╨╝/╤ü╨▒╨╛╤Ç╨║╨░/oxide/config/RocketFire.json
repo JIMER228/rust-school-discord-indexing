@@ -1,0 +1,17 @@
+{
+  "Max amount of rockets to fire at once": 100,
+  "Delay in between multiple rocket shots (e.g /fr 10)": 0.2,
+  "Rockets fire at the same position if you move when you shoot multiple (e.g /fr 10)": false,
+  "The rocket velocity": 22.0,
+  "The rocket type": "rocket_basic",
+  "Permission settings": {
+    "rocketfire.perm1": {
+      "Максимум ракет": 100,
+      "Кд на команнду (сек)": 900.0
+    },
+    "rocketfire.admin": {
+    "Максимум ракет": 500,
+     "Кд на команнду (сек)": 10.0
+    }
+  }
+}

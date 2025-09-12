@@ -1,0 +1,155 @@
+{
+  "WeaponSettings": {
+    "Disarm": {
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": null,
+      "DisplayShortName": "NO",
+      "DisplayFullName": "NO",
+      "WeaponPermission": null,
+      "FlareShortName": "flare",
+      "HudConfiguration": 0,
+      "FlareFireRate": 1.0,
+      "FlareCooldownDecay": 3.0,
+      "FlaresBeforeCooldown": 6,
+      "TargetLocker/Air2Air: % Chance to Lose Lock [0-100]": 10.0,
+      "UnlimitedFlares": false,
+      "FlaresEnabled": true,
+      "Enabled": true
+    },
+    "A10": {
+      "PrimaryWeapon": {
+        "AmmoTypeShortName": "ammo.rifle.explosive",
+        "AmmoPrefabPath": "assets/prefabs/npc/autoturret/sentrybullet.prefab",
+        "MuzzleEffect": "assets/prefabs/npc/patrol helicopter/effects/gun_fire_small.prefab",
+        "ProjectileType": 1,
+        "WeaponSpeed": 100.0,
+        "FireRate": 0.1,
+        "MinBlastRadius": 0.0,
+        "MaxBlastRadius": 0.0,
+        "CoolDownDecay: Speed at which the cooldown is decreased in seconds": 0.1,
+        "Min Detonation Time for Timed Explosives": 0.0,
+        "Max Detonation Time for Timed Explosives": 0.0,
+        "Air2Air: Angle Modifier for Rockets (Set to Override Default 30)": 0.0,
+        "TargetLocker: Time Before Losing the Lock": 0.0,
+        "TargetLocker: Time Required Before Locking Target": 0.0,
+        "AimCone": 0.0,
+        "RequiresAmmo": true,
+        "ClearAATargetOnFire": true,
+        "AllowCH47HSR": false,
+        "AllowPatrolHeliHSR": false,
+        "ShotsBeforeCoolDown": 75,
+        "BarrelConfiguration": 5,
+        "DamageTypes": [
+          {
+            "type": 9,
+            "amount": 40.0
+          },
+          {
+            "type": 16,
+            "amount": 40.0
+          }
+        ]
+      },
+      "SecondaryWeapon": {
+        "AmmoTypeShortName": "ammo.rocket.hv",
+        "AmmoPrefabPath": "assets/prefabs/ammo/rocket/rocket_hv.prefab",
+        "MuzzleEffect": "assets/prefabs/npc/patrol helicopter/effects/rocket_fire.prefab",
+        "ProjectileType": 0,
+        "WeaponSpeed": 75.0,
+        "FireRate": 0.15,
+        "MinBlastRadius": 1.0,
+        "MaxBlastRadius": 3.8,
+        "CoolDownDecay: Speed at which the cooldown is decreased in seconds": 3.0,
+        "Min Detonation Time for Timed Explosives": 0.0,
+        "Max Detonation Time for Timed Explosives": 0.0,
+        "Air2Air: Angle Modifier for Rockets (Set to Override Default 30)": 0.0,
+        "TargetLocker: Time Before Losing the Lock": 0.0,
+        "TargetLocker: Time Required Before Locking Target": 0.0,
+        "AimCone": 0.0,
+        "RequiresAmmo": true,
+        "ClearAATargetOnFire": true,
+        "AllowCH47HSR": false,
+        "AllowPatrolHeliHSR": false,
+        "ShotsBeforeCoolDown": 5,
+        "BarrelConfiguration": 1,
+        "DamageTypes": [
+          {
+            "type": 11,
+            "amount": 600.0
+          },
+          {
+            "type": 16,
+            "amount": 600.0
+          }
+        ]
+      },
+      "DisplayShortName": "Yes",
+      "DisplayFullName": "Yes",
+      "WeaponPermission": "MinicopterCombat.A10",
+      "FlareShortName": "flare",
+      "HudConfiguration": 1,
+      "FlareFireRate": 1.0,
+      "FlareCooldownDecay": 3.0,
+      "FlaresBeforeCooldown": 6,
+      "TargetLocker/Air2Air: % Chance to Lose Lock [0-100]": 10.0,
+      "UnlimitedFlares": false,
+      "FlaresEnabled": true,
+      "Enabled": true
+    }
+  },
+  "ScrapcopterWeaponSettings": {
+    "Disarm": {
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": null,
+      "DisplayShortName": "No",
+      "DisplayFullName": "No",
+      "WeaponPermission": null,
+      "FlareShortName": "flare",
+      "HudConfiguration": 0,
+      "FlareFireRate": 1.0,
+      "FlareCooldownDecay": 3.0,
+      "FlaresBeforeCooldown": 6,
+      "TargetLocker/Air2Air: % Chance to Lose Lock [0-100]": 10.0,
+      "UnlimitedFlares": false,
+      "FlaresEnabled": true,
+      "Enabled": true
+    }
+  },
+  "ch47config": {
+    "Disarm": {
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": null,
+      "DisplayShortName": "DISARM",
+      "DisplayFullName": "DISARMED",
+      "WeaponPermission": null,
+      "FlareShortName": "flare",
+      "HudConfiguration": 0,
+      "FlareFireRate": 1.0,
+      "FlareCooldownDecay": 3.0,
+      "FlaresBeforeCooldown": 6,
+      "TargetLocker/Air2Air: % Chance to Lose Lock [0-100]": 10.0,
+      "UnlimitedFlares": false,
+      "FlaresEnabled": true,
+      "Enabled": true
+    }
+  },
+  "DebounceTimeSeconds": 15.0,
+  "DisplayOutOfAmmoMessage": true,
+  "DisplaySelectedWeaponMessage": true,
+  "UnlimitedAmmo": false,
+  "DisablePermissionCheck": false,
+  "ApplyToScrapCopter": true,
+  "FlareFiredSfx": "assets/prefabs/deployable/research table/effects/research-table-deploy.prefab",
+  "SwitchWeaponSfx": "assets/prefabs/deployable/dropbox/effects/submit_items.prefab",
+  "AlarmSfx": "assets/prefabs/locks/keypad/effects/lock.code.unlock.prefab",
+  "CounterMeasureDespawnTime": 5.0,
+  "WeaponSwitchDelay": 10.0,
+  "FirePrimaryButton": 1024,
+  "FireSecondaryButton": 2048,
+  "SwitchWeaponButton": 134217728,
+  "FireFlareButton": 256,
+  "EnableScrapcopterGibs": true,
+  "GibsDespawnTimerOverride": 0.0,
+  "DisableFire": false,
+  "HideUnauthorizedWeapons": false
+}

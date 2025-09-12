@@ -1,0 +1,27 @@
+Заголовок - Menu
+Класс - menu
+Порядковый номер - 1
+
+HTML 
+==============================
+<div class="xbox xbox_custom">
+  <div class="extra-menu">
+		<div class="extra-menu-content">
+			<a href="#" 
+               onclick="alert('Наш Discord - discord.gg/ydRAxXa Наша группа - vk.com/rusticated')" 
+               class="btn btn-primary" style="width: 100%;font-size: 25px;font-weight: 800; margin: 1px 0px; height: 53px;">НАЖМИ НА МЕНЯ</a>
+          
+			<div class="xbox__body" style="padding: 5px;">
+				<div class="extra-menu-title"><i class="fa fa-list">
+                  </i> Ссылки</div>
+				<div class="extra-menu-btn-pad" style="width: 40%">
+                  <a href="https://vk.com/rusticated" 
+                     class="btn menu-vk" 
+                     style="width: 100%;">ВКонтакте</a>
+              </div>
+              <div class="extra-menu-btn-pad" 
+                   style="width: 32%">
+                <a href="https://discord.gg/ydRAxXa" 
+                   class="btn menu-discord" 
+                   style="width: 100%;">Discord</a>
+</div></div>

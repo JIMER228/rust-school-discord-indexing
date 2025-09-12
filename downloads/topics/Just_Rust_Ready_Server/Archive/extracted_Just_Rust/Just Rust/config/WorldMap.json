@@ -1,0 +1,583 @@
+{
+  "Использовать свой метод генерации (по-умолчанию включен)": true,
+  "Ключ Beancan (Генерация карты с beancan.io)": "8ad3f6eaa2",
+  "Своя картинка карты (http://...)": "",
+  "Прозрачность карты": 0.95,
+  "Размер карты": 0.48,
+  "Отображать местоположение соклановцев": false,
+  "Отображать местоположение друзей": false,
+  "Размер иконки игрока": 0.027,
+  "Прозрачность иконки игрока": 0.8,
+  "Показывать текущие координаты игрока": true,
+  "Отображать местоположение монументов": true,
+  "Отображать местоположение столбов": false,
+  "Размер иконок монументов": 0.027,
+  "Прозрачность иконок монументов": 0.8,
+  "Размер шрифта монументов": 11,
+  "Отображать местоположение танка": true,
+  "Размер иконки танка": 0.03,
+  "Прозрачность иконки танка": 0.8,
+  "Отображать местоположение самолета": true,
+  "Размер иконок самолёта": 0.03,
+  "Прозрачность иконок самолёта": 0.8,
+  "Отображать местоположение cброшенного груза": true,
+  "Размер иконок cброшенного груза": 0.045,
+  "Прозрачность иконок cброшенного груза": 0.8,
+  "Отображать местоположение SETHOME игроков? (Поддержка NTeleportation, Teleport, HomesGUI)": true,
+  "Размер иконок SETHOME": 0.025,
+  "Отображать местоположение корабля": true,
+  "Размер иконок корабля": 0.055,
+  "Прозрачность иконок корабля": 0.99,
+  "Отображать ящики на корабле": false,
+  "Отображать местоположение грузового вертолёта": true,
+  "Размер иконок грузового вертолёта": 0.03,
+  "Прозрачность иконок грузового вертолёта": 0.8,
+  "Отображать местоположение ящиков с грузового вертолёта": true,
+  "Размер иконок ящиков с грузового вертолёта": 0.03,
+  "Прозрачность иконок ящиков с грузового вертолёта": 0.99,
+  "Отображать местоположение вертолёта": true,
+  "Размер иконок вертолёта": 0.03,
+  "Прозрачность иконок вертолёта": 0.99,
+  "Отображать местоположение ящиков с вертолёта": true,
+  "Размер иконок ящиков с вертолёта": 0.027,
+  "Прозрачность иконок ящиков с вертолёта": 0.99,
+  "Отображать местоположение карьеров(CustomQuarry)": false,
+  "Прозрачность иконки карьера": 0.99,
+  "Размер иконки карьера": 0.03,
+  "Отображать местоположение торговых автоматов": true,
+  "Отображать местоположение пустых торговых автоматов": true,
+  "Отображать местоположение торговых автоматов в городе": false,
+  "Размер иконок торговых автоматов": 0.02,
+  "Прозрачность иконок торговых автоматов": 0.99,
+  "Цвет текста (RED, GREEN, BLUE, ALPHA)": "0 0.7 0 0.7",
+  "Цвет текста кастомных иконок (Homes)": "1 1 1 1",
+  "Размер иконки забаненого игрока": 0.04,
+  "Кулдаун поиска игрока на карте": 1800,
+  "Отображать местоположение спальников игроков": true,
+  "Размер иконок спальников": 0.02,
+  "Отображать местоположение нефтекачек": false,
+  "Размер иконки нефтекачек": 0.03,
+  "Прозрачность иконки нефтекачек": 0.1,
+  "Менять владельца карьера на того, кто его включает": false,
+  "Разрешить по пермишену игрокам видеть свою последнюю смерть": true,
+  "Дополнительные места на карте": [],
+  "Названия РТ": [
+    {
+      "prefabName": "OilrigAI",
+      "iconName": "oilrig",
+      "mapName": "Платформа",
+      "enabled": true
+    },
+    {
+      "prefabName": "OilrigAI2",
+      "iconName": "oilrig",
+      "mapName": "Платформа",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "iconName": "lighthouse",
+      "mapName": "Маяк",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "iconName": "safezone",
+      "mapName": "Застава",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab",
+      "iconName": "bandittown",
+      "mapName": "Бандиты",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+      "iconName": "powerplant",
+      "mapName": "Электростанция",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/military_tunnel_1.prefab",
+      "iconName": "militarytunnel",
+      "mapName": "Туннель",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab",
+      "iconName": "trainyard",
+      "mapName": "Депо",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab",
+      "iconName": "watertreatment",
+      "mapName": "Водонапорка",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
+      "iconName": "warehouse",
+      "mapName": "Склад",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/satellite_dish.prefab",
+      "iconName": "satellitedish",
+      "mapName": "Антенны",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab",
+      "iconName": "gasstation",
+      "mapName": "Заправка",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/supermarket_1.prefab",
+      "iconName": "supermarket",
+      "mapName": "Супермаркет",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/sphere_tank.prefab",
+      "iconName": "spheretank",
+      "mapName": "Сфера",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/launch_site_1.prefab",
+      "iconName": "launchsite",
+      "mapName": "Космодром",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/medium/radtown_small_3.prefab",
+      "iconName": "radtown",
+      "mapName": "Радтаун",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab",
+      "iconName": "airfield",
+      "mapName": "Аэропорт",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_1.prefab",
+      "iconName": "harbor",
+      "mapName": "Порт",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_2.prefab",
+      "iconName": "harbor",
+      "mapName": "Большой Порт",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/junkyard_1.prefab",
+      "iconName": "junkyard",
+      "mapName": "Свалка",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab",
+      "iconName": "quarrysulfur",
+      "mapName": "Карьер",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_b.prefab",
+      "iconName": "quarrystone",
+      "mapName": "Карьер",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_c.prefab",
+      "iconName": "quarryhqm",
+      "mapName": "Карьер",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_a.prefab",
+      "iconName": "swamp",
+      "mapName": "Хижины",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab",
+      "iconName": "swamp",
+      "mapName": "Болото",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_c.prefab",
+      "iconName": "swamp",
+      "mapName": "Хижины",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_a.prefab",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_c.prefab",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_d.prefab",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_e.prefab",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_easy.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_medium.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_easy.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_sewers_hard.prefab",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "iconName": "powersub",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "iconName": "powersub",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "iconName": "powersub",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "iconName": "powersub",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "Collapsed_tunnel",
+      "iconName": "militarytunnel",
+      "mapName": "Туннель",
+      "enabled": true
+    },
+    {
+      "prefabName": "Compound",
+      "iconName": "safezone",
+      "mapName": "Застава",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (11)",
+      "iconName": "special",
+      "mapName": "Конвой",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (2)",
+      "iconName": "special",
+      "mapName": "Конвой",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (14)",
+      "iconName": "special",
+      "mapName": "Site A",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (12)",
+      "iconName": "special",
+      "mapName": "Катер",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (15)",
+      "iconName": "special",
+      "mapName": "Катер",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (13)",
+      "iconName": "special",
+      "mapName": "Site B",
+      "enabled": true
+    },
+    {
+      "prefabName": "refinery_new",
+      "iconName": "special",
+      "mapName": "Завод",
+      "enabled": true
+    },
+    {
+      "prefabName": "Label (5)",
+      "iconName": "harbor",
+      "mapName": "Доки",
+      "enabled": true
+    },
+    {
+      "prefabName": "military_tunnel_hapis",
+      "iconName": "militarytunnel",
+      "mapName": "Туннель",
+      "enabled": true
+    },
+    {
+      "prefabName": "Outpost",
+      "iconName": "special",
+      "mapName": "Застава",
+      "enabled": true
+    },
+    {
+      "prefabName": "Junk",
+      "iconName": "junkyard",
+      "mapName": "Свалка",
+      "enabled": true
+    },
+    {
+      "prefabName": "launch_site_1 (1)",
+      "iconName": "launchsite",
+      "mapName": "Космодром",
+      "enabled": true
+    },
+    {
+      "prefabName": "water_well_a",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "water_well_e",
+      "iconName": "water",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "mining_quarry_a",
+      "iconName": "quarrysulfur",
+      "mapName": "Карьер",
+      "enabled": true
+    },
+    {
+      "prefabName": "mining_quarry_c",
+      "iconName": "quarryhqm",
+      "mapName": "Карьер",
+      "enabled": true
+    },
+    {
+      "prefabName": "island satellite_dish",
+      "iconName": "satellitedish",
+      "mapName": "Антенны",
+      "enabled": true
+    },
+    {
+      "prefabName": "radtown_small_3",
+      "iconName": "radtown",
+      "mapName": "Радтаун",
+      "enabled": true
+    },
+    {
+      "prefabName": "cave_small_medium (1)",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "cave_small_hard",
+      "iconName": "cave",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "lighthouse",
+      "iconName": "lighthouse",
+      "mapName": "Маяк",
+      "enabled": true
+    },
+    {
+      "prefabName": "lighthouse (2)",
+      "iconName": "lighthouse",
+      "mapName": "Маяк",
+      "enabled": true
+    },
+    {
+      "prefabName": "warehouse",
+      "iconName": "warehouse",
+      "mapName": "Склад",
+      "enabled": true
+    },
+    {
+      "prefabName": "power_sub_small_1",
+      "iconName": "powersub",
+      "mapName": "",
+      "enabled": true
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_hard.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_hard.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/roadside/supermarket_1.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_medium.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_b.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_a.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_c.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/medium/stables_b.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    },
+    {
+      "prefabName": "assets/bundled/prefabs/autospawn/monument/medium/stables_a.prefab",
+      "iconName": "special",
+      "mapName": "",
+      "enabled": false
+    }
+  ],
+  "Иконки для использования, для РТ и AddTemporaryMarker": {
+    "lighthouse": "https://i.imgur.com/dLq7iGe.png",
+    "special": "https://i.imgur.com/SwhsVKW.png",
+    "militarytunnel": "https://i.imgur.com/clXJx1s.png",
+    "airfield": "https://i.imgur.com/arBznwe.png",
+    "trainyard": "https://i.imgur.com/xhIIni5.png",
+    "gasstation": "https://i.imgur.com/BvJQnvE.png",
+    "supermarket": "https://i.imgur.com/dFbru3Z.png",
+    "watertreatment": "https://i.imgur.com/vKE2AWe.png",
+    "warehouse": "https://i.imgur.com/5APdPEp.png",
+    "satellitedish": "https://i.imgur.com/yOqUtBL.png",
+    "spheretank": "https://i.imgur.com/AxLNGRx.png",
+    "radtown": "https://i.imgur.com/7kvMjrv.png",
+    "powerplant": "https://i.imgur.com/BVYoZ7d.png",
+    "harbor": "https://i.imgur.com/H5R5bL3.png",
+    "launchsite": "https://i.imgur.com/JJPw44u.png",
+    "junkyard": "https://i.imgur.com/UV01hxn.png",
+    "quarryhqm": "https://i.imgur.com/58dPKpM.png",
+    "quarrysulfur": "https://i.imgur.com/VRfbjMD.png",
+    "quarrystone": "https://i.imgur.com/s4wWT1b.png",
+    "safezone": "https://i.imgur.com/EIeMhSp.png",
+    "oilrig": "https://i.imgur.com/pn6UUUI.png",
+    "swamp": "https://i.imgur.com/qgc8pHv.png",
+    "bandittown": "https://i.imgur.com/yIQKGZz.png",
+    "pump": "https://i.imgur.com/KL0jL6B.png",
+    "quarry": "https://i.imgur.com/AzIM96x.png",
+    "powersub": "https://i.imgur.com/RGb9GiQ.png",
+    "cave": "https://i.imgur.com/fbZkghA.png",
+    "mapsupply": "https://i.imgur.com/JReVcjC.png",
+    "helidebris": "https://i.imgur.com/ZKwdsPi.png",
+    "banned": "https://i.imgur.com/TMSs9zz.png",
+    "vending": "https://i.imgur.com/XB8nYzF.png",
+    "helihackbox": "https://i.imgur.com/rbabOkd.png",
+    "death": "https://i.imgur.com/xaHvS48.png",
+    "water": "https://i.imgur.com/ssiU0de.png",
+    "radhouse": "https://i.imgur.com/gfMLGev.png",
+    "jaggernaut": "https://i.imgur.com/55vMX6h.png",
+    "treasureicon": "https://i.imgur.com/APFSfGE.png",
+    "mad": "http://gcp.alkad.org/images/products/data/55/icons/mad.png",
+    "sethome": "https://i.imgur.com/SnsnBCI.png",
+    "bag": "https://i.imgur.com/jsiCbNf.png",
+    "raid": "https://i.imgur.com/aa56FHs.png"
+  }
+}

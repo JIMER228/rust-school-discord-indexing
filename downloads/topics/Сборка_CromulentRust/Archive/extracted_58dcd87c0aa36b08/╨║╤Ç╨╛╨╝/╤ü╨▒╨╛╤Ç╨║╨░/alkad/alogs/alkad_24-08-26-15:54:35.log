@@ -1,0 +1,2280 @@
+Mono path[0] = '/home/container/RustDedicated_Data/Managed'
+Mono config path = '/home/container/RustDedicated_Data/MonoBleedingEdge/etc'
+Preloaded 'libEOSSDK-Linux-Shipping.so'
+Preloaded 'libRakNet.so'
+Preloaded 'libRustNative.so'
+Preloaded 'lib_burst_generated.so'
+Preloaded 'libsqlite3.so'
+Preloaded 'libsqlite3.so.0'
+Preloaded 'libsteam_api.so'
+Preloaded 'libsqlite3.so'
+Preloaded 'libsqlite3.so.0'
+Preloaded 'libsteam_api.so'
+Preloaded 'steamclient.so'
+Unable to preload the following plugins:
+	libRenderer.so
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+PlayerPrefs - Creating folder: /home/container/.config/unity3d/Facepunch Studios LTD
+PlayerPrefs - Creating folder: /home/container/.config/unity3d/Facepunch Studios LTD/Rust
+Unable to load player prefs
+Initialize engine version: 2022.3.41f1 (0f988161febf)
+[Subsystems] Discovering subsystems at path /home/container/RustDedicated_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.048 seconds
+- Finished resetting the current domain, in  0.001 seconds
+ERROR: Shader Hidden/PostProcessing/Copy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/CopyStd shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/ViewModel shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/DLSSUtils shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader MeshPaintable3D/UVRender shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Diffuse shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Custom/RaycastDepthShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Custom/RaycastDepthShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/RaycastDepthShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/PostProcessing/NightLightShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Colourize shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 3.313956 ms
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x7fd136043010.so
+3D Noise requires higher shader capabilities (Shader Model 3.5 / OpenGL ES 3.0), which are not available on the current platform: graphicsShaderLevel (current/required) = 30 / 35
+Bootstrap Startup
+Loading maps/maps.bundle
+Loading shared/content.bundle
+Loading shared/content.private.bundle
+Loading shared/items.preload.bundle
+Loading shared/monuments.bundle
+Loading shared/skinnables.preload.bundle
+System
+	Name: 6437c39c-a6d7-4302-9778-b4ea2d450ceb
+	OS:   Linux 5.4 Debian GNU/Linux 10 64bit
+
+CPU
+	Model:  13th Gen Intel(R) Core(TM) i9-13900K
+	Cores:  16
+	Memory: 128628 MB
+
+GPU
+	Model:  Null Device
+	API:    NULL 1.0 [1.0]
+	Memory: 128 MB
+	SM:     30
+
+Process
+	Memory:   0 MB
+
+Mono
+	Collects: 41
+	Memory:   7 MB
+
+
+Manifest Metadata Loaded
+	28491 pooled strings
+	12554 prefab properties
+	419 effect categories
+	1726 entity names
+Command Line: "./RustDedicated" "-batchmode" "+server.ip" "46.174.50.103" "+server.port" "20530" "+server.queryport" "20531" "+server.identity" "rust" "+rcon.ip" "46.174.50.103" "+rcon.port" "20532" "+rcon.web" "true" "+server.hostname" "A Rust Server" "+server.level" "Procedural Map" "+server.levelurl" "" "+server.description" "Powered by Alkad" "+server.url" "http://alkad.org" "+server.headerimage" "https://img.alkad.org/images/2016/09/07/52c.png" "+server.worldsize" "1500" "+server.seed" "712372" "+server.maxplayers" "200" "+server.tags" "eu" "+server.gamemode" "" "+rcon.password" "******" "+app.port" "20534" "+server.saveinterval" "360" "+app.publicip" "46.174.50.103" "+ping.ping_estimation" "0" "+app.listenip" "46.174.50.103" "-logfile" "alkad.log" 
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x557959e64b70.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x55795985a8f0.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x557958c6ed80.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x557959973150.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x557959f85f20.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x55795b48c4c0.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x55795a5da020.so
+Fallback handler could not load library /home/container/RustDedicated_Data/MonoBleedingEdge/x86_64/data-0x55795a0dc600.so
+[InAssembly] Initialized with access: 1
+Setup unity update hooks
+Server Config Loaded
+Config Saved
+Loading Items Took: 1.812055 seconds
+Building Items Took: 1.8258886 seconds / Items: 928 / Blueprints: 509
+Skinnable Warmup
+Manifest Assets Loaded
+	120 skinnable objects
+Initializing Nexus
+Nexus endpoint and/or secret key is not set, not starting nexus connection
+Loading Scene
+HDR Render Texture not supported, disabling HDR on reflection probe.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 61)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 3.627576 ms
+Missing shader in Main Camera (TOD_Scattering)
+Missing shader in Main Camera (TOD_Scattering)
+Missing shader in Main Camera (TOD_Scattering)
+Unloading 99798 unused Assets to reduce memory usage. Loaded Objects now: 46340.
+Total: 103.844276 ms (FindLiveObjects: 3.626309 ms CreateObjectMapping: 13.185551 ms MarkObjects: 69.473687 ms  DeleteObjects: 17.557996 ms)
+
+Loading Oxide Core v2.0.4106...
+Loading extensions...
+Loaded extension CSharp v6.0.7 by Oxide Team and Contributors
+Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+Unity version: 2022.3.41f1
+Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+Loaded extension Rust v2.0.6262 by Oxide Team and Contributors
+Loaded extension Chaos v1.0.21 by k1lly0u
+[InKernel] Debug -> False
+[InExtension] Install -> InCore.Interception.dll
+[InExtension] Install -> InCore.Kernel.dll
+Loaded extension InCoreLinux v1.0.8991 by Мизантроп
+File permissions set for Oxide.Compiler
+Using Covalence provider for game 'Rust'
+Loading plugins...
+Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+Loaded plugin Rust v2.0.6262 by Oxide Team and Contributors
+Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+Loaded plugin InCoreLinux v1.0.8991 by Мизантроп
+Asset Warmup (1/11677)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Asset Warmup (399/11677)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Asset Warmup (1495/11677)
+Couldn't create a Convex Mesh from source mesh "patrol_helicopter_part02" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Asset Warmup (2797/11677)
+Asset Warmup (4176/11677)
+Asset Warmup (4816/11677)
+Asset Warmup (4939/11677)
+Couldn't create a Convex Mesh from source mesh "Old_Boat_GM" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Asset Warmup (5499/11677)
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part002" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part046" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Asset Warmup (6451/11677)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Particles/Standard Unlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Asset Warmup (7479/11677)
+HDR Render Texture not supported, disabling HDR on reflection probe.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/Vertexlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/TerrainEngine/Details/Vertexlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/Vertexlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Asset Warmup (8229/11677)
+Couldn't create a Convex Mesh from source mesh "rocking_chair_variant2_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Asset Warmup (9016/11677)
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object 'effect - FXAA') is missing!
+The referenced script on this Behaviour (Game Object 'effect - FXAA') is missing!
+Asset Warmup (9535/11677)
+Asset Warmup (10739/11677)
+The referenced script (ModelViewer.modelviewer) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (ModelViewer.modelviewer) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ModelViewerCamera') is missing!
+Asset Warmup (11677/11677)
+[28.0s] asset_warmup
+WebSocket RCon Started on 20532
+Generating procedural map of size 1500 with seed 712372
+[6.1s] Harbors
+[0.9s] Fishing Villages
+[0.6s] Desert Military
+[0.5s] Arctic Bases
+[17.3s] Main Monuments
+[0.7s] Tunnel Entrances
+[12.2s] Tunnels
+[0.4s] Tiny Monuments
+[0.8s] Swamps
+[0.4s] Ice Lakes
+[0.7s] Road Monuments
+[2.0s] Caves
+[5.1s] Underwater Labs
+[0.8s] Offshore Monuments
+[0.6s] Lighthouses
+[0.5s] Train Track Collation
+[52.8s] Processing World
+Generated ocean patrol path with node count: 157
+[1.4s] Ocean Patrol Paths
+[Chaos] - Checking for updates...
+Unloading 3 Unused Serialized files (Serialized files now loaded: 61)
+[2.5s] Cleaning Up
+[Chaos] - A newer version is currently availble. Downloading now...
+Unloading 227307 unused Assets to reduce memory usage. Loaded Objects now: 2745676.
+Total: 1395.837574 ms (FindLiveObjects: 180.327738 ms CreateObjectMapping: 302.109941 ms MarkObjects: 745.746512 ms  DeleteObjects: 167.652540 ms)
+
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.01 seconds
+Starting Navmesh Build with 14081 sources
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_LOD0 is skipped because it does not allow read access
+RuntimeNavMeshBuilder: Source mesh crane_tower_arm_hook_LOD0 is skipped because it does not allow read access
+13%
+95%
+Navmesh Build took 2.27 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 388 sources
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+17%
+Monument Navmesh Build took 0.26 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.02 seconds
+Starting Monument Navmesh Build with 879 sources
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+3%
+Monument Navmesh Build took 0.26 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.02 seconds
+Starting Monument Navmesh Build with 1840 sources
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+5%
+Monument Navmesh Build took 0.26 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Dungeon Navmesh Build with 5190 sources
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+2%
+Monument Navmesh Build took 0.26 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Dungeon Navmesh Build with 1288 sources
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+AIInformationZone performing complete refresh, please wait...
+11%
+Monument Navmesh Build took 0.26 seconds
+Couldn't load server/rust/proceduralmap.1500.712372.253.sav - file doesn't exist
+Spawning 732 entities from map
+RECYCLER IN SAFE ZONE: False
+RECYCLER IN SAFE ZONE: False
+RECYCLER IN SAFE ZONE: False
+	done.
+Postprocessing 732 entities from map
+	done.
+Missing EnvSync - creating
+Missing CommunityEntity - creating
+Missing ResourceDepositManager - creating
+Missing RelationshipManager - creating
+Missing TreeManager - creating
+Missing GlobalNetworkHandler - creating
+Starting to load entities into GlobalNetworkHandler...
+Took 0ms to load entities into GlobalNetworkHandler
+Initializing 5913 entity links
+	done.
+Initializing 179 stability supports
+	done.
+Initializing 3973 entity save caches
+	done.
+Gamemode Convar :
+No Gamemode.
+[S_API] SteamAPI_Init(): Loaded local 'steamclient.so' OK.
+CAppInfoCacheReadFromDiskThread took 2 milliseconds to initialize
+Setting breakpad minidump AppID = 252490
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197960265728 [API loaded no]
+[S_API FAIL] Tried to access Steam interface SteamNetworkingUtils004 before SteamAPI_Init succeeded.
+SteamServer Initialized
+IP address from command-line: 46.174.50.103
+Server startup complete
+SteamServer Connected
+[Rust.MapCache] Map uploaded to backend: https://files.facepunch.com/rust/maps/b8824f0e058d6bba3ddaade0e1bbc799b7db9cf1484dde1c0f32e9797837f67d/proceduralmap.1500.712372.253_b8824f0e058d6bba3ddaade0e1bbc799.map
+Checking for new Steam Item Definitions..
+Saved 4,111 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,137 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[12094] (9.53, -502.16, -102.85) (destroying)
+178.205.238.232:61445/76561199697697087/MAGAMED Rejecting connection - Steam Auth Failed
+178.205.238.232:61445/76561199697697087/MAGAMED kicked: Steam Auth Failed
+Saved 4,141 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,149 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,154 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[15199] (7.10, -500.74, 49.48) (destroying)
+Saved 4,148 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,160 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,178 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,167 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,145 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,126 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,133 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,121 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,133 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,137 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,137 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,116 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,173 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,169 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,157 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,146 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,144 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,128 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,133 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,130 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,129 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,132 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,132 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,128 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[43773] (17.38, -501.23, -60.36) (destroying)
+Saved 4,146 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,156 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[44912] changed its network group to null
+rhib_storage[44914] changed its network group to null
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,221 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,233 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,243 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,232 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Saved 4,251 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,260 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,260 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,264 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,265 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Invalid Position: chicken.corpse[54809] (37.05, -500.67, 51.95) (destroying)
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Saved 4,258 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1465.19, 22.91, -2250.05) (destroying)
+2331396[2331396] died (Generic)
+Invalid Position: scientist_corpse[56841] (-1460.93, 10.21, -2250.31) (destroying)
+Invalid Position: item_drop_backpack[56846] (-1460.93, 10.17, -2250.31) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1453.35, 6.18, -2250.30) (destroying)
+Invalid Position: harbor_dynamic_container[50749] (-1471.10, 18.15, -2250.57) (destroying)
+2994935[2994935] died (Generic)
+Invalid Position: scientist_corpse[56852] (-1453.45, 7.10, -2250.32) (destroying)
+Invalid Position: item_drop_backpack[56858] (-1453.45, 7.07, -2250.32) (destroying)
+Invalid Position: harbor_dynamic_container[50746] (-1477.90, 15.15, -2250.02) (destroying)
+Invalid Position: harbor_dynamic_container[50752] (-1474.70, 18.15, -2250.61) (destroying)
+4348927[4348927] died (Generic)
+Invalid Position: scientist_corpse[56864] (-1454.46, 4.11, -2250.11) (destroying)
+Invalid Position: item_drop_backpack[56867] (-1454.46, 4.08, -2250.11) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1479.45, 3.16, -2252.52) (destroying)
+355176[355176] died (Generic)
+Invalid Position: scientist_corpse[56871] (-1464.63, 10.15, -2250.10) (destroying)
+Invalid Position: item_drop_backpack[56876] (-1464.63, 10.12, -2250.10) (destroying)
+2734981[2734981] died (Generic)
+Invalid Position: scientist_corpse[56882] (-1458.63, 7.13, -2250.25) (destroying)
+Invalid Position: item_drop_backpack[56886] (-1458.63, 7.09, -2250.25) (destroying)
+Invalid Position: harbor_dynamic_container[50755] (-1474.58, 18.15, -2250.40) (destroying)
+Invalid Position: harbor_dynamic_container[50758] (-1478.19, 15.15, -2250.45) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1452.96, 27.26, -2250.35) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1462.50, 9.27, -2250.32) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1464.69, 24.34, -2250.14) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1467.47, 18.16, -2250.51) (destroying)
+9019283[9019283] died (Generic)
+Invalid Position: scientist_corpse[56890] (-1478.10, 28.13, -2250.06) (destroying)
+Invalid Position: item_drop_backpack[56895] (-1478.10, 28.09, -2250.06) (destroying)
+Invalid Position: rhib[44911] (-1466.09, 9.23, -2250.11) (destroying)
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,155 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,135 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,142 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,170 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 4,171 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+77.35.3.191:52253/76561199483156789/terrrix52peek Rejecting connection - Steam Auth Failed
+77.35.3.191:52253/76561199483156789/terrrix52peek kicked: Steam Auth Failed
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,167 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+SteamServer Disconnected (ServiceUnavailable)
+SteamServer Connection Failure (NoConnection)
+SteamServer Connection Failure (NoConnection)
+SteamServer Connected
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,181 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,167 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,155 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,170 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[68504] (74.67, -500.35, 30.59) (destroying)
+1706588[1706588] died (Generic)
+6610744[6610744] died (Generic)
+Invalid Position: scientist_corpse[68692] (2250.01, 100.06, -414.89) (destroying)
+Invalid Position: item_drop_backpack[68708] (2250.01, 100.03, -414.89) (destroying)
+743176[743176] died (Generic)
+Invalid Position: scientist_corpse[68722] (2251.44, 102.82, -403.17) (destroying)
+Invalid Position: item_drop_backpack[68726] (2251.44, 102.79, -403.17) (destroying)
+664865[664865] died (Generic)
+Invalid Position: scientist_corpse[68730] (2251.31, 102.64, -397.01) (destroying)
+Invalid Position: item_drop_backpack[68735] (2251.31, 102.61, -397.01) (destroying)
+Saved 4,143 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,176 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,190 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,188 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,172 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,182 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,143 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,145 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,138 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,144 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,181 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,175 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,183 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[83287] changed its network group to null
+rhib_storage[83289] changed its network group to null
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,263 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,255 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[86051] (28.74, -501.41, 36.10) (destroying)
+Saved 4,273 ents, cache(0.01), write(0.02), disk(0.00).
+Saving complete
+Saved 4,291 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,271 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,256 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,249 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,246 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,254 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,255 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,283 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+1090414[1090414] died (Generic)
+Invalid Position: scientist_corpse[95309] (-1468.08, 23.82, -2250.83) (destroying)
+Invalid Position: item_drop_backpack[95314] (-1468.07, 23.79, -2250.81) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1471.65, 9.27, -2250.46) (destroying)
+6833896[6833896] died (Generic)
+Invalid Position: scientist_corpse[95326] (-1474.71, 7.10, -2250.65) (destroying)
+Invalid Position: item_drop_backpack[95331] (-1474.71, 7.07, -2250.65) (destroying)
+Invalid Position: harbor_dynamic_container[88429] (-1474.06, 12.40, -2250.10) (destroying)
+Invalid Position: harbor_dynamic_container[88435] (-1476.90, 12.40, -2250.34) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1464.64, 9.27, -2250.43) (destroying)
+9188803[9188803] died (Generic)
+Invalid Position: scientist_corpse[95404] (-1460.00, 10.21, -2250.43) (destroying)
+Invalid Position: harbor_dynamic_container[88432] (-1477.04, 12.40, -2250.55) (destroying)
+Invalid Position: item_drop_backpack[95408] (-1460.00, 10.17, -2250.43) (destroying)
+2631904[2631904] died (Generic)
+Invalid Position: scientist_corpse[95412] (-1457.03, 4.07, -2250.21) (destroying)
+Invalid Position: item_drop_backpack[95415] (-1457.03, 4.03, -2250.21) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1479.32, 6.18, -2250.08) (destroying)
+Invalid Position: harbor_dynamic_container[88438] (-1476.62, 12.40, -2250.83) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.84, 3.14, -2250.51) (destroying)
+5138205[5138205] died (Generic)
+Invalid Position: scientist_corpse[95423] (-1458.77, 10.16, -2250.27) (destroying)
+Invalid Position: item_drop_backpack[95427] (-1458.77, 10.13, -2250.27) (destroying)
+Invalid Position: harbor_dynamic_container[88441] (-1480.72, 12.40, -2250.24) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.54, 6.18, -2250.57) (destroying)
+5612788[5612788] died (Generic)
+Invalid Position: scientist_corpse[95434] (-1455.29, 28.23, -2250.26) (destroying)
+Invalid Position: item_drop_backpack[95439] (-1455.29, 28.19, -2250.26) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1472.06, 9.27, -2250.24) (destroying)
+9727850[9727850] died (Generic)
+Invalid Position: scientist_corpse[95443] (-1469.53, 19.13, -2250.08) (destroying)
+Invalid Position: item_drop_backpack[95447] (-1469.53, 19.10, -2250.08) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1471.24, 24.34, -2250.27) (destroying)
+6816172[6816172] died (Generic)
+Invalid Position: scientist_corpse[95451] (-1480.67, 28.14, -2250.34) (destroying)
+Invalid Position: item_drop_backpack[95454] (-1480.67, 28.10, -2250.34) (destroying)
+Invalid Position: rhib[83286] (-1468.41, 9.23, -2250.05) (destroying)
+Saved 4,201 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,167 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,177 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,183 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,185 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,205 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,189 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,164 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,163 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,151 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,130 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,155 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[109435] (4.69, -501.26, 48.22) (destroying)
+Saved 4,161 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[110596] changed its network group to null
+rhib_storage[110598] changed its network group to null
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,236 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,251 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,265 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,270 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Saved 4,282 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,274 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,249 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,233 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,236 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,228 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1470.34, 22.91, -2250.06) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1457.98, 6.18, -2250.14) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1471.10, 9.27, -2250.38) (destroying)
+Invalid Position: harbor_dynamic_container[115635] (-1476.88, 12.40, -2250.16) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1458.70, 6.18, -2250.65) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1458.60, 3.14, -2250.81) (destroying)
+Invalid Position: harbor_dynamic_container[115641] (-1479.72, 12.40, -2250.39) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1472.92, 9.27, -2250.02) (destroying)
+Invalid Position: harbor_dynamic_container[115638] (-1479.58, 12.40, -2250.19) (destroying)
+68148[68148] died (Generic)
+Invalid Position: scientist_corpse[120629] (-1478.71, 10.13, -2250.19) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1482.57, 3.14, -2250.11) (destroying)
+Invalid Position: item_drop_backpack[120635] (-1478.71, 10.10, -2250.19) (destroying)
+Invalid Position: harbor_dynamic_container[115647] (-1478.89, 12.40, -2250.04) (destroying)
+4603555[4603555] died (Generic)
+Invalid Position: scientist_corpse[120641] (-1475.86, 10.15, -2250.28) (destroying)
+Invalid Position: harbor_dynamic_container[115650] (-1483.54, 12.40, -2250.29) (destroying)
+Invalid Position: harbor_dynamic_container[115644] (-1483.54, 15.40, -2250.29) (destroying)
+Invalid Position: item_drop_backpack[120646] (-1475.86, 10.12, -2250.28) (destroying)
+7327511[7327511] died (Generic)
+Invalid Position: scientist_corpse[120652] (-1483.05, 7.12, -2250.19) (destroying)
+Invalid Position: item_drop_backpack[120657] (-1483.05, 7.08, -2250.19) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1458.38, 27.26, -2250.80) (destroying)
+4557306[4557306] died (Generic)
+Invalid Position: scientist_corpse[120661] (-1461.86, 19.12, -2250.34) (destroying)
+Invalid Position: item_drop_backpack[120667] (-1461.90, 19.10, -2250.38) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1474.33, 24.34, -2250.74) (destroying)
+1740774[1740774] died (Generic)
+Invalid Position: scientist_corpse[120671] (-1482.83, 10.21, -2250.12) (destroying)
+Invalid Position: item_drop_backpack[120677] (-1482.83, 10.17, -2250.12) (destroying)
+1993331[1993331] died (Generic)
+Invalid Position: scientist_corpse[120681] (-1483.57, 28.14, -2250.38) (destroying)
+Invalid Position: item_drop_backpack[120685] (-1483.56, 28.11, -2250.38) (destroying)
+Invalid Position: rhib[110595] (-1471.23, 9.23, -2250.11) (destroying)
+Saved 4,150 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Invalid Position: stag.corpse[121509] (30.63, -500.55, 30.75) (destroying)
+Saved 4,128 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,126 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,128 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,145 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Ростикс with steamid 76561198088332374 joined from ip 94.29.1.39:1167
+	NetworkId 76561198088332374 is 126045 (Ростикс)
+Ростикс[76561198088332374] has spawned
+[CHAT] Ростикс[76561198088332374] : .лше
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+94.29.1.39:1167/76561198088332374/Ростикс disconnecting: disconnect
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,167 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Ростикс[76561198088332374] was killed by wolf (Wolf) at (156.19, 8.58, 277.17)
+Saved 4,167 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,176 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,175 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,157 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,151 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,139 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,149 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[135627] (35.25, -502.30, 65.63) (destroying)
+Saved 4,143 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,166 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[138899] changed its network group to null
+rhib_storage[138901] changed its network group to null
+aKy with steamid 76561199176161232 joined from ip 212.15.61.30:53643
+	NetworkId 76561199176161232 is 139321 (aKy)
+aKy[76561199176161232] has spawned
+212.15.61.30:53643/76561199176161232/aKy disconnecting: disconnect
+Saved 4,241 ents, cache(0.02), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,221 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Saved 4,240 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Checking for new Steam Item Definitions..
+aKy[76561199176161232] was killed by wolf (Wolf) at (20.69, 0.07, 359.94)
+Saved 4,220 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,206 ents, cache(0.03), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Saved 4,213 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,231 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,224 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,232 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,230 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,210 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+366885[366885] died (Generic)
+Invalid Position: scientist_corpse[149570] (-1467.85, 23.77, -2250.44) (destroying)
+Invalid Position: item_drop_backpack[149576] (-1467.84, 23.73, -2250.43) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1455.44, 6.18, -2250.48) (destroying)
+6689274[6689274] died (Generic)
+Invalid Position: scientist_corpse[149582] (-1470.27, 10.16, -2250.16) (destroying)
+Invalid Position: item_drop_backpack[149587] (-1470.27, 10.12, -2250.16) (destroying)
+Invalid Position: harbor_dynamic_container[144415] (-1473.16, 18.15, -2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[144418] (-1476.77, 18.15, -2250.13) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.72, 6.18, -2250.57) (destroying)
+743404[743404] died (Generic)
+Invalid Position: scientist_corpse[149593] (-1455.66, 4.07, -2250.09) (destroying)
+Invalid Position: item_drop_backpack[149597] (-1455.66, 4.03, -2250.09) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1470.30, 9.27, -2250.38) (destroying)
+Saved 4,184 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.86, 3.14, -2250.36) (destroying)
+Invalid Position: harbor_dynamic_container[144424] (-1476.90, 18.15, -2250.34) (destroying)
+Invalid Position: harbor_dynamic_container[144421] (-1480.51, 18.15, -2250.38) (destroying)
+Invalid Position: harbor_dynamic_container[144427] (-1480.78, 15.15, -2250.80) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1470.23, 6.18, -2250.08) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1457.65, 9.27, -2250.15) (destroying)
+196485[196485] died (Generic)
+Invalid Position: scientist_corpse[149603] (-1455.32, 28.13, -2250.26) (destroying)
+Invalid Position: item_drop_backpack[149609] (-1455.32, 28.09, -2250.26) (destroying)
+2065939[2065939] died (Generic)
+Invalid Position: scientist_corpse[149613] (-1459.04, 19.11, -2250.33) (destroying)
+Invalid Position: item_drop_backpack[149617] (-1459.05, 19.09, -2250.34) (destroying)
+553702[553702] died (Generic)
+Invalid Position: scientist_corpse[149621] (-1466.97, 25.23, -2250.05) (destroying)
+Invalid Position: item_drop_backpack[149626] (-1466.97, 25.19, -2250.05) (destroying)
+4184531[4184531] died (Generic)
+Invalid Position: scientist_corpse[149630] (-1480.69, 28.20, -2250.32) (destroying)
+Invalid Position: item_drop_backpack[149634] (-1480.69, 28.17, -2250.32) (destroying)
+Invalid Position: rhib[138898] (-1468.41, 9.23, -2250.06) (destroying)
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+77.75.135.153:58161/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:58161/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:64753/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:64753/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57059/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57059/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57062/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57062/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Saved 4,125 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Checking for new Steam Item Definitions..
+Saved 4,123 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+84.51.198.127:54521/76561199650639695/ПУПУСЯ Rejecting connection - Steam Auth Failed
+84.51.198.127:54521/76561199650639695/ПУПУСЯ kicked: Steam Auth Failed
+Saved 4,128 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+77.75.135.153:62660/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:62660/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:63138/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:63138/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+84.51.198.127:51421/76561199650639695/ПУПУСЯ Rejecting connection - Steam Auth Failed
+84.51.198.127:51421/76561199650639695/ПУПУСЯ kicked: Steam Auth Failed
+Saved 4,142 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+31.15.23.69:63862/76561199415236713/Semyon_456 Rejecting connection - Steam Auth Failed
+31.15.23.69:63862/76561199415236713/Semyon_456 kicked: Steam Auth Failed
+Saved 4,151 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: boar.corpse[154752] (-358.02, -501.02, 390.06) (destroying)
+Saved 4,154 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,163 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,172 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,173 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,131 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,129 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,130 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,125 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,119 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[168149] changed its network group to null
+rhib_storage[168151] changed its network group to null
+Saved 4,219 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,236 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+kyroo4ka with steamid 76561198991050788 joined from ip 109.252.14.177:1609
+	NetworkId 76561198991050788 is 170759 (kyroo4ka)
+kyroo4ka[76561198991050788] has spawned
+Saved 4,236 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+109.252.14.177:1609/76561198991050788/kyroo4ka disconnecting: disconnect
+Saved 4,249 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,251 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,238 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,239 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,247 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,241 ents, cache(0.02), write(0.01), disk(0.00).
+Saving complete
+Saved 4,247 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,247 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+6015224[6015224] died (Generic)
+Invalid Position: scientist_corpse[178675] (826.93, 23.83, 2250.05) (destroying)
+7717442[7717442] died (Generic)
+Invalid Position: scientist_corpse[178682] (824.21, 10.17, 2250.34) (destroying)
+Invalid Position: item_drop_backpack[178678] (826.92, 23.80, 2250.02) (destroying)
+Invalid Position: item_drop_backpack[178686] (824.21, 10.14, 2250.34) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (815.89, 6.18, 2250.12) (destroying)
+6305872[6305872] died (Generic)
+Invalid Position: scientist_corpse[178693] (816.08, 4.09, 2250.60) (destroying)
+Invalid Position: item_drop_backpack[178696] (816.08, 4.06, 2250.60) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (826.61, 9.27, 2250.29) (destroying)
+1618215[1618215] died (Generic)
+Invalid Position: scientist_corpse[178700] (837.87, 4.06, 2250.02) (destroying)
+Invalid Position: item_drop_backpack[178707] (837.87, 4.03, 2250.02) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (819.25, 6.18, 2250.71) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (820.35, 9.27, 2250.75) (destroying)
+Invalid Position: harbor_dynamic_container[172428] (838.29, 12.40, 2250.01) (destroying)
+Invalid Position: harbor_dynamic_container[172431] (834.58, 12.40, 2250.04) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (834.76, 9.27, 2251.25) (destroying)
+Invalid Position: harbor_dynamic_container[172419] (815.76, 18.40, 2250.27) (destroying)
+Invalid Position: harbor_dynamic_container[172425] (815.76, 12.40, 2250.27) (destroying)
+Invalid Position: harbor_dynamic_container[172422] (815.76, 15.40, 2250.27) (destroying)
+Invalid Position: harbor_dynamic_container[172434] (838.70, 12.40, 2250.39) (destroying)
+1687327[1687327] died (Generic)
+Invalid Position: scientist_corpse[178713] (821.86, 7.13, 2250.22) (destroying)
+Invalid Position: item_drop_backpack[178718] (821.86, 7.09, 2250.22) (destroying)
+5044842[5044842] died (Generic)
+Invalid Position: scientist_corpse[178724] (815.95, 28.16, 2250.39) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (830.95, 9.27, 2250.32) (destroying)
+Invalid Position: item_drop_backpack[178728] (815.95, 28.13, 2250.39) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (828.70, 18.16, 2250.01) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (830.15, 24.34, 2250.16) (destroying)
+7778392[7778392] died (Generic)
+Invalid Position: scientist_corpse[178732] (838.48, 28.21, 2250.10) (destroying)
+Invalid Position: item_drop_backpack[178740] (838.48, 28.17, 2250.10) (destroying)
+Invalid Position: rhib[168148] (827.79, 9.23, 2250.25) (destroying)
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,152 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,169 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,181 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,198 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,187 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,181 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[191028] (37.80, -501.47, 39.84) (destroying)
+Invalid Position: chicken.corpse[191031] (27.40, -500.35, 33.81) (destroying)
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,147 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,141 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,137 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,139 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,144 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,150 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,168 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,190 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[206673] changed its network group to null
+rhib_storage[206675] changed its network group to null
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Saved 4,243 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,272 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Saved 4,287 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,287 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,273 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Saved 4,259 ents, cache(0.02), write(0.01), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,249 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,246 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,259 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,280 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,279 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1464.45, 9.27, -2250.77) (destroying)
+5296697[5296697] died (Generic)
+Invalid Position: scientist_corpse[218344] (-1467.80, 23.83, -2250.44) (destroying)
+Invalid Position: item_drop_backpack[218347] (-1467.78, 23.80, -2250.41) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1455.17, 6.18, -2250.06) (destroying)
+3898433[3898433] died (Generic)
+Invalid Position: scientist_corpse[218351] (-1467.42, 10.16, -2250.55) (destroying)
+Invalid Position: harbor_dynamic_container[211640] (-1474.06, 12.40, -2250.10) (destroying)
+Invalid Position: item_drop_backpack[218354] (-1467.42, 10.16, -2250.55) (destroying)
+Invalid Position: harbor_dynamic_container[211646] (-1477.18, 12.40, -2250.76) (destroying)
+Invalid Position: harbor_dynamic_container[211643] (-1477.04, 12.40, -2250.55) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1476.22, 6.18, -2250.70) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.71, 3.14, -2250.45) (destroying)
+8241486[8241486] died (Generic)
+Invalid Position: scientist_corpse[218360] (-1456.17, 4.05, -2250.26) (destroying)
+Invalid Position: item_drop_backpack[218367] (-1456.17, 4.01, -2250.26) (destroying)
+7292544[7292544] died (Generic)
+Invalid Position: scientist_corpse[218371] (-1468.85, 10.25, -2250.71) (destroying)
+Invalid Position: item_drop_backpack[218375] (-1468.85, 10.21, -2250.71) (destroying)
+Invalid Position: harbor_dynamic_container[211649] (-1476.62, 12.40, -2250.83) (destroying)
+2565101[2565101] died (Generic)
+Invalid Position: scientist_corpse[218381] (-1462.19, 10.16, -2250.31) (destroying)
+Invalid Position: item_drop_backpack[218384] (-1462.19, 10.16, -2250.31) (destroying)
+Invalid Position: harbor_dynamic_container[211652] (-1480.99, 12.40, -2250.66) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1470.51, 6.18, -2250.50) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1455.28, 27.26, -2250.31) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1469.52, 18.16, -2250.03) (destroying)
+6001875[6001875] died (Generic)
+Invalid Position: scientist_corpse[218388] (-1467.29, 25.30, -2250.52) (destroying)
+Invalid Position: item_drop_backpack[218392] (-1467.29, 25.27, -2250.52) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1480.00, 9.27, -2250.45) (destroying)
+6593869[6593869] died (Generic)
+Invalid Position: scientist_corpse[218399] (-1480.67, 28.14, -2250.35) (destroying)
+Invalid Position: item_drop_backpack[218405] (-1480.67, 28.10, -2250.35) (destroying)
+Invalid Position: rhib[206672] (-1468.41, 9.23, -2250.05) (destroying)
+Saved 4,200 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,207 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,214 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,206 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,186 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,166 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,163 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+77.75.135.153:53360/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:53360/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+Saved 4,152 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,170 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,168 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+77.75.135.153:63585/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:63585/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[230387] (16.52, -501.08, 32.06) (destroying)
+Invalid Position: chicken.corpse[230801] (33.83, -500.02, 41.01) (destroying)
+Saved 4,134 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,161 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[235246] changed its network group to null
+rhib_storage[235248] changed its network group to null
+Invalid Position: chicken.corpse[235574] (-93.16, -500.72, -100.91) (destroying)
+Saved 4,238 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,250 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,272 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Saved 4,273 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,280 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,290 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,288 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,293 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,288 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,266 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,262 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+9250315[9250315] died (Generic)
+Invalid Position: scientist_corpse[246875] (-1467.77, 23.81, -2250.44) (destroying)
+Invalid Position: item_drop_backpack[246880] (-1467.76, 23.78, -2250.41) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1471.37, 9.27, -2250.04) (destroying)
+7364057[7364057] died (Generic)
+Invalid Position: scientist_corpse[246884] (-1456.17, 7.12, -2250.70) (destroying)
+Invalid Position: item_drop_backpack[246887] (-1456.17, 7.09, -2250.70) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1456.47, 3.14, -2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[239910] (-1474.33, 12.40, -2250.52) (destroying)
+Invalid Position: harbor_dynamic_container[239916] (-1477.17, 12.40, -2250.76) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1457.25, 6.18, -2250.16) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1470.22, 9.27, -2250.25) (destroying)
+Invalid Position: harbor_dynamic_container[239913] (-1476.77, 12.40, -2250.13) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1469.81, 9.27, -2252.16) (destroying)
+Invalid Position: harbor_dynamic_container[239919] (-1476.35, 12.40, -2250.41) (destroying)
+8485474[8485474] died (Generic)
+Invalid Position: scientist_corpse[246895] (-1458.96, 10.22, -2250.53) (destroying)
+Invalid Position: item_drop_backpack[246899] (-1458.96, 10.18, -2250.53) (destroying)
+3260047[3260047] died (Generic)
+Invalid Position: scientist_corpse[246903] (-1465.42, 7.11, -2250.25) (destroying)
+Invalid Position: item_drop_backpack[246908] (-1465.42, 7.07, -2250.25) (destroying)
+Invalid Position: harbor_dynamic_container[239922] (-1480.72, 12.40, -2250.25) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1479.60, 3.14, -2250.57) (destroying)
+6917267[6917267] died (Generic)
+Invalid Position: scientist_corpse[246912] (-1455.28, 28.20, -2250.34) (destroying)
+Invalid Position: item_drop_backpack[246918] (-1455.28, 28.17, -2250.34) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1472.06, 9.27, -2250.24) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1469.79, 18.16, -2250.45) (destroying)
+5719482[5719482] died (Generic)
+Invalid Position: scientist_corpse[246922] (-1471.29, 25.26, -2250.30) (destroying)
+Invalid Position: item_drop_backpack[246925] (-1471.29, 25.22, -2250.30) (destroying)
+6664330[6664330] died (Generic)
+Invalid Position: scientist_corpse[246929] (-1480.68, 28.16, -2250.32) (destroying)
+Invalid Position: item_drop_backpack[246935] (-1480.68, 28.13, -2250.32) (destroying)
+Invalid Position: rhib[235245] (-1468.41, 9.23, -2250.06) (destroying)
+Saved 4,201 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,178 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,146 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,171 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Saved 4,168 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,175 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,166 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[261753] changed its network group to null
+rhib_storage[261755] changed its network group to null
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,233 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,242 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,253 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,256 ents, cache(0.02), write(0.00), disk(0.00).
+Saving complete
+Saved 4,264 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,257 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,246 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,265 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Saved 4,258 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Invalid Position: chicken.corpse[271495] (43.12, -501.13, 56.75) (destroying)
+Saved 4,259 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+6193043[6193043] died (Generic)
+Invalid Position: scientist_corpse[271854] (-1464.77, 10.16, -2250.39) (destroying)
+3415915[3415915] died (Generic)
+Invalid Position: scientist_corpse[271862] (-1467.82, 23.80, -2250.43) (destroying)
+Invalid Position: item_drop_backpack[271858] (-1464.77, 10.12, -2250.39) (destroying)
+Invalid Position: item_drop_backpack[271867] (-1467.80, 23.77, -2250.40) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1460.35, 6.18, -2258.02) (destroying)
+Invalid Position: harbor_dynamic_container[266658] (-1473.43, 18.15, -2250.51) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1478.65, 3.14, -2250.11) (destroying)
+3702865[3702865] died (Generic)
+Invalid Position: scientist_corpse[271871] (-1455.97, 7.12, -2250.75) (destroying)
+Invalid Position: item_drop_backpack[271875] (-1455.97, 7.08, -2250.75) (destroying)
+Invalid Position: harbor_dynamic_container[266661] (-1476.77, 18.15, -2250.13) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1470.12, 9.27, -2250.07) (destroying)
+7957633[7957633] died (Generic)
+Invalid Position: scientist_corpse[271883] (-1456.17, 4.08, -2250.20) (destroying)
+Invalid Position: item_drop_backpack[271888] (-1456.17, 4.04, -2250.20) (destroying)
+Invalid Position: harbor_dynamic_container[266664] (-1476.90, 18.15, -2250.34) (destroying)
+Invalid Position: harbor_dynamic_container[266667] (-1480.51, 15.15, -2250.38) (destroying)
+5824723[5824723] died (Generic)
+Invalid Position: scientist_corpse[271914] (-1480.22, 7.13, -2250.18) (destroying)
+3622943[3622943] died (Generic)
+Invalid Position: item_drop_backpack[271920] (-1480.22, 7.10, -2250.18) (destroying)
+Invalid Position: scientist_corpse[271924] (-1455.30, 28.22, -2250.32) (destroying)
+Invalid Position: item_drop_backpack[271927] (-1455.30, 28.19, -2250.32) (destroying)
+7680906[7680906] died (Generic)
+Invalid Position: scientist_corpse[271931] (-1459.10, 19.14, -2250.37) (destroying)
+Invalid Position: item_drop_backpack[271935] (-1459.10, 19.10, -2250.37) (destroying)
+2648221[2648221] died (Generic)
+Invalid Position: scientist_corpse[271939] (-1472.82, 10.22, -2250.44) (destroying)
+Invalid Position: item_drop_backpack[271943] (-1472.82, 10.19, -2250.44) (destroying)
+1693715[1693715] died (Generic)
+Invalid Position: scientist_corpse[271947] (-1471.55, 25.22, -2250.70) (destroying)
+Invalid Position: item_drop_backpack[271951] (-1471.55, 25.18, -2250.70) (destroying)
+4306238[4306238] died (Generic)
+Invalid Position: scientist_corpse[271955] (-1480.76, 28.15, -2250.43) (destroying)
+Invalid Position: item_drop_backpack[271959] (-1480.76, 28.11, -2250.43) (destroying)
+Invalid Position: rhib[261752] (-1468.41, 9.23, -2250.06) (destroying)
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,169 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[273091] (63.17, -502.13, 46.17) (destroying)
+Saved 4,167 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,159 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,154 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,144 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,132 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,140 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,150 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,170 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,170 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,166 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,163 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,154 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,158 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,160 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,134 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[290536] changed its network group to null
+rhib_storage[290538] changed its network group to null
+Saved 4,227 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,248 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,259 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,248 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,245 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+Saved 4,244 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,236 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,264 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+kyroo4ka[76561198991050788] was killed by bear (Bear) at (35.25, 0.09, 459.90)
+Saved 4,266 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,249 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,248 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (826.92, 22.91, 2250.02) (destroying)
+2681398[2681398] died (Generic)
+Invalid Position: scientist_corpse[301284] (821.84, 10.21, 2250.38) (destroying)
+Invalid Position: item_drop_backpack[301291] (821.84, 10.17, 2250.38) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (816.06, 6.18, 2250.59) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (816.22, 6.18, 2250.66) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (817.62, 3.14, 2250.50) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (829.35, 9.27, 2250.54) (destroying)
+Invalid Position: harbor_dynamic_container[294964] (819.15, 18.15, 2250.09) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (838.58, 3.14, 2250.21) (destroying)
+Invalid Position: harbor_dynamic_container[294967] (822.49, 18.15, 2250.47) (destroying)
+Invalid Position: harbor_dynamic_container[294970] (835.13, 18.15, 2250.10) (destroying)
+Invalid Position: harbor_dynamic_container[294973] (838.47, 15.15, 2250.48) (destroying)
+1829404[1829404] died (Generic)
+Invalid Position: scientist_corpse[301302] (822.88, 7.14, 2250.22) (destroying)
+Invalid Position: item_drop_backpack[301308] (822.88, 7.10, 2250.22) (destroying)
+2083765[2083765] died (Generic)
+Invalid Position: scientist_corpse[301318] (818.76, 10.16, 2250.31) (destroying)
+Invalid Position: item_drop_backpack[301325] (818.76, 10.16, 2250.32) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (815.97, 27.26, 2250.37) (destroying)
+1535453[1535453] died (Generic)
+Invalid Position: scientist_corpse[301329] (819.36, 19.13, 2250.33) (destroying)
+Invalid Position: item_drop_backpack[301333] (819.36, 19.09, 2250.33) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (826.58, 24.34, 2250.44) (destroying)
+3152867[3152867] died (Generic)
+Invalid Position: scientist_corpse[301398] (838.53, 28.16, 2250.04) (destroying)
+Invalid Position: item_drop_backpack[301405] (838.53, 28.12, 2250.04) (destroying)
+Invalid Position: rhib[290535] (827.79, 9.23, 2250.25) (destroying)
+Saved 4,183 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,180 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,190 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,175 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,194 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,192 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,192 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,198 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,182 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,170 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,149 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,166 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,169 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,161 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Checking for new Steam Item Definitions..
+Saved 4,173 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,172 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,151 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 4,172 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,160 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,171 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[327705] changed its network group to null
+rhib_storage[327707] changed its network group to null
+Saved 4,239 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,262 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,267 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,275 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,271 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+5.159.104.120:1563/76561199643248995/rust Rejecting connection - Steam Auth Failed
+5.159.104.120:1563/76561199643248995/rust kicked: Steam Auth Failed
+5.159.104.120:1310/76561199643248995/rust Rejecting connection - Steam Auth Failed
+5.159.104.120:1310/76561199643248995/rust kicked: Steam Auth Failed
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,258 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,280 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,266 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,254 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,258 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Saved 4,252 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+3047402[3047402] died (Generic)
+Invalid Position: scientist_corpse[338425] (-1468.06, 23.87, -2250.88) (destroying)
+Invalid Position: item_drop_backpack[338429] (-1468.04, 23.84, -2250.84) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1468.58, 9.27, -2251.37) (destroying)
+5695224[5695224] died (Generic)
+Invalid Position: scientist_corpse[338435] (-1478.24, 7.06, -2250.19) (destroying)
+Invalid Position: item_drop_backpack[338441] (-1478.24, 7.02, -2250.19) (destroying)
+Invalid Position: harbor_dynamic_container[332481] (-1473.16, 18.15, -2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[332478] (-1480.51, 15.15, -2250.38) (destroying)
+Invalid Position: harbor_dynamic_container[332484] (-1477.04, 18.15, -2250.55) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1457.09, 3.14, -2250.37) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1473.74, 6.18, -2251.90) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1468.54, 9.27, -2250.22) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1479.76, 3.14, -2250.06) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1455.85, 6.18, -2250.22) (destroying)
+Invalid Position: harbor_dynamic_container[332490] (-1477.18, 18.15, -2250.76) (destroying)
+Invalid Position: harbor_dynamic_container[332487] (-1480.51, 18.15, -2250.38) (destroying)
+Invalid Position: harbor_dynamic_container[332493] (-1480.78, 15.15, -2250.80) (destroying)
+5914734[5914734] died (Generic)
+Invalid Position: scientist_corpse[338449] (-1455.29, 28.22, -2250.25) (destroying)
+Invalid Position: item_drop_backpack[338455] (-1455.29, 28.18, -2250.25) (destroying)
+5902228[5902228] died (Generic)
+Invalid Position: scientist_corpse[338459] (-1473.51, 10.20, -2250.14) (destroying)
+Invalid Position: item_drop_backpack[338464] (-1473.51, 10.16, -2250.14) (destroying)
+6756263[6756263] died (Generic)
+Invalid Position: scientist_corpse[338470] (-1469.66, 19.04, -2250.11) (destroying)
+Invalid Position: item_drop_backpack[338477] (-1469.83, 19.04, -2250.38) (destroying)
+973710[973710] died (Generic)
+Invalid Position: scientist_corpse[338481] (-1471.21, 25.28, -2250.27) (destroying)
+Invalid Position: item_drop_backpack[338486] (-1471.21, 25.25, -2250.27) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1480.72, 27.26, -2250.37) (destroying)
+Invalid Position: rhib[327704] (-1468.41, 9.23, -2250.05) (destroying)
+Saved 4,173 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,153 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,139 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,140 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,123 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,122 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,136 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,160 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,175 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Invalid Position: chicken.corpse[348425] (61.68, -501.31, 38.48) (destroying)
+Saved 4,178 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,172 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,168 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[351687] (-151.16, -501.42, -239.98) (destroying)
+Saved 4,151 ents, cache(0.00), write(0.01), disk(0.00).
+Saving complete
+77.75.135.153:51659/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:51659/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57966/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57966/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57968/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57968/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57972/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57972/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57974/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57974/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+77.75.135.153:57976/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:57976/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+Saved 4,145 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,141 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+Saved 4,152 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+Saved 4,147 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[356101] changed its network group to null
+rhib_storage[356103] changed its network group to null
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,224 ents, cache(0.01), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,238 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,247 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,267 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,260 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,261 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_tools[0]
+Saved 4,253 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,248 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,258 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,257 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+3447688[3447688] died (Generic)
+Invalid Position: scientist_corpse[366800] (826.97, 23.76, 2250.05) (destroying)
+Invalid Position: item_drop_backpack[366806] (826.95, 23.74, 2250.03) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (815.89, 6.18, 2250.12) (destroying)
+5604707[5604707] died (Generic)
+Invalid Position: scientist_corpse[366810] (828.17, 10.15, 2250.09) (destroying)
+Invalid Position: item_drop_backpack[366816] (828.17, 10.11, 2250.09) (destroying)
+631446[631446] died (Generic)
+Invalid Position: scientist_corpse[366820] (816.60, 7.16, 2250.24) (destroying)
+Invalid Position: item_drop_backpack[366824] (816.60, 7.13, 2250.24) (destroying)
+6694052[6694052] died (Generic)
+Invalid Position: scientist_corpse[366828] (817.50, 4.05, 2250.25) (destroying)
+Invalid Position: item_drop_backpack[366833] (817.50, 4.02, 2250.25) (destroying)
+6469796[6469796] died (Generic)
+Invalid Position: scientist_corpse[366841] (838.49, 4.03, 2250.27) (destroying)
+Invalid Position: item_drop_backpack[366846] (838.49, 3.99, 2250.27) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (827.90, 9.27, 2250.30) (destroying)
+Invalid Position: harbor_dynamic_container[361444] (838.46, 15.15, 2250.48) (destroying)
+Invalid Position: harbor_dynamic_container[361438] (819.15, 18.15, 2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[361441] (822.49, 18.15, 2250.47) (destroying)
+Invalid Position: harbor_dynamic_container[361447] (835.13, 18.15, 2250.10) (destroying)
+4898272[4898272] died (Generic)
+Invalid Position: scientist_corpse[366859] (817.14, 7.13, 2250.59) (destroying)
+Invalid Position: item_drop_backpack[366863] (817.14, 7.09, 2250.59) (destroying)
+Invalid Position: harbor_dynamic_container[361450] (838.47, 15.15, 2250.48) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (815.97, 27.26, 2250.37) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (819.32, 18.16, 2250.30) (destroying)
+8487555[8487555] died (Generic)
+Invalid Position: scientist_corpse[366867] (831.59, 9.68, 2250.05) (destroying)
+Invalid Position: item_drop_backpack[366871] (831.59, 9.64, 2250.05) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (826.58, 24.34, 2250.44) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (838.51, 27.26, 2250.04) (destroying)
+Invalid Position: rhib[356100] (827.79, 9.23, 2250.25) (destroying)
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,180 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,160 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,159 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,161 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,165 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,158 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,162 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,163 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,176 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,177 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,152 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,168 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,178 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,156 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[380857] (45.38, -501.24, 62.98) (destroying)
+[event] assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+fuel_storage[381475] changed its network group to null
+rhib_storage[381477] changed its network group to null
+Saved 4,237 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,250 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,260 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Can't spawn Travelling Vendor: No roads available to spawn on.
+Failed to spawn travelling vendor.
+Saved 4,245 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Saved 4,243 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,250 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,261 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Saved 4,268 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,265 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,277 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Calling kill - but already IsDestroyed!? crate_normal_2[0]
+Calling kill - but already IsDestroyed!? loot_barrel_1[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Calling kill - but already IsDestroyed!? loot_barrel_2[0]
+Calling kill - but already IsDestroyed!? oil_barrel[0]
+Saved 4,278 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+7446606[7446606] died (Generic)
+Invalid Position: scientist_corpse[391437] (-1467.85, 23.81, -2250.45) (destroying)
+Invalid Position: item_drop_backpack[391442] (-1467.83, 23.76, -2250.41) (destroying)
+7543796[7543796] died (Generic)
+Invalid Position: scientist_corpse[391446] (-1462.64, 7.11, -2250.04) (destroying)
+Invalid Position: item_drop_backpack[391452] (-1462.64, 7.07, -2250.04) (destroying)
+6225119[6225119] died (Generic)
+Invalid Position: scientist_corpse[391456] (-1468.80, 10.15, -2250.09) (destroying)
+Invalid Position: item_drop_backpack[391459] (-1468.80, 10.12, -2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[385650] (-1473.16, 18.15, -2250.09) (destroying)
+Invalid Position: harbor_dynamic_container[385647] (-1480.78, 15.15, -2250.80) (destroying)
+Invalid Position: harbor_dynamic_container[385653] (-1477.04, 18.15, -2250.55) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1466.97, 6.18, -2250.23) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1469.13, 9.27, -2250.40) (destroying)
+4411211[4411211] died (Generic)
+Invalid Position: scientist_corpse[391467] (-1480.42, 4.11, -2250.65) (destroying)
+Invalid Position: item_drop_backpack[391471] (-1480.42, 4.07, -2250.65) (destroying)
+4840749[4840749] died (Generic)
+Invalid Position: scientist_corpse[391475] (-1456.41, 4.05, -2250.10) (destroying)
+Invalid Position: item_drop_backpack[391478] (-1456.41, 4.01, -2250.10) (destroying)
+7507851[7507851] died (Generic)
+Invalid Position: scientist_corpse[391482] (-1457.02, 7.13, -2250.32) (destroying)
+Invalid Position: item_drop_backpack[391487] (-1457.02, 7.10, -2250.32) (destroying)
+Invalid Position: harbor_dynamic_container[385659] (-1477.18, 18.15, -2250.76) (destroying)
+Invalid Position: harbor_dynamic_container[385662] (-1480.51, 15.15, -2250.38) (destroying)
+Invalid Position: harbor_dynamic_container[385656] (-1480.51, 18.15, -2250.38) (destroying)
+2523914[2523914] died (Generic)
+Invalid Position: scientist_corpse[391494] (-1455.22, 28.19, -2250.28) (destroying)
+Invalid Position: item_drop_backpack[391500] (-1455.22, 28.15, -2250.28) (destroying)
+1518657[1518657] died (Generic)
+Invalid Position: scientist_corpse[391504] (-1459.34, 19.12, -2250.69) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo.prefab (NPCPlayerNavigator) (-1466.40, 9.27, -2250.59) (destroying)
+Invalid Position: item_drop_backpack[391508] (-1459.37, 19.10, -2250.72) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_any.prefab (NPCPlayerNavigator) (-1471.24, 24.34, -2250.27) (destroying)
+Invalid NavAgent Position: assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_cargo_turret_lr300.prefab (NPCPlayerNavigator) (-1480.72, 27.26, -2250.37) (destroying)
+Invalid Position: rhib[381474] (-1468.41, 9.23, -2250.05) (destroying)
+Saved 4,198 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+77.75.135.153:49879/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ Rejecting connection - Steam Auth Failed
+77.75.135.153:49879/76561199600680979/★ᴀʙʀᴀᴄᴀᴅᴀʙʀᴀ kicked: Steam Auth Failed
+Saved 4,174 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,189 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Saved 4,191 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+[Chaos] The latest version (1.0.24) has been downloaded. Restart your server for it to take affect
+Checking for new Steam Item Definitions..
+Saved 4,189 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,179 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,164 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 4,148 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Invalidate Network Cache took 0.00 seconds
+Saved 4,147 ents, cache(0.03), write(0.00), disk(0.00).
+Saving complete
+Config Saved
+[Raknet] Server Shutting Down (quit)

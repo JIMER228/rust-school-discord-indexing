@@ -1,0 +1,295 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>ЗНАКОМСТВО</color> <color=#FFA500>★</color>",
+        "HeaderText": "Добро пожаловать на сервер <color=#00FF00>FLASHBACK-RUST</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FFA500>★</color> <color=#FFFFFF>Игра в группе не более</color><color=#00FF00> 3 человек</color>",
+              "<color=#FFA500>★</color> <color=#FFFFFF>Рестарт сервера - </color><color=#00FF00> каждый день в 03:00 по мск</color>",
+              "<color=#FFA500>★</color> Магазин сервера: <color=#00FF00>shop-flashback.playrust.ru/</color>",
+              "<color=#FFA500>★</color> Группа сервера : <color=#00FF00>vk.com/flashrustproject</color>",
+              "<color=#FFA500>★</color> Вайп карты каждую <color=#00FF00>Пятницу</color>!"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>Правила проекта</color> <color=#FFA500>★</color>",
+        "HeaderText": "<color=#fffff>Это полезно знать</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено использовать/хранить/распространять стороннее ПО</color> ",
+              "<color=#FFA500>★</color> <color=#fffff>Наличие покупки/подписки на стороннее ПО для Rust является нарушением правил сервера — </color> ",
+              "<color=#fffff> - и Вы будете в бане на всех серверах проекта </color>",
+              "<color=#FFA500>★</color> <color=#fffff>За игру с читером, вы также получите БАН навсегда</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено использовать багоюз в любой форме </color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено использование ников оскорбляющих других игроков</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено превышать лимит игроков в команде на сервере (MAX 3) </color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено ставить ник и аватар чужого игрока в целях обмана</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Администрация не несет ответственности за обмены на сервере</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Если вы заметили игроков играющих в 3+ будьте добры сообщить модерации</color>",
+              "",
+              "<color=#00FA9A> __________________________________<b>ПРАВИЛА ЧАТА</b>_______________________________</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено спамить однообразными сообщениями</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещена реклама сайтов/проектов/каналов</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещены любые политические/межнациональные споры</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено использовать нецензурные выражения/оскорбления</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено оскорбление администрации в любых формах</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещено выдавать себя за администратора/модератора, </color>",
+              "<color=#fffff> - если Вы на самом деле им не являетесь.</color>",
+              "<color=#FFA500>★</color> <color=#fffff>Запрещена провокация/клевета других игроков</color>"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>Телепортация</color> <color=#FFA500>★</color>",
+        "HeaderText": "<color=fffff>Телепортации и точки дома</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/tpr <Ник игрока> </color> - отправить запрос",
+              "<color=#FFA500>★</color> <color=#00FF00>/tpa </color> - принять запрос",
+              "<color=#FFA500>★</color> <color=#00FF00>/tpc </color> - отменить телепортацию",
+              "<color=#FFA500>★</color> <color=#00FF00>/sethome <Дом> </color> - установить ваше текущее местоположение как дом",
+              "<color=#FFA500>★</color> <color=#00FF00>/home <Дом> </color> - тп в указанную точку дома",
+              "<color=#FFA500>★</color> <color=#00FF00>/home list </color> - показать сохраненные точки домов",
+              "<color=#FFA500>★</color> <color=#00FF00>/removehome <Дом> </color> - удалить точку дома"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>Комфортная игра</color> <color=#FFA500>★</color>",
+        "HeaderText": "<color=#fffff>Комфортная игра</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FFA500>★</color> <color=#fffff>Чтобы увидеть друзей на карте, нужно друг друга добавить в друзья!</color>",
+              "<color=#FFA500>★</color> <color=#00FF00> М</color><color=#fffff> - Открыть онлайн карту </color>",
+              "<color=#FFA500>★</color> <color=#00FF00>/friend add <Ник игрока> </color> - <color=#fffff>добавить игрока в друзья</color>",
+              "<color=#FFA500>★</color> <color=#00FF00>/friend remove <Ник игрока></color> - <color=#fffff>убрать из друзей</color>",
+              "",
+              "<color=#00FA9A>_____________Команды - френдлифаер_____________</color>",
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/Friend ff on</color> - Включить урон по союзникам ",
+              "<color=#FFA500>★</color> <color=#00FF00>/Friend ff off</color> - Выключить урон по союзникам",
+              "",
+              "<color=#00FA9A>_____________Картинки на табличках_____________</color>",
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/sil <url картинки></color> - позволяет вставлять картинки в таблички",
+              "<color=orange>(Формат только png/jpeg/jpg)</color>"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>Дуэли</color> <color=#FFA500>★</color>",
+        "HeaderText": "<color=#fffff>Дуэли. Битва титанов!</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel</color> - Вызвать игрока на дуэль",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel а</color> - Принять вызов на дуэль",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel c</color> - Отклонить вызов на дуэль",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel stat</color> - Статистика",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel top </color> - Лучшие игроки",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel create [2-6]</color> - Создать командную дуэль (2-6 человек)",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel join red/blue</color> - Присоединиться к команде",
+              "<color=#FFA500>★</color> <color=#00FF00>/duel accept</color> - Принять приглашение на дуэль"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#FFA500>★</color> <color=#00FF00>Остальные команды</color> <color=#FFA500>★</color>",
+        "HeaderText": "<color=#fffff>Остальные команды нашего сервера</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#00FA9A>______________Приватный чат:______________</color>",
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/pm <Ник игрока> <сообщение> </color> - послать приватное сообщение",
+              "<color=#FFA500>★</color> <color=#00FF00>/r <сообщение> </color> - ответить на последнее сообщение",
+              "",
+              "<color=#00FA9A>______________Улучшение строений:______________</color>",
+              "",
+              "<color=#FFA500>★</color> Кнопка <color=#00FF00> E </color>  На клавиатуре",
+              "<color=#FFA500>★</color> Команда <color=#00FF00> /upgrade </color> - Включить автоулучшение",
+              "<color=#FFA500>★</color> <color=#00FF00>Уровень улучшения: </color> 0 - выключить, 1 - дерево, 2 - камень, 3 - металл, 4 - армор",
+              "",
+              "<color=#00FA9A>______________Режим удаления:______________</color>",
+              "",
+              "<color=#FFA500>★</color> <color=#00FF00>/remove </color> - включить режим удаления построек",
+              "<color=#FFA500>★</color> <color=#00FF00>/remove (Написать еще раз) </color> - деактивировать удаление",
+              "<color=#FFA500>★</color> <color=#00FF00>Внимание! Удалять можно только свои постройки и друзей</color>"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerConnected": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://breaking-rust.fr/wp-content/uploads/2015/08/fondddd12484822-1024x466.png",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#696969",
+    "InactiveButtonColor": "#000000",
+    "CloseButtonColor": "#ff0000",
+    "NextPageButtonColor": "#127127127255",
+    "PrevPageButtonColor": "#0255255255",
+    "BackgroundColor": "#000000E6",
+    "HelpButton": {
+      "IsEnabled": true,
+      "Text": "Помощь",
+      "Position": {
+        "MinX": 0.5,
+        "MaxX": 0.5,
+        "MinY": 0.0,
+        "MaxY": 0.0
+      },
+      "Color": "#696969",
+      "FontSize": 12
+    },
+    "UpgradedConfig": false
+  }
+}

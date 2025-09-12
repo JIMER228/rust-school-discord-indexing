@@ -1,0 +1,31 @@
+{
+  "Arrow Settings": {
+    "Arrow Above Pilot": true,
+    "Arrow Height": 200.0,
+    "Arrow Length (seconds)": 120.0
+  },
+  "Random Event Settings": {
+    "Chance of helicopter being event heli (external helicopters only)": true,
+    "Chance Of Occuring": 0.2,
+    "Min Helicopters Between Random Event": 0
+  },
+  "Settings": {
+    "(TruePVP) Pilot Is Damageable": true,
+    "Destroy Chute On Land": false,
+    "Inbound Message": true,
+    "Max Time Until Pilot Eject": 600.0,
+    "Min Spawn Height Enabled": false,
+    "Min Time Until Pilot Eject": 300.0,
+    "Number of Crates to Spawn": 3,
+    "Pilot Death Message Enabled": true,
+    "Pilot Life Length": 600.0,
+    "Pilot Minimum Spawn Height": 20.0,
+    "Pilot Name": "Helicopter Pilot",
+    "Use GUIAnnouncements": false
+  },
+  "Timed Event Settings": {
+    "Max Time Until Next Event": 3600.0,
+    "Min Time Until Next Event": 1800.0,
+    "Timed Helicopter Enabled": true
+  }
+}

@@ -1,0 +1,1062 @@
+{
+  "loot": {
+    "supply_drop": {
+      "containerName": "supply_drop",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 5,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_underwater_basic": {
+      "containerName": "crate_underwater_basic",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_underwater_advanced": {
+      "containerName": "crate_underwater_advanced",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "minecart": {
+      "containerName": "minecart",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_normal_2": {
+      "containerName": "crate_normal_2",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "loot_barrel_1": {
+      "containerName": "loot_barrel_1",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "loot_barrel_2": {
+      "containerName": "loot_barrel_2",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_tools": {
+      "containerName": "crate_tools",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "oil_barrel": {
+      "containerName": "oil_barrel",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_mine": {
+      "containerName": "crate_mine",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "loot-barrel-1": {
+      "containerName": "loot-barrel-1",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "loot-barrel-2": {
+      "containerName": "loot-barrel-2",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "trash-pile-1": {
+      "containerName": "trash-pile-1",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_normal_2_medical": {
+      "containerName": "crate_normal_2_medical",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_normal_2_food": {
+      "containerName": "crate_normal_2_food",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_basic": {
+      "containerName": "crate_basic",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_normal": {
+      "containerName": "crate_normal",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "foodbox": {
+      "containerName": "foodbox",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "smallwaterbottle",
+          "name": "",
+          "skin": 1832045516,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "crate_elite": {
+      "containerName": "crate_elite",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "goldfish": {
+      "containerName": "goldfish",
+      "enabled": true,
+      "pickcount": 2,
+      "items": [
+        {
+          "itemname": "ammo.rocket.basic",
+          "name": "",
+          "skin": 0,
+          "chance": 2,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "ammo.rocket.fire",
+          "name": "",
+          "skin": 0,
+          "chance": 5,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "ammo.shotgun.slug",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 5,
+          "maxCount": 15
+        },
+        {
+          "itemname": "ammo.pistol",
+          "name": "",
+          "skin": 0,
+          "chance": 50,
+          "minCount": 5,
+          "maxCount": 20
+        },
+        {
+          "itemname": "ammo.rifle",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 5,
+          "maxCount": 20
+        },
+        {
+          "itemname": "ammo.shotgun.fire",
+          "name": "",
+          "skin": 0,
+          "chance": 35,
+          "minCount": 5,
+          "maxCount": 15
+        },
+        {
+          "itemname": "ammo.shotgun",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 5,
+          "maxCount": 15
+        },
+        {
+          "itemname": "ammo.handmade.shell",
+          "name": "",
+          "skin": 0,
+          "chance": 55,
+          "minCount": 5,
+          "maxCount": 15
+        },
+        {
+          "itemname": "grenade.f1",
+          "name": "",
+          "skin": 0,
+          "chance": 50,
+          "minCount": 1,
+          "maxCount": 3
+        },
+        {
+          "itemname": "ammo.grenadelauncher.he",
+          "name": "",
+          "skin": 0,
+          "chance": 6,
+          "minCount": 1,
+          "maxCount": 5
+        },
+        {
+          "itemname": "ammo.grenadelauncher.smoke",
+          "name": "",
+          "skin": 0,
+          "chance": 10,
+          "minCount": 1,
+          "maxCount": 5
+        },
+        {
+          "itemname": "grenade.beancan",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 3,
+          "maxCount": 1
+        }
+      ]
+    },
+    "codelockedhackablecrate": {
+      "containerName": "codelockedhackablecrate",
+      "enabled": true,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 5,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "skull": {
+      "containerName": "skull",
+      "enabled": true,
+      "pickcount": 3,
+      "items": [
+        {
+          "itemname": "weapon.mod.silencer",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "weapon.mod.holosight",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "weapon.mod.muzzlebrake",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "weapon.mod.muzzleboost",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "weapon.mod.lasersight",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.m92",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smg.thompson",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "rifle.semiauto",
+          "name": "",
+          "skin": 0,
+          "chance": 35,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.semiauto",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "shotgun.pump",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "weapon.mod.flashlight",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.python",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smg.2",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "rifle.ak",
+          "name": "",
+          "skin": 0,
+          "chance": 7,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "rifle.lr300",
+          "name": "",
+          "skin": 0,
+          "chance": 7,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smg.mp5",
+          "name": "",
+          "skin": 0,
+          "chance": 35,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "shotgun.double",
+          "name": "",
+          "skin": 0,
+          "chance": 50,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.nailgun",
+          "name": "",
+          "skin": 0,
+          "chance": 55,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "shotgun.spas12",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "skull_crush": {
+      "containerName": "skull_crush",
+      "enabled": true,
+      "pickcount": 3,
+      "items": [
+        {
+          "itemname": "wood",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1000,
+          "maxCount": 4000
+        },
+        {
+          "itemname": "scrap",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 50,
+          "maxCount": 150
+        },
+        {
+          "itemname": "metal.refined",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 25,
+          "maxCount": 50
+        },
+        {
+          "itemname": "stones",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1000,
+          "maxCount": 4000
+        },
+        {
+          "itemname": "sulfur",
+          "name": "",
+          "skin": 0,
+          "chance": 35,
+          "minCount": 1000,
+          "maxCount": 4000
+        },
+        {
+          "itemname": "lowgradefuel",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 200,
+          "maxCount": 400
+        },
+        {
+          "itemname": "cloth",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 200,
+          "maxCount": 500
+        },
+        {
+          "itemname": "leather",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 200,
+          "maxCount": 500
+        },
+        {
+          "itemname": "explosives",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "metal.fragments",
+          "name": "",
+          "skin": 0,
+          "chance": 40,
+          "minCount": 1000,
+          "maxCount": 2000
+        }
+      ]
+    },
+    "123": {
+      "containerName": "123",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "rock",
+          "name": "",
+          "skin": 864277659,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "torch",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "banderol": {
+      "containerName": "banderol",
+      "enabled": true,
+      "pickcount": 3,
+      "items": [
+        {
+          "itemname": "skull.human",
+          "name": "",
+          "skin": 2226172494,
+          "chance": 10,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "seed.corn",
+          "name": "",
+          "skin": 1461679510,
+          "chance": 10,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "fish.troutsmall",
+          "name": "",
+          "skin": 1492612801,
+          "chance": 10,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smg.2",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.python",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "pistol.semiauto",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "shotgun.pump",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "smg.thompson",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "hazmatsuit",
+          "name": "",
+          "skin": 0,
+          "chance": 30,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "rifle.l96",
+          "name": "",
+          "skin": 0,
+          "chance": 7,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "jackhammer",
+          "name": "",
+          "skin": 0,
+          "chance": 30,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "chainsaw",
+          "name": "",
+          "skin": 0,
+          "chance": 30,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemname": "sulfur",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 500,
+          "maxCount": 1500
+        },
+        {
+          "itemname": "gunpowder",
+          "name": "",
+          "skin": 0,
+          "chance": 20,
+          "minCount": 100,
+          "maxCount": 400
+        },
+        {
+          "itemname": "metal.fragments",
+          "name": "",
+          "skin": 0,
+          "chance": 25,
+          "minCount": 500,
+          "maxCount": 1200
+        },
+        {
+          "itemname": "scrap",
+          "name": "",
+          "skin": 0,
+          "chance": 15,
+          "minCount": 20,
+          "maxCount": 150
+        }
+      ]
+    },
+    "stocking_small_deployed": {
+      "containerName": "stocking_small_deployed",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "stocking_large_deployed": {
+      "containerName": "stocking_large_deployed",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "giftbox_loot": {
+      "containerName": "giftbox_loot",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "presentdrop": {
+      "containerName": "presentdrop",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "vehicle_parts": {
+      "containerName": "vehicle_parts",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "codelockedhackablecrate_oilrig": {
+      "containerName": "codelockedhackablecrate_oilrig",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign7": {
+      "containerName": "roadsign7",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign6": {
+      "containerName": "roadsign6",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign8": {
+      "containerName": "roadsign8",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign2": {
+      "containerName": "roadsign2",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign4": {
+      "containerName": "roadsign4",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign9": {
+      "containerName": "roadsign9",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign5": {
+      "containerName": "roadsign5",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign3": {
+      "containerName": "roadsign3",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    },
+    "roadsign1": {
+      "containerName": "roadsign1",
+      "enabled": false,
+      "pickcount": 0,
+      "items": [
+        {
+          "itemname": "",
+          "name": "",
+          "skin": 0,
+          "chance": 100,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  },
+  "watchedItems": [
+    "skull.human",
+    "seed.corn",
+    "fish.troutsmall",
+    "xmas.present.small",
+    "xmas.present.medium",
+    "fish.troutsmall",
+    "box.wooden.large",
+    "smallwaterbottle"
+  ]
+}

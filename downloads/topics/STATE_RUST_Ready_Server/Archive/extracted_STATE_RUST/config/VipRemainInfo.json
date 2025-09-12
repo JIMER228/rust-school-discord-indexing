@@ -1,0 +1,24 @@
+{
+  "GroupsColor": {
+    "default": "#a55dad",	
+    "prime": "#ff7256",
+    "legend": "#fff55a",
+    "state": "#a55dad",
+	"evil": "#40E0D0",
+	"entrance": "#a55dad"
+  },
+  "GroupsNewName": {
+    "prime": "prime",
+    "legend": "legend",
+    "state": "state",
+    "evil": "evil",
+	"entrance": "Вип вход",
+	"talsv2_metabolism": "Носорог",
+	"talsv2_backpack": "Бык",
+	"talsv2_skins": "Хамелеон",
+	"talsv2_crafting": "Кролик",
+	"talsv2_raidalert": "Петух"
+  },
+  "HeadText": "Остаток времени у ваших привилегий:",
+  "VipText": "Привилегия <color={0}>{1}</color>: осталось {2}"
+}

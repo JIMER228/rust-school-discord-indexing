@@ -1,0 +1,14 @@
+{
+  "Discord Bot Token": "MTE4MTIxNTE3NzUxMzkwNjE4Ng.G-lpAB.aFkIZqT3-TRPJCHNm4jqsHoli-JxWsrc0rwfoo",
+  "Prefix": "!",
+  "Discord Group Id needed for Commands (null to disable)": null,
+  "Update Interval (Seconds)": 5,
+  "Randomize Status": false,
+  "Status Type (Game/Stream/Listen/Watch)": "Game",
+  "Status": [
+    "{players.online} из {server.maxplayers} онлайн!",
+    "{players.sleepers} слиперов.. "
+  ],
+  "Discord Server ID (Optional if bot only in 1 guild)": "",
+  "Discord Extension Log Level (Verbose, Debug, Info, Warning, Error, Exception, Off)": "Info"
+}

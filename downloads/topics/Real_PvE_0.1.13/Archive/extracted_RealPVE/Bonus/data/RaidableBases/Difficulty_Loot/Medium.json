@@ -1,0 +1,5972 @@
+[
+  {
+    "shortname": "ammo.shotgun",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 128,
+    "amountMin": 16,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.shotgun.fire",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 32,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.shotgun.slug",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 64,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.8x.scope",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.grenadelauncher.he",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rifle",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 256,
+    "amountMin": 64,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rifle",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 256,
+    "amountMin": 128,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.small.scope",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "abovegroundpool",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuit.diver",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diverhatchet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diverpickaxe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.guitar",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "healingtea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "maxhealthtea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "oretea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "radiationremovetea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "radiationresisttea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scraptea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodtea.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.anchovy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "antiradpills",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "apple",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuit.arcticsuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "door.hinged.toptier",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "door.double.hinged.toptier",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.ak",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.nesthat",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "autoturret",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bandage",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 25,
+    "amountMin": 15,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bbq",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "beachchair",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "beachparasol",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "beachtable",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "beachtowel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.beancan",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.beancan",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bed",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "black.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.black.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "black.raspberries",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "blue.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.blue.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.blue",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "keycard_blue",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "keycard_blue",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.romancandle.blue",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "blueberries",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.bolt",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "boogieboard",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "boombox",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shoes.boots",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bucket.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.bunnyears",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.bunny.onesie",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bearmeat.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chicken.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "deermeat.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horsemeat.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "meat.pork.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wolfmeat.burned",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cactusflesh",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "campfire",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "can.beans",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "can.tuna",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.tambourine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "candycane",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "carvable.pumpkin",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cassette",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cassette.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cassette.short",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.catfish",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cctv.camera",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ceilinglight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chainsaw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chair",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.champagne",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "charcoal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10000,
+    "amountMin": 4500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "charcoal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15000,
+    "amountMin": 7500,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chicken.costume",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chineselantern",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chineselanternwhite",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "arcade.machine.chippy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chocolate",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmasdoorwreath",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmas.lightstring",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "clatter.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cloth",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1500,
+    "amountMin": 500,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lock.code",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 10,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "coffeecan.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "coffeecan.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "coffin.storage",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "knife.combat",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "composter",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "computerstation",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "concretehatchet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "concretepickaxe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "confetticannon",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "connected.speaker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bearmeat.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chicken.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "deermeat.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horsemeat.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "meat.pork.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wolfmeat.cooked",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "corn",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.corn",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.cowbell",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "crude.oil",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 500,
+    "amountMin": 30,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cursedcauldron",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smg.2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smg.2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diesel_barrel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "discoball",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "discofloor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "discofloor.largetiles",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diving.fins",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diving.mask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diving.tank",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shotgun.double",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "draculacape",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "draculamask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "dragondoorknocker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "drone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "dropbox",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "easterdoorwreath",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.egg.suit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.furnace",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fuse",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "elevator",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "propanetank",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "propanetank",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rifle.explosive",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 64,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "explosives",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.extendedmags",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.f1",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.f1",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "factorydoor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmas.door.garland",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmas.window.garland",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "arrow.fire",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.pattern",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fishtrophy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "flamethrower",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "flameturret",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.flashbang",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "floor.triangle.ladder.hatch",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fogmachine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fridge",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "boots.frog",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack.single.1.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack.single.3.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack.single.2.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "frontiermirror.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "frontiermirror.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "frontiermirror.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "frontiermirror.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.boomboxportable",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.casetterecorder",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "furnace",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.frame.garagedoor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gears",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gears",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ghostsheet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "giantcandycanedecor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "giantlollipops",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldframe.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldframe.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldframe.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldframe.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldmirror.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldmirror.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldmirror.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "goldmirror.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "granolabar",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.graveyard.fence",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rockingchair.rockingchair3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "green.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.green.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.green",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "keycard_green",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.romancandle.green",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grub",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunpowder",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3000,
+    "amountMin": 500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunpowder",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4000,
+    "amountMin": 1500,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gun.water",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.handmade.shell",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 64,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.bunnyhat",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.oxmask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.ratmask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hatchet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatyoutooz",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "heavy.plate.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "heavy.plate.jacket",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "heavy.plate.pants",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "heavyscientistyoutooz",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.hemp",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.herring",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.hide.poncho",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gates.external.high.stone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.external.high.stone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gates.external.high.wood",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.external.high",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.external.high.ice",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "carburetor3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "crankshaft3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.refined",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 100,
+    "amountMin": 15,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hq.metal.ore",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 200,
+    "amountMin": 30,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "piston3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sparkplug3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "valve3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.hv",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hitchtroughcombo",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hmlmg",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hobobarrel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.holosight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "trap.landmine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.seeker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "homingmissile.launcher",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hoodie",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horse.saddle",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hab.armor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rifle.hv",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 128,
+    "amountMin": 32,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chair.icethrone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rifle.incendiary",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 128,
+    "amountMin": 32,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.fire",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "door.hinged.industrial.a",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "innertube",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "innertube.horse",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "innertube.unicorn",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jackolantern.angry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jackolantern.happy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jacket",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jackhammer",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.jerrycanguitar",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "drumkit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.l96",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "floor.ladder.hatch",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pictureframe.landscape",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lantern",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "largebackpack",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.hanging.banner.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pole.banner.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "largecandles",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "furnace.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "huntingtrophylarge",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "largemedkit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "planter.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.battery.rechargable.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.solarpanel.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "box.wooden.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "laserlight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "leather",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1500,
+    "amountMin": 500,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "burlap.gloves",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "legacyfurnace",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightup.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupframe.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupframe.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupframe.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupmirror.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupmirror.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupmirror.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lightupmirror.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "locker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "tshirt.long",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "longsword",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lowgradefuel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1500,
+    "amountMin": 250,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.lr300",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lumberjack.hatchet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lumberjack.pickaxe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lunar.firecrackers",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "lmg.m249",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.m39",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shotgun.m4",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.m92",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "syringe.medical",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 18,
+    "amountMin": 6,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "carburetor2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "crankshaft2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "piston2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sparkplug2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "valve2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.battery.rechargable.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "megaphone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "barricade.metal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalblade",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalblade",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.plate.torso",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.detector",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.facemask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.fragments",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6000,
+    "amountMin": 1500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shutter.metal.embrasure.a",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.ore",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6000,
+    "amountMin": 1500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metal.ore",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 12000,
+    "amountMin": 6000,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalpipe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalpipe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.frame.shopfront.metal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalspring",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "metalspring",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shutter.metal.embrasure.b",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.window.bars.metal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "microphonestand",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "military flamethrower",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "minecart.planter",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.minnows",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "mixingtable",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.mlrs",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "mobilephone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "modularcarlift",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "grenade.molotov",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smg.mp5",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "multiplegrenadelauncher",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "mushroom",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.muzzleboost",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.muzzlebrake",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "newyeargong",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "nightvisiongoggles",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.ninja.suit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuit.nomadsuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.orange",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.orangeroughy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "paddlingpool",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.flute",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pants",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "parachute",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "photoframe.landscape",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "photoframe.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "photoframe.portrait",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pickaxe",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jar.pickle",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pinata",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.pistol",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 256,
+    "amountMin": 128,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.pistol",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 512,
+    "amountMin": 256,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.trumpet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pookie.bear",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pictureframe.portrait",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "potato",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.potato",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.prototype17",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ptz.cctv.camera",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shotgun.pump",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shotgun.pump",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pumpkin",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.pumpkin",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.python",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.python",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.rabbitmask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rail.road.planter",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bearmeat",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chicken.raw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "deermeat.raw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.raw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horsemeat.raw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "meat.boar",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wolfmeat.raw",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "red.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.red.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "keycard_red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "keycard_red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.romancandle.red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.volcano.red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.window.glass.reinforced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.window.bars.toptier",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "box.repair.bench",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "research.table",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cupboard.tool.retro",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "riflebody",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "riot.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.jacket",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.jacket",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.kilt",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.kilt",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsigns",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsigns",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.gloves",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "roadsign.gloves",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horse.armor.roadsign",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.basic",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rocket.launcher",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rockingchair",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rope",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rope",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 40,
+    "amountMin": 15,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "apple.spoiled",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rug",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rug.bear",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_b",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_a",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_c",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_d",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_e",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rustige_egg_f",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horse.saddlebag",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.salmon",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "axe.salvaged",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "salvaged.cleaver",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hammer.salvaged",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "icepick.salvaged",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shelves",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "salvaged.sword",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.sam",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "samsite",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.sardine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "explosive.satchel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "explosive.satchel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scarecrow",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrap",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1000,
+    "amountMin": 250,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapframe.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapframe.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapframe.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapframe.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapmirror.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapmirror.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapmirror.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "scrapmirror.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "searchlight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "secretlabchair",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "semibody",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "semibody",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.semiauto",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "pistol.semiauto",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.semiauto",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rifle.semiauto",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sewingkit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sewingkit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sheetmetal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "door.hinged.metal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "door.double.hinged.metal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wall.ice.wall",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "guntrap",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.bass",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.neon.125x125",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.neon.125x215",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.neon.125x215.animated",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.neon.xl",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.neon.xl.animated",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.simplesight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "knife.skinning",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skulldoorknocker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skull_fire_pit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skull.trophy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skull.trophy.jar",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skull.trophy.jar2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skull.trophy.table",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skullspikes",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skullspikes.candles",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skullspikes.pumpkin",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skylantern",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skylantern.skylantern.green",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skylantern.skylantern.orange",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skylantern.skylantern.purple",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "skylantern.skylantern.red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sled",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sled.xmas",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sleepingbag",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smallbackpack",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smallcandles",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.fuelgenerator.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "huntingtrophysmall",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "small.oil.refinery",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "planter.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "electric.battery.rechargable.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.smallshark",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "stash.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "stocking.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.troutsmall",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smallwaterbottle",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smgbody",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ammo.rocket.smoke",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "trap.bear",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "jacket.snow",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "snowmachine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "snowman",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "attire.snowman.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sofa",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sofa.pattern",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "soundlight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fun.tuba",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuit.spacesuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "shotgun.spas12",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "spiderweb",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "spinner.wheel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "chicken.spoiled",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wolfmeat.spoiled",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "spookyspeaker",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fireplace.stone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "stones",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10000,
+    "amountMin": 1000,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "stones",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 18000,
+    "amountMin": 12000,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "storage_barrel_c",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "storage_barrel_b",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "strobelight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sulfur",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4500,
+    "amountMin": 1500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sulfur.ore",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4500,
+    "amountMin": 1500,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sulfur.ore",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15000,
+    "amountMin": 9000,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses02black",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses02camo",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses02red",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses03black",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses03chrome",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sunglasses03gold",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "stocking.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "supply.signal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "halloween.surgeonsuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "surveycharge",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "tactical.gloves",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pictureframe.tall",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack_tall.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "targeting.computer",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "tarp",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "tarp",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 15,
+    "amountMin": 3,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "rockingchair.rockingchair2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "techparts",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "telephone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smg.thompson",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "smg.thompson",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.tigermask",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "explosive.timed",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 4,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "cupboard.tool",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "torchholder",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "twitchrivals2023desk",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hazmatsuittwitch",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "trophy",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "trophy2023",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "twitchsunglasses",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.hanging",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.hanging.ornate",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.post.town.roof",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "twowaymirror.window",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit.armored",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit.with.engine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.engine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.flatbed",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.passengers.armored",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.rear.seats",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.storage",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.1mod.taxi",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.2mod.camper",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.2mod.flatbed",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.2mod.fuel.tank",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vehicle.2mod.passengers",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "vending.machine",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.boomer.violet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.romancandle.violet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.volcano.violet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "bottle.vodka",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wantedposter",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wantedposter.wantedposter2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wantedposter.wantedposter3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wantedposter.wantedposter4",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "water.barrel",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "waterjug",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.flashlight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weapon.mod.lasersight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 3,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weaponrack.doublelight",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "weaponrack.light",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack_stand",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "diving.wetsuit",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "piano",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "white.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.white.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "firework.volcano",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "gunrack_wide.horizontal",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "generator.wind.scrap",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "hat.wolf",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 6,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wood",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10000,
+    "amountMin": 1000,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wood",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 18000,
+    "amountMin": 12000,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wood.armor.helmet",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wood.armor.pants",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "wood.armor.jacket",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 1.0,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodframe.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodframe.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodframe.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodframe.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodmirror.large",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodmirror.medium",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodmirror.small",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "woodmirror.standing",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "box.wooden",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 5,
+    "probability": 0.75,
+    "stacksize": -1
+  },
+  {
+    "shortname": "spikes.floor",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 10,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "horse.armor.wood",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.1,
+    "stacksize": -1
+  },
+  {
+    "shortname": "ladder.wooden.wall",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 5,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "workbench1",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "workbench2",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "workbench3",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  },
+  {
+    "shortname": "worm",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 1,
+    "probability": 0.5,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pictureframe.xl",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xylophone",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmas.double.door.garland",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "xmas.lightstring.advanced",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 100,
+    "amountMin": 10,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "sign.pictureframe.xxl",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 1,
+    "amountMin": 1,
+    "probability": 0.01,
+    "stacksize": -1
+  },
+  {
+    "shortname": "yellow.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.3,
+    "stacksize": -1
+  },
+  {
+    "shortname": "seed.yellow.berry",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 20,
+    "amountMin": 5,
+    "probability": 0.15,
+    "stacksize": -1
+  },
+  {
+    "shortname": "fish.yellowperch",
+    "name": null,
+    "blueprint": false,
+    "skin": 0,
+    "amount": 2,
+    "amountMin": 1,
+    "probability": 0.05,
+    "stacksize": -1
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "<color=#00FFFF> БЛОКИРОВКА ПРЕДМЕТОВ </color>",
+    "Текст на второй строке": "<color=#00FFFF> НАЖМИТЕ ЧТОБЫ УЗНАТЬ БОЛЬШЕ </color>",
+    "Название сервера": "<color=#00FF00> FLASH BACK#1 [ MAX3/X2 ] </color>"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('1852' - на 1852 секунд вперёд, '-1852' на 1852 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "3600": [
+        "riot.helmet",
+        "bucket.helmet",
+        "crossbow"
+      ],
+      "10800": [
+        "pistol.revolver"
+      ],
+      "14400": [
+        "flamethrower",
+        "shotgun.double",
+        "coffeecan.helmet"
+      ],
+      "25200": [
+        "roadsign.jacket",
+        "roadsign.kilt",
+        "surveycharge",
+        "pistol.python",
+        "shotgun.pump",
+        "pistol.semiauto"
+      ],
+      "36000": [
+        "smg.2",
+        "pistol.m92",
+        "rifle.semiauto"
+      ],
+      "46800": [
+        "shotgun.spas12",
+        "metal.facemask",
+        "metal.plate.torso",
+        "rifle.m39",
+        "rifle.ak",
+        "rifle.lr300",
+        "smg.mp5",
+        "smg.thompson",
+        "door.hinged.toptier",
+        "door.double.hinged.toptier"
+      ],
+      "72000": [
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants",
+        "grenade.beancan",
+        "grenade.f1"
+      ],
+      "86400": [
+        "explosive.satchel"
+      ],
+      "100800": [
+        "rifle.bolt"
+      ],
+      "108000": [
+        "rifle.l96",
+        "explosive.timed",
+        "ammo.rifle.explosive",
+        "lmg.m249",
+        "rocket.launcher",
+        "ammo.rocket.basic",
+        "multiplegrenadelauncher"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Weapon": "ОРУЖИЯ",
+      "Ammunition": "БОЕПРИПАСОВ",
+      "Medical": "МЕДИЦИНЫ",
+      "Food": "ЕДЫ",
+      "Traps": "ЛОВУШЕК",
+      "Tool": "ИНСТРУМЕНТОВ",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Component": "КОМПОНЕНТОВ",
+      "Misc": "ПРОЧЕГО",
+      "Attire": "ОДЕЖДЫ"
+    }
+  },
+  "Включить поддержку экспериментальных функций": true
+}

@@ -1,0 +1,11 @@
+{
+  "NoAccessCommand": "У вас нет доступа к данной команде.",
+  "AdminOn": "Режим администратора включен.",
+  "AdminOff": "Режим администратора выключен.",
+  "YouMustBeOnGround": "Вы должны находится на земле перед тем как отключить режим администратора.",
+  "CommandHelp:Admin": "Используйте <color=#BEF781>/admin on</color> или <color=#BEF781>/admin off</color> чтобы включить или выключить режим администратора.",
+  "InvalidArgs:SteamId": "Некорретный формат SteamID64",
+  "InvalidArgs:SteamIdNotFound": "{0} не найден в базе данных.",
+  "RemoveData:SteamId": "{0} удалён из базы данных.",
+  "RemoveData:All": "База данных успешно очищена."
+}

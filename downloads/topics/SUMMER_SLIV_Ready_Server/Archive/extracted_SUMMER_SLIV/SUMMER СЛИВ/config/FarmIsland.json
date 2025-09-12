@@ -1,0 +1,15 @@
+{
+  "Радиус от центральной точки": 50.0,
+  "Центрая точка(координаты)": "(-437.2, 80.5, -637.9)",
+  "SkinID карты": 0,
+  "Ящик где спавнится карта/шанс": {
+    "crate_elite": 10.0,
+    "crate_normal": 10.0
+  },
+  "Количество камней которые должны заспавниться": 20,
+  "Список префабов камней": [
+    "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+    "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+    "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab"
+  ]
+}

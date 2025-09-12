@@ -1,0 +1,26 @@
+{
+  "76561199209488563": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 2,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false,
+      "IndexMarker": 0
+    }
+  }
+}

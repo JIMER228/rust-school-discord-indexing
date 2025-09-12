@@ -1,0 +1,21 @@
+{
+  "ItemBlocked": "This item is blocked.\n{0}d {1} until unblock.\nYou can use less powerfull weapon and armor.\nCheck command /{2} or press the block icon in the left corner",
+  "UIItemBlockedTitle": "This item is blocked",
+  "UIItemBlockedText": "{0}d {1} until unblock",
+  "Title": "WipeBlock",
+  "startBlocking": "Started afterwipe blocking",
+  "alreadyBlocking": "This item is already in block",
+  "addedToBlocking": "{0} was added to block for {1} hours",
+  "itemRemoved": "Item removed from block",
+  "syntax": "available syntax:\n /{0} wipe - start afterwipe blocking\n/{0} clear - clear the config\n /{0} remove - remove active item in hands from block\n /{0} add 5 - add active item in hands to block for 5 hours\n /{0} gendefault - generate default config\n/{0} generas - generate eras config",
+  "UITitle": "Unblocking in:",
+  "UIExit": "Exit",
+  "UIAvailable": "<color=#00ff00>unblocked</color>",
+  "stoneAge": "Stone Age",
+  "bronzeAge": "Bronze Age",
+  "enlightnmentAge": "Enlightnment Age",
+  "industrialAge": "Industrial Age",
+  "modernityAge": "Modernity Age",
+  "newUnblocked": "New items unblocked, check /{0}",
+  "": ""
+}

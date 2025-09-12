@@ -1,0 +1,37 @@
+{
+  "Command": [
+    "atp",
+    "autoteleport",
+    "autotp"
+  ],
+  "Friends button enabled": false,
+  "Default value for friends": true,
+  "Clan button enabled": true,
+  "Default value for clan": true,
+  "Team button enabled": true,
+  "Default value for team": true,
+  "UI Settings": {
+    "[Text] On": "ON",
+    "[Text] Off": "OFF",
+    "[Text] Clan": "Clan",
+    "[Text] Team": "Team",
+    "[Text] Deactivated": "INACTIVE",
+    "[Text] Friends": "Friends",
+    "[Text] Mail text": "Auto Teleports",
+    "[Color] Mail panel": "0.2 0.2 0.2 0.7",
+    "[Color] Label text": "1 1 1 1",
+    "[Color] On/Off Button text": "1 1 1 1",
+    "[Color] Button On": "0.5 0.75 0 0.8",
+    "[Color] Button Off": "0.7 0.2 0.2 0.8",
+    "[Color] Button deactivate": "0.9 0.9 0.9 0.8",
+    "[Size] Mail panel X": 250,
+    "[Size] Mail panel Y": 115,
+    "[Size] On/Off Button X": 100,
+    "[Size] On/Off Button Y": 20,
+    "[Size] Close button": 40,
+    "[Font] Mail text": 25,
+    "[Font] Label text": 30,
+    "[Font] On/Off Button text": 30,
+    "[Font] Close button text": 25
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Discord bot key (Look at documentation for how to get this)": "Njc1MDA2MTYzNDk4MDQxMzk5.Xjw7Ew.ga6as9ernX_ULbXcRizPPtDjJ70",
+  "Amount of characters in the code": 6,
+  "Command": "dsver",
+  "Commands to execute when player is verified (use {0} for the player's steamid)": [
+    "inventory.giveto {0} supply.signal 1"
+  ],
+  "Verification Role (role given when verified)": "✔",
+  "Erase all verification data on wipe (new map save)?": false,
+  "Code character set (code will be generated randomly with these characters)": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz"
+}

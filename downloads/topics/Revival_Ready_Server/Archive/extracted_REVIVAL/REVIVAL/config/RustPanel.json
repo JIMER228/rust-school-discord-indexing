@@ -1,0 +1,21 @@
+{
+  "Server name for control panel": "CookieMain",
+  "API URI (Do not change it!)": "https://api-rp5557.rustpanel.ru/api/plugin",
+  "SOCKET URI (Do not change it!)": "wss://socket-rp5557.rustpanel.ru",
+  "API TOKEN (Do not change it!)": "9accf30ad7a88ef9e7720e96df4a71a3",
+  "Unique server ID (Do not change it!)": "6p4jdg9bpp45iwyz",
+  "Command will open the GUI": "report",
+  "Report reasons for UI": [
+    "Чит",
+    "Макрос",
+    "Багоюз",
+    "4+"
+  ],
+  "Report cooldown (in secs)": 600,
+  "Additional scan for in-game reports (F7)": true,
+  "Show moderator avatar, when message from control panel": true,
+  "Message from control panel format (Vars: %NAME% - moderator's name, %MSG% - message)": "<color=#B1D6F1>%NAME%</color>: %MSG%",
+  "Ban kick reason (%REASON% - ban reason, %TIME% - date of unban)": "Вы забанены на этом сервере, причина: %REASON%",
+  "Ban broadcast (%TARGET% - target name, %REASON% - reason, you can keep empty for hide message": "%TARGET% was banned for %REASON%",
+  "Direct message format (when moderator is chatting with suspected player)": "<color=orange>Сообщение от модератора:</color>\n%MSG%"
+}

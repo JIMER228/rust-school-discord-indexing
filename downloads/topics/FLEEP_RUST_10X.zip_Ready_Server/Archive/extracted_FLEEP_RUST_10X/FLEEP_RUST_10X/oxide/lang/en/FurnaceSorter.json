@@ -1,0 +1,21 @@
+{
+  "Title": "FurnaceSorter: ",
+  "NoPerm": "You do not have permission to use this command",
+  "FurnaceSorterDisabled": "FurnaceSorter is now disabled.",
+  "FurnaceSorterEnabled": "FurnaceSorter is now enabled.",
+  "SorterEnabled": "Sorter Enabled",
+  "SorterDisabled": "Sorter Disabled",
+  "AutoFuelEnabled": "AutoFuel Enabled",
+  "AutoFuelDisabled": "AutoFuel Disabled",
+  "OptimizationUnavailable": "You can not use the Optimizer while the furnace is on!",
+  "NothingToOptimize": "There is nothing in the furnace to optimize. Optimization Failed!",
+  "NoWood": "The furnace does not appear to have wood. Optimization Failed!",
+  "NoAcceptableItems": "The furnace does not appear to have any valid items to optimize wood against. Optimization Failed!",
+  "WoodRatioGood": "The wood to acceptable item ratio is correct. No Optimization Required!",
+  "WoodNeeded": "Optimizing found you are short {0} wood",
+  "ExtraWoodGiven": "Optimizing found you have {0} extra wood. This wood has been placed in your inventory!",
+  "InventoryFull": "Your furnace has {0} extra wood but it will not fit in your inventory. Optimization Failed!",
+  "FurnaceOptimized": "Your furnace has been optimized!",
+  "TimeRemaining": "Time Remaining: {0}",
+  "FuelRequired": "Total Fuel Required: {0}"
+}

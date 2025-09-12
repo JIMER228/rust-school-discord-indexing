@@ -1,0 +1,864 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><div class="menubox">\
+  <a href="https://vk.com/crom_rust" target="_blank">\
+    <div class="menuvk">\
+      <h3>\uc0\u1043 \u1088 \u1091 \u1087 \u1087 \u1072  \u1042 \u1050 </h3>\
+      <p>\uc0\u1053 \u1086 \u1074 \u1086 \u1089 \u1090 \u1080 </p>\
+    </div>\
+  </a>\
+  <a href="https://discord.gg/7qGkd7FPx5" target="_blank">\
+    <div class="menuds">\
+      <h3>Discord \uc0\u1089 \u1077 \u1088 \u1074 \u1077 \u1088 </h3>\
+      <p>\uc0\u1053 \u1086 \u1074 \u1086 \u1089 \u1090 \u1080 </p>\
+    </div>\
+  </a>\
+      </a>\
+    <a href="https://vk.com/maic_rof" target="_blank">\
+    <div class="menuvk">\
+      <h3>VK \uc0\u1057 \u1086 \u1079 \u1076 \u1072 \u1090 \u1077 \u1083 \u1103 </h3>\
+      <p>\uc0\u1044 \u1083 \u1103  \u1089 \u1074 \u1103 \u1079 \u1080 </p>\
+    </div>\
+  </a>\
+    </a>\
+  <a href="https://discord.com/users/1058776648134172672/" target="_blank">\
+    <div class="menuds">\
+      <h3>Discord \uc0\u1057 \u1086 \u1079 \u1076 \u1072 \u1090 \u1077 \u1083 \u1103 </h3>\
+      <p>\uc0\u1044 \u1083 \u1103  \u1089 \u1074 \u1103 \u1079 \u1080 </p>\
+    </div>\
+  </a>\
+\
+</div></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+  .product__image \{\
+  width: 100%;\
+  transition: all 0.2s ease-out;\
+  margin-top: 12px;\
+  filter: grayscale(40%);\
+\}\
+.product:hover .product__image \{\
+  width: 100%;\
+  transition: all 0.2s ease-out;\
+  margin-top: 12px;\
+  transform: scale(0.95);\
+  filter: grayscale(100%);\
+\}\
+.store__filters .row \{\
+  margin-top: 50px;\
+\}\
+.store__filters .form-group .input-group .form-control \{\
+    border-radius: 100px;\
+    background-color: #ffffff;\
+\}\
+.store__filters .form-group .input-group .form-control::placeholder \{\
+  color: #828282;\
+\}\
+.store__filters .input-group .input-group-addon \{\
+  background-color: #828282;\
+  border-radius: 50%;\
+\}\
+.store__filters .input-group .input-group-addon .fa.fa-search \{\
+  color: #ffffff;\
+\}\
+.xbox.xbox_monitoring \{\
+  background-color: rgba(0,0,0,0);\
+  box-shadow: none;\
+\}\
+.xbox.xbox_monitoring .xbox__body \{\
+  margin-top: 25px;\
+  margin-left: -15px;\
+  background-color: #ffffff;\
+  padding: 35px;\
+  /*height: 60px;\
+  width: 100%;*/\
+  border-radius: 15px;\
+\}\
+.xbox.xbox_monitoring .xbox__footer \{\
+  display: none;\
+\}\
+/*.xserver \{\
+  margin-top: -22px;\
+\}*/\
+.xserver .progress \{\
+  background-color: #e6e7e8;\
+\}\
+  .colqq \{\
+  width: 25%;\
+  clear: none !important;\
+  padding: 0;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+.product \{\
+    border-radius: 30px 10px;\
+    height: 220px;\
+    background-color: #ffffff;\
+\}\
+.product__discount \{\
+    margin-top: 15px;\
+    margin-right: 15px;\
+    box-shadow: 0px 2px 5px -3px black;\
+    color: black;\
+    background-color: #ffffff;\
+    border-radius: 20px;\
+    z-index: 1;\
+\}\
+.product__price span \{\
+  position: absolute;\
+    margin-top: -15px;\
+    color: #828282;\
+    font-size: 12px;\
+    font-weight: 100;\
+    text-align: right;\
+\}\
+.product__price \{\
+    margin-top: 10px;\
+    top: 80%;\
+    text-align: right;\
+    width: 98%;\
+    background-color: rgba(0,0,0,0);\
+    color: #ee3e61;\
+    font-size: 15px;\
+    font-weight: 800;\
+\}\
+.product__name \{\
+  bottom: 50px;\
+  transform: translateY(100%);\
+  padding: 7px;\
+  width: 50%;\
+  color: black;\
+  font-weight: 600;\
+  overflow: hidden;\
+  background: rgba(0,0,0,0);\
+  text-overflow: ellipsis;\
+  transition: transform 0.4s ease;\
+  font-size: 10px;\
+  text-align: center;\
+\}\
+.product:hover .product__name \{\
+  bottom: 50px;\
+  transform: translateY(100%);\
+  padding: 7px;\
+  width: 50%;\
+  color: #828282;\
+  overflow: hidden;\
+  background: rgba(0,0,0,0);\
+  text-overflow: ellipsis;\
+  transition: transform 0.4s ease;\
+  font-size: 10px;\
+  text-align: center;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+/*  .xserver .xserver__title \{\
+  padding-top: 12px;\
+  color: #99aab5;\
+  font-size: 12px;\
+\}\
+.xserver .xserver__status-bar .progress \{\
+  background: rgba(255, 255, 255, 0.1);\
+\}\
+.xserver .xserver__status \{\
+  margin-top: -21px;\
+  margin-left: 17px;\
+  font-size: 12px;\
+  margin-bottom: 20px;\
+\}\
+.xserver .xserver__status \{\
+  color: black;\
+  width: 100%;\
+  \
+  font-size: 12px;\
+\}\
+.fa.fa-play \{\
+  display: none;\
+\}*/\
+.modal-content.modal-donate \{\
+  border-radius: 10px 30px;\
+  background-color: #f3f4f6;\
+\}\
+.modal-content.modal-donate .modal-header \{\
+  background-color: rgba(0,0,0,0);\
+  border: 0;\
+\}\
+.modal-content.modal-donate .modal-footer \{\
+  background-color: rgba(0,0,0,0);\
+  border: 0;\
+\}\
+.modal-content.modal-donate .service__description \{\
+  background-color: rgba(0,0,0,0);\
+  border: 0;\
+\}\
+.modal-content.modal-donate .modal-title \{\
+  font-size: 30px;\
+  text-align: center;\
+  color: #99aab5;\
+\}\
+.modal-dialog.modal-sm .modal-content \{\
+  background-color: #f3f4f6;\
+  border-radius: 10px 30px 10px 30px;\
+\}\
+.modal-dialog.modal-sm .modal-content .modal-header \{\
+  background-color: rgba(0,0,0,0);\
+\}\
+.modal-dialog.modal-sm .modal-content .modal-footer \{\
+  background-color: rgba(0,0,0,0);\
+\}\
+.modal-dialog.modal-sm .modal-content .modal-title \{\
+  color: #99aab5;\
+\}\
+.modal-dialog.modal-sm .modal-content .close \{\
+  display: none;\
+\}\
+.modal-dialog.modal-sm .modal-content .input-group-addon \{\
+  background-color: #ffffff;\
+  border-radius: 20px 0 0 20px;\
+\}\
+.modal-dialog.modal-sm .modal-content .input-group-addon .fa.fa-rub \{\
+  color: black;\
+\}\
+.fa.fa-eye \{\
+  position: relative;\
+  float: right;\
+  text-align: center;\
+  background-color: #ee3e61;\
+  width: 40px;\
+  height: 120%;\
+  font-size: 20px;\
+  padding: 4px;\
+  margin-top: -5px;\
+  border-radius: 0 15px 15px 0;\
+  transition: 0.2s;\
+  color: #ffffff;\
+  cursor: pointer;\
+\}\
+.fa.fa-eye:hover \{\
+  background-color: #ee3e61;\
+  transition: 0.2s;\
+  color: #ffffff;\
+\}\
+.service__description h3 \{\
+  position: relative;\
+  font-size: 12px;\
+  bottom: 5px;\
+  text-align: center;\
+  color: #99aab5;\
+\}\
+.modal-content.modal-donate .service__image img \{\
+  width: 10px;\
+\}\
+.modal-content.modal-donate .form-group .input-group .input-group-addon \{\
+  border-radius: 20px 0 0 20px;\
+  background-color: #ffffff;\
+  border: 0;\
+  font-size: 12px;\
+  color: #99aab5;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+.form-group .input-group .form-control \{\
+  background-color: #ffffff;\
+  color: black;\
+  box-shadow: none;\
+\}\
+\
+.product__servers.product__servers_all \{\
+  display: none;\
+\}\
+.product__command \{\
+  display: none;\
+\}\
+.modal-footer .btn.btn-default.pull-left \{\
+  background-color: rgba(0,0,0,0);\
+  border: 0;\
+  box-shadow: none;\
+  color: #99aab5;\
+\}\
+.modal-footer .btn.btn-default.pull-left:hover \{\
+  color: black;\
+\}\
+.modal-footer .cr-pointer.btn.btn-success.pull-right \{\
+  background-color: #ee3e61;\
+  margin-right: -29.5px;\
+  border-radius: 15px 0 0 15px;\
+\}\
+.modal-footer .cr-pointer.btn.btn-success.pull-right:hover \{\
+  background-color: #dc506c;\
+\}\
+.roulette-item \{\
+  background: none;\
+  box-shadow: none;\
+\}\
+.roulette-item__image \{\
+  background: #ffffff;\
+  width: 80%;\
+  height: 80%;\
+  border-radius: 30px;\
+  transform: skewY(-2deg);\
+\}\
+.roulette-item__description \{\
+  transform: skewY(-2deg);\
+\}\
+.roulette \{\
+    background-color: rgb(160 160 160 / 0%);\
+  -webkit-mask-image: linear-gradient(to left, rgba(256, 255, 255, 0) 13%, #000 41%, #000 69%, rgba(255, 255, 255, 0) 86%);\
+  \
+\}\
+.roulette:before \{\
+  border-top: 24px solid #99aab5;\
+  border-left: 15px solid transparent;\
+  border-right: 15px solid transparent;\
+  margin-left: -16px;\
+  margin-top: -30px;\
+  -webkit-animation: pulsing 2s infinite;\
+  animation: pulsing 2s infinite;\
+\}\
+.roulette::after \{\
+  display: none;\
+\}\
+.xbox.xbox_server \{\
+  width: 91%;\
+  border: none;\
+  box-shadow: none;\
+\}\
+.xbox.xbox_server .form-group .input-group .form-control \{\
+    border-radius: 100px;\
+    background-color: #ffffff;\
+    box-shadow: none;\
+\}\
+.xbox.xbox_server .form-group .input-group .form-control::placeholder \{\
+  color: #828282;\
+\}\
+.xbox.xbox_server .input-group .input-group-addon \{\
+  background-color: #828282;\
+  border-radius: 50%;\
+\}\
+.xbox.xbox_server .input-group .input-group-addon .fa.fa-search \{\
+  text-align: center;\
+  color: #ffffff;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+@-webkit-keyframes pulsing \{\
+  0% \{\
+    -webkit-transform: scale(0.5, 0.5);\
+    transform: scale(0.5, 0.5)\
+  \}\
+  50% \{\
+    -webkit-transform: scale(1.0, 1.0);\
+    transform: scale(1.0, 1.0);\
+  \}\
+  100% \{\
+    -webkit-transform: scale(0.5, 0.5);\
+    transform: scale(0.5, 0.5);\
+  \}\
+\}\
+\
+@keyframes pulsing \{\
+  0% \{\
+    -webkit-transform: scale(0.5, 0.5);\
+    transform: scale(0.5, 0.5)\
+  \}\
+  50% \{\
+    -webkit-transform: scale(1.0, 1.0);\
+    transform: scale(1.0, 1.0);\
+  \}\
+  100% \{\
+    -webkit-transform: scale(0.5, 0.5);\
+    transform: scale(0.5, 0.5);\
+  \}\
+\}\
+\
+.menubox \{\
+  margin-left: -8px;\
+  margin-right: 55px;\
+  margin-top: -10px;\
+  width: 100%;\
+\}\
+.menubox h3 \{\
+  color: black;\
+  font-size: 16px;\
+  padding-left: 60px;\
+  padding-top: 10px;\
+\}\
+.menubox p \{\
+  color: #99aab5;\
+  font-size: 12px;\
+  padding-left: 60px;\
+  margin-top: -10px;\
+\}\
+.menuvk \{\
+  background-color: #ffffff;\
+  width: 100%;\
+  height: 50px;\
+  border-radius: 15px;\
+  margin-bottom: -10px;\
+  background-image: url("https://imgur.com/4XHoy5z.png");\
+  background-size: 30px;\
+  background-position: 10px;\
+  background-repeat: no-repeat;\
+  transition: all 0.2s ease-out;\
+\}\
+.menuvk:hover \{\
+  transition: all 0.2s ease-out;\
+  transform: scale(0.95);\
+\}\
+.menuds \{\
+  background-color: #ffffff;\
+  width: 100%;\
+  height: 50px;\
+  border-radius: 15px;\
+  margin-bottom: -10px;\
+  background-image: url("https://imgur.com/UbN6vGn.png");\
+  background-size: 30px;\
+  background-position: 10px;\
+  background-repeat: no-repeat;\
+  transition: all 0.2s ease-out;\
+\}\
+.menuds:hover \{\
+  transition: all 0.2s ease-out;\
+  transform: scale(0.95);\
+\}\
+.menurules \{\
+  background-color: #ffffff;\
+  width: 100%;\
+  height: 50px;\
+  border-radius: 15px;\
+  margin-bottom: -10px;\
+  background-image: url("https://imgur.com/mKp8hYI.png");\
+  background-size: 30px;\
+  background-position: 10px;\
+  background-repeat: no-repeat;\
+  transition: all 0.2s ease-out;\
+\}\
+.menurules:hover \{\
+  transition: all 0.2s ease-out;\
+  transform: scale(0.95);\
+\}\
+.menublock \{\
+  background-color: #ffffff;\
+  width: 100%;\
+  height: 50px;\
+  border-radius: 15px;\
+  margin-bottom: -10px;\
+  background-image: url("https://imgur.com/yFsE3wa.png");\
+  background-size: 30px;\
+  background-position: 10px;\
+  background-repeat: no-repeat;\
+  transition: all 0.2s ease-out;\
+\}\
+.block-item \{\
+  width: 100px;\
+  border-radius: 5px 15px 5px 15px;\
+  margin-bottom: 10px;\
+  margin-left: 6px;\
+  background-color: #ffffff;\
+  transition: all 0.2s ease-out;\
+\}\
+.block-item-image \{\
+  transition: all 0.2s ease-out;\
+  width: 100%;\
+  padding: 10px;\
+\}\
+.block-item:hover \{\
+    transform: scale(1.04) rotate(-5deg);\
+    transition: all 0.3s;\
+	box-shadow: 0px 10px 10px -8px rgba(0, 0, 0, 0.1);\
+\}\
+.block-item-category \{\
+  width: 10%;\
+  height: 10%;\
+  display: inline-table;\
+\}\
+.block-item-time \{\
+  width: 90%;\
+  height: 30px;\
+  background-color: #ffffff;\
+  border-radius: 5px 15px 5px 15px;\
+  padding-top: 5px;\
+  margin-left: 9px;\
+  margin-bottom: 10px;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+.menublock:hover \{\
+  transition: all 0.2s ease-out;\
+  transform: scale(0.95);\
+\}\
+.menukit \{\
+  background-color: #ffffff;\
+  width: 100%;\
+  height: 50px;\
+  border-radius: 15px;\
+  margin-bottom: -10px;\
+  background-image: url("https://imgur.com/E2ROzjf.png");\
+  background-size: 30px;\
+  background-position: 10px;\
+  background-repeat: no-repeat;\
+  transition: all 0.2s ease-out;\
+\}\
+.menukit:hover \{\
+  transition: all 0.2s ease-out;\
+  transform: scale(0.95);\
+\}\
+.xbox_custom_rules \{\
+  color: black;\
+\}\
+.xbox_custom_rules li \{\
+  color: black;\
+  font-size: 12px;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+.desc__description \{\
+    text-align: center;\
+    display: flex;\
+    justify-content: center;\
+    flex-wrap: wrap;\
+    width: 100%;\
+    margin-left: 10px;\
+    margin-right: 10px;\
+    padding-right: 10px;\
+    padding-left: 10px;\
+    border-radius: 12px;\
+    margin-bottom: 15px;\
+    animation: zoomIn 1s;\
+\}\
+.desc-item \{\
+    display: flex;\
+    text-align: left;\
+    width:200px;\
+    margin-bottom: 10px;\
+\}\
+.desc-item-image \{\
+    width: 40px;\
+    margin-right: 16px;\
+    flex: 0 0 auto;\
+\}\
+.desc-item-title \{\
+    font-size: 15px;\
+    line-height: 20px;\
+    font-weight: 600;\
+    color: #23272a;\
+\}\
+.desc-item-amount \{\
+    font-size: 13px;\
+    line-height: 18px;\
+    color: #99aab5;\
+\}\
+.roulette-item__description \{\
+  color: #99aab5;\
+\}\
+.roulette-item__description b \{\
+  font-weight: 100;\
+\}\
+.roulette__description \{\
+    background-color: rgba(0,0,0,0);\
+\}\
+.modal-content.modal-donate .modal-footer \{\
+    margin-top: -30px;\
+    margin-bottom: 15px;\
+\}\
+.modal-content.modal-donate .modal-body .col-xs-6.col-sm-4.col-md-3 .kit-product \{\
+  border-radius: 20px;\
+  box-shadow: none;\
+  border: none;\
+\}\
+.service__description \{\
+  color: #99aab5;\
+  \}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----><div ng-repeat="widget in App.widgets">\
+	<!----><custom-widget ng-if="widget.type == 'custom'" code="widget.code"><div ng-bind-html="$sce.trustAsHtml(code)"><style>\
+.modal-content.modal-donate .modal-body .col-xs-6.col-sm-4.col-md-3 \{\
+  background-color: #ffffff;\
+  border-radius: 20px;\
+  width: 18.6%;\
+  margin-left: 10px;\
+  margin-bottom: 10px;\
+\}\
+.modal-content.modal-donate .modal-body .col-xs-6.col-sm-4.col-md-3 .kit-product__name \{\
+  display: none;\
+\}\
+.modal-content.modal-donate .modal-body .col-xs-6.col-sm-4.col-md-3 .kit-product__quantity \{\
+  background-color: rgba(0,0,0,0);\
+  color: #99aab5;\
+  text-align: center;\
+  width: 100%;\
+  height: 100%;\
+  padding-top: 120px;\
+\}\
+.modal-content.modal-donate .modal-body .col-xs-6.col-sm-4.col-md-3 .kit-product__image.isbp \{\
+  width: 100%;\
+\}\
+.fade.show \{\
+  opacity: 1;\
+  backdrop-filter: blur(5px);\
+\}\
+.modal.fade.show .modal-dialog.modal-lg .modal-content .modal-header \{\
+  background: none;\
+\}\
+.modal.fade.show .modal-dialog.modal-lg .modal-content \{\
+  background-color: #f3f4f6;\
+  border-radius: 5px 30px;\
+  color: #99aab5;\
+\}\
+.modal.fade.show .modal-dialog.modal-lg .modal-content .modal-title \{\
+  text-align: center;\
+  font-size: 40px;\
+\}\
+.modal.fade.show .modal-dialog.modal-lg .modal-content .modal-footer \{\
+  background: none;\
+\}\
+.modal.fade.show .modal-dialog.modal-lg .modal-content .btn.btn-danger \{\
+  position: absolute;\
+  background: none;\
+  left: 30px;\
+  bottom: 15px;\
+  color: #99aab5;\
+\}\
+.modal-backdrop.show \{\
+  opacity: .5;\
+\}\
+.modal.show .modal-dialog \{\
+  -webkit-transform: translate(0);\
+  transform: translate(0);\
+\}\
+.btn.btn-secondary \{\
+  margin-top: -20px;\
+  background-color: #ffffff;\
+  color: black;\
+  border-radius: 15px;\
+  font-size: 12px;\
+\}\
+.btn.btn-secondary:hover \{\
+  box-shadow: none;\
+  background-color: black;\
+  color: #ffffff;\
+\}\
+.serverheader \{\
+    border-radius: 15px;\
+    margin-bottom: 10px;\
+    font-size: 20px;\
+    margin-top: 20px;\
+\}\
+.serverheader span \{\
+    background: #d4d4d4;\
+    padding: 2px 12px 2px 12px;\
+    border-radius: 20px;\
+    color: white;\
+    text-transform: uppercase;\
+    font-size: 15px;\
+\}\
+.serverheader span:before \{\
+    font-family: FontAwesome;\
+    content: '\\f017';\
+    font-weight: 100;\
+    margin-right: 5px;\
+\}\
+.kit-items \{\
+  display: flex;\
+  justify-content: center;\
+  flex-wrap: wrap;\
+\}\
+.kit-item \{\
+    background: #ffffff;\
+    margin: 8px;\
+    border-radius: 15px;\
+    overflow: hidden;\
+    text-align: center;\
+    cursor: pointer;\
+	transform: rotate(0deg);\
+    transition: all 0.3s;\
+\}\
+.kit-item:hover \{\
+    transform: scale(1.04) rotate(-5deg);\
+    transition: all 0.3s;\
+	box-shadow: 0px 10px 10px -8px rgba(0, 0, 0, 0.1);\
+\}\
+.kit-item__image \{\
+    width: 100%;\
+    transform: scale(0.7);\
+\}\
+.xbox_custom_kits .kit-items__item \{\
+    width: 12.5% !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275281 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275282 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275283 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275284 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq \{\
+  width: 20%;\
+  clear: none !important;\
+\}\
+@media screen and (min-width:360px) and (orientation:landscape) \{\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275281 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275282 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275283 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275284 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+  .colqq \{\
+    width: 50%;\
+    clear: none !important;\
+  \}\
+\}\
+@media screen and (min-width:650px) and (orientation:landscape) \{\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275281 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275282 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275283 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275284 \{\
+  width: 25%;\
+  clear: none !important;\
+\}\
+  .colqq \{\
+    width: 20%;\
+    clear: none !important;\
+  \}\
+\}\
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) \{\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275281 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275282 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275283 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+.colqq.col-xs-6.col-md-4.col-lg-3.col-product-id-4275284 \{\
+  width: 50%;\
+  clear: none !important;\
+\}\
+  .colqq \{\
+    width: 50%;\
+    clear: none !important;\
+  \}\
+/*  .xserver \{\
+    width: 378px;\
+  \}\
+  .lightrope \{\
+    display: none;\
+  \}\
+  .xserver .xserver__status-bar .progress \{\
+    width: 90%;\
+  \}*/\
+.roulette-item__description \{\
+  transform: skewY(-2deg);\
+\}\
+.roulette__description \{\
+  background: none;\
+  text-align: center;\
+\}\
+.service__description \{\
+  background: none;\
+\}\
+.service__description h3 \{\
+  position: relative;\
+  font-size: 11px;\
+  bottom: 5px;\
+  text-align: center;\
+\}\
+.desc-item \{\
+  display: inline-block;\
+  margin-left: 5px;\
+  margin-bottom: 15px;\
+  width: 30%;\
+\}\
+.desc-item \{\
+  display: inline-block;\
+\}\
+.desc-item-image\{width:50px;height:50px;-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto\}\
+.desc-item-title\{float: left; width: 100%; text-align: left; top: -6px; font-size:19px;\}\
+.desc-item-amount\{float: left; text-align: left; width: 100%;  font-size:12px;\}\
+.roulette__description p \{\
+  display: none;\
+\}\
+.roulette__description > [ng-repeat="item in $ctrl.items"] \{\
+  display: none;\
+\}\
+</style></div></custom-widget><!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+	<!---->\
+</div><!----></div>}

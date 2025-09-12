@@ -1,0 +1,19 @@
+{
+  "Auto-update loot tables with new items": false,
+  "Global Loot Multiplier (multiplies all loot amounts by the number specified)": 1.0,
+  "Apply global and individual loot multipliers to un-stackable items": false,
+  "Loot Table Name": "default_loottable",
+  "Heli Loot Table Name": "default_heli_loottable",
+  "Bradley Loot Table Name": "default_bradley_loottable",
+  "Amount of crates to drop (Bradley APC - default 3, Set to -1 to disable)": -1,
+  "Amount of crates to drop (Patrol Helicopter - default 4, Set to -1 to disable)": -1,
+  "Override FancyDrop containers with supply drop profile": false,
+  "Use skins from the SkinBox skin list": false,
+  "Use skins from the PlayerSkins skin list": false,
+  "Use skins from the approved skin list": false,
+  "Version": {
+    "Major": 3,
+    "Minor": 1,
+    "Patch": 19
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "UserUnlocked": "Unlocked all blueprints for player \"{0}\"",
+  "UserUnlockedSome": "Player \"{0}\" has unlocked blueprints pack \"{1}\"",
+  "UserLocked": "Blueprints for player \"{0}\" reset to default",
+  "Syntax": "Wrong syntax! Use /{0} [unlock/lock] [player] [blueprint or custom permissions group or all]",
+  "Syntax1": "You forgot to specify what to unlock",
+  "NoPlayer": "Player {0} not found on the server!",
+  "NoDefFound": "Definition for item \"{0}\" (permission \"{1}\") not found! Check your config!",
+  "ItemNotFound": "Item \"{0}\" not found!",
+  "ItemUnlocked": "Blueprint for item \"{0}\" has being unlocked to player \"{1}\"!",
+  "MultiplyUsers": "Found multiply users by {0}:\n\t{1}!"
+}

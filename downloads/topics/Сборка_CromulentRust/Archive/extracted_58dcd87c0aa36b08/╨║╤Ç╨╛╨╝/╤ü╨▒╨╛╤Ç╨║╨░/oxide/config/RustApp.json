@@ -1,0 +1,18 @@
+{
+  "[UI] Chat commands": [
+    "report",
+    "reports"
+  ],
+  "[UI] Report reasons": [
+    "Чит",
+    "Макрос",
+    "Багоюз"
+  ],
+  "[UI] Cooldown between reports (seconds)": 300,
+  "[UI] Auto-parse reports from F7 (ingame reports)": true,
+  "[UI • Starter Plan] Show 'recently checked' checkbox (amount of days)": 7,
+  "[Chat] SteamID for message avatar (default account contains RustApp logo)": "76561198134964268",
+  "[Check] Command to send contact": "contact",
+  "[Ban] Enable broadcast server bans": true,
+  "[Custom Actions] Allow custom actions": true
+}

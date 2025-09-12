@@ -1,0 +1,38 @@
+{
+  "Backpack Icon": {
+    "Enable Icon": true,
+    "Image URL": ""
+  },
+  "Backpack size and permissions": [
+    "backpackpro.size1",
+    "backpackpro.size6",
+    "backpackpro.size12",
+    "backpackpro.size24",
+    "backpackpro.size42",
+    "backpackpro.size84",
+    "backpackpro.size168",
+    "backpackpro.size336",
+    "backpackpro.size672",
+    "backpackpro.size999"
+  ],
+  "Blacklist settings": {
+    "Blacklist (Item DisplayName)": [
+      "M249",
+      "Rocket Launcher",
+      "L96 Rifle"
+    ],
+    "Enable Blacklist": false
+  },
+  "Custom command": {
+    "Chat command Open BackPack": "b",
+    "Chat command switch 3D model": "bbset",
+    "Console command Open BackPack": "backpackpro.open"
+  },
+  "Death drop backpack retention seconds": 300,
+  "Death dropped backpack items": false,
+  "Default 3D Model Settings": {
+    "Default 3D model (false = Small stash , true = Backpack)": true,
+    "Default 3D Model size (giant,large,medium,small,mini)": "medium",
+    "Enable default model Display": true
+  }
+}

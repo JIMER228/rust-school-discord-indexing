@@ -1,0 +1,340 @@
+{
+  "The color of the button when all the items are present": "#80FF8080",
+  "Command": "craft",
+  "Enable debug?": true,
+  "Workbenches Setting": {
+    "None": {
+      "Color": "#00000080",
+      "Title": "Верстак не требуется!"
+    },
+    "One": {
+      "Color": "#80400080",
+      "Title": "Workbench 1 LVL"
+    },
+    "Two": {
+      "Color": "#0080FF80",
+      "Title": "Workbench 2 LVL"
+    },
+    "Three": {
+      "Color": "#FF000080",
+      "Title": "Workbench 3 LVL"
+    }
+  },
+  "Craft Settings": [
+    {
+      "Enabled craft?": true,
+      "Image": "https://i.imgur.com/YXjADeE.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Шестерни (20 шт)",
+        "- Дорожные знаки (25 шт)",
+        "- Метал (15000 шт)"
+      ],
+      "Command for give": "sasihyicopter",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "Коптер",
+      "Shortname": "electric.flasherlight",
+      "Amount": 1,
+      "Skin": 2080145158,
+      "Type (Item/Command/Vehicle/Recycler)": "Vehicle",
+      "Prefab (for Vehicle)": "assets/content/vehicles/minicopter/minicopter.entity.prefab",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "gears",
+          "Amount": 20,
+          "Skin": 0
+        },
+        {
+          "Shortname": "roadsigns",
+          "Amount": 25,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.fragments",
+          "Amount": 15000,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": null
+    },
+    {
+      "Enabled craft?": true,
+      "Image": "https://i.imgur.com/dmWQOm6.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Лезвия (15 шт)",
+        "- Трубы (10 шт)",
+        "- Метал (7500 шт)"
+      ],
+      "Command for give": "sasihyirowboat",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "Лодка",
+      "Shortname": "coffin.storage",
+      "Amount": 1,
+      "Skin": 2080150023,
+      "Type (Item/Command/Vehicle/Recycler)": "Vehicle",
+      "Prefab (for Vehicle)": "assets/content/vehicles/boats/rowboat/rowboat.prefab",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "metalblade",
+          "Amount": 15,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metalpipe",
+          "Amount": 10,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.fragments",
+          "Amount": 7500,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": null
+    },
+    {
+      "Enabled craft?": true,
+      "Image": "https://i.imgur.com/7JZE0Lr.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Трубы (50 шт)",
+        "- Шестрени (75 шт)",
+        "- Метал (30000 шт)"
+      ],
+      "Command for give": "sasihyiscrapheli",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "Корова",
+      "Shortname": "lantern",
+      "Amount": 1,
+      "Skin": 2080154394,
+      "Type (Item/Command/Vehicle/Recycler)": "Vehicle",
+      "Prefab (for Vehicle)": "assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "metalpipe",
+          "Amount": 50,
+          "Skin": 0
+        },
+        {
+          "Shortname": "gears",
+          "Amount": 75,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.fragments",
+          "Amount": 30000,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": null
+    },
+    {
+      "Enabled craft?": true,
+      "Image": "https://i.imgur.com/LLB2AVi.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Микросхемы (50 шт)",
+        "- Дорожные знаки (100 шт)",
+        "- Метал (35000 шт)"
+      ],
+      "Command for give": "sasihyirecycler",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "Переработчик",
+      "Shortname": "research.table",
+      "Amount": 1,
+      "Skin": 2186833264,
+      "Type (Item/Command/Vehicle/Recycler)": "Recycler",
+      "Prefab (for Vehicle)": "assets/bundled/prefabs/static/recycler_static.prefab",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "techparts",
+          "Amount": 50,
+          "Skin": 0
+        },
+        {
+          "Shortname": "roadsigns",
+          "Amount": 100,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.fragments",
+          "Amount": 35000,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": null
+    },
+    {
+      "Enabled craft?": true,
+      "Image": "https://i.imgur.com/mw1T17x.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Пружины (15 шт)",
+        "- Трубы (10 шт)",
+        "- Метал (2000 шт)"
+      ],
+      "Command for give": "sasihyilr300",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "LR300",
+      "Shortname": "rifle.lr300",
+      "Amount": 1,
+      "Skin": 0,
+      "Type (Item/Command/Vehicle/Recycler)": "Item",
+      "Prefab (for Vehicle)": "",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "metalspring",
+          "Amount": 15,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metalpipe",
+          "Amount": 10,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.refined",
+          "Amount": 100,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": null
+    },
+    {
+      "Enabled craft?": false,
+      "Image": "https://i.imgur.com/z7X5D5V.png",
+      "Description": [
+        "Ресурсы для крафта:",
+        "- Шестерни (45 шт)",
+        "- Дорожные знаки (35 шт)",
+        "- Метал (10000 шт)"
+      ],
+      "Command for give": "sasihyimod1",
+      "Permission for craft": "crafts.all",
+      "DisplayName": "Машина",
+      "Shortname": "electric.flasherlight",
+      "Amount": 1,
+      "Skin": 2244308598,
+      "Type (Item/Command/Vehicle/Recycler)": "ModularCar",
+      "Prefab (for Vehicle)": "",
+      "Command on give": "",
+      "Workbench Level": 0,
+      "Distance Check": true,
+      "Distance": 1.5,
+      "Place the ground": true,
+      "Place the structure": true,
+      "Items For Craft": [
+        {
+          "Shortname": "gears",
+          "Amount": 45,
+          "Skin": 0
+        },
+        {
+          "Shortname": "roadsigns",
+          "Amount": 35,
+          "Skin": 0
+        },
+        {
+          "Shortname": "metal.fragments",
+          "Amount": 10000,
+          "Skin": 0
+        }
+      ],
+      "For Modular Car": {
+        "CodeLock": true,
+        "KeyLock": false,
+        "Engine Parts Tier": 2,
+        "Fresh Water Amount": 0,
+        "Fuel Amount": 140,
+        "Modules": [
+          "vehicle.1mod.engine",
+          "vehicle.1mod.cockpit.armored",
+          "vehicle.1mod.cockpit.armored"
+        ]
+      }
+    }
+  ],
+  "Recycler Settings": {
+    "Recycling speed": 5.0,
+    "Use DDraw? (showing damage on the recycler)": true,
+    "DDraw Radius": 7.5,
+    "DDraw Text": "<size=19>RECYCLER</size>\n<size=15>{0}/{1}</size>",
+    "DDraw Color": "#C5D0E6",
+    "DDraw Delay (sec)": 0.75,
+    "Enabled pickup?": true,
+    "Only owner can pickup": true,
+    "Check ability to build for pickup": true,
+    "BaseProtection Settings": [
+      0.9,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.9,
+      0.5,
+      0.5,
+      0.0,
+      1.0,
+      1.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "Damage Scale": 0.5
+  },
+  "Car Settings": {
+    "Active Items (in hand)": {
+      "Forbid to hold all items": true,
+      "List of blocked items (shortname)": [
+        "explosive.timed",
+        "rocket.launcher",
+        "surveycharge",
+        "explosive.satchel"
+      ]
+    },
+    "DDraw Radius": 7.5,
+    "DDraw Text": "<size=15>{0}/{1}</size>",
+    "DDraw Color": "#C5D0E6",
+    "DDraw Delay (sec)": 0.75
+  }
+}

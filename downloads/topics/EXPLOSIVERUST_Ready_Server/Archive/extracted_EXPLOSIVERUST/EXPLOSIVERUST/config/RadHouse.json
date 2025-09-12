@@ -1,0 +1,341 @@
+{
+  "GUI": {
+    "Включить GUI ?": true,
+    "Anchor Min": "0.3445 0.16075",
+    "Anchor Max": "0.6405 0.20075",
+    "Цвет фона": "1 1 1 0.1",
+    "Текст в GUI окне": "Radiation House:"
+  },
+  "Основное": {
+    "Префикс чата": "<color=#ffe100>Radiation House:</color>",
+    "Минимальный онлайн для запуска ивента": 15,
+    "Материал дома (0 - солома, 4 - мвк)": 1,
+    "Отключить стандартную радиацию": false,
+    "Время спавна дома": 3600,
+    "Задержка перед лутанием ящика": 300,
+    "Задержка перед удалением дома": 60,
+    "Время удаления дома если в течение N секунд никто не авторизовался в шкафу": 300
+  },
+  "Карта": {
+    "Создавать радиус (круг) на стандартной карте": true,
+    "Радиус круга на стандартной карте (не ставить больше 9)": 1.0,
+    "Цвет круга на стандартной карте (#hex)": "#ce422b",
+    "Прозрачность круга на стандартной карте": 0.5,
+    "Описание маркера": "RadHouse"
+  },
+  "НПЦ": {
+    "Включить создание NPC возле радиационного дома": true,
+    "Какой размер здоровья устанавливать NPC": 200,
+    "Количество созданых NPC": 5,
+    "Удалять тело, и рюкзак NPC после его смерти": true
+  },
+  "Лут": {
+    "Common": [
+      {
+        "Charcoal": {
+          "ShortName": "charcoal",
+          "Min": 50000,
+          "Max": 70000
+        },
+        "Explosives": {
+          "ShortName": "explosives",
+          "Min": 250,
+          "Max": 400
+        },
+        "Fuel": {
+          "ShortName": "lowgradefuel",
+          "Min": 1300,
+          "Max": 2500
+        },
+        "GunPow": {
+          "ShortName": "gunpowder",
+          "Min": 7000,
+          "Max": 15000
+        },
+        "HQMetall": {
+          "ShortName": "metal.refined",
+          "Min": 700,
+          "Max": 1200
+        },
+        "Metall": {
+          "ShortName": "metal.fragments",
+          "Min": 25000,
+          "Max": 47000
+        },
+        "Stone": {
+          "ShortName": "stones",
+          "Min": 90000,
+          "Max": 130000
+        },
+        "Sulfur": {
+          "ShortName": "sulfur",
+          "Min": 10000,
+          "Max": 20000
+        },
+        "Wood": {
+          "ShortName": "wood",
+          "Min": 50000,
+          "Max": 90000
+        }
+      }
+    ],
+    "Rare": [
+      {
+        "MetallBarricade": {
+          "ShortName": "barricade.metal",
+          "Min": 2,
+          "Max": 3
+        },
+        "WoodGates": {
+          "ShortName": "gates.external.high.wood",
+          "Min": 1,
+          "Max": 1
+        },
+        "WoodWall": {
+          "ShortName": "wall.external.high",
+          "Min": 2,
+          "Max": 3
+        }
+      },
+      {
+        "Explosives": {
+          "ShortName": "explosives",
+          "Min": 10,
+          "Max": 40
+        },
+        "P250": {
+          "ShortName": "pistol.semiauto",
+          "Min": 1,
+          "Max": 1
+        },
+        "Python": {
+          "ShortName": "pistol.python",
+          "Min": 1,
+          "Max": 1
+        },
+        "Smg": {
+          "ShortName": "smg.2",
+          "Min": 1,
+          "Max": 1
+        },
+        "SmgMp5": {
+          "ShortName": "smg.mp5",
+          "Min": 1,
+          "Max": 1
+        },
+        "StoneGate": {
+          "ShortName": "gates.external.high.stone",
+          "Min": 1,
+          "Max": 1
+        },
+        "StoneWall": {
+          "ShortName": "wall.external.high.stone",
+          "Min": 2,
+          "Max": 3
+        }
+      },
+      {
+        "B4": {
+          "ShortName": "explosive.satchel",
+          "Min": 4,
+          "Max": 11
+        },
+        "Bolt": {
+          "ShortName": "rifle.bolt",
+          "Min": 1,
+          "Max": 1
+        },
+        "Thompson": {
+          "ShortName": "smg.thompson",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "Ak": {
+          "ShortName": "rifle.ak",
+          "Min": 1,
+          "Max": 1
+        },
+        "AmmoRifle": {
+          "ShortName": "ammo.rifle",
+          "Min": 90,
+          "Max": 150
+        },
+        "B4": {
+          "ShortName": "explosive.satchel",
+          "Min": 8,
+          "Max": 17
+        },
+        "Bolt": {
+          "ShortName": "rifle.bolt",
+          "Min": 1,
+          "Max": 1
+        },
+        "LR300": {
+          "ShortName": "rifle.lr300",
+          "Min": 1,
+          "Max": 1
+        },
+        "Mask": {
+          "ShortName": "metal.facemask",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "Ak": {
+          "ShortName": "rifle.ak",
+          "Min": 1,
+          "Max": 1
+        },
+        "AmmoRifle": {
+          "ShortName": "ammo.rifle",
+          "Min": 150,
+          "Max": 240
+        },
+        "Bolt": {
+          "ShortName": "rifle.bolt",
+          "Min": 1,
+          "Max": 1
+        },
+        "Launcher": {
+          "ShortName": "rocket.launcher",
+          "Min": 1,
+          "Max": 1
+        },
+        "LR300": {
+          "ShortName": "rifle.lr300",
+          "Min": 1,
+          "Max": 1
+        },
+        "M249": {
+          "ShortName": "lmg.m249",
+          "Min": 1,
+          "Max": 1
+        }
+      }
+    ],
+    "Top": [
+      {
+        "DdoorHQ": {
+          "ShortName": "door.double.hinged.toptier",
+          "Min": 1,
+          "Max": 2
+        },
+        "DoorHQ": {
+          "ShortName": "door.hinged.toptier",
+          "Min": 1,
+          "Max": 1
+        },
+        "p250": {
+          "ShortName": "pistol.semiauto",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "B4": {
+          "ShortName": "explosive.satchel",
+          "Min": 1,
+          "Max": 4
+        },
+        "m92": {
+          "ShortName": "pistol.m92",
+          "Min": 1,
+          "Max": 1
+        },
+        "Pomp": {
+          "ShortName": "shotgun.pump",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "Ak": {
+          "ShortName": "rifle.ak",
+          "Min": 1,
+          "Max": 1
+        },
+        "B4": {
+          "ShortName": "explosive.satchel",
+          "Min": 3,
+          "Max": 9
+        },
+        "Thompson": {
+          "ShortName": "smg.thompson",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "C4": {
+          "ShortName": "explosive.timed",
+          "Min": 1,
+          "Max": 3
+        },
+        "LR300": {
+          "ShortName": "rifle.lr300",
+          "Min": 1,
+          "Max": 1
+        },
+        "Plate": {
+          "ShortName": "metal.plate.torso",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "C4": {
+          "ShortName": "explosive.timed",
+          "Min": 3,
+          "Max": 5
+        },
+        "Launcher": {
+          "ShortName": "rocket.launcher",
+          "Min": 1,
+          "Max": 1
+        },
+        "M249": {
+          "ShortName": "lmg.m249",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "C4": {
+          "ShortName": "explosive.timed",
+          "Min": 7,
+          "Max": 10
+        },
+        "LauncherRocket": {
+          "ShortName": "ammo.rocket.basic",
+          "Min": 4,
+          "Max": 11
+        },
+        "M249": {
+          "ShortName": "lmg.m249",
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      {
+        "B4": {
+          "ShortName": "explosive.satchel",
+          "Min": 19,
+          "Max": 31
+        },
+        "C4": {
+          "ShortName": "explosive.timed",
+          "Min": 10,
+          "Max": 15
+        },
+        "LauncherRocket": {
+          "ShortName": "ammo.rocket.basic",
+          "Min": 15,
+          "Max": 35
+        }
+      }
+    ]
+  }
+}

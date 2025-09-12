@@ -1,0 +1,411 @@
+{
+  "Difficulty (0 = easy, 1 = medium, 2 = hard, 3 = expert, 4 = nightmare)": 0,
+  "Advanced Protection Radius": {
+    "Buyable Events": 50.0,
+    "Maintained Events": 50.0,
+    "Manual Events": 50.0,
+    "Scheduled Events": 50.0,
+    "Obstruction Distance Check": -1.0
+  },
+  "Advanced Setup Settings": {
+    "Amount Of Entities To Spawn Per Batch": 1,
+    "Amount Of Entities To Despawn Per Batch": 10,
+    "Height Adjustment Applied To This Paste": 0.0,
+    "Force All Bases To Spawn At Height Level (0 = Water)": -1.0,
+    "Foundations Immune To Damage When Forced Height Is Applied": false
+  },
+  "Elevators": {
+    "Enabled": true,
+    "Anchor Min": "0.406 0.915",
+    "Anchor Max": "0.59 0.949",
+    "Panel Alpha": 0.0,
+    "Required Access Level": 0,
+    "Panel Color": "#000000",
+    "Required Access Level Grants Permanent Use": false,
+    "Required Keycard Skin ID": 2690554489,
+    "Requires Building Permission": false,
+    "Button Health": 1000.0,
+    "Elevator Health": 600.0
+  },
+  "Entities Not Allowed To Be Picked Up": [
+    "generator.small",
+    "generator.static",
+    "autoturret_deployed"
+  ],
+  "Additional Bases For This Difficulty": {
+    "RaidBase1": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "RaidBase2": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "RaidBase3": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "RaidBase4": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "RaidBase5": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ]
+  },
+  "Paste Options": [
+    {
+      "Option": "stability",
+      "Value": "false"
+    },
+    {
+      "Option": "autoheight",
+      "Value": "false"
+    },
+    {
+      "Option": "height",
+      "Value": "1.0"
+    }
+  ],
+  "Arena Walls": {
+    "Enabled": true,
+    "Stacks": 1,
+    "Ignore Stack Limit When Clipping Terrain": true,
+    "Use Stone Walls": true,
+    "Use Iced Walls": false,
+    "Use Least Amount Of Walls": true,
+    "Use UFO Walls": false,
+    "Radius": 25.0
+  },
+  "NPC Levels": {
+    "Level 2 - Final Death": false
+  },
+  "NPCs": {
+    "Weapon Accuracy (0 - 100)": {
+      "AK47": 15.0,
+      "Bolt Rifle": 15.0,
+      "Compound Bow": 15.0,
+      "Crossbow": 15.0,
+      "Double Barrel Shotgun": 15.0,
+      "Eoka": 15.0,
+      "L96": 15.0,
+      "LR300": 15.0,
+      "M249": 15.0,
+      "M39": 15.0,
+      "M92": 15.0,
+      "MP5": 15.0,
+      "Nailgun": 15.0,
+      "Pump Shotgun": 15.0,
+      "Python": 15.0,
+      "Revolver": 15.0,
+      "Semi Auto Pistol": 15.0,
+      "Semi Auto Rifle": 15.0,
+      "Spas12": 15.0,
+      "Speargun": 15.0,
+      "SMG": 15.0,
+      "Snowball Gun": 15.0,
+      "Thompson": 15.0,
+      "Waterpipe Shotgun": 15.0
+    },
+    "Damage Multipliers": {
+      "Explosive Damage Multiplier": 1.0,
+      "Gun Damage Multiplier": 1.0,
+      "Melee Damage Multiplier": 1.0
+    },
+    "Spawn Inside Bases": {
+      "Spawn On Floors": false,
+      "Spawn On Beds": false,
+      "Spawn On Rugs": false,
+      "Spawn On Rugs With Skin Only": 1,
+      "Bed Health Multiplier": 1.0,
+      "Rug Health Multiplier": 1.0,
+      "Spawn Murderers Outside": true,
+      "Spawn Scientists Outside": true,
+      "Minimum Inside (-1 = ignore)": -1,
+      "Maximum Inside (-1 = ignore)": -1
+    },
+    "Murderer (Items)": {
+      "Helm": [
+        "metal.facemask"
+      ],
+      "Torso": [
+        "metal.plate.torso"
+      ],
+      "Pants": [
+        "pants"
+      ],
+      "Gloves": [
+        "tactical.gloves"
+      ],
+      "Boots": [
+        "boots.frog"
+      ],
+      "Shirt": [
+        "tshirt"
+      ],
+      "Kilts": [],
+      "Weapon": [
+        "machete"
+      ]
+    },
+    "Scientist (Items)": {
+      "Helm": [],
+      "Torso": [
+        "hazmatsuit_scientist_peacekeeper"
+      ],
+      "Pants": [],
+      "Gloves": [],
+      "Boots": [],
+      "Shirt": [],
+      "Kilts": [],
+      "Weapon": [
+        "rifle.ak"
+      ]
+    },
+    "Murderer Kits": [
+      "murderer_kit_1",
+      "murderer_kit_2"
+    ],
+    "Scientist Kits": [
+      "scientist_kit_1",
+      "scientist_kit_2"
+    ],
+    "Murderer Items Dropped On Death": [
+      {
+        "shortname": "ammo.pistol",
+        "name": null,
+        "amount": 30,
+        "skin": 0,
+        "amountMin": 1,
+        "probability": 1.0,
+        "stacksize": -1
+      }
+    ],
+    "Scientist Items Dropped On Death": [
+      {
+        "shortname": "ammo.rifle",
+        "name": null,
+        "amount": 30,
+        "skin": 0,
+        "amountMin": 1,
+        "probability": 1.0,
+        "stacksize": -1
+      }
+    ],
+    "Spawn Alternate Default Scientist Loot": {
+      "Prefab ID List": [
+        "cargo",
+        "turret_any",
+        "ch47_gunner",
+        "excavator",
+        "full_any",
+        "heavy",
+        "junkpile_pistol",
+        "oilrig",
+        "patrol",
+        "peacekeeper",
+        "roam",
+        "roamtethered"
+      ],
+      "Enabled": false
+    },
+    "Random Names": [],
+    "Enabled": true,
+    "Amount That Can Throw Weapons": 2,
+    "Amount Of Murderers To Spawn": 2,
+    "Minimum Amount Of Murderers To Spawn": 2,
+    "Spawn Random Amount Of Murderers": false,
+    "Amount Of Scientists To Spawn": 1,
+    "Minimum Amount Of Scientists To Spawn": 1,
+    "Spawn Random Amount Of Scientists": false,
+    "Allow Npcs To Roofcamp": false,
+    "Allow Npcs To Counter Raid": true,
+    "Allow Npcs To Leave Dome When Attacking": true,
+    "Allow Npcs To Shoot Players Outside Of The Dome": true,
+    "Allow Npcs To Play Catch When Equipped With Explosives": false,
+    "Aggression Range": 70.0,
+    "Block Damage Outside To Npcs When Not Allowed To Leave Dome": true,
+    "Block Damage Outside Of The Dome To Npcs Inside": false,
+    "Despawn Inventory On Death": true,
+    "Spawn Loadout In Corpses Inventory": false,
+    "Health For Murderers (100 min, 5000 max)": 150.0,
+    "Health For Scientists (100 min, 5000 max)": 150.0,
+    "Kill Underwater Npcs": true,
+    "Kits Are Unique When Applicable": false,
+    "Player Traps And Turrets Ignore Npcs": false,
+    "Use Dangerous Treasures NPCs": false
+  },
+  "Rewards": {
+    "Custom Currency": {
+      "Enabled": false,
+      "Item Shortname": "scrap",
+      "Item Name": null,
+      "Amount": 0,
+      "Skin": 0
+    },
+    "Economics Money": 0.0,
+    "ServerRewards Points": 0,
+    "SkillTree XP": 0.0,
+    "Do Not Reward Buyable Events": false
+  },
+  "Change Building Material Tier To": {
+    "Wooden": false,
+    "Stone": false,
+    "Metal": false,
+    "HQM": false
+  },
+  "Change Door Type To": {
+    "Wooden": false,
+    "Metal": false,
+    "HQM": false,
+    "Include Garage Doors": false
+  },
+  "Auto Turrets": {
+    "Aim Cone": 5.0,
+    "Wait To Power On Until Event Starts": false,
+    "Minimum Damage Modifier": 1.0,
+    "Maximum Damage Modifier": 1.0,
+    "Start Health": 1000.0,
+    "Sight Range": 30.0,
+    "Double Sight Range When Shot": false,
+    "Set Hostile (False = Do Not Set Any Mode)": true,
+    "Requires Power Source": false,
+    "Remove Equipped Weapon": false,
+    "Random Weapons To Equip When Unequipped": [
+      "rifle.ak"
+    ]
+  },
+  "Player Building Restrictions": {
+    "Wooden": false,
+    "Stone": false,
+    "Metal": false,
+    "HQM": false
+  },
+  "Water Settings": {
+    "Allow Bases To Float Above Water": false,
+    "Chance For Underwater Bases To Spawn (0-100) (BETA - WORK IN PROGRESS)": 0.0,
+    "Prevent Bases From Floating Above Water By Also Checking Surrounding Area": false,
+    "Maximum Water Depth Level Used For Float Above Water Option": 1.0,
+    "Minimum Water Depth Level Used For Seabed Option": -20.0,
+    "Maximum Water Depth Level Used For Seabed Option": -35.0,
+    "Torpedo Damage Multiplier (Min)": 5.0,
+    "Torpedo Damage Multiplier (Max)": 10.0
+  },
+  "Spawns Database": {
+    "Spawns Database File (Optional)": "none",
+    "Prevent Building Until Base Spawns": false,
+    "Ignore Safe Checks": false,
+    "Ignore Safe Checks In X Radius Only": 0.0,
+    "Ignore Player Entities At Custom Spawn Locations": false,
+    "Kill Sleeping Bags": true
+  },
+  "Profile Enabled": true,
+  "Maximum Land Level": 2.5,
+  "Allow Players To Use MLRS": true,
+  "Add Code Lock To Unlocked Or KeyLocked Doors": true,
+  "Add Code Lock To Tool Cupboards": false,
+  "Add Code Lock To Boxes": false,
+  "Add Code Lock To Lockers": true,
+  "Close Open Doors With No Door Controller Installed": true,
+  "Allow Duplicate Items": false,
+  "Allow Players To Pickup Deployables": false,
+  "Allow Players To Deploy A Cupboard": true,
+  "Allow Players To Deploy Barricades": true,
+  "Allow PVP": true,
+  "Allow Friendly Fire (Teams)": true,
+  "Amount Of Items To Spawn For Buyable Events (0 = Use Default Value)": 0,
+  "Minimum Amount Of Items To Spawn (0 = Use Max Value)": 0,
+  "Amount Of Items To Spawn": 30,
+  "Flame Turret Health": 300.0,
+  "Block Plugins Which Prevent Item Durability Loss": false,
+  "Block Damage Outside Of The Dome To Players Inside": false,
+  "Block Damage Outside Of The Dome To Bases Inside": false,
+  "Block Damage Inside From Npcs To Players Outside": false,
+  "Building Blocks Are Immune To Damage": false,
+  "Building Blocks Are Immune To Damage (Twig Only)": false,
+  "Boxes Are Invulnerable": false,
+  "Spawn Silently (No Notifcation, No Dome, No Map Marker)": false,
+  "Despawn Dropped Loot Bags From Raid Boxes When Base Despawns": false,
+  "Divide Loot Into All Containers": true,
+  "Drop Tool Cupboard Loot After Raid Is Completed": false,
+  "Drop Container Loot X Seconds After It Is Looted": 0.0,
+  "Drop Container Loot Applies Only To Boxes And Cupboards": true,
+  "Create Dome Around Event Using Spheres (0 = disabled, recommended = 5)": 5,
+  "Enable CopyPaste Stability Option (USE AT YOUR OWN RISK - POTENTIAL SERVER CRASH)": false,
+  "Empty All Containers Before Spawning Loot": true,
+  "Eject Corpses From Enemy Raids (Advanced Users Only)": true,
+  "Eject Corpses From PVE Instantly (Advanced Users Only)": false,
+  "Eject Enemies From Purchased PVE Raids": true,
+  "Eject Enemies From Purchased PVP Raids": false,
+  "Eject Enemies From Locked PVE Raids": true,
+  "Eject Enemies From Locked PVP Raids": false,
+  "Explosion Damage Modifier (0-999)": 100.0,
+  "Force All Boxes To Have Same Skin": true,
+  "Ignore Containers That Spawn With Loot Already": false,
+  "Loot Amount Multiplier": 1.0,
+  "Loot Amount Multiplier (raidablebases.buyable.vip.pve)": 1.0,
+  "Loot Amount Multiplier (raidablebases.buyable.vip.pvp)": 1.0,
+  "Maximum Respawn Npc X Seconds After Death": 0.0,
+  "Minimum Respawn Npc X Seconds After Death": 0.0,
+  "No Item Input For Boxes And TC": true,
+  "Penalize Players On Death In PVE (ZLevels)": true,
+  "Penalize Players On Death In PVP (ZLevels)": true,
+  "Require Cupboard Access To Loot": false,
+  "Require Cupboard Access To Place Ladders": false,
+  "Skip Treasure Loot And Use Loot In Base Only": false,
+  "Use Buoyant Boxex For Dropped Privilege Loot": false,
+  "Use Buoyant Boxex For Dropped Box Loot": false,
+  "Force Time In Dome To (requires raidablebases.time)": -1,
+  "Always Spawn Base Loot Table": false
+}

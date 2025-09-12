@@ -1,0 +1,30 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Got Message: Ready
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Console: IQReportSystem.cs(1404,36): warning CS0219: The variable `Suspect' is assigned but its value is never used
+IQReportSystem.cs(1413,36): warning CS0219: The variable `Suspect' is assigned but its value is never used
+IQReportSystem.cs(2509,38): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(3782,38): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(2944,39): warning CS0219: The variable `seconds' is assigned but its value is never used
+IQReportSystem.cs(2965,34): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(36,140): warning CS0649: Field `Oxide.Plugins.IQReportSystem.SLMenu' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(83,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatPreifx' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(84,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatColorChat' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(85,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatColorNick' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(120,33): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_ip' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(121,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_nick' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(122,32): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.another_accs' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(123,38): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_check' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(130,37): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.bans' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(126,30): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.moderSteamID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(127,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.serverName' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(128,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.time' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(133,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.banID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(134,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.reason' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(135,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.serverName' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(136,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.OVHserverID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(137,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.banDate' is never assigned to, and will always have its default value `0'
+
+[SERVER v1.0.24] Connection closed.
+[SERVER v1.0.24] Shutdown

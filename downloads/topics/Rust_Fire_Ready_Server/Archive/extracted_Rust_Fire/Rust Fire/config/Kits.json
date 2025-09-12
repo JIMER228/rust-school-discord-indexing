@@ -1,0 +1,3547 @@
+{
+  "1. Data save interval": 3600,
+  "2. Use auto-kits": true,
+  "3. GUI number": 481,
+  "4. Fade out time": 0.0,
+  "Auto-kits:": [
+    {
+      "1. Name": null,
+      "2. Display name": null,
+      "3. Permission": "",
+      "4. Cooldown": 0,
+      "5. Wipe-block time": 0,
+      "6. Icon": null,
+      "7. Description": null,
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": null,
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "stonehatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": null,
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "stone.pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": null,
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "torch",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    }
+  ],
+  "Kit list:": [
+    {
+      "1. Name": "Hunter",
+      "2. Display name": "Охотник",
+      "3. Permission": "kits.default",
+      "4. Cooldown": 1800,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/9mZ8piU.png",
+      "7. Description": "Поймай крупную дичь",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "hatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "arrow.wooden",
+          "amount": 36,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "bandage",
+          "amount": 3,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "spear.wooden",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "bow.hunting",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "attire.hide.vest",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "attire.hide.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "pants.shorts",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "knife.bone",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "auto",
+      "2. Display name": "",
+      "3. Permission": "Kits.auto",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "stone.pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "torch",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "stonehatchet",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Food",
+      "2. Display name": "Еда",
+      "3. Permission": "kits.default",
+      "4. Cooldown": 1800,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/1oHOUnH.png",
+      "7. Description": "Пора бы перекусить",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "can.beans",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "horsemeat.cooked",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "apple",
+          "amount": 5,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Medcine",
+      "2. Display name": "Медицина",
+      "3. Permission": "kits.default",
+      "4. Cooldown": 1200,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/JKs1LGB.png",
+      "7. Description": "Нужно подлечиться",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "syringe.medical",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "largemedkit",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "bandage",
+          "amount": 10,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Build",
+      "2. Display name": "Строитель",
+      "3. Permission": "kits.default",
+      "4. Cooldown": 300,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/PLHCdDW.png",
+      "7. Description": "Построй дом",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "hammer",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "building.planner",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Start",
+      "2. Display name": "Стартовый",
+      "3. Permission": "kits.default",
+      "4. Cooldown": 43200,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/v8T13wS.png",
+      "7. Description": "Начни выживание",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "wood",
+          "amount": 5000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "stones",
+          "amount": 2000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "metal.fragments",
+          "amount": 500,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "box.wooden.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "hat.wolf",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "sleepingbag",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "hatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "campfire",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "lock.code",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "furnace",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "VIP",
+      "2. Display name": "VIP",
+      "3. Permission": "kits.vip",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/xQJoGMc.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stones",
+          "amount": 15000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "wood",
+          "amount": 10000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 250,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 5000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "furnace.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "supply.signal",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hq.metal.ore",
+          "amount": 100,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.pistol",
+          "amount": 150,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "workbench1",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "semibody",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalspring",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsigns",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalpipe",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "gears",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "door.closer",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "sewingkit",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.shotgun",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "blueberries",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "coffeecan.helmet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.jacket",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tshirt.long",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.pistol": 4
+          },
+          "shortname": "pistol.semiauto",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.handmade.shell": 1
+          },
+          "shortname": "shotgun.double",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pickaxe",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "PREMIUM",
+      "2. Display name": "PREMIUM",
+      "3. Permission": "kits.premium",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/kxrFn2d.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stones",
+          "amount": 20000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "wood",
+          "amount": 15000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 500,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 10000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "furnace.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "supply.signal",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 150,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "semibody",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalspring",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsigns",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalpipe",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "gears",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "door.closer",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "sewingkit",
+          "amount": 30,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.refined",
+          "amount": 200,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "workbench2",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.pistol",
+          "amount": 100,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "blueberries",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hazmatsuit",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "coffeecan.helmet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.jacket",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tshirt.long",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "icepick.salvaged",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "axe.salvaged",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.pistol": 6
+          },
+          "shortname": "pistol.python",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 6
+          },
+          "shortname": "rifle.semiauto",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "ELITE",
+      "2. Display name": "ELITE",
+      "3. Permission": "kits.elite",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/AjPOI7y.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stones",
+          "amount": 25000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "wood",
+          "amount": 20000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 750,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 15000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "furnace.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "supply.signal",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "semibody",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalspring",
+          "amount": 30,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsigns",
+          "amount": 30,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalpipe",
+          "amount": 40,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "gears",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "door.closer",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "sewingkit",
+          "amount": 40,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.refined",
+          "amount": 250,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "workbench2",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "smgbody",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.pistol",
+          "amount": 200,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 200,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 19,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hazmatsuit",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "blueberries",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.jacket",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tactical.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hoodie",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.facemask",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "icepick.salvaged",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "axe.salvaged",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 6
+          },
+          "shortname": "rifle.semiauto",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.pistol": 7
+          },
+          "shortname": "smg.thompson",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "FIRE",
+      "2. Display name": "FIRE",
+      "3. Permission": "kits.fire",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/EweLFgR.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stones",
+          "amount": 40000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "wood",
+          "amount": 33000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 1250,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 20000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "furnace.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "supply.signal",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "semibody",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalspring",
+          "amount": 40,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsigns",
+          "amount": 40,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalpipe",
+          "amount": 50,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "gears",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "sewingkit",
+          "amount": 50,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.refined",
+          "amount": 500,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 19,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hazmatsuit",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "workbench3",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "blueberries",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "riflebody",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 300,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 23,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.flashlight",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "autoturret",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "small.oil.refinery",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 20,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "cloth",
+          "amount": 1000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 22,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.small.scope",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 21,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "leather",
+          "amount": 1000,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tactical.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hoodie",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.facemask",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.plate.torso",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 2
+          },
+          "shortname": "rifle.bolt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "chainsaw",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "jackhammer",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "BoomElite",
+      "2. Display name": "BoomElite",
+      "3. Permission": "kits.elite",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/9dzj7Sr.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "ammo.rifle.explosive",
+          "amount": 100,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "ammo.rocket.basic",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "explosive.timed",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "rocket.launcher",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "BoomFire",
+      "2. Display name": "BoomFire",
+      "3. Permission": "kits.fire",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/9dzj7Sr.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "ammo.rifle.explosive",
+          "amount": 150,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "ammo.rocket.basic",
+          "amount": 4,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "explosive.timed",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "rocket.launcher",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": null,
+          "shortname": "explosive.satchel",
+          "amount": 4,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Recycler",
+      "2. Display name": "Переработчик",
+      "3. Permission": "kits.rec",
+      "4. Cooldown": 259200,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/9Ul1QUW.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "box.repair.bench",
+          "amount": 1,
+          "skin": 1594245394
+        }
+      ]
+    },
+    {
+      "1. Name": "WIPE",
+      "2. Display name": "WIPE",
+      "3. Permission": "kits.wipe",
+      "4. Cooldown": 900,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/wCD9Vy0.png",
+      "7. Description": "Дадим жару перед вайпом!",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle.explosive",
+          "amount": 300,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle.explosive",
+          "amount": 200,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.muzzleboost",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.flashlight",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.silencer",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.lasersight",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.small.scope",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.muzzlebrake",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.small.scope",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.8x.scope",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 200,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rocket.basic",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rocket.fire",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rocket.hv",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "explosive.timed",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "woodcross",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "explosive.timed",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 19,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "multiplegrenadelauncher",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 20,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.grenadelauncher.he",
+          "amount": 24,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lmg.m249",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "woodcross",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.facemask",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.jacket",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shirt.collared",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rocket.basic": 0
+          },
+          "shortname": "rocket.launcher",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 2
+          },
+          "shortname": "rifle.l96",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "chicken.cooked",
+          "amount": 20,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "Новогодний",
+      "2. Display name": "Новогодний",
+      "3. Permission": "Kits.newyear",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/7V28i6S.png",
+      "7. Description": "С Наступающим Новым Годом!",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.lightstring",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.door.garland",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.lightstring.advanced",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "giantcandycanedecor",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.decoration.gingerbreadmen",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.decoration.pinecone",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "attire.reindeer.headband",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "giantlollipops",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "santahat",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "candycane",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.decoration.candycanes",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.decoration.tinsel",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "snowman",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "snowman",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.decoration.baubels",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.tree",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmasdoorwreath",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "xmas.window.garland",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "lowgradefuel": 5
+          },
+          "shortname": "lantern",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 19,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stocking.large",
+          "amount": 2,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 21,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "firework.boomer.blue",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 20,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "firework.boomer.blue",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 22,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "firework.boomer.green",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "scrap",
+          "amount": 100,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 5,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 3000,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 300,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "onekit",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "boots.frog",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tactical.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.facemask",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.jacket",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 30,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "bandage",
+          "amount": 20,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "FIREPROBOOM",
+      "2. Display name": "BoomFirePRO",
+      "3. Permission": "Kits.firepro",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/9dzj7Sr.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rocket.basic",
+          "amount": 8,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "explosive.timed",
+          "amount": 4,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle.explosive",
+          "amount": 300,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "explosive.satchel",
+          "amount": 15,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rocket.basic": 0
+          },
+          "shortname": "rocket.launcher",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "FireProBonus",
+      "2. Display name": "FIRE PRO Bonus",
+      "3. Permission": "Kits.firepro",
+      "4. Cooldown": 172800,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/eWeQ8GE.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "electric.generator.small",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": "Portable Vehicle",
+          "contents": {},
+          "shortname": "box.repair.bench",
+          "amount": 1,
+          "skin": 1742653197
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": "Карта доступа FIRE PRO",
+          "contents": {},
+          "shortname": "keycard_blue",
+          "amount": 1,
+          "skin": 2353467954
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hazmatsuit",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "box.repair.bench",
+          "amount": 1,
+          "skin": 1594245394
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": "Огненная бензопила",
+          "contents": {},
+          "shortname": "chainsaw",
+          "amount": 1,
+          "skin": 1512401556
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 0
+          },
+          "shortname": "lmg.m249",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": "Огненный отбойный молоток",
+          "contents": {},
+          "shortname": "jackhammer",
+          "amount": 1,
+          "skin": 1512412983
+        }
+      ]
+    },
+    {
+      "1. Name": "FirePro",
+      "2. Display name": "FIRE PRO",
+      "3. Permission": "Kits.firepro",
+      "4. Cooldown": 86400,
+      "5. Wipe-block time": 0,
+      "6. Icon": "https://i.imgur.com/E6wYSYL.png",
+      "7. Description": "",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stones",
+          "amount": 50000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "wood",
+          "amount": 50000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.fragments",
+          "amount": 50000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "furnace.large",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "supply.signal",
+          "amount": 4,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 8,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "semibody",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 10,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalspring",
+          "amount": 80,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 11,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsigns",
+          "amount": 60,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metalpipe",
+          "amount": 70,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 13,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "gears",
+          "amount": 40,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.refined",
+          "amount": 1000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 12,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "workbench3",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 21,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "blueberries",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 15,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "riflebody",
+          "amount": 25,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 16,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 300,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 23,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.flashlight",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 19,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "cloth",
+          "amount": 2000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 20,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "leather",
+          "amount": 2000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 18,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "scrap",
+          "amount": 800,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "lowgradefuel",
+          "amount": 2000,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 14,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "sewingkit",
+          "amount": 100,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 17,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "ammo.rifle",
+          "amount": 300,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 22,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "weapon.mod.small.scope",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 7,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "techparts",
+          "amount": 25,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "roadsign.kilt",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "shoes.boots",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "pants",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "tactical.gloves",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "hoodie",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.facemask",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Wear",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "metal.plate.torso",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "largemedkit",
+          "amount": 10,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "syringe.medical",
+          "amount": 20,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "small.oil.refinery",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 2
+          },
+          "shortname": "rifle.l96",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "autoturret",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "test",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 9,
+          "blueprint": false,
+          "displayName": "Portable Vehicle",
+          "contents": {},
+          "shortname": "box.repair.bench",
+          "amount": 1,
+          "skin": 1742653197
+        }
+      ]
+    },
+    {
+      "1. Name": "test2",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": "Супер карточка",
+          "contents": {},
+          "shortname": "keycard_blue",
+          "amount": 1,
+          "skin": 2353467954
+        }
+      ]
+    },
+    {
+      "1. Name": "test3",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": "Огненный отбойный молоток",
+          "contents": {},
+          "shortname": "jackhammer",
+          "amount": 1,
+          "skin": 2057228546
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": "Огненная бензопила",
+          "contents": {},
+          "shortname": "chainsaw",
+          "amount": 1,
+          "skin": 2057228026
+        }
+      ]
+    },
+    {
+      "1. Name": "123",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stonehatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stone.pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "torch",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    },
+    {
+      "1. Name": "top",
+      "2. Display name": "",
+      "3. Permission": "Kits.Unknown",
+      "4. Cooldown": 3600,
+      "5. Wipe-block time": 0,
+      "6. Icon": "",
+      "7. Description": "Kit description",
+      "8. Max uses": 0,
+      "9. Show to players without permission": false,
+      "Items:": [
+        {
+          "container": "Main",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Main",
+          "position": 6,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1000,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 0,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stonehatchet",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 1,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "stone.pickaxe",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 2,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {},
+          "shortname": "torch",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 3,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 4,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        },
+        {
+          "container": "Belt",
+          "position": 5,
+          "blueprint": false,
+          "displayName": null,
+          "contents": {
+            "ammo.rifle": 4
+          },
+          "shortname": "rifle.ak",
+          "amount": 1,
+          "skin": 0
+        }
+      ]
+    }
+  ]
+}

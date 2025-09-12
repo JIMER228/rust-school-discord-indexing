@@ -1,0 +1,384 @@
+{
+  "Enabled? [true/false]": true,
+  "Position": "(-759.7, 2.9, -25.8)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 8,
+      "Maximum numbers - Day": 10,
+      "Minimum numbers - Night": 8,
+      "Maximum numbers - Night": 10,
+      "NPCs setting": {
+        "Names": [
+          "Воин"
+        ],
+        "Health": 300.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 824898622
+          },
+          {
+            "ShortName": "metal.plate.torso",
+            "SkinID (0 - default)": 1113984430
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 1106548545
+          },
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 959641236
+          },
+          {
+            "ShortName": "burlap.gloves",
+            "SkinID (0 - default)": 874488180
+          },
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 1274163146
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "grenade.f1",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "rifle.ak",
+            "Amount": 1,
+            "SkinID (0 - default)": 2006878490,
+            "Mods": [
+              "weapon.mod.holosight",
+              "weapon.mod.flashlight"
+            ]
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(38.9, -0.3, -72.5)",
+        "(5.5, 0.1, -97.3)",
+        "(-16.5, 0.2, -67.5)",
+        "(-37.9, 0.1, -44.9)",
+        "(-51.7, 0.1, -12.5)",
+        "(-50.3, -0.9, 14.9)",
+        "(-31.9, 0.0, 48.0)",
+        "(-11.6, 0.1, 20.0)",
+        "(0.4, 0.0, -3.5)",
+        "(11.3, 0.1, -7.9)",
+        "(6.3, -0.5, -20.8)",
+        "(27.9, 0.0, -39.2)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    },
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 10,
+      "Maximum numbers - Day": 12,
+      "Minimum numbers - Night": 10,
+      "Maximum numbers - Night": 12,
+      "NPCs setting": {
+        "Names": [
+          "Штурмовик"
+        ],
+        "Health": 300.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 2124528682
+          },
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 1234956405
+          },
+          {
+            "ShortName": "metal.plate.torso",
+            "SkinID (0 - default)": 900807753
+          },
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 962694769
+          },
+          {
+            "ShortName": "burlap.gloves",
+            "SkinID (0 - default)": 1432966221
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 1196740980
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "grenade.f1",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "rifle.lr300",
+            "Amount": 1,
+            "SkinID (0 - default)": 2151920583,
+            "Mods": [
+              "weapon.mod.holosight",
+              "weapon.mod.lasersight"
+            ]
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(65.4, 49.9, -57.4)",
+        "(28.1, 49.9, -104.8)",
+        "(-16.6, 49.8, -115.9)",
+        "(-53.0, 49.8, -81.7)",
+        "(-68.9, 49.8, -24.2)",
+        "(-118.6, 49.8, 12.6)",
+        "(-48.5, 49.8, 70.2)",
+        "(-19.6, 49.8, 87.0)",
+        "(4.2, 49.8, 52.2)",
+        "(23.2, 49.8, 27.7)",
+        "(37.3, 49.8, 6.5)",
+        "(62.2, 49.8, -20.3)",
+        "(-66.7, 49.8, -56.3)",
+        "(-122.1, 49.8, 34.8)",
+        "(-86.0, 49.8, 44.2)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    },
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 6,
+      "Maximum numbers - Day": 6,
+      "Minimum numbers - Night": 6,
+      "Maximum numbers - Night": 6,
+      "NPCs setting": {
+        "Names": [
+          "Пулеметчик"
+        ],
+        "Health": 300.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 3.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 2080975449
+          },
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 2080977144
+          },
+          {
+            "ShortName": "metal.plate.torso",
+            "SkinID (0 - default)": 797410767
+          },
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 832021670
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 10023
+          },
+          {
+            "ShortName": "burlap.gloves",
+            "SkinID (0 - default)": 2090790324
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "grenade.f1",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "lmg.m249",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(21.5, 0.1, -12.0)",
+        "(15.8, 0.2, -17.7)",
+        "(-0.6, 1.0, -89.6)",
+        "(-4.2, 1.0, -86.0)",
+        "(-66.4, 0.8, 17.0)",
+        "(-59.4, 0.8, 3.7)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

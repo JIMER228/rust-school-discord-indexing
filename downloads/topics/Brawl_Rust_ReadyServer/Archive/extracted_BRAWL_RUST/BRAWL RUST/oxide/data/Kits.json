@@ -1,0 +1,3541 @@
+[
+  {
+    "Name": "autokit",
+    "DisplayName": "autokit",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tactical.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pickaxe",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 400.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hatchet",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 400.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "torch",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 50.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file:///C:/SERVER/Fox_Rust/oxide/data/Kits/rust.png"
+  },
+  {
+    "Name": "med",
+    "DisplayName": "med",
+    "Amount": 0,
+    "Cooldown": 300.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1008059961764479059/12312312312332333.png"
+  },
+  {
+    "Name": "dom",
+    "DisplayName": "dom",
+    "Amount": 0,
+    "Cooldown": 43200.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "wood",
+        "Amount": 20000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 20000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lock.code",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "door.double.hinged.toptier",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1008059961395400906/333333.png"
+  },
+  {
+    "Name": "tools",
+    "DisplayName": "tools",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 300,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "chainsaw",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1008059961059844156/131111.png"
+  },
+  {
+    "Name": "hunter",
+    "DisplayName": "hunter",
+    "Amount": 0,
+    "Cooldown": 300.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "hat.tigermask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood.armor.pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jacket",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "arrow.wooden",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bow.hunting",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 50.0,
+        "Weapon": {
+          "ammoType": "arrow.wooden",
+          "ammoAmount": 0
+        },
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1008059960627822592/123123.png"
+  },
+  {
+    "Name": "коптер",
+    "DisplayName": "коптер",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "electric.flasherlight",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 1680939801,
+        "Container": "belt",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://i.imgur.com/MvtcIGZ.png"
+  },
+  {
+    "Name": "res-redkiy",
+    "DisplayName": "res-redkiy",
+    "Amount": 0,
+    "Cooldown": 43200.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.redkiy",
+    "Items": [
+      {
+        "ShortName": "wood",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 125000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 4000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 3000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 75,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "fuse",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 200.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775949909131365/redkiyres.png"
+  },
+  {
+    "Name": "redkiypvp",
+    "DisplayName": "redkiypvp",
+    "Amount": 0,
+    "Cooldown": 10800.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.redkiy",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775949414223923/redkiypvp.png"
+  },
+  {
+    "Name": "res-mifik",
+    "DisplayName": "res-mifik",
+    "Amount": 0,
+    "Cooldown": 43200.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.mifik",
+    "Items": [
+      {
+        "ShortName": "wood",
+        "Amount": 150000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 150000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 75000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 7500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 7500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 7500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 7500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 15000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 175,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 75,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 75,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 75,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "targeting.computer",
+        "Amount": 32,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 50000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cctv.camera",
+        "Amount": 32,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775928069410966/mifikres.png"
+  },
+  {
+    "Name": "mifikpvp",
+    "DisplayName": "mifikpvp",
+    "Amount": 0,
+    "Cooldown": 10800.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.mifik",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775927759011920/mifikpvp.png"
+  },
+  {
+    "Name": "res-lega",
+    "DisplayName": "res-lega",
+    "Amount": 0,
+    "Cooldown": 43200.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.lega",
+    "Items": [
+      {
+        "ShortName": "stones",
+        "Amount": 200000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 15000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 12000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 15000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 20000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "targeting.computer",
+        "Amount": 64,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 100,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 200000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cctv.camera",
+        "Amount": 64,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775804295487649/reslega.png"
+  },
+  {
+    "Name": "pvp-lega",
+    "DisplayName": "pvp-lega",
+    "Amount": 0,
+    "Cooldown": 10800.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.lega",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 0.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 0.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 0.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 0.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 0.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 0.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 0.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 0.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 512,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 8,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1024,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1024,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 512,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 0.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 0.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1024,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.l96",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 60.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 2
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1024,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/959411527402811473/1007775803737636864/legapvp.png"
+  },
+  {
+    "Name": "спонсор",
+    "DisplayName": "спонсор",
+    "Amount": 0,
+    "Cooldown": 43200.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.sponsor",
+    "Items": [
+      {
+        "ShortName": "wood",
+        "Amount": 200000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 40000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 100000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tarp",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 40000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 40000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 300000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "propanetank",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gears",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cctv.camera",
+        "Amount": 300,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "targeting.computer",
+        "Amount": 300,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 600,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://i.imgur.com/bdsvXzq.png"
+  },
+  {
+    "Name": "спонсорган",
+    "DisplayName": "спонсорган",
+    "Amount": 0,
+    "Cooldown": 10800.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.sponsor",
+    "Items": [
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol.fire",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol.hv",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.hv",
+        "Amount": 720,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 440,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 440,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol.fire",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol.fire",
+        "Amount": 440,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.pistol",
+        "Amount": 440,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lmg.m249",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 500.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 15
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      }
+    ],
+    "Png": "https://i.imgur.com/bdsvXzq.png"
+  },
+  {
+    "Name": "redkiyfarm",
+    "DisplayName": "redkiyfarm",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "oretea.pure",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "mifikfarm",
+    "DisplayName": "mifikfarm",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "oretea.pure",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "legafarm",
+    "DisplayName": "legafarm",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "oretea.pure",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "oretea.pure",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "redkiypvp",
+    "DisplayName": "redkiypvp",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "mifikpvp",
+    "DisplayName": "mifikpvp",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 6,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "legapvp",
+    "DisplayName": "legapvp",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1280,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 768,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 8,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 8,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 8,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 200,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "maxhealthtea.pure",
+        "Amount": 8,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.lasersight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.holosight",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.extendedmags",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": []
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "pvpimba",
+    "DisplayName": "pvpimba",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 2837355854,
+        "Container": "wear",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 2837355407,
+        "Container": "wear",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 2823712439,
+        "Container": "wear",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 2837356384,
+        "Container": "belt",
+        "Condition": 148.5,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 0
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 10
+          },
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 10
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 10
+          }
+        ]
+      },
+      {
+        "ShortName": "lmg.m249",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 500.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 15
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.silencer",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.small.scope",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wall.external.high.stone",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  },
+  {
+    "Name": "pvpdirol",
+    "DisplayName": "pvpdirol",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 237232780,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2372299533,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2372357343,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tactical.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2372279687,
+        "Container": "wear",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2372313526,
+        "Container": "wear",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2372284024,
+        "Container": "wear",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 240,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 202,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 2846608142,
+        "Container": "belt",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 38
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.extendedmags",
+            "Condition": 100.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 30,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 32,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 31,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file://C:\\Servers\\gsp_3449\\185.66.84.216-35200\\server\\survivalhost.org\\oxide\\data\\Kits\\home.png"
+  }
+]

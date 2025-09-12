@@ -1,0 +1,20 @@
+{
+  "Частота работы таймера, сбрасывающего логи на диск (в секундах)": 25.0,
+  "Количество сообщений в буфере, для сброса на диск": 100,
+  "Фильтр слов, для исключения сообщений из лога": [
+    "inventory.endloot",
+    "inventory.lighttoggle",
+    "kits.destroy",
+    "global.serverinfo",
+    "ammo.pistol",
+    "ammo.rifle",
+    "gunpowder",
+    "bandage",
+    "ammo.handmade.shell",
+    "arrow.wooden",
+    "syringe.medical",
+    "ammo.shotgun.fire",
+    "grenade.beancan",
+    "lowgradefuel"
+  ]
+}

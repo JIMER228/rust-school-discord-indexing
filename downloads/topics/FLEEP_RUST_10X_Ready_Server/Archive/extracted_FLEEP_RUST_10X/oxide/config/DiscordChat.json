@@ -1,0 +1,68 @@
+{
+  "Discord Bot Token": "",
+  "Discord Server ID (Optional if bot only in 1 guild)": "",
+  "Enable Adding Discord Tag To In Game Messages When Sent From Discord": true,
+  "Channel Settings": {
+    "Chat Channel ID": "913909552431394846",
+    "Team Channel ID": "913913359366250526",
+    "Cards Channel ID": "",
+    "Join / Leave Channel ID": "913909552431394846",
+    "Server Online / Offline Channel ID": ""
+  },
+  "Message Settings": {
+    "Replace Discord User Message With Bot Message": true,
+    "Send Messages From Server Chat To Discord Channel": true,
+    "Send Messages From Discord Channel To Server Chat": true,
+    "Allow plugins to process Discord to Server Chat Messages": true,
+    "Discord Message Server Time Offset (Hours)": 0.0,
+    "Text Replacements": {
+      "TextToBeReplaced": "ReplacedText"
+    },
+    "Unlinked Settings": {
+      "Allow Unlinked Players To Chat With Server": true,
+      "Steam Icon ID": 76561199144296099
+    },
+    "Message Filter Settings": {
+      "Ignore messages from users in this list (Discord ID)": [],
+      "Ignore messages from users in this role (Role ID)": [],
+      "Ignored Prefixes": []
+    }
+  },
+  "Plugin Support": {
+    "AdminChat Settings": {
+      "Enable AdminChat Plugin Support": false,
+      "Chat Channel ID": "",
+      "Chat Prefix": "@",
+      "Replace Discord Message With Bot": true
+    },
+    "AntiSpamNames Settings": {
+      "Use AntiSpamNames On Player Names": false,
+      "Use AntiSpamNames On Server Messages": false,
+      "Use AntiSpamNames On Chat Messages": false,
+      "Use AntiSpamNames On Team Messages": false,
+      "Use AntiSpamNames On Card Messages": false
+    },
+    "BetterChatMute Settings": {
+      "Ignore Muted Players": true
+    },
+    "ChatTranslator Settings": {
+      "Enable Chat Translator": false,
+      "Use ChatTranslator On Server Messages": false,
+      "Use ChatTranslator On Chat Messages": false,
+      "Use ChatTranslator On Team Messages": false,
+      "Use ChatTranslator On Card Messages": false,
+      "Discord Server Chat Language": "en"
+    },
+    "Clan Settings": {
+      "Display Clan Tag": true
+    },
+    "UFilter Settings": {
+      "Use UFilter On Player Names": false,
+      "Use UFilter On Server Messages": false,
+      "Use UFilter On Discord Messages": false,
+      "Use UFilter On Team Messages": false,
+      "Use UFilter On Card Messages": false
+    }
+  },
+  "Discord Extension Log Level (Verbose, Debug, Info, Warning, Error, Exception, Off)": "Info"
+}

@@ -1,0 +1,114 @@
+{
+  "Gambling Wheel": {
+    "BaseItem": "spinner.wheel",
+    "SkinID": 2682493718,
+    "Prefab": "assets/prefabs/misc/casino/bigwheel/big_wheel.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": true,
+    "AdjustHeight": 0.0
+  },
+  "Gambling Terminal": {
+    "BaseItem": "mailbox",
+    "SkinID": 2682493107,
+    "Prefab": "assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": true,
+    "AdjustHeight": 0.0
+  },
+  "CH47": {
+    "BaseItem": "abovegroundpool",
+    "SkinID": 2682477500,
+    "Prefab": "assets/prefabs/npc/ch47/ch47.entity.prefab",
+    "NeedsTCAuth": false,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "PumpJack": {
+    "BaseItem": "abovegroundpool",
+    "SkinID": 2682458242,
+    "Prefab": "assets/bundled/prefabs/static/pumpjack-static.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": true,
+    "AdjustHeight": 0.0
+  },
+  "Water Pump (Ground)": {
+    "BaseItem": "box.wooden",
+    "SkinID": 2682449233,
+    "Prefab": "assets/prefabs/deployable/playerioents/waterpump/water.pump.deployed.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Recycler": {
+    "BaseItem": "box.wooden.large",
+    "SkinID": 2406283172,
+    "Prefab": "assets/bundled/prefabs/static/recycler_static.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": true,
+    "AdjustHeight": 0.0
+  },
+  "Slot Machine": {
+    "BaseItem": "arcade.machine.chippy",
+    "SkinID": 2682435313,
+    "Prefab": "assets/prefabs/misc/casino/slotmachine/slotmachine.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": true,
+    "AdjustHeight": 0.0
+  },
+  "Palm Medium": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2681722770,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_med_a_entity.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Palm Short": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2681722770,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_short_a_entity.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Mormon Tea Bush": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2685219527,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/mormon_tea_c.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Cactus High": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2685221352,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-1.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": -1.5
+  },
+  "Cactus Small": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2685221352,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-4.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Pine Tree": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2685224593,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_d.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  },
+  "Birch Tree Small": {
+    "BaseItem": "clone.hemp",
+    "SkinID": 2685224593,
+    "Prefab": "assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/birch_small_temp.prefab",
+    "NeedsTCAuth": true,
+    "CanBePickedUp": false,
+    "AdjustHeight": 0.0
+  }
+}

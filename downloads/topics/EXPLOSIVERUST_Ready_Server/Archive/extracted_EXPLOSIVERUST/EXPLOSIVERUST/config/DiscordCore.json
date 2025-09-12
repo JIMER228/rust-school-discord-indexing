@@ -1,0 +1,28 @@
+{
+  "Discord Bot Token": "",
+  "Discord Server ID (Optional if bot only in 1 guild)": "",
+  "Discord Server Name Override": "",
+  "Discord Server Join Code": "",
+  "Welcome Message Settings": {
+    "Enable Discord Server Welcome DM Message": true,
+    "Add Link Accounts Button In Welcome Message": true
+  },
+  "Link Settings": {
+    "Link Code Generator Characters": "123456789",
+    "Link Code Length": 6,
+    "Automatically Relink A Player If They Leave And Rejoin The Discord Server": true,
+    "Allow Commands To Be Used In Guild Channels": false,
+    "Allow Guild Commands Only In The Following Guild Channel Or Category (Channel ID Or Category ID)": [],
+    "Link / Unlink Announcement Channel Id": "",
+    "Guild Link Message Settings": {
+      "Enable Guild Link Message": false,
+      "Message Channel ID": ""
+    },
+    "Link Ban Settings": {
+      "Enable Link Ban": true,
+      "Ban Link After X Join Declines": 3,
+      "Ban Duration (Hours)": 24
+    }
+  },
+  "Discord Extension Log Level (Verbose, Debug, Info, Warning, Error, Exception, Off)": "Info"
+}

@@ -1,0 +1,16 @@
+{
+  "noPerms": "You do not have permission to use this command!",
+  "invalidSyntax": "Invalid Syntax, usage example: setscale <weaponname> <x.x>",
+  "itemSkinNotFound": "Item/Skin: \"{item}\" does not exist, syntax example: setscale <WeaponOrAmmoOrSkinName> <x.x>",
+  "invalidSyntaxBodyPart": "<color=orange>/scalebp weapon <shortname> <bone> <amount></color> - Scale damage done for <shortname> to <bone>",
+  "bodyPartExample": "<color=orange>-- ex. /scalebp weapon rifle.ak pelvis 1.25</color> - Damage done from a assault rifle to a pelvis is set to 125%",
+  "scaleList": "<color=orange>/scalebp list</color> - Displays all bones",
+  "shortnameNotFound": "Could not find a weapon with the shortname: <color=orange>{0}</color>",
+  "bonePartNotFound": "Could not find a bone called: <color=orange>{0}</color>. Check /scalebp list",
+  "bodyPartExample2": "<color=orange>/scalebp weapon <shortname> <bone> <amount></color>",
+  "successfullyChangedValueBP": "You have changed <color=orange>{0}'s</color> damage against <color=orange>{1}</color> to <color=orange>{2}</color>x damage",
+  "alreadySameValue": "This is already the value for the selected item!",
+  "scaledItem": "Scaled \"{engName}\" ({shortName}) to: {scaledValue}",
+  "prefabNotExist": "Prefab/Building grade does not exist: {0}",
+  "scaledPrefab": "Scaled Prefab/Building grade \"{0}\" by {1} for weapon {2}"
+}

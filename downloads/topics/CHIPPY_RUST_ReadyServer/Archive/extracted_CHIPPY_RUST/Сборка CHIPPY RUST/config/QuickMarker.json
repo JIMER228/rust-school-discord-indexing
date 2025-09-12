@@ -1,0 +1,15 @@
+{
+  "Buttons to use": [
+    134217728
+  ],
+  "Marker duration (seconds)": 5.0,
+  "Marker cooldown (seconds)": 1.0,
+  "Marker refresh rate (seconds)": 1.0,
+  "Markers limit (amount)": 3,
+  "Markers range limit (meters)": 300.0,
+  "Marker text": "<color=#CF1E1E>●\nВНИМАНИЕ!</color> ({m} м, {t} сек. назад)",
+  "Effects on placement": [
+    "assets/bundled/prefabs/fx/invite_notice.prefab",
+    "assets/bundled/prefabs/fx/invite_notice.prefab"
+  ]
+}

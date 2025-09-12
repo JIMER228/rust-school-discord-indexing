@@ -1,0 +1,15 @@
+Заголовок - Music
+Класс - audio
+Порядковый номер - 2
+
+HTML 
+===========================================
+<div ng-bind-html="$sce.trustAsHtml(code)">
+  <audio controls="" 
+         autoplay="" 
+         loop=""
+         id="audio1" 
+         allowtransparency="true" 
+         onloadeddata="setHalfVolume()">
+    <source src="http://qrust.survivalhost.org/RustExperimentalTimeLapse.mp3">
+</audio></div>

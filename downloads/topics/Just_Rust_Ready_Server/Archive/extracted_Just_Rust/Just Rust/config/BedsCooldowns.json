@@ -1,0 +1,20 @@
+{
+  "List": [
+    {
+      "Permission": "bedscooldowns.premium",
+      "Priority": 2,
+      "Sleeping bag cooldown": 200.0,
+      "Bed cooldown": 80.0,
+      "Sleeping bag unlock time": 200.0,
+      "Bed unlock time": 80.0
+    },
+    {
+      "Permission": "bedscooldowns.just",
+      "Priority": 1,
+      "Sleeping bag cooldown": 100.0,
+      "Bed cooldown": 40.0,
+      "Sleeping bag unlock time": 100.0,
+      "Bed unlock time": 40.0
+    }
+  ]
+}

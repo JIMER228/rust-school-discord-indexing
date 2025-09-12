@@ -1,0 +1,918 @@
+19:22 [Info] Loading Oxide Core v2.0.4050...
+19:22 [Info] Loading extensions...
+19:22 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:22 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+19:22 [Info] [InKernel] Debug -> False
+19:22 [Info] [InExtension] Install -> InCore.Interception.dll
+19:22 [Info] [InExtension] Install -> InCore.Kernel.dll
+19:22 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+19:22 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+19:22 [Info] Loaded extension Rust v2.0.5740 by Oxide Team and Contributors
+19:22 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:22 [Info] Unity version: 2019.4.7f1
+19:22 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:22 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:22 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:22 [Info] Using Covalence provider for game 'Rust'
+19:22 [Info] Loading plugins...
+19:22 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+19:22 [Info] Loaded plugin Rust v2.0.5740 by Oxide Team and Contributors
+19:22 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:22 [Info] Added '// Reference: System.Drawing' in plugin 'HitMarker'
+19:22 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:22 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:22 [Info] Added '// Reference: Tags' in plugin 'FGS'
+19:22 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+19:22 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+19:22 [Info] Added '// Reference: Tags' in plugin 'uCore'
+19:22 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, Backpack, BlockSystem, ChatSystem, ClanTournament, Clans, ComponentsEvent, ConnectMessages, CustomRock, DeathMessages, DiscordStatus, EvaScanner, Flaska, FurnaceSorter, GameStoresRUST, HitMarker, IQControllerSpawnCars, IQReportSystem, IQWipeBlock, ImageLibrary, InstantSystem, InventorySystem, Kits, LogoSystem, LotterySystem, MenuSystem, Metabolism, NameRewards, NeverWear, NoDuds, NoEscape, NoFlykick, NoGiveNotices, NoSteamHelper, PMSystem, PassSystem, PortableVehicles, PowerlessTurrets, QuickMarker, QuickSmelt, RadHouse, ReferralSystem, RemoveUpgradeV2, Rules, SkinBox, Skins, SkyReportSystem, StackSystem, Teams, Teleportation, TimeSystem, TimedPermissions, Trade, VKBot, Vanish, XAntiCheat, XNickController, XRaidProtection, XRate, XpSystem, AutomatedEvents, Discord, DiscordChat, DiscordCore, FGS, Guardian, LauncherAlkad, Logger, MultiFighting, PlayerAdministration, ServerStats, WipeNameChanger and uCore were compiled successfully in 0ms
+19:22 [Info] InCompiledAssemblyPatch
+19:22 [Error] Error while compiling: FixAnimalNRE.cs(39,42): error CS0308: The non-generic type `BaseAIBrain' cannot be used with the type arguments
+19:22 [Warning] A plugin has polluted the global namespace by defining <Module>
+19:22 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperModels
+19:22 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperController
+19:22 [Warning] A plugin has polluted the global namespace by defining StringExt
+19:22 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+19:22 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+19:22 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+19:22 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+19:22 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+19:22 [Warning] A plugin has polluted the global namespace by defining Tokens
+19:22 [Warning] A plugin has polluted the global namespace by defining UserData
+19:22 [Warning] A plugin has polluted the global namespace by defining Users
+19:22 [Warning] A plugin has polluted the global namespace by defining Steam
+19:22 [Warning] A plugin has polluted the global namespace by defining Response
+19:22 [Warning] A plugin has polluted the global namespace by defining Error
+19:22 [Warning] A plugin has polluted the global namespace by defining Params
+19:22 [Warning] A plugin has polluted the global namespace by defining Serialize
+19:22 [Warning] A plugin has polluted the global namespace by defining Converter
+19:22 [Warning] A plugin has polluted the global namespace by defining Helpers
+19:22 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+19:22 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+19:22 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+19:22 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+19:22 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`3
+19:22 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+19:22 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+19:22 [Warning] [Admin No Loot] Config Loaded
+19:22 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+19:22 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+19:22 [Info] Loaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin ClanTournament v0.0.1 by vins
+19:22 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+19:22 [Info] Loaded plugin ComponentsEvent v1.0.0 by Drop Dead
+19:22 [Info] Loaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Custom Rock v0.5.0 by birthdates
+19:22 [Info] Loaded plugin Death Messages v2.1.55 by oxide-russia.ru
+19:22 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+19:22 [Info] Loaded plugin EvaScanner v1.0.5 by Forent
+19:22 [Info] Loaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+19:22 [Warning] [IQReportSystem] Языковой файл загружен успешно
+19:22 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+19:22 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+19:22 [Info] Loaded plugin IQWipeBlock v0.1.0 by Mercury
+19:22 [Info] Loaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+19:22 [Info] Loaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+19:22 [Info] Loaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Warning] MenuSystem has replaced the 'block' chat command previously registered by IQWipeBlock
+19:22 [Info] Loaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+19:22 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+19:22 [Info] Loaded plugin NeverWear v0.1.4 by k1lly0u
+19:22 [Info] Loaded plugin No Duds v1.1.0 by bearr
+19:22 [Info] Loaded plugin NoEscape v2.3.3 by OxideBro
+19:22 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+19:22 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:22 [Info] Loaded plugin NoSteamHelper v1.2.0 by Kaidoz
+19:22 [Info] Loaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+19:22 [Info] Loaded plugin Quick Marker v1.0.1 by Orange
+19:22 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+19:22 [Info] Loaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+19:22 [Info] Loaded plugin Referral System v1.0.3 by TopPlugin.ru
+19:22 [Info] Loaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Warning] Missing plugin name prefix 'skinbox' for permission 'skins.change' (by plugin 'SkinBox')
+19:22 [Info] Loaded plugin SkinBox v1.0.0 by MarinWebCode
+19:22 [Info] Loaded plugin Skins v2.3.0 by misticos
+19:22 [Warning] SkyReportSystem has replaced the 'discord' chat command previously registered by IQReportSystem
+19:22 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:22 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+19:22 [Info] Loaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+19:22 [Info] Loaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:22 [Warning] VKBot has replaced the 'report.list' console command previously registered by IQReportSystem
+19:22 [Info] Loaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+19:22 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+19:22 [Info] Loaded plugin XAntiCheat v0.3.79 by fermens
+19:22 [Info] Loaded plugin XNickController v1.0.0 by Monster
+19:22 [Info] Loaded plugin XRaidProtection v1.0.9 by Monster
+19:22 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+19:22 [Info] Loaded plugin XpSystem v1.0.0 by Chibubrik
+19:22 [Warning] [Automated Events] Creating a new configuration file
+19:22 [Info] Loaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+19:22 [Warning] [Discord] Default Configuration File Created
+19:22 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+19:22 [Warning] [Discord Chat] Loading Default Config
+19:22 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+19:22 [Warning] [Discord Core] Loading Default Config
+19:22 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+19:22 [Info] Loaded plugin FGS v2.0.2 by Мизантроп
+19:22 [Warning] [Guardian] Configuration: Created new configuration with default settings.
+19:22 [Info] Loaded plugin Guardian v1.7.9 by WhiteDragon
+19:22 [Info] Loaded plugin LauncherAlkad v1.1.0 by KosiakS
+19:22 [Warning] [Logger] Could not load a valid configuration file, creating a new configuration file at /home/container/oxide/config/Logger.json
+19:22 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+19:22 [Info] [] Генерирую новый конфиг...
+19:22 [Info] Loaded plugin  v3.0.37 by Мизантроп
+19:22 [Info] Loaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+19:22 [Warning] [ServerStats] Config file ServerStats.json is not found, you new password: 450537
+19:22 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+19:22 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+19:22 [Info] [uCore] Генерирую новый конфиг...
+19:22 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:26 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'IQWipeBlock v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Game.Rust.Cui.CuiHelper.DestroyUi (BasePlayer player, System.String elem) [0x00035] in <d751e3243501430d98b83a09bb23a293>:0 
+  at Oxide.Plugins.IQWipeBlock.Interface_UI_Block (BasePlayer player, System.String Shortname, System.String ShortnameModule, System.UInt64 SkinID, System.Collections.Generic.List`1[T] playerList) [0x0002d] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.OnItemAddedToContainer (ItemContainer container, Item item) [0x00070] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.IQWipeBlock.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00830] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:27 [Info] IP address from command-line: 148.251.2.140
+19:27 [Info] [Arkan] Arkan Init: map seed: 1972, map size: 2500, server timestamp: 2023.1.13.19.22
+19:27 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+19:27 [Error] [GameStoresRUST] Incorrect ServerID, reciving auto commands (Products) disabled
+19:27 [Error] [GameStoresRUST] Verify that plugin is installed correct! Some of API settings are 'UNDEFINED'
+19:27 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+19:27 [Warning] [Image Library] Waiting for Steamworks to update item definitions....
+19:27 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 182ms
+19:27 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.admin' (by plugin 'RemoveUpgradeV2')
+19:27 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.use' (by plugin 'RemoveUpgradeV2')
+19:27 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.refund' (by plugin 'RemoveUpgradeV2')
+19:27 [Warning] [Skins] Item with shortname "shortname" does not exist. Please review your Skins configuration.
+19:27 [Warning] Skins has replaced the 'skin' chat command previously registered by SkinBox
+19:27 [Warning] Skins has replaced the 'skins' chat command previously registered by SkinBox
+19:27 [Warning] SkyReportSystem has replaced the 'report' chat command previously registered by IQReportSystem
+19:27 [Warning] [SkyReportSystem] Вы не указали названия сервера, плагин будет работать некорректно!
+19:27 [Error] [SkyReportSystem] -----------------------------------
+19:27 [Error] [SkyReportSystem]            SkyReportSystem         
+19:27 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+19:27 [Error] [SkyReportSystem]           Version = 1.0.3      
+19:27 [Error] [SkyReportSystem] -----------------------------------
+19:27 [Info] [StackSystem] Дата стаков успешно создана!
+19:27 [Warning] [Teams] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+19:27 [Warning] Calling 'OnServerInitialized' on 'VKBot v1.7.5' took 304ms [GARBAGE COLLECT]
+19:27 [Warning] Calling 'OnServerInitialized' on 'XAntiCheat v0.3.79' took 188ms
+19:27 [Warning] [XNickController] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2867
+-----------------------------
+19:27 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2857
+-----------------------------
+19:27 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 185ms
+19:27 [Warning] [Discord Chat] Please set the Discord Bot Token and reload the plugin
+19:27 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+19:27 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+19:27 [Info] [ServerStats] NetworkStatus: true
+19:27 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 176ms
+19:27 [Info] [uCore] Загружаю базу данных...
+19:27 [Info] [uCore] Создаем базу, если не существует...
+19:27 [Info] [uCore] База данных загружена...
+19:27 [Warning] [IQWipeBlock] Все предметы были успешно разблокированы! | All items have been successfully unlocked!
+19:27 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:27 [Info] [uCore] База загружена
+19:27 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+19:27 [Error] [LauncherAlkad] Плагин не настроен.
+ Если у вас нет магазина или группы VK, оставьте пустое значение "" в соответствующем поле.
+ После заполнения данных смените значение у параметра 'Данные_указаны_верно' на true
+
+Правильно:
+	https://vk.com/playrust_free
+	https://gamestores.ru
+	https://discord.com/invite/fdPJDxY
+
+Неправильно:
+	vk.com/playrust_free
+	rust.gamestores.ru/#/app/store/
+	https://gamestores.ru/#/app/store/
+
+19:27 [Warning] [Image Library] Retrieving item skin lists...
+19:27 [Warning] [Image Library] Processing approved skins; Page 1/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 2/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 3/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 4/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 5/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 6/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 7/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 8/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 9/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 10/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 11/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 12/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 13/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 14/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 15/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 16/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 17/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 18/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 19/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 20/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 21/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 22/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 23/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 24/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 25/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 26/36
+19:27 [Warning] [Image Library] Processing approved skins; Page 27/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 28/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 29/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 30/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 31/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 32/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 33/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 34/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 35/36
+19:28 [Warning] [Image Library] Processing approved skins; Page 36/36
+19:28 [Info] [Image Library] Approved skins loaded
+19:28 [Info] WipeNameChanger was compiled successfully in 2584ms
+19:28 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+19:28 [Info] InCompiledAssemblyPatch
+19:28 [Warning] WipeNameChanger has polluted the global namespace by defining <Module>
+19:28 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+19:28 [Info] [SkinBox] Загружено 215 встроенных скинов.
+19:28 [Info] [SkinBox] Загружено 3434 одобренных скинов.
+19:31 [Info] [Guardian] LogIpFilter
+19:36 [Info] [Guardian] LogIpFilter
+19:38 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+19:38 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+19:38 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+19:38 [Error] Failed to call hook 'OnUserConnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserConnected (Oxide.Core.Libraries.Covalence.IPlayer player) [0x0003f] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003e4] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:38 [Warning] [NoSteamHelper] No data player: 76561199139127596
+19:40 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Кофейное зерно#EvaR"
+19:40 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Кофейное зерно#EvaR"
+19:40 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Кофейное зерно#EvaR" wasn't removed from it.
+19:40 [Error] Failed to call hook 'OnUserConnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserConnected (Oxide.Core.Libraries.Covalence.IPlayer player) [0x0003f] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003e4] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:40 [Warning] [NoSteamHelper] No data player: 76561199125969491
+19:40 [Error] [] Кофейное зерно#EvaR зашел без GameWer
+19:43 [Info] Unloaded plugin IQWipeBlock v0.1.0 by Mercury
+19:45 [Info] Kits was compiled successfully in 2804ms
+19:45 [Info] Unloaded plugin Kits v1.1.2 by By Denzoff
+19:45 [Info] InCompiledAssemblyPatch
+19:45 [Warning] Kits has polluted the global namespace by defining <Module>
+19:45 [Warning] Kits has polluted the global namespace by defining <>__AnonType0`2
+19:45 [Warning] Kits has polluted the global namespace by defining <>__AnonType1`2
+19:45 [Warning] Calling 'OnServerInitialized' on 'Kits v1.1.2' took 117ms [GARBAGE COLLECT]
+19:45 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+19:45 [Info] Group 'default' granted permission 'kits.default'
+19:46 [Info] Permission 'xrate.default' doesn't exist
+19:47 [Info] Player 'Кофейное зерно#EvaR(76561199125969491)' added to group: admin
+19:48 [Info] Group 'admin' granted permission 'adminmenu.use'
+19:48 [Info] Permission 'adminmenu.group' doesn't exist
+19:48 [Info] Group 'admin' granted permission 'adminmenu.groups'
+19:48 [Info] Group 'admin' granted permission 'adminmenu.permissions'
+19:51 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+19:51 [Info] SkyReportSystem was compiled successfully in 2831ms
+19:51 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:51 [Info] InCompiledAssemblyPatch
+19:51 [Warning] SkyReportSystem has polluted the global namespace by defining <Module>
+19:51 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:51 [Warning] [SkyReportSystem] Вы не указали названия сервера, плагин будет работать некорректно!
+19:51 [Error] [SkyReportSystem] -----------------------------------
+19:51 [Error] [SkyReportSystem]            SkyReportSystem         
+19:51 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+19:51 [Error] [SkyReportSystem]           Version = 1.0.3      
+19:51 [Error] [SkyReportSystem] -----------------------------------
+19:51 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:53 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:53 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+19:53 [Error] [SkyReportSystem] -----------------------------------
+19:53 [Error] [SkyReportSystem]            SkyReportSystem         
+19:53 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+19:53 [Error] [SkyReportSystem]           Version = 1.0.3      
+19:53 [Error] [SkyReportSystem] -----------------------------------
+19:53 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:57 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 227
+19:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:57 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+19:57 [Info] Unloaded plugin ClanTournament v0.0.1 by vins
+19:58 [Info] ChatSystem was compiled successfully in 2715ms
+19:58 [Info] Unloaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+19:58 [Info] InCompiledAssemblyPatch
+19:58 [Warning] ChatSystem has polluted the global namespace by defining <Module>
+19:58 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+19:58 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:00 [Error] Failed to call hook 'OnUserDisconnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserDisconnected (Oxide.Core.Libraries.Covalence.IPlayer player, System.String reason) [0x00043] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00412] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:01 [Info] [Guardian] LogIpFilter
+20:01 [Info] [Guardian] LogIpFilter
+20:03 [Info] [Guardian] LogIpFilter
+20:03 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+20:03 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+20:03 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+20:03 [Error] Failed to call hook 'OnUserConnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserConnected (Oxide.Core.Libraries.Covalence.IPlayer player) [0x0003f] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003e4] in <c1fd33f3b5af43159ce1e0eba82732cc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:03 [Warning] [NoSteamHelper] No data player: 76561199153678475
+20:03 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+20:04 [Info] DiscordChat was compiled successfully in 2701ms
+20:04 [Info] Unloaded plugin Discord Chat v2.1.2 by MJSU
+20:04 [Info] InCompiledAssemblyPatch
+20:04 [Warning] DiscordChat has polluted the global namespace by defining <Module>
+20:04 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+20:04 [Info] DiscordStatus was compiled successfully in 482ms
+20:04 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+20:04 [Info] InCompiledAssemblyPatch
+20:04 [Warning] DiscordStatus has polluted the global namespace by defining <Module>
+20:04 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+20:04 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:04 [Error] [Discord Extension] [Error]: The plugin is asking for an intent you have not granted your bot. Please complete step 5 @ https://umod.org/extensions/discord#getting-your-api-key
+20:04 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+20:04 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+20:05 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+20:05 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+20:05 [Info] Discord was compiled successfully in 2525ms
+20:05 [Info] Unloaded plugin Discord v0.2.1 by seanbyrne88
+20:05 [Info] InCompiledAssemblyPatch
+20:05 [Warning] Discord has polluted the global namespace by defining <Module>
+20:05 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+20:05 [Info] DiscordCore was compiled successfully in 588ms
+20:05 [Info] Unloaded plugin Discord Core v2.1.3 by MJSU
+20:05 [Info] InCompiledAssemblyPatch
+20:05 [Warning] DiscordCore has polluted the global namespace by defining <Module>
+20:05 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+20:05 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+20:05 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+20:05 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+20:06 [Info] [Guardian] LogIpFilter
+20:07 [Error] Failed to call hook 'OnUserDisconnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserDisconnected (Oxide.Core.Libraries.Covalence.IPlayer player, System.String reason) [0x00043] in <30fb079f9e6e47b981d9a88b25843fd4>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00412] in <30fb079f9e6e47b981d9a88b25843fd4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:07 [Error] Failed to call hook 'OnUserDisconnected' on plugin 'DiscordChat v2.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.DiscordChat.OnUserDisconnected (Oxide.Core.Libraries.Covalence.IPlayer player, System.String reason) [0x00043] in <30fb079f9e6e47b981d9a88b25843fd4>:0 
+  at Oxide.Plugins.DiscordChat.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00412] in <30fb079f9e6e47b981d9a88b25843fd4>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:07 [Warning] Calling 'Unload' on 'AdminESP v0.0.11' took 263ms
+20:07 [Info] Unloaded plugin AdminESP v0.0.11 by OxideBro
+20:07 [Info] Unloaded plugin AdminMenu v0.1.50 by Menevt
+20:07 [Info] Unloaded plugin Admin No Loot v0.1.3 by Dana
+20:07 [Info] Unloaded plugin Arkan v1.0.18 by Antidote
+20:07 [Info] Unloaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin ComponentsEvent v1.0.0 by Drop Dead
+20:07 [Info] Unloaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Custom Rock v0.5.0 by birthdates
+20:07 [Info] Unloaded plugin Death Messages v2.1.55 by oxide-russia.ru
+20:07 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+20:07 [Info] Unloaded plugin EvaScanner v1.0.5 by Forent
+20:07 [Info] Unloaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+20:07 [Info] Unloaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+20:07 [Info] Unloaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Kits v1.1.2 by By Denzoff
+20:07 [Info] Unloaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Metabolism v1.0.0 by Orange
+20:07 [Info] Unloaded plugin NameRewards v1.1.1 by Vlad-00003
+20:07 [Info] Unloaded plugin NeverWear v0.1.4 by k1lly0u
+20:07 [Info] Unloaded plugin No Duds v1.1.0 by bearr
+20:07 [Info] Unloaded plugin NoEscape v2.3.3 by OxideBro
+20:07 [Info] Unloaded plugin No Flykick v1.0.0 by Drop Dead
+20:07 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:07 [Info] Unloaded plugin NoSteamHelper v1.2.0 by Kaidoz
+20:07 [Info] Unloaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Powerless Turrets v3.2.7 by August
+20:07 [Warning] Calling 'Unload' on 'QuickMarker v1.0.1' took 223ms
+20:07 [Info] Unloaded plugin Quick Marker v1.0.1 by Orange
+20:07 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 235ms
+20:07 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:07 [Info] Unloaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+20:07 [Info] Unloaded plugin Referral System v1.0.3 by TopPlugin.ru
+20:07 [Info] Unloaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Warning] Calling 'Unload' on 'SkinBox v1.0.0' took 230ms
+20:07 [Info] Unloaded plugin SkinBox v1.0.0 by MarinWebCode
+20:07 [Info] Unloaded plugin Skins v2.3.0 by misticos
+20:07 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+20:07 [Info] Unloaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin Timed Permissions v1.3.2 by LaserHydra
+20:07 [Info] Unloaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:07 [Info] Unloaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+20:07 [Info] Unloaded plugin Vanish v1.5.5 by Whispers88
+20:07 [Info] Unloaded plugin XAntiCheat v0.3.79 by fermens
+20:07 [Info] Unloaded plugin XNickController v1.0.0 by Monster
+20:07 [Info] Unloaded plugin XRaidProtection v1.0.9 by Monster
+20:07 [Warning] Calling 'Unload' on 'XRate v1.0.3' took 232ms
+20:07 [Info] Unloaded plugin XRate v1.0.3 by TopPlugin.ru
+20:07 [Info] Unloaded plugin XpSystem v1.0.0 by Chibubrik
+20:07 [Info] Unloaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+20:07 [Info] Unloaded plugin Discord v0.2.1 by seanbyrne88
+20:07 [Info] Unloaded plugin Discord Chat v2.1.2 by MJSU
+20:07 [Info] Unloaded plugin Discord Core v2.1.3 by MJSU
+20:07 [Info] Unloaded plugin FGS v2.0.2 by Мизантроп
+20:07 [Info] Unloaded plugin Guardian v1.7.9 by WhiteDragon
+20:07 [Info] Unloaded plugin LauncherAlkad v1.1.0 by KosiakS
+20:07 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+20:07 [Info] Unloaded plugin  v3.0.37 by Мизантроп
+20:07 [Info] Unloaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+20:07 [Info] Unloaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+20:07 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+20:07 [Info] Unloaded plugin uCore v1.1.83 by Мизантроп
+20:07 [Info] [ServerStats] NetworkStatus: false
+20:08 [Info] Loading Oxide Core v2.0.4050...
+20:08 [Info] Loading extensions...
+20:08 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+20:08 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+20:08 [Info] [InKernel] Debug -> False
+20:08 [Info] [InExtension] Install -> InCore.Interception.dll
+20:08 [Info] [InExtension] Install -> InCore.Kernel.dll
+20:08 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+20:08 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+20:08 [Info] Loaded extension Rust v2.0.5740 by Oxide Team and Contributors
+20:08 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:08 [Info] Unity version: 2019.4.7f1
+20:08 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:08 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:08 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:08 [Info] Using Covalence provider for game 'Rust'
+20:08 [Info] Loading plugins...
+20:08 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+20:08 [Info] Loaded plugin Rust v2.0.5740 by Oxide Team and Contributors
+20:08 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:08 [Info] Added '// Reference: System.Drawing' in plugin 'HitMarker'
+20:08 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:08 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:08 [Info] Added '// Reference: Tags' in plugin 'FGS'
+20:08 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+20:08 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+20:08 [Info] Added '// Reference: Tags' in plugin 'uCore'
+20:08 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, Backpack, BlockSystem, ChatSystem, ComponentsEvent, ConnectMessages, CustomRock, DeathMessages, DiscordStatus, EvaScanner, Flaska, FurnaceSorter, GameStoresRUST, HitMarker, IQControllerSpawnCars, ImageLibrary, InstantSystem, InventorySystem, Kits, LogoSystem, LotterySystem, MenuSystem, Metabolism, NameRewards, NeverWear, NoDuds, NoEscape, NoFlykick, NoGiveNotices, NoSteamHelper, PMSystem, PassSystem, PortableVehicles, PowerlessTurrets, QuickMarker, QuickSmelt, RadHouse, ReferralSystem, RemoveUpgradeV2, Rules, SkinBox, Skins, SkyReportSystem, StackSystem, Teams, Teleportation, TimeSystem, TimedPermissions, Trade, VKBot, Vanish, XAntiCheat, XNickController, XRaidProtection, XRate, XpSystem, AutomatedEvents, Discord, DiscordChat, DiscordCore, FGS, Guardian, LauncherAlkad, Logger, MultiFighting, PlayerAdministration, ServerStats, WipeNameChanger and uCore were compiled successfully in 0ms
+20:08 [Info] InCompiledAssemblyPatch
+20:08 [Error] Error while compiling: FixAnimalNRE.cs(39,42): error CS0308: The non-generic type `BaseAIBrain' cannot be used with the type arguments
+20:08 [Warning] A plugin has polluted the global namespace by defining <Module>
+20:08 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperModels
+20:08 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperController
+20:08 [Warning] A plugin has polluted the global namespace by defining StringExt
+20:08 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+20:08 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+20:08 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+20:08 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+20:08 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+20:08 [Warning] A plugin has polluted the global namespace by defining Tokens
+20:08 [Warning] A plugin has polluted the global namespace by defining UserData
+20:08 [Warning] A plugin has polluted the global namespace by defining Users
+20:08 [Warning] A plugin has polluted the global namespace by defining Steam
+20:08 [Warning] A plugin has polluted the global namespace by defining Response
+20:08 [Warning] A plugin has polluted the global namespace by defining Error
+20:08 [Warning] A plugin has polluted the global namespace by defining Params
+20:08 [Warning] A plugin has polluted the global namespace by defining Serialize
+20:08 [Warning] A plugin has polluted the global namespace by defining Converter
+20:08 [Warning] A plugin has polluted the global namespace by defining Helpers
+20:08 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+20:08 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+20:08 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+20:08 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+20:08 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`3
+20:08 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+20:08 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+20:08 [Warning] [Admin No Loot] Config Loaded
+20:08 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+20:08 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+20:08 [Info] Loaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin ComponentsEvent v1.0.0 by Drop Dead
+20:08 [Info] Loaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Custom Rock v0.5.0 by birthdates
+20:08 [Info] Loaded plugin Death Messages v2.1.55 by oxide-russia.ru
+20:08 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+20:08 [Info] Loaded plugin EvaScanner v1.0.5 by Forent
+20:08 [Info] Loaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+20:08 [Info] Loaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+20:08 [Info] Loaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+20:08 [Info] Loaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+20:08 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+20:08 [Info] Loaded plugin NeverWear v0.1.4 by k1lly0u
+20:08 [Info] Loaded plugin No Duds v1.1.0 by bearr
+20:08 [Info] Loaded plugin NoEscape v2.3.3 by OxideBro
+20:08 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+20:08 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:08 [Info] Loaded plugin NoSteamHelper v1.2.0 by Kaidoz
+20:08 [Info] Loaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+20:08 [Info] Loaded plugin Quick Marker v1.0.1 by Orange
+20:08 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:08 [Info] Loaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+20:08 [Info] Loaded plugin Referral System v1.0.3 by TopPlugin.ru
+20:08 [Info] Loaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Warning] Missing plugin name prefix 'skinbox' for permission 'skins.change' (by plugin 'SkinBox')
+20:08 [Info] Loaded plugin SkinBox v1.0.0 by MarinWebCode
+20:08 [Info] Loaded plugin Skins v2.3.0 by misticos
+20:08 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+20:08 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+20:08 [Info] Loaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+20:08 [Info] Loaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:08 [Info] Loaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+20:08 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+20:08 [Info] Loaded plugin XAntiCheat v0.3.79 by fermens
+20:08 [Info] Loaded plugin XNickController v1.0.0 by Monster
+20:08 [Info] Loaded plugin XRaidProtection v1.0.9 by Monster
+20:08 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+20:08 [Info] Loaded plugin XpSystem v1.0.0 by Chibubrik
+20:08 [Info] Loaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+20:08 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+20:08 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+20:08 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+20:08 [Info] Loaded plugin FGS v2.0.2 by Мизантроп
+20:08 [Info] Loaded plugin Guardian v1.7.9 by WhiteDragon
+20:08 [Info] Loaded plugin LauncherAlkad v1.1.0 by KosiakS
+20:08 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+20:08 [Info] Loaded plugin  v3.0.37 by Мизантроп
+20:08 [Info] Loaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+20:08 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+20:08 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+20:08 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+20:16 [Warning] [RadHouse] Wipe detect. Дата установлена на 01/13/2023 20:16:56
+20:17 [Info] IP address from command-line: 148.251.2.140
+20:17 [Info] [Arkan] Arkan Init: map seed: 51531, map size: 3000, server timestamp: 2023.1.13.20.7
+20:17 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+20:17 [Error] [GameStoresRUST] Incorrect ServerID, reciving auto commands (Products) disabled
+20:17 [Error] [GameStoresRUST] Verify that plugin is installed correct! Some of API settings are 'UNDEFINED'
+20:17 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+20:17 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v1.0.3' took 714ms
+20:17 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 255ms
+20:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.admin' (by plugin 'RemoveUpgradeV2')
+20:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.use' (by plugin 'RemoveUpgradeV2')
+20:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.refund' (by plugin 'RemoveUpgradeV2')
+20:17 [Warning] [Skins] Item with shortname "shortname" does not exist. Please review your Skins configuration.
+20:17 [Warning] Skins has replaced the 'skin' chat command previously registered by SkinBox
+20:17 [Warning] Skins has replaced the 'skins' chat command previously registered by SkinBox
+20:17 [Error] [SkyReportSystem] -----------------------------------
+20:17 [Error] [SkyReportSystem]            SkyReportSystem         
+20:17 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+20:17 [Error] [SkyReportSystem]           Version = 1.0.3      
+20:17 [Error] [SkyReportSystem] -----------------------------------
+20:17 [Warning] [Teams] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+20:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 226
+20:17 [Warning] Calling 'OnServerInitialized' on 'VKBot v1.7.5' took 133ms
+20:17 [Warning] Calling 'OnServerInitialized' on 'XAntiCheat v0.3.79' took 268ms
+20:17 [Warning] [XNickController] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2867
+-----------------------------
+20:17 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2857
+-----------------------------
+20:17 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 235ms
+20:17 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+20:17 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+20:17 [Info] [ServerStats] NetworkStatus: true
+20:17 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 167ms
+20:17 [Info] [uCore] Загружаю базу данных...
+20:17 [Info] [uCore] Создаем базу, если не существует...
+20:17 [Info] [uCore] База данных загружена...
+20:17 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:17 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:17 [Info] [uCore] База загружена
+20:17 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:17 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:17 [Info] [Discord Chat] Discord Chat Ready
+20:17 [Error] [LauncherAlkad] Плагин не настроен.
+ Если у вас нет магазина или группы VK, оставьте пустое значение "" в соответствующем поле.
+ После заполнения данных смените значение у параметра 'Данные_указаны_верно' на true
+
+Правильно:
+	https://vk.com/playrust_free
+	https://gamestores.ru
+	https://discord.com/invite/fdPJDxY
+
+Неправильно:
+	vk.com/playrust_free
+	rust.gamestores.ru/#/app/store/
+	https://gamestores.ru/#/app/store/
+
+20:18 [Info] [SkinBox] Загружено 215 встроенных скинов.
+20:18 [Info] [SkinBox] Загружено 3434 одобренных скинов.
+20:20 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:22 [Info] [Guardian] IP Filter: Allowed connection from 37.212.10.57
+20:25 [Info] SkyReportSystem was compiled successfully in 2890ms
+20:25 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:25 [Info] InCompiledAssemblyPatch
+20:25 [Warning] SkyReportSystem has polluted the global namespace by defining <Module>
+20:25 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+20:25 [Error] [SkyReportSystem] -----------------------------------
+20:25 [Error] [SkyReportSystem]            SkyReportSystem         
+20:25 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+20:25 [Error] [SkyReportSystem]           Version = 1.0.3      
+20:25 [Error] [SkyReportSystem] -----------------------------------
+20:25 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:31 [Info] [Guardian] IP Filter: Allowed connection from 37.215.2.168
+20:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "петух"
+20:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "петух"
+20:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "петух" wasn't removed from it.
+20:35 [Warning] [NoSteamHelper] No data player: 76561199395456565
+20:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+20:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+20:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "prizrak?!" wasn't removed from it.
+20:35 [Warning] [NoSteamHelper] No data player: 76561199274937580
+20:43 [Info] [Discord Chat] [Discord] Forent13#6666: Всем ку
+20:44 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:47 [Info] [Guardian] IP Filter: Allowed connection from 37.212.32.132
+20:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 231
+20:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:49 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+20:49 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+20:49 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+20:49 [Warning] [NoSteamHelper] No data player: 76561199183978551
+21:01 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+21:01 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:01 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:13 [Info] [Guardian] IP Filter: Allowed connection from 188.163.110.37
+21:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "HoN"
+21:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "HoN"
+21:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "HoN" wasn't removed from it.
+21:15 [Warning] [NoSteamHelper] No data player: 76561198022429197
+21:15 [Error] [] HoN[76561198022429197] зашел без GameWer
+21:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 232
+21:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+21:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:23 [Info] StackSystem was compiled successfully in 2734ms
+21:23 [Info] Unloaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+21:23 [Info] InCompiledAssemblyPatch
+21:23 [Warning] StackSystem has polluted the global namespace by defining <Module>
+21:23 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+21:23 [Info] [Discord Chat] [Discord] Forent13#6666: Стаки поменяли!
+21:30 [Info] [Guardian] IP Filter: Allowed connection from 46.216.118.165
+21:32 [Info] [Guardian] IP Filter: Allowed connection from 46.216.118.165
+21:38 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+21:38 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+21:38 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+21:38 [Warning] [NoSteamHelper] No data player: 76561199139127596
+21:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 232
+21:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:47 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+21:58 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+21:58 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:58 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+22:02 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+22:13 [Info] [Guardian] IP Filter: Allowed connection from 193.143.67.89
+22:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 232
+22:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+22:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:20 [Info] [Guardian] IP Filter: Allowed connection from 46.216.118.165
+22:22 [Info] [Guardian] IP Filter: Allowed connection from 46.216.118.165
+22:22 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "kapitan"
+22:22 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "kapitan"
+22:22 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "kapitan" wasn't removed from it.
+22:22 [Warning] [NoSteamHelper] No data player: 76561199466886250
+22:27 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+22:27 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+22:27 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+22:27 [Warning] [NoSteamHelper] No data player: 76561199139127596
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:27 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+22:31 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+22:35 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+22:40 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+22:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 233
+22:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:50 [Error] Failed to call hook 'ConsoleInventory' on plugin 'InventorySystem v1.0.3' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Linq.Enumerable.ElementAt[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Int32 index) [0x00031] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at Oxide.Plugins.InventorySystem.ConsoleInventory (ConsoleSystem+Arg args) [0x00059] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.InventorySystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x001e3] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+23:00 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+23:01 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+23:01 [Info] [Discord Extension] [Info]: Discord socket opened!
+23:01 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+23:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 233
+23:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+23:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:17 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+23:17 [Error] Failed to call hook 'CmdReferral' on plugin 'ReferralSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.ReferralSystem.CmdReferral (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x002a1] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.ReferralSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0026e] in <6bca37890eef47e2a00147ab353e8bfd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+23:32 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+23:35 [Error] Could not load plugin 'Xrate' (no plugin found with that file name)
+23:35 [Info] XRate was compiled successfully in 2805ms
+23:35 [Warning] Calling 'Unload' on 'XRate v1.0.3' took 231ms
+23:35 [Info] Unloaded plugin XRate v1.0.3 by TopPlugin.ru
+23:35 [Info] InCompiledAssemblyPatch
+23:35 [Warning] XRate has polluted the global namespace by defining <Module>
+23:35 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+23:35 [Info] QuickSmelt was compiled successfully in 576ms
+23:35 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 224ms
+23:35 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+23:35 [Info] InCompiledAssemblyPatch
+23:35 [Warning] QuickSmelt has polluted the global namespace by defining <Module>
+23:35 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 239ms
+23:35 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+23:36 [Info] [Discord Chat] [Discord] Forent13#6666: Печи аплавят
+23:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 233
+23:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:55 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized

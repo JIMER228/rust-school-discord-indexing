@@ -1,0 +1,965 @@
+22:37 [Info] Loading Oxide Core v2.0.4048...
+22:37 [Info] Loading extensions...
+22:37 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+22:37 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+22:37 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+22:37 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+22:37 [Info] Unity version: 2019.4.7f1
+22:37 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+22:37 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:37 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:37 [Info] Using Covalence provider for game 'Rust'
+22:37 [Info] Loading plugins...
+22:37 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+22:37 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+22:37 [Error] Oxide.Ext.Discord is referenced by AAlertRaid plugin but is not loaded
+22:37 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:37 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:37 [Error] Oxide.Ext.Discord is referenced by Rustcord plugin but is not loaded
+22:37 [Error] Plugin filename ServerStatus .cs must match the main class ServerStatus (should be ServerStatus.cs)
+22:37 [Info] AdminESP, AdminHammer, AdminLogger, AdminMenu, AlwaysDay, AutoDoors, AutomaticAuthorization, Backpacks, BedsCooldowns, BetterLoot, BlueprintManager, Clans, CopyPaste, CupWars, DeathMessages, DiscordMessages, EnemyBar, ExplosionDamageReducer, ExtraSeating, GameStoresRUST, HitMarker, ImageLibrary, InstantCraft, IQChat, IQGradeRemove, IQMarker, IQTurret, IQWipeBlock, Kits, kryAlwaysday, kryChinookBalance, LimitObject, LootCleaner, MarkerManager, Metabolism, NavMeshErrorFix, NControl, NoBulletFire, NoEscape, NoGiveNotices, NoHeliFire, NoWorkbench, NTeleportation, Obmen, Recycler, RustMap, RustPanel, SecureAdmin, ServerStats, SightsSystem, Stacks, StaticTrader, TeamMarker, TimedPermissions, Tournament, TPOnMap, UberTool, Vanish, Whitelist, XDStatistics, XDWipeReward, XerCopterCraft, XMenu, XOreEvent, XRaidProtection and XRate were compiled successfully in 0ms
+22:37 [Error] Error while compiling: Crafts.cs(1539,26): error CS1061: Type `Oxide.Plugins.Recycler' does not contain a definition for `Kill' and no extension method `Kill' of type `Oxide.Plugins.Recycler' could be found. Are you missing an assembly reference?
+22:37 [Info] Loaded plugin AdminESP v0.0.12 by OxideBro / Fixed by Drop Dead
+22:37 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+22:37 [Info] Loaded plugin Admin Logger v2.3.4 by AK
+22:37 [Info] Loaded plugin AdminMenu v0.1.50 by k1lly0u
+22:37 [Info] Loaded plugin Always Day v1.0.1 by Orange
+22:37 [Info] Loaded plugin Auto Doors v3.2.9 by Wulf/lukespragg/Arainrr
+22:37 [Info] Loaded plugin Automatic Authorization v1.3.0 by k1lly0u/Arainrr
+22:37 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+22:37 [Info] Loaded plugin Beds Cooldowns v1.1.4 by Orange
+22:37 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:37 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:37 [Info] Loaded plugin Blueprint Manager v1.1.6 by Orange
+22:37 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+22:37 [Info] Loaded plugin Copy Paste v4.1.32 by misticos
+22:37 [Info] Loaded plugin CupWars v1.0.7 by Qbis
+22:37 [Info] Loaded plugin DeathMessages v2.3.1 by Sempai#3239
+22:37 [Warning] [DiscordMessages] Ban was enabled however the Webhook is incorrect.
+22:37 [Warning] [DiscordMessages] Report was enabled however the Webhook is incorrect.
+22:37 [Warning] [DiscordMessages] Message was enabled however the Webhook is incorrect.
+22:37 [Warning] [DiscordMessages] Mute was enabled however the Webhook is incorrect.
+22:37 [Warning] [DiscordMessages] PlayerChat was enabled however the Webhook is incorrect.
+22:37 [Info] Loaded plugin DiscordMessages v2.1.8 by Slut
+22:37 [Info] Loaded plugin EnemyBar v1.0.2 by TopPlugin.ru
+22:37 [Info] Loaded plugin Explosion Damage Reducer v1.0.0 by paulsimik
+22:37 [Info] Loaded plugin Extra Seating v1.0.8 by Pho3niX90
+22:37 [Info] Loaded plugin GameStoresRUST v0.3.9 by HOUGAN & Sstine & rostov114 # GAMESTORES
+22:37 [Info] Loaded plugin HitMarker v1.0.8 by Nimant
+22:37 [Info] Loaded plugin Image Library v2.0.60 by Absolut & K1lly0u
+22:37 [Info] Loaded plugin Instant Craft v2.2.1 by Vlad-0003 / Orange / rostov114
+22:37 [Warning] [IQChat] Языковой файл загружается...
+22:37 [Warning] [IQChat] Языковой файл загружен успешно
+22:37 [Info] Loaded plugin IQChat v2.2.35 by Menevt
+22:37 [Warning] [IQGradeRemove] Языковой файл загружен успешно
+22:37 [Info] Loaded plugin IQGradeRemove v0.1.4 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+22:37 [Warning] [IQMarker] Языковой файл загружен успешно
+22:37 [Info] Loaded plugin IQMarker v1.1.5 by TopPlugin.ru
+22:37 [Warning] [IQTurret] Logs : #32471912 | Языковой файл загружен успешно
+22:37 [Info] Loaded plugin IQTurret v1.0.5 by Sempai#3239
+22:37 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+22:37 [Info] Loaded plugin IQWipeBlock v0.1.0 by Mercury
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <5e1d02e8c16949f593a972d1d5ed0bdc>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+22:37 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+22:37 [Info] Loaded plugin kryAlwaysday v1.0.0 by xkrystalll
+22:37 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+22:37 [Info] Loaded plugin LimitObject v0.0.1 by Sparkless
+22:37 [Info] Loaded plugin Loot Cleaner v1.0.2 by walkinrey
+22:37 [Info] Loaded plugin Marker Manager v2.1.1 by Orange
+22:37 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+22:37 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+22:37 [Info] Loaded plugin NControl v0.5.4 by Oxide Россия - oxide-russia.ru
+22:37 [Info] Loaded plugin NoBulletFire v1.0.0 by djm.
+22:37 [Info] Loaded plugin NoEscape v2.4.1 by Sempai#3239
+22:37 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+22:37 [Info] Loaded plugin No Heli Fire v1.0.5 by Tryhard
+22:37 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+22:37 [Info] Loaded plugin NTeleportation v1.6.8 by nivex
+22:37 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+22:37 [Info] Loaded plugin Recycler v1.0.0 by Fartus
+22:37 [Info] Loaded plugin RustMap v2.1.51 by OxideBro - RustPlugin.ru
+22:37 [Info] Loaded plugin Rust Panel v2.1.2 by Hougan
+22:37 [Info] Loaded plugin Secure Admin v1.1.8 by https://topplugin.ru/
+22:37 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+22:37 [Info] Loaded plugin SightsSystem v1.1.0 by Chibubrik
+22:37 [Info] Loaded plugin Stacks v1.4.0 by TopPlugin.ru
+22:37 [Info] Loaded plugin StaticTrader v1.2.6 by Raul-Sorin Sorban
+22:37 [Info] Loaded plugin Team Marker v0.0.2 by DarkPlugins.ru
+22:37 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+22:37 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+22:37 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+22:37 [Info] Loaded plugin UberTool v1.4.18 by FuJiCuRa
+22:37 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+22:37 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+22:37 [Info] Loaded plugin XDStatistics v2.0.9 by TopPlugin.ru
+22:37 [Info] Loaded plugin XDWipeReward v1.2.3 by TopPlugin.ru
+22:37 [Info] Loaded plugin XerCopterCraft v1.0.3 by SkuliDropek
+22:37 [Info] Loaded plugin XMenu v1.0.803 by Monster
+22:37 [Info] Loaded plugin XOreEvent v1.0.0 by Sempai#3239
+22:37 [Info] Loaded plugin XRaidProtection v1.0.9 by TopPlugin.ru
+22:37 [Info] Loaded plugin XRate v1.0.3 by Menevt
+22:41 [Info] IP address from external API: 94.29.26.115
+22:41 [Info] [BetterLoot] Using '52' active of '56' supported containertypes
+22:41 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:41 [Info] [BetterLoot] Updating internals ...
+22:41 [Info] [Clans] Loaded data with '39' valid Clans and overall '122' Members.
+22:41 [Error] [GameStoresRUST] Incorrect ServerID, reciving auto commands (Products) disabled
+22:41 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+22:41 [Warning] [IQChat] Permissions - completed
+22:41 [Warning] [IQMarker] Загружаем изображения..
+22:41 [Warning] [IQMarker] Регистрируем права..
+22:41 [Warning] [IQMarker] Проверяем права игроков..
+22:41 [Warning] [IQMarker] Плагин загружен успешно!
+22:41 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+22:41 [Error] Failed to add image for med. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961764479059/12312312312332333.png
+22:41 [Error] Failed to add image for dom. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961395400906/333333.png
+22:41 [Error] Failed to add image for tools. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961059844156/131111.png
+22:41 [Error] Failed to add image for hunter. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059960627822592/123123.png
+22:41 [Error] Failed to add image for коптер. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+22:41 [Error] Failed to add image for res-redkiy. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775949909131365/redkiyres.png
+22:41 [Error] Failed to add image for redkiypvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775949414223923/redkiypvp.png
+22:41 [Error] Failed to add image for res-mifik. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775928069410966/mifikres.png
+22:41 [Error] Failed to add image for mifikpvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775927759011920/mifikpvp.png
+22:41 [Error] Failed to add image for res-lega. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775804295487649/reslega.png
+22:41 [Error] Failed to add image for pvp-lega. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775803737636864/legapvp.png
+22:41 [Error] Failed to add image for спонсор. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+22:41 [Error] Failed to add image for спонсорган. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+22:41 [Error] Failed to add image for redkiyfarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for mifikfarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for legafarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for redkiypvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for mifikpvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for legapvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for pvpimba. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Error] Failed to add image for pvpdirol. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+22:41 [Warning] Calling 'OnServerInitialized' on 'Kits v2.0.0' took 136ms
+22:41 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+22:41 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.6.8' took 310ms [GARBAGE COLLECT]
+22:41 [Warning] [RustMap] Начало загрузки все изображений RustMap. Ожидайте завершения
+22:41 [Info] [ServerStats] NetworkStatus: true
+22:41 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 160ms
+22:41 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.60' took 1124ms [GARBAGE COLLECT]
+22:41 [Warning] Calling 'OnServerInitialized' on 'Stacks v1.4.0' took 1151ms [GARBAGE COLLECT]
+22:41 [Warning] [UberTool] ImageLibrary has finished processing UberTool's required images. UberTool is now active
+22:41 [Warning] Calling 'OnServerInitialized' on 'XDStatistics v2.0.9' took 196ms [GARBAGE COLLECT]
+22:41 [Error] [XerCopterCraft] AddImages SkyPlugins.ru...
+22:41 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.544
+-----------------------------
+22:41 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Sempai#3239
+     Discord - Sempai#3239
+     Config - v.2676
+-----------------------------
+22:41 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+22:41 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 111ms
+22:41 [Info] [BetterLoot] Removed 1 stacked LootContainer
+22:41 [Info] [BetterLoot] Populated '450' supported containers.
+22:41 [Warning] [Rust Panel] Core: языковые файлы загружены / lang files loaded
+22:41 [Warning] [Rust Panel] Core: команды зарегистрированы / commands registered
+22:41 [Info] [Rust Panel] Для лучшей производительности, происходит плавная проверка игроков на наличие блокировок
+22:41 [Info] [Rust Panel] Плавная проверка завершена: 0/0 игроков проверено
+22:41 [Warning] [Rust Panel] UpdateService: успешно загружен / successfull load
+22:41 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 0%
+22:41 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+22:41 [Error] [XerCopterCraft] AddImages SkyPlugins.ru - completed..
+22:41 [Warning] [GameStoresRUST] -----------------------------
+22:41 [Warning] [GameStoresRUST]  GameStores 0.3.9 (c) 2022
+22:41 [Error] [GameStoresRUST]      Wrong Secret Key
+22:41 [Warning] [GameStoresRUST] -----------------------------
+22:41 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 20%
+22:41 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 40%
+22:41 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 60%
+22:41 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 80%
+22:41 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/autospawn/monument/small/stables_b.prefab Position: (101.1, 22.1, -250.5)
+22:41 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/autospawn/monument/small/stables_a.prefab Position: (928.0, 8.9, 1089.4)
+22:41 [Warning] [RustMap] Все изображения карты (154), успешно загружены
+22:41 [Warning] [IQChat] Интерфейс успешно загружен!
+22:42 [Info] [Image Library] Starting order Stacks
+22:42 [Info] [Image Library] Starting order Stacks
+23:01 [Info] Loading Oxide Core v2.0.4048...
+23:01 [Info] Loading extensions...
+23:01 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+23:01 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+23:01 [Info] Loaded extension Rust v2.0.5647 by Oxide Team and Contributors
+23:01 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+23:01 [Info] Unity version: 2019.4.7f1
+23:01 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+23:01 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:01 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:01 [Info] Using Covalence provider for game 'Rust'
+23:01 [Info] Loading plugins...
+23:01 [Info] Loaded plugin Rust v2.0.5647 by Oxide Team and Contributors
+23:01 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+23:01 [Error] Oxide.Ext.Discord is referenced by AAlertRaid plugin but is not loaded
+23:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:01 [Error] Oxide.Ext.Discord is referenced by Rustcord plugin but is not loaded
+23:01 [Error] Plugin filename ServerStatus .cs must match the main class ServerStatus (should be ServerStatus.cs)
+23:01 [Info] AdminESP, AdminHammer, AdminLogger, AdminMenu, AlwaysDay, AutoDoors, AutomaticAuthorization, Backpacks, BedsCooldowns, BetterLoot, BlueprintManager, Clans, CopyPaste, CupWars, DeathMessages, DiscordMessages, EnemyBar, ExplosionDamageReducer, ExtraSeating, GameStoresRUST, HitMarker, ImageLibrary, InstantCraft, IQChat, IQGradeRemove, IQMarker, IQTurret, IQWipeBlock, Kits, kryAlwaysday, kryChinookBalance, LimitObject, LootCleaner, MarkerManager, Metabolism, NavMeshErrorFix, NControl, NoBulletFire, NoEscape, NoGiveNotices, NoHeliFire, NoWorkbench, NTeleportation, Obmen, Recycler, RustMap, RustPanel, SecureAdmin, ServerStats, SightsSystem, Stacks, StaticTrader, TeamMarker, TimedPermissions, Tournament, TPOnMap, UberTool, Vanish, Whitelist, XDStatistics, XDWipeReward, XerCopterCraft, XMenu, XOreEvent, XRaidProtection and XRate were compiled successfully in 0ms
+23:01 [Error] Error while compiling: Crafts.cs(1539,26): error CS1061: Type `Oxide.Plugins.Recycler' does not contain a definition for `Kill' and no extension method `Kill' of type `Oxide.Plugins.Recycler' could be found. Are you missing an assembly reference?
+23:01 [Info] Loaded plugin AdminESP v0.0.12 by OxideBro / Fixed by Drop Dead
+23:01 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+23:01 [Info] Loaded plugin Admin Logger v2.3.4 by AK
+23:01 [Info] Loaded plugin AdminMenu v0.1.50 by k1lly0u
+23:01 [Info] Loaded plugin Always Day v1.0.1 by Orange
+23:01 [Info] Loaded plugin Auto Doors v3.2.9 by Wulf/lukespragg/Arainrr
+23:01 [Info] Loaded plugin Automatic Authorization v1.3.0 by k1lly0u/Arainrr
+23:01 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+23:01 [Info] Loaded plugin Beds Cooldowns v1.1.4 by Orange
+23:01 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+23:01 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+23:01 [Info] Loaded plugin Blueprint Manager v1.1.6 by Orange
+23:01 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+23:01 [Info] Loaded plugin Copy Paste v4.1.32 by misticos
+23:01 [Info] Loaded plugin CupWars v1.0.7 by Qbis
+23:01 [Info] Loaded plugin DeathMessages v2.3.1 by Sempai#3239
+23:01 [Warning] [DiscordMessages] Ban was enabled however the Webhook is incorrect.
+23:01 [Warning] [DiscordMessages] Report was enabled however the Webhook is incorrect.
+23:01 [Warning] [DiscordMessages] Message was enabled however the Webhook is incorrect.
+23:01 [Warning] [DiscordMessages] Mute was enabled however the Webhook is incorrect.
+23:01 [Warning] [DiscordMessages] PlayerChat was enabled however the Webhook is incorrect.
+23:01 [Info] Loaded plugin DiscordMessages v2.1.8 by Slut
+23:01 [Info] Loaded plugin EnemyBar v1.0.2 by TopPlugin.ru
+23:01 [Info] Loaded plugin Explosion Damage Reducer v1.0.0 by paulsimik
+23:01 [Info] Loaded plugin Extra Seating v1.0.8 by Pho3niX90
+23:01 [Info] Loaded plugin GameStoresRUST v0.3.9 by HOUGAN & Sstine & rostov114 # GAMESTORES
+23:01 [Info] Loaded plugin HitMarker v1.0.8 by Nimant
+23:01 [Info] Loaded plugin Image Library v2.0.60 by Absolut & K1lly0u
+23:01 [Info] Loaded plugin Instant Craft v2.2.1 by Vlad-0003 / Orange / rostov114
+23:01 [Warning] [IQChat] Языковой файл загружается...
+23:01 [Warning] [IQChat] Языковой файл загружен успешно
+23:01 [Info] Loaded plugin IQChat v2.2.35 by Menevt
+23:01 [Warning] [IQGradeRemove] Языковой файл загружен успешно
+23:01 [Info] Loaded plugin IQGradeRemove v0.1.4 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+23:01 [Warning] [IQMarker] Языковой файл загружен успешно
+23:01 [Info] Loaded plugin IQMarker v1.1.5 by TopPlugin.ru
+23:01 [Warning] [IQTurret] Logs : #32471912 | Языковой файл загружен успешно
+23:01 [Info] Loaded plugin IQTurret v1.0.5 by Sempai#3239
+23:01 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+23:01 [Info] Loaded plugin IQWipeBlock v0.1.0 by Mercury
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <06463a791fa54401a7c3eb680127b4cf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:01 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+23:01 [Info] Loaded plugin kryAlwaysday v1.0.0 by xkrystalll
+23:01 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+23:01 [Info] Loaded plugin LimitObject v0.0.1 by Sparkless
+23:01 [Info] Loaded plugin Loot Cleaner v1.0.2 by walkinrey
+23:01 [Info] Loaded plugin Marker Manager v2.1.1 by Orange
+23:01 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+23:01 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+23:01 [Info] Loaded plugin NControl v0.5.4 by Oxide Россия - oxide-russia.ru
+23:01 [Info] Loaded plugin NoBulletFire v1.0.0 by djm.
+23:01 [Info] Loaded plugin NoEscape v2.4.1 by Sempai#3239
+23:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:01 [Info] Loaded plugin No Heli Fire v1.0.5 by Tryhard
+23:01 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+23:01 [Info] Loaded plugin NTeleportation v1.6.8 by nivex
+23:01 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:01 [Info] Loaded plugin Recycler v1.0.0 by Fartus
+23:01 [Info] Loaded plugin RustMap v2.1.51 by OxideBro - RustPlugin.ru
+23:01 [Info] Loaded plugin Rust Panel v2.1.2 by Hougan
+23:01 [Info] Loaded plugin Secure Admin v1.1.8 by https://topplugin.ru/
+23:01 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+23:01 [Info] Loaded plugin SightsSystem v1.1.0 by Chibubrik
+23:01 [Info] Loaded plugin Stacks v1.4.0 by TopPlugin.ru
+23:01 [Info] Loaded plugin StaticTrader v1.2.6 by Raul-Sorin Sorban
+23:01 [Info] Loaded plugin Team Marker v0.0.2 by DarkPlugins.ru
+23:01 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+23:01 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+23:01 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+23:01 [Info] Loaded plugin UberTool v1.4.18 by FuJiCuRa
+23:01 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+23:01 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+23:01 [Info] Loaded plugin XDStatistics v2.0.9 by TopPlugin.ru
+23:01 [Info] Loaded plugin XDWipeReward v1.2.3 by TopPlugin.ru
+23:01 [Info] Loaded plugin XerCopterCraft v1.0.3 by SkuliDropek
+23:01 [Info] Loaded plugin XMenu v1.0.803 by Monster
+23:01 [Info] Loaded plugin XOreEvent v1.0.0 by Sempai#3239
+23:01 [Info] Loaded plugin XRaidProtection v1.0.9 by TopPlugin.ru
+23:01 [Info] Loaded plugin XRate v1.0.3 by Menevt
+23:06 [Info] IP address from external API: 94.29.26.115
+23:06 [Info] [BetterLoot] Using '52' active of '56' supported containertypes
+23:06 [Info] [BetterLoot] Exported 774 items to 'NamesList'
+23:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+23:06 [Info] [BetterLoot] Updating internals ...
+23:06 [Info] [Clans] Loaded data with '39' valid Clans and overall '122' Members.
+23:06 [Error] [GameStoresRUST] Incorrect ServerID, reciving auto commands (Products) disabled
+23:06 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+23:06 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.60' took 830ms
+23:06 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+23:06 [Warning] [IQChat] Permissions - completed
+23:06 [Warning] [IQMarker] Загружаем изображения..
+23:06 [Warning] [IQMarker] Регистрируем права..
+23:06 [Warning] [IQMarker] Проверяем права игроков..
+23:06 [Warning] [IQMarker] Плагин загружен успешно!
+23:06 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+23:06 [Error] Failed to add image for autokit. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file:///C:/SERVER/Fox_Rust/oxide/data/Kits/rust.png
+23:06 [Error] Failed to add image for med. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961764479059/12312312312332333.png
+23:06 [Error] Failed to add image for dom. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961395400906/333333.png
+23:06 [Error] Failed to add image for tools. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059961059844156/131111.png
+23:06 [Error] Failed to add image for hunter. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1008059960627822592/123123.png
+23:06 [Error] Failed to add image for коптер. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+23:06 [Error] Failed to add image for res-redkiy. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775949909131365/redkiyres.png
+23:06 [Error] Failed to add image for redkiypvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775949414223923/redkiypvp.png
+23:06 [Error] Failed to add image for res-mifik. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775928069410966/mifikres.png
+23:06 [Error] Failed to add image for mifikpvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775927759011920/mifikpvp.png
+23:06 [Error] Failed to add image for res-lega. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775804295487649/reslega.png
+23:06 [Error] Failed to add image for pvp-lega. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://cdn.discordapp.com/attachments/959411527402811473/1007775803737636864/legapvp.png
+23:06 [Error] Failed to add image for спонсор. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+23:06 [Error] Failed to add image for спонсорган. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+23:06 [Error] Failed to add image for redkiyfarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for mifikfarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for legafarm. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for redkiypvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for mifikpvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for legapvp. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for pvpimba. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Error] Failed to add image for pvpdirol. File address possibly invalide
+ D:\rustserverssd\Server\rustds\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+23:06 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+23:06 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.6.8' took 262ms [GARBAGE COLLECT]
+23:06 [Warning] [RustMap] Начало загрузки все изображений RustMap. Ожидайте завершения
+23:06 [Info] [ServerStats] NetworkStatus: true
+23:06 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 152ms
+23:06 [Error] [XerCopterCraft] AddImages SkyPlugins.ru...
+23:06 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.544
+-----------------------------
+23:06 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Sempai#3239
+     Discord - Sempai#3239
+     Config - v.2676
+-----------------------------
+23:06 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+23:06 [Info] [BetterLoot] No stacked LootContainer found.
+23:06 [Info] [BetterLoot] Populated '450' supported containers.
+23:06 [Warning] [Rust Panel] Core: языковые файлы загружены / lang files loaded
+23:06 [Warning] [Rust Panel] Core: команды зарегистрированы / commands registered
+23:06 [Info] [Rust Panel] Для лучшей производительности, происходит плавная проверка игроков на наличие блокировок
+23:06 [Info] [Rust Panel] Плавная проверка завершена: 0/0 игроков проверено
+23:06 [Warning] [Rust Panel] UpdateService: успешно загружен / successfull load
+23:06 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 0%
+23:06 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+23:06 [Error] [XerCopterCraft] AddImages SkyPlugins.ru - completed..
+23:06 [Warning] [GameStoresRUST] -----------------------------
+23:06 [Warning] [GameStoresRUST]  GameStores 0.3.9 (c) 2022
+23:06 [Error] [GameStoresRUST]      Wrong Secret Key
+23:06 [Warning] [GameStoresRUST] -----------------------------
+23:06 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 20%
+23:06 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 40%
+23:06 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 60%
+23:06 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 80%
+23:06 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/autospawn/monument/small/stables_b.prefab Position: (101.1, 22.1, -250.5)
+23:06 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/autospawn/monument/small/stables_a.prefab Position: (928.0, 8.9, 1089.4)
+23:06 [Warning] [RustMap] Все изображения карты (154), успешно загружены
+23:06 [Warning] [IQChat] Интерфейс успешно загружен!
+23:06 [Info] [Image Library] Starting order Stacks
+23:09 [Info] [Admin Logger] [09/02/2022 23:09:32] .DeityxDirol [76561199221588990] connected.
+23:09 [Warning] [DiscordMessages] Failed! Discord responded with code: 404. Plugin: Unknown Plugin
+{"message": "Unknown Webhook", "code": 10015}
+23:09 [Info] [Admin Logger] [09/02/2022 23:09:33] [71mc] .DeityxDirol [76561199221588990] disabled Godmode.
+23:09 [Warning] [DiscordMessages] Failed! Discord responded with code: 404. Plugin: Unknown Plugin
+{"message": "Unknown Webhook", "code": 10015}
+23:09 [Info] [Admin Logger] [09/02/2022 23:09:44] [71mc] .DeityxDirol [76561199221588990] enabled Vanish.
+23:09 [Warning] [DiscordMessages] Failed! Discord responded with code: 404. Plugin: Unknown Plugin
+{"message": "Unknown Webhook", "code": 10015}
+23:09 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:09 [Info] [Admin Logger] [09/02/2022 23:09:48] [71mc] .DeityxDirol [76561199221588990] enabled Noclip.
+23:09 [Warning] [DiscordMessages] Failed! Discord responded with code: 404. Plugin: Unknown Plugin
+{"message": "Unknown Webhook", "code": 10015}
+23:09 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:09 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:10 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:11 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:12 [Info] [Image Library] Starting order Stacks
+23:13 [Info] [Image Library] Starting order UberTool
+23:13 [Warning] [UberTool] ImageLibrary has finished processing UberTool's required images. UberTool is now active
+23:14 [Info] Obmen was compiled successfully in 2014ms
+23:14 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:14 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:14 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:21 [Error] Error while compiling: Obmen.cs(77,48): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `url'
+23:21 [Info] Obmen was compiled successfully in 252ms
+23:21 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:21 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:25 [Error] Error while compiling: Obmen.cs(77,48): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `Image'
+23:33 [Info] Obmen was compiled successfully in 2021ms
+23:33 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:33 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:33 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:33 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:34 [Info] Obmen was compiled successfully in 231ms
+23:34 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:34 [Info] Obmen was compiled successfully in 203ms
+23:34 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:34 [Info] Obmen was compiled successfully in 289ms
+23:34 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:34 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:35 [Error] Error while compiling: Obmen.cs(78,17): error CS0747: Inconsistent `object initializer' member declaration
+23:35 [Info] Obmen was compiled successfully in 207ms
+23:35 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:35 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:39 [Info] Obmen was compiled successfully in 1886ms
+23:39 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:39 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:39 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:44 [Info] Obmen was compiled successfully in 1979ms
+23:44 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:44 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:44 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:44 [Info] Clans was compiled successfully in 432ms
+23:44 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+23:44 [Info] [Clans] Loaded data with '39' valid Clans and overall '122' Members.
+23:44 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+23:45 [Error] Error while compiling: Obmen.cs(78,20): error CS1525: Unexpected symbol `:'
+23:45 [Error] Error while compiling: Obmen.cs(78,17): error CS0117: `Oxide.Game.Rust.Cui.CuiPanel' does not contain a definition for `Link'
+23:45 [Info] Obmen was compiled successfully in 195ms
+23:45 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:45 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:47 [Error] Error while compiling: Obmen.cs(77,101): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `Link'
+23:48 [Info] Obmen was compiled successfully in 338ms
+23:48 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:48 [Warning] Calling 'OnServerInitialized' on 'Obmen v1.1.1' took 151ms
+23:48 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:49 [Info] Obmen was compiled successfully in 2000ms
+23:49 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:49 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:49 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:50 [Info] Obmen was compiled successfully in 1904ms
+23:50 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:50 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:50 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:51 [Info] Obmen was compiled successfully in 209ms
+23:51 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:51 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:51 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:52 [Info] Obmen was compiled successfully in 1920ms
+23:52 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:52 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:52 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:52 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:52 [Info] Obmen was compiled successfully in 221ms
+23:52 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:52 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:52 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:53 [Info] Obmen was compiled successfully in 304ms
+23:53 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:53 [Info] Obmen was compiled successfully in 226ms
+23:53 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:53 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:53 [Info] Obmen was compiled successfully in 256ms
+23:53 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:53 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:54 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:54 [Error] Error while compiling: Obmen.cs(77,17): error CS0747: Inconsistent `object initializer' member declaration
+23:54 [Info] Obmen was compiled successfully in 289ms
+23:54 [Info] Unloaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:54 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+23:54 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:57 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:57 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:57 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+23:57 [Error] Plugin filename Clans1.cs must match the main class Clans (should be Clans.cs)
+23:58 [Info] Unloaded plugin Tournament v1.0.0 by Xavier
+23:58 [Error] Plugin filename Tournament1.cs must match the main class Tournament (should be Tournament.cs)
+23:58 [Error] Plugin filename ControlTC (2).cs must match the main class ControlTC (should be ControlTC.cs)
+23:58 [Error] Plugin filename Clans (9).cs must match the main class Clans (should be Clans.cs)
+23:58 [Info] Clans was compiled successfully in 2070ms
+23:58 [Info] [Clans] Loaded data with '39' valid Clans and overall '122' Members.
+23:58 [Info] Loaded plugin Clans v2.0.0 by Plugin author OxideBro - RustPlugin.ru
+23:58 [Info] ControlTC was compiled successfully in 195ms
+23:58 [Info] Loaded plugin ControlTC v0.0.2 by pirojok
+23:58 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:59 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:59 [Error] Failed to call hook 'cmdChatClan' on plugin 'Clans v2.0.0' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.NewClanUI (BasePlayer player, System.Boolean leadermode) [0x00883] in <198d6d11253547e9b3814dde9b518653>:0 
+  at Oxide.Plugins.Clans.cmdClanOverview (BasePlayer player) [0x00109] in <198d6d11253547e9b3814dde9b518653>:0 
+  at Oxide.Plugins.Clans.cmdChatClan (BasePlayer player, System.String command, System.String[] args) [0x00015] in <198d6d11253547e9b3814dde9b518653>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01c29] in <198d6d11253547e9b3814dde9b518653>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+23:59 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:59 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404
+23:59 [Warning] [IQChat]  Discord rejected that payload! Responded with "Unknown Webhook" Code: 404

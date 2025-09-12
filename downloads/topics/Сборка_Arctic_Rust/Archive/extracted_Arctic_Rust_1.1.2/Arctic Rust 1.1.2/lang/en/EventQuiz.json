@@ -1,0 +1,11 @@
+{
+  "Start": "<color=#87CEFF>[Викторина]:</color> Ответьте на вопрос чтобы получить приз!\n<color=#87CEFF>{question}</color>",
+  "End": "<color=#87CEFF>[Викторина]:</color> <color=#87CEFF>{name}</color> первый правильно ответил на вопрос и получил приз!",
+  "Stop": "<color=#87CEFF>[Викторина]:</color> На вопрос никто не дал ответ. Приз никто не получил!",
+  "Quiz": "<color=#87CEFF>[Викторина]:</color> Текущий вопрос - <color=#87CEFF>{question}</color>",
+  "Notification": "<color=#87CEFF>[Викторина]:</color> Идёт викторина! Ответьте на вопрос чтобы получить приз!\n<color=#87CEFF>{question}</color>",
+  "To Few Players": "<color=#87CEFF>[Сервер]:</color> Для проведения ивента слишком мало игроков, необходимо минимум <color=#87CEFF>{players}</color>",
+  "Already Coming": "<color=#87CEFF>[Сервер]:</color> Ивент уже идёт",
+  "Event Not Run": "<color=#87CEFF>[Сервер]:</color> На данный момент викторина не проводится.",
+  "No Question": "<color=#87CEFF>[Сервер]:</color> Для проведения ивента нет вопросов"
+}

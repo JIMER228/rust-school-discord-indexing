@@ -1,0 +1,19 @@
+{
+  "Scale dispensers": true,
+  "Chat announcements": true,
+  "Time check interval (Only used if TimeOfDay plugin is not installed)": 60,
+  "Day": {
+    "Dispenser": 1,
+    "Pickup": 1,
+    "Quarry": 1,
+    "Excavator": 1,
+    "Survey": 1
+  },
+  "Night": {
+    "Dispenser": 1,
+    "Pickup": 1,
+    "Quarry": 1,
+    "Excavator": 1,
+    "Survey": 1
+  }
+}

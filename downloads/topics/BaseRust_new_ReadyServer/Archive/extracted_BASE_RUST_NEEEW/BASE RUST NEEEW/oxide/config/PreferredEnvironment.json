@@ -1,0 +1,61 @@
+{
+  "Save players custom environment settings and apply after restart/relog": true,
+  "Zone Environment Profiles. (To disable a variable and use the value set on the server, set the option to -1)": {
+    "ExampleZoneID": {
+      "Time (0.0 - 24.0)": -1.0,
+      "Rain (0.0 - 1.0)": -1.0,
+      "Wind (0.0 - 1.0)": -1.0,
+      "Fog (0.0 - 1.0)": -1.0,
+      "Rainbow (0.0 - 1.0)": -1.0,
+      "Thunder (0.0 - 1.0)": -1.0,
+      "Atmosphere Brightness (0.0 - 1.0)": -1.0,
+      "Atmosphere Contrast (0.0 - 1.0)": -1.0,
+      "Atmosphere Directionality (0.0 - 1.0)": -1.0,
+      "Atmosphere Mie (0.0 - 1.0)": -1.0,
+      "Atmosphere Rayleigh (0.0 - 1.0)": -1.0,
+      "Cloud Attenuation (0.0 - 1.0)": -1.0,
+      "Cloud Brightness (0.0 - 1.0)": -1.0,
+      "Cloud Coloring (0.0 - 1.0)": -1.0,
+      "Cloud Coverage (0.0 - 1.0)": -1.0,
+      "Cloud Opacity (0.0 - 1.0)": -1.0,
+      "Cloud Saturation (0.0 - 1.0)": -1.0,
+      "Cloud Scattering (0.0 - 1.0)": -1.0,
+      "Cloud Sharpness (0.0 - 1.0)": -1.0,
+      "Cloud Size (0.0 - 1.0)": -1.0
+    }
+  },
+  "Server Environment Profile": {
+    "Progress Time": true,
+    "Storm Chance": -1.0,
+    "Rain Chance": -1.0,
+    "Overcast Chance": -1.0,
+    "Fog Chance": -1.0,
+    "Dust Chance": -1.0,
+    "Clear Chance": -1.0,
+    "Time (0.0 - 24.0)": -1.0,
+    "Rain (0.0 - 1.0)": -1.0,
+    "Wind (0.0 - 1.0)": -1.0,
+    "Fog (0.0 - 1.0)": -1.0,
+    "Rainbow (0.0 - 1.0)": -1.0,
+    "Thunder (0.0 - 1.0)": -1.0,
+    "Atmosphere Brightness (0.0 - 1.0)": -1.0,
+    "Atmosphere Contrast (0.0 - 1.0)": -1.0,
+    "Atmosphere Directionality (0.0 - 1.0)": -1.0,
+    "Atmosphere Mie (0.0 - 1.0)": -1.0,
+    "Atmosphere Rayleigh (0.0 - 1.0)": -1.0,
+    "Cloud Attenuation (0.0 - 1.0)": -1.0,
+    "Cloud Brightness (0.0 - 1.0)": -1.0,
+    "Cloud Coloring (0.0 - 1.0)": -1.0,
+    "Cloud Coverage (0.0 - 1.0)": -1.0,
+    "Cloud Opacity (0.0 - 1.0)": -1.0,
+    "Cloud Saturation (0.0 - 1.0)": -1.0,
+    "Cloud Scattering (0.0 - 1.0)": -1.0,
+    "Cloud Sharpness (0.0 - 1.0)": -1.0,
+    "Cloud Size (0.0 - 1.0)": -1.0
+  },
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 7
+  }
+}

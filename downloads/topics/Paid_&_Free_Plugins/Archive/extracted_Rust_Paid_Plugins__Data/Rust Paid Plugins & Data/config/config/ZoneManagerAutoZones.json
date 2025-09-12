@@ -1,0 +1,500 @@
+{
+  "ZonesDome Option": {
+    "Use Zone Domes Spheres over Zones": true,
+    "Enable TruePVE to allow Rule Sets": false,
+    "Enable NextGenPVE to allow Rule Sets": false
+  },
+  "Zone Location Options": {
+    "Monument Options": {
+      "Airfield": {
+        "Enabled": true,
+        "Radius": 200,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Small Harbour": {
+        "Enabled": true,
+        "Radius": 145,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Large Harbour": {
+        "Enabled": true,
+        "Radius": 150,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Launch Site": {
+        "Enabled": true,
+        "Radius": 295,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Large Oil Rig": {
+        "Enabled": true,
+        "Radius": 165,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Small Oil Rig": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Power Plant": {
+        "Enabled": true,
+        "Radius": 150,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Junk Yard": {
+        "Enabled": true,
+        "Radius": 165,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Military Tunnels": {
+        "Enabled": true,
+        "Radius": 115,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Train Yard": {
+        "Enabled": true,
+        "Radius": 165,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Water Treatment Plant": {
+        "Enabled": true,
+        "Radius": 175,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Giant Excavator Pit": {
+        "Enabled": true,
+        "Radius": 205,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Satellite Dish": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Sewer Branch": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "The Dome": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Oxum's Gas Station #1": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Oxum's Gas Station #2": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Oxum's Gas Station #3": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Sulfur Quarry": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Stone Quarry": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "HQM Quarry": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Wild Swamp 1": {
+        "Enabled": true,
+        "Radius": 95,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Wild Swamp 2": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Abandoned Cabins": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Light House #1": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Light House #2": {
+        "Enabled": true,
+        "Radius": 80,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Abandoned Supermarket #1": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Abandoned Supermarket #2": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Abandoned Supermarket #3": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Mining Outpost #1": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Mining Outpost #2": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Mining Outpost #3": {
+        "Enabled": true,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Fishing Village #1": {
+        "Enabled": false,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Fishing Village #2": {
+        "Enabled": false,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Fishing Village #3": {
+        "Enabled": false,
+        "Radius": 50,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Outpost": {
+        "Enabled": false,
+        "Radius": 135,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVP Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Bandit Camp": {
+        "Enabled": false,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVP Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Desert Base 1": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Desert Base 2": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Desert Base 3": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Desert Base 4": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Stables": {
+        "Enabled": false,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVP Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Ranch": {
+        "Enabled": false,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a Safe Zone",
+        "Leave Zone Message": "Returning to PVP Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      },
+      "Artic Research Base": {
+        "Enabled": true,
+        "Radius": 100,
+        "Enter Zone Message": "WARNING: You are now entering a PVP Zone",
+        "Leave Zone Message": "Returning to PVE Area",
+        "Zone Flags": [
+          "autolights"
+        ],
+        "TruePVE RuleSet to use if TruePVE is enabled": "exclude",
+        "NextGenPVE RuleSet to use if NextGenPVE is enabled": "exclude"
+      }
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 3,
+    "Patch": 6
+  }
+}

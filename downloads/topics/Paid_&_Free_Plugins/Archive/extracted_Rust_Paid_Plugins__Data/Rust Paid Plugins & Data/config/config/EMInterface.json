@@ -1,0 +1,61 @@
+{
+  "Death screen skull image": "https://www.rustedit.io/images/skullicon.png",
+  "Death screen background image": "",
+  "Menu Colors": {
+    "Background Color": {
+      "Hex": "#232323",
+      "Alpha": 1.0
+    },
+    "Foreground Color": {
+      "Hex": "#252526",
+      "Alpha": 1.0
+    },
+    "Panel Color": {
+      "Hex": "#2d2d30",
+      "Alpha": 1.0
+    },
+    "Button Color": {
+      "Hex": "#3e3e42",
+      "Alpha": 1.0
+    },
+    "Highlight Color": {
+      "Hex": "#007acc",
+      "Alpha": 1.0
+    }
+  },
+  "Scoreboard Colors": {
+    "Background Color": {
+      "Hex": "#232323",
+      "Alpha": 0.8
+    },
+    "Foreground Color": {
+      "Hex": "#252526",
+      "Alpha": 0.8
+    },
+    "Panel Color": {
+      "Hex": "#2d2d30",
+      "Alpha": 0.8
+    },
+    "Highlight Color": {
+      "Hex": "#007acc",
+      "Alpha": 0.8
+    },
+    "Screen Position": {
+      "Center Position X (0.0 - 1.0)": 0.9325,
+      "Center Position Y (0.0 - 1.0)": 0.98,
+      "Panel Width": 0.125,
+      "Panel Height": 0.02,
+      "UI4": {
+        "xMin": 0.87,
+        "yMin": 0.97,
+        "xMax": 0.995,
+        "yMax": 0.99
+      }
+    }
+  },
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 1
+  }
+}

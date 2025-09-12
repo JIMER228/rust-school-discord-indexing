@@ -1,0 +1,4370 @@
+{
+  "LootTables": {
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "fuse": {
+          "Max": 8,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalblade": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalpipe": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 24,
+          "Min": 48
+        },
+        "propanetank": {
+          "Max": 24,
+          "Min": 48
+        },
+        "roadsigns": {
+          "Max": 24,
+          "Min": 48
+        },
+        "rope": {
+          "Max": 24,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 14,
+          "Min": 28
+        },
+        "sewingkit": {
+          "Max": 24,
+          "Min": 48
+        },
+        "sheetmetal": {
+          "Max": 24,
+          "Min": 48
+        },
+        "tarp": {
+          "Max": 24,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 500
+    },
+    "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "fuse": {
+          "Max": 8,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalblade": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalpipe": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 24,
+          "Min": 48
+        },
+        "propanetank": {
+          "Max": 24,
+          "Min": 8
+        },
+        "roadsigns": {
+          "Max": 24,
+          "Min": 48
+        },
+        "rope": {
+          "Max": 24,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 14,
+          "Min": 28
+        },
+        "sewingkit": {
+          "Max": 24,
+          "Min": 48
+        },
+        "sheetmetal": {
+          "Max": 24,
+          "Min": 48
+        },
+        "tarp": {
+          "Max": 24,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 500
+    },
+    "assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab": {
+      "Enabled": false,
+      "ItemList": {},
+      "ItemsMax": 0,
+      "ItemsMin": 0,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/crate_basic.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 384,
+          "Min": 640
+        },
+        "ammo.shotgun": {
+          "Max": 60,
+          "Min": 120
+        },
+        "bow.hunting": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 8,
+          "Min": 16
+        },
+        "diving.fins": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.mask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.tank": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.wetsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "fuse": {
+          "Max": 16,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 144,
+          "Min": 72
+        },
+        "hammer.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "machete": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalblade": {
+          "Max": 144,
+          "Min": 72
+        },
+        "metalpipe": {
+          "Max": 144,
+          "Min": 72
+        },
+        "metalspring": {
+          "Max": 144,
+          "Min": 72
+        },
+        "paddle": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "propanetank": {
+          "Max": 144,
+          "Min": 72
+        },
+        "roadsigns": {
+          "Max": 144,
+          "Min": 72
+        },
+        "rope": {
+          "Max": 144,
+          "Min": 72
+        },
+        "salvaged.cleaver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "semibody": {
+          "Max": 60,
+          "Min": 30
+        },
+        "sewingkit": {
+          "Max": 144,
+          "Min": 72
+        },
+        "sheetmetal": {
+          "Max": 144,
+          "Min": 72
+        },
+        "shirt.collared": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 8,
+          "Min": 16
+        },
+        "tarp": {
+          "Max": 144,
+          "Min": 72
+        },
+        "wood.armor.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "wood.armor.pants": {
+          "Max": 3,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 5,
+      "ItemsMin": 4,
+      "MaxBPs": 0,
+      "Scrap": 1200
+    },
+    "assets/bundled/prefabs/radtown/crate_elite.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 96,
+          "Min": 48
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 96,
+          "Min": 48
+        },
+        "ammo.pistol": {
+          "Max": 640,
+          "Min": 1152
+        },
+        "ammo.pistol.fire": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.pistol.hv": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.rifle": {
+          "Max": 512,
+          "Min": 1024
+        },
+        "ammo.rifle.explosive": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.rifle.hv": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.rocket.basic": {
+          "Max": 24,
+          "Min": 8
+        },
+        "ammo.rocket.fire": {
+          "Max": 24,
+          "Min": 8
+        },
+        "ammo.rocket.hv": {
+          "Max": 24,
+          "Min": 8
+        },
+        "ammo.rocket.mlrs": {
+          "Max": 20,
+          "Min": 6
+        },
+        "ammo.shotgun": {
+          "Max": 96,
+          "Min": 48
+        },
+        "ammo.shotgun.fire": {
+          "Max": 96,
+          "Min": 48
+        },
+        "autoturret": {
+          "Max": 16,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 9,
+          "Min": 18
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "door.double.hinged.toptier": {
+          "Max": 12,
+          "Min": 3
+        },
+        "door.hinged.toptier": {
+          "Max": 12,
+          "Min": 3
+        },
+        "electric.battery.rechargable.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "explosive.timed": {
+          "Max": 32,
+          "Min": 16
+        },
+        "furnace.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "generator.wind.scrap": {
+          "Max": 1,
+          "Min": 1
+        },
+        "grenade.f1": {
+          "Max": 88,
+          "Min": 44
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "industrial.wall.light": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.green": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.red": {
+          "Max": 30,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalspring": {
+          "Max": 200,
+          "Min": 120
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "nightvisiongoggles": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.m39": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 72,
+          "Min": 36
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 200,
+          "Min": 120
+        },
+        "rocket.launcher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "samsite": {
+          "Max": 16,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "small.oil.refinery": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.mp5": {
+          "Max": 1,
+          "Min": 1
+        },
+        "supply.signal": {
+          "Max": 10,
+          "Min": 1
+        },
+        "tactical.gloves": {
+          "Max": 1,
+          "Min": 3
+        },
+        "targeting.computer": {
+          "Max": 9,
+          "Min": 18
+        },
+        "techparts": {
+          "Max": 60,
+          "Min": 120
+        },
+        "wall.frame.garagedoor": {
+          "Max": 12,
+          "Min": 3
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.burstmodule": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 6,
+      "MaxBPs": 0,
+      "Scrap": 8000
+    },
+    "assets/bundled/prefabs/radtown/crate_mine.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "stone.pickaxe": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/crate_normal.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 640,
+          "Min": 384
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 160
+        },
+        "ammo.rifle": {
+          "Max": 640,
+          "Min": 384
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 128,
+          "Min": 160
+        },
+        "ammo.rocket.fire": {
+          "Max": 8,
+          "Min": 16
+        },
+        "ammo.rocket.hv": {
+          "Max": 8,
+          "Min": 16
+        },
+        "autoturret": {
+          "Max": 14,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "barricade.metal": {
+          "Max": 8,
+          "Min": 1
+        },
+        "bed": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 9,
+          "Min": 18
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "coffeecan.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "electric.battery.rechargable.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "electric.battery.rechargable.medium": {
+          "Max": 1,
+          "Min": 1
+        },
+        "furnace.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 192,
+          "Min": 96
+        },
+        "generator.wind.scrap": {
+          "Max": 1,
+          "Min": 1
+        },
+        "guntrap": {
+          "Max": 8,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "industrial.wall.light": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.green": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.red": {
+          "Max": 30,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalpipe": {
+          "Max": 192,
+          "Min": 96
+        },
+        "metalspring": {
+          "Max": 192,
+          "Min": 96
+        },
+        "nightvisiongoggles": {
+          "Max": 3,
+          "Min": 1
+        },
+        "pistol.m92": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.prototype17": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.python": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 72,
+          "Min": 36
+        },
+        "roadsign.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 192,
+          "Min": 96
+        },
+        "shoes.boots": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shotgun.pump": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "small.oil.refinery": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.mp5": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.thompson": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smgbody": {
+          "Max": 72,
+          "Min": 36
+        },
+        "supply.signal": {
+          "Max": 10,
+          "Min": 1
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 9,
+          "Min": 18
+        },
+        "techparts": {
+          "Max": 144,
+          "Min": 72
+        },
+        "weapon.mod.holosight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.lasersight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 6,
+      "MaxBPs": 0,
+      "Scrap": 5000
+    },
+    "assets/bundled/prefabs/radtown/crate_normal_2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.handmade.shell": {
+          "Max": 72,
+          "Min": 144
+        },
+        "ammo.pistol": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.shotgun": {
+          "Max": 48,
+          "Min": 96
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "bone.armor.suit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 16,
+          "Min": 2
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "deer.skull.mask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "flashlight.held": {
+          "Max": 1,
+          "Min": 1
+        },
+        "fuse": {
+          "Max": 16,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 120,
+          "Min": 60
+        },
+        "hammer.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "longsword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "mace": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalblade": {
+          "Max": 120,
+          "Min": 60
+        },
+        "metalpipe": {
+          "Max": 120,
+          "Min": 60
+        },
+        "metalspring": {
+          "Max": 120,
+          "Min": 60
+        },
+        "paddle": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.python": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.revolver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 120,
+          "Min": 60
+        },
+        "salvaged.cleaver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "semibody": {
+          "Max": 60,
+          "Min": 30
+        },
+        "sewingkit": {
+          "Max": 120,
+          "Min": 60
+        },
+        "sheetmetal": {
+          "Max": 120,
+          "Min": 60
+        },
+        "shotgun.double": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.waterpipe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 16,
+          "Min": 2
+        },
+        "techparts": {
+          "Max": 120,
+          "Min": 60
+        },
+        "tool.binoculars": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 4,
+      "ItemsMin": 3,
+      "MaxBPs": 0,
+      "Scrap": 2500
+    },
+    "assets/bundled/prefabs/radtown/crate_normal_2_food.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "apple": {
+          "Max": 48,
+          "Min": 24
+        },
+        "bearmeat.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "black.berry": {
+          "Max": 24,
+          "Min": 12
+        },
+        "black.raspberries": {
+          "Max": 48,
+          "Min": 24
+        },
+        "blue.berry": {
+          "Max": 24,
+          "Min": 12
+        },
+        "can.beans": {
+          "Max": 48,
+          "Min": 24
+        },
+        "can.tuna": {
+          "Max": 48,
+          "Min": 24
+        },
+        "chicken.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "chocolate": {
+          "Max": 48,
+          "Min": 24
+        },
+        "deermeat.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "fish.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "granolabar": {
+          "Max": 48,
+          "Min": 24
+        },
+        "green.berry": {
+          "Max": 24,
+          "Min": 12
+        },
+        "healingtea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "horsemeat.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "maxhealthtea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "meat.pork.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "oretea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "radiationremovetea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "radiationresisttea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "red.berry": {
+          "Max": 24,
+          "Min": 12
+        },
+        "scraptea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "white.berry": {
+          "Max": 24,
+          "Min": 12
+        },
+        "wolfmeat.cooked": {
+          "Max": 24,
+          "Min": 48
+        },
+        "woodtea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "yellow.berry": {
+          "Max": 24,
+          "Min": 12
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "antiradpills": {
+          "Max": 8,
+          "Min": 1
+        },
+        "bandage": {
+          "Max": 48,
+          "Min": 24
+        },
+        "black.raspberries": {
+          "Max": 24,
+          "Min": 12
+        },
+        "healingtea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "healingtea.pure": {
+          "Max": 2,
+          "Min": 1
+        },
+        "largemedkit": {
+          "Max": 16,
+          "Min": 8
+        },
+        "maxhealthtea": {
+          "Max": 6,
+          "Min": 2
+        },
+        "maxhealthtea.pure": {
+          "Max": 2,
+          "Min": 1
+        },
+        "syringe.medical": {
+          "Max": 24,
+          "Min": 12
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/crate_tools.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 12,
+          "Min": 2
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "longsword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "scraptea": {
+          "Max": 6,
+          "Min": 1
+        },
+        "scraptea.advanced": {
+          "Max": 2,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 12,
+          "Min": 2
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 2500
+    },
+    "assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 512,
+          "Min": 256
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 96
+        },
+        "ammo.rifle": {
+          "Max": 256,
+          "Min": 512
+        },
+        "ammo.shotgun": {
+          "Max": 36,
+          "Min": 72
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "bed": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "can.beans": {
+          "Max": 8,
+          "Min": 1
+        },
+        "can.tuna": {
+          "Max": 8,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 16,
+          "Min": 2
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "diving.fins": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.mask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.tank": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.wetsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "fuse": {
+          "Max": 16,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 48,
+          "Min": 96
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "hoodie": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalpipe": {
+          "Max": 96,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 96,
+          "Min": 48
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.python": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "roadsigns": {
+          "Max": 96,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "sewingkit": {
+          "Max": 96,
+          "Min": 48
+        },
+        "shotgun.pump": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.waterpipe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.2": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smgbody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 16,
+          "Min": 2
+        },
+        "techparts": {
+          "Max": 96,
+          "Min": 48
+        },
+        "waterjug": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 5,
+      "ItemsMin": 3,
+      "MaxBPs": 0,
+      "Scrap": 3000
+    },
+    "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 64,
+          "Min": 128
+        },
+        "ammo.shotgun": {
+          "Max": 24,
+          "Min": 12
+        },
+        "cctv.camera": {
+          "Max": 12,
+          "Min": 2
+        },
+        "diving.fins": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.mask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.tank": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.wetsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "fuse": {
+          "Max": 16,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 18,
+          "Min": 36
+        },
+        "hammer.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "machete": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalblade": {
+          "Max": 18,
+          "Min": 36
+        },
+        "metalpipe": {
+          "Max": 18,
+          "Min": 36
+        },
+        "metalspring": {
+          "Max": 18,
+          "Min": 36
+        },
+        "paddle": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "propanetank": {
+          "Max": 18,
+          "Min": 36
+        },
+        "roadsigns": {
+          "Max": 18,
+          "Min": 36
+        },
+        "rope": {
+          "Max": 18,
+          "Min": 36
+        },
+        "salvaged.cleaver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "semibody": {
+          "Max": 6,
+          "Min": 12
+        },
+        "sewingkit": {
+          "Max": 18,
+          "Min": 36
+        },
+        "sheetmetal": {
+          "Max": 18,
+          "Min": 36
+        },
+        "shirt.collared": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 12,
+          "Min": 2
+        },
+        "tarp": {
+          "Max": 18,
+          "Min": 36
+        },
+        "wood.armor.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "wood.armor.pants": {
+          "Max": 3,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 4,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 1300
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm ammo.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.handmade.shell": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.pistol": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.pistol.fire": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.pistol.hv": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.rifle": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.rifle.explosive": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.rifle.hv": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 30,
+          "Min": 30
+        },
+        "ammo.rocket.basic": {
+          "Max": 5,
+          "Min": 5
+        },
+        "ammo.rocket.fire": {
+          "Max": 5,
+          "Min": 5
+        },
+        "ammo.rocket.hv": {
+          "Max": 5,
+          "Min": 5
+        },
+        "ammo.shotgun": {
+          "Max": 20,
+          "Min": 20
+        },
+        "ammo.shotgun.slug": {
+          "Max": 20,
+          "Min": 20
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm c4.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "explosive.timed": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 4,
+      "ItemsMin": 4,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm construction resources.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "cloth": {
+          "Max": 200,
+          "Min": 200
+        },
+        "fat.animal": {
+          "Max": 100,
+          "Min": 100
+        },
+        "metal.ore": {
+          "Max": 2500,
+          "Min": 2500
+        },
+        "stones": {
+          "Max": 5000,
+          "Min": 5000
+        },
+        "sulfur": {
+          "Max": 900,
+          "Min": 900
+        },
+        "wood": {
+          "Max": 5000,
+          "Min": 5000
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm construction tools.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "building.planner": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm food.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "apple": {
+          "Max": 1,
+          "Min": 1
+        },
+        "black.raspberries": {
+          "Max": 1,
+          "Min": 1
+        },
+        "blueberries": {
+          "Max": 1,
+          "Min": 1
+        },
+        "can.beans": {
+          "Max": 1,
+          "Min": 1
+        },
+        "can.tuna": {
+          "Max": 1,
+          "Min": 1
+        },
+        "chocolate": {
+          "Max": 1,
+          "Min": 1
+        },
+        "granolabar": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pumpkin": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smallwaterbottle": {
+          "Max": 1,
+          "Min": 1
+        },
+        "waterjug": {
+          "Max": 2,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm medical.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "bandage": {
+          "Max": 1,
+          "Min": 1
+        },
+        "largemedkit": {
+          "Max": 1,
+          "Min": 1
+        },
+        "syringe.medical": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm res.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "hq.metal.ore": {
+          "Max": 50,
+          "Min": 50
+        },
+        "metal.ore": {
+          "Max": 10000,
+          "Min": 10000
+        },
+        "stones": {
+          "Max": 5000,
+          "Min": 5000
+        },
+        "sulfur.ore": {
+          "Max": 2750,
+          "Min": 2750
+        },
+        "wood": {
+          "Max": 8000,
+          "Min": 8000
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm tier1 lootbox.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.handmade.shell": {
+          "Max": 20,
+          "Min": 20
+        },
+        "ammo.nailgun.nails": {
+          "Max": 50,
+          "Min": 50
+        },
+        "arrow.fire": {
+          "Max": 3,
+          "Min": 3
+        },
+        "arrow.wooden": {
+          "Max": 20,
+          "Min": 20
+        },
+        "bone.club": {
+          "Max": 1,
+          "Min": 1
+        },
+        "bow.compound": {
+          "Max": 1,
+          "Min": 1
+        },
+        "bow.hunting": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.gloves": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.headwrap": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.shirt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.shoes": {
+          "Max": 1,
+          "Min": 1
+        },
+        "burlap.trousers": {
+          "Max": 1,
+          "Min": 1
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "crossbow": {
+          "Max": 1,
+          "Min": 1
+        },
+        "fun.guitar": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hat.boonie": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hat.candle": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hat.cap": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hoodie": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.bone": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lowgradefuel": {
+          "Max": 150,
+          "Min": 150
+        },
+        "mask.bandana": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.eoka": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.nailgun": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pumpkin": {
+          "Max": 1,
+          "Min": 1
+        },
+        "spear.stone": {
+          "Max": 1,
+          "Min": 1
+        },
+        "spear.wooden": {
+          "Max": 1,
+          "Min": 1
+        },
+        "tshirt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "wood.armor.jacket": {
+          "Max": 1,
+          "Min": 1
+        },
+        "wood.armor.pants": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm tier2 lootbox.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 36,
+          "Min": 36
+        },
+        "ammo.rifle": {
+          "Max": 32,
+          "Min": 32
+        },
+        "ammo.shotgun": {
+          "Max": 20,
+          "Min": 20
+        },
+        "ammo.shotgun.slug": {
+          "Max": 20,
+          "Min": 20
+        },
+        "attire.hide.boots": {
+          "Max": 1,
+          "Min": 1
+        },
+        "attire.hide.pants": {
+          "Max": 1,
+          "Min": 1
+        },
+        "attire.hide.poncho": {
+          "Max": 1,
+          "Min": 1
+        },
+        "attire.hide.vest": {
+          "Max": 1,
+          "Min": 1
+        },
+        "bone.armor.suit": {
+          "Max": 1,
+          "Min": 1
+        },
+        "flamethrower": {
+          "Max": 1,
+          "Min": 1
+        },
+        "grenade.beancan": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hat.wolf": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jacket.snow": {
+          "Max": 1,
+          "Min": 1
+        },
+        "longsword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lowgradefuel": {
+          "Max": 150,
+          "Min": 150
+        },
+        "mace": {
+          "Max": 1,
+          "Min": 1
+        },
+        "machete": {
+          "Max": 1,
+          "Min": 1
+        },
+        "mask.balaclava": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.python": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.revolver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.m39": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riot.helmet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.cleaver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.double": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.waterpipe": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/dmloot/dm tier3 lootbox.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 96,
+          "Min": 96
+        },
+        "ammo.rifle": {
+          "Max": 90,
+          "Min": 90
+        },
+        "ammo.rocket.basic": {
+          "Max": 3,
+          "Min": 3
+        },
+        "ammo.rocket.fire": {
+          "Max": 3,
+          "Min": 3
+        },
+        "ammo.shotgun": {
+          "Max": 20,
+          "Min": 20
+        },
+        "ammo.shotgun.fire": {
+          "Max": 20,
+          "Min": 20
+        },
+        "ammo.shotgun.slug": {
+          "Max": 20,
+          "Min": 20
+        },
+        "coffeecan.helmet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "grenade.f1": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "roadsign.jacket": {
+          "Max": 1,
+          "Min": 1
+        },
+        "roadsign.kilt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rocket.launcher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shoes.boots": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.pump": {
+          "Max": 1,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.2": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.mp5": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.thompson": {
+          "Max": 1,
+          "Min": 1
+        },
+        "supply.signal": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.holosight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.lasersight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.muzzleboost": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.muzzlebrake": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.silencer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/foodbox.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "apple": {
+          "Max": 24,
+          "Min": 48
+        },
+        "black.raspberries": {
+          "Max": 24,
+          "Min": 48
+        },
+        "blueberries": {
+          "Max": 24,
+          "Min": 48
+        },
+        "can.beans": {
+          "Max": 28,
+          "Min": 12
+        },
+        "can.tuna": {
+          "Max": 28,
+          "Min": 12
+        },
+        "chocolate": {
+          "Max": 8,
+          "Min": 4
+        },
+        "corn": {
+          "Max": 32,
+          "Min": 64
+        },
+        "granolabar": {
+          "Max": 4,
+          "Min": 8
+        },
+        "jar.pickle": {
+          "Max": 32,
+          "Min": 32
+        },
+        "potato": {
+          "Max": 32,
+          "Min": 64
+        },
+        "pumpkin": {
+          "Max": 16,
+          "Min": 32
+        },
+        "smallwaterbottle": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/loot_barrel_1.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "fuse": {
+          "Max": 8,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalblade": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalpipe": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 24,
+          "Min": 48
+        },
+        "propanetank": {
+          "Max": 24,
+          "Min": 48
+        },
+        "roadsigns": {
+          "Max": 24,
+          "Min": 48
+        },
+        "rope": {
+          "Max": 24,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 14,
+          "Min": 28
+        },
+        "sewingkit": {
+          "Max": 24,
+          "Min": 48
+        },
+        "sheetmetal": {
+          "Max": 24,
+          "Min": 48
+        },
+        "tarp": {
+          "Max": 24,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 500
+    },
+    "assets/bundled/prefabs/radtown/loot_barrel_2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "fuse": {
+          "Max": 8,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalblade": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalpipe": {
+          "Max": 24,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 24,
+          "Min": 48
+        },
+        "propanetank": {
+          "Max": 24,
+          "Min": 48
+        },
+        "roadsigns": {
+          "Max": 24,
+          "Min": 48
+        },
+        "rope": {
+          "Max": 24,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 14,
+          "Min": 28
+        },
+        "sewingkit": {
+          "Max": 24,
+          "Min": 48
+        },
+        "sheetmetal": {
+          "Max": 24,
+          "Min": 48
+        },
+        "tarp": {
+          "Max": 24,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 500
+    },
+    "assets/bundled/prefabs/radtown/loot_trash.prefab": {
+      "Enabled": false,
+      "ItemList": {},
+      "ItemsMax": 0,
+      "ItemsMin": 0,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/minecart.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "stone.pickaxe": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 1,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/oil_barrel.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "crude.oil": {
+          "Max": 2400,
+          "Min": 500
+        },
+        "diesel_barrel": {
+          "Max": 25,
+          "Min": 100
+        },
+        "lowgradefuel": {
+          "Max": 2400,
+          "Min": 4800
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 3,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 24,
+          "Min": 48
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 24,
+          "Min": 48
+        },
+        "ammo.pistol": {
+          "Max": 256,
+          "Min": 512
+        },
+        "ammo.pistol.fire": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.pistol.hv": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.rifle": {
+          "Max": 256,
+          "Min": 512
+        },
+        "ammo.rifle.explosive": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.rifle.hv": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.rocket.hv": {
+          "Max": 4,
+          "Min": 8
+        },
+        "ammo.shotgun": {
+          "Max": 128,
+          "Min": 64
+        },
+        "ammo.shotgun.fire": {
+          "Max": 128,
+          "Min": 64
+        },
+        "ammo.shotgun.slug": {
+          "Max": 64,
+          "Min": 128
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 500
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.pistol": {
+          "Max": 512,
+          "Min": 1024
+        },
+        "ammo.pistol.fire": {
+          "Max": 256,
+          "Min": 128
+        },
+        "ammo.pistol.hv": {
+          "Max": 256,
+          "Min": 128
+        },
+        "ammo.rifle": {
+          "Max": 512,
+          "Min": 1024
+        },
+        "ammo.rifle.explosive": {
+          "Max": 256,
+          "Min": 128
+        },
+        "ammo.rifle.hv": {
+          "Max": 96,
+          "Min": 128
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 256,
+          "Min": 128
+        },
+        "ammo.rocket.basic": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.fire": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.hv": {
+          "Max": 18,
+          "Min": 6
+        },
+        "autoturret": {
+          "Max": 18,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 20,
+          "Min": 3
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "door.double.hinged.toptier": {
+          "Max": 10,
+          "Min": 3
+        },
+        "door.hinged.toptier": {
+          "Max": 10,
+          "Min": 3
+        },
+        "electric.battery.rechargable.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "explosive.timed": {
+          "Max": 24,
+          "Min": 48
+        },
+        "furnace.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "generator.wind.scrap": {
+          "Max": 1,
+          "Min": 1
+        },
+        "grenade.f1": {
+          "Max": 96,
+          "Min": 48
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "industrial.wall.light": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.green": {
+          "Max": 30,
+          "Min": 1
+        },
+        "industrial.wall.light.red": {
+          "Max": 30,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalspring": {
+          "Max": 192,
+          "Min": 96
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "nightvisiongoggles": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.m39": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 64,
+          "Min": 32
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 192,
+          "Min": 96
+        },
+        "rocket.launcher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "samsite": {
+          "Max": 18,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "small.oil.refinery": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smg.mp5": {
+          "Max": 1,
+          "Min": 1
+        },
+        "supply.signal": {
+          "Max": 10,
+          "Min": 1
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 200,
+          "Min": 3
+        },
+        "techparts": {
+          "Max": 192,
+          "Min": 96
+        },
+        "wall.frame.garagedoor": {
+          "Max": 10,
+          "Min": 3
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.burstmodule": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 5,
+      "ItemsMin": 4,
+      "MaxBPs": 0,
+      "Scrap": 9000
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_food_1.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "apple": {
+          "Max": 1,
+          "Min": 1
+        },
+        "can.beans": {
+          "Max": 1,
+          "Min": 1
+        },
+        "can.tuna": {
+          "Max": 1,
+          "Min": 1
+        },
+        "chocolate": {
+          "Max": 1,
+          "Min": 1
+        },
+        "granolabar": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smallwaterbottle": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 3,
+      "MaxBPs": 1,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_food_2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "can.beans": {
+          "Max": 16,
+          "Min": 4
+        },
+        "can.tuna": {
+          "Max": 16,
+          "Min": 4
+        },
+        "chocolate": {
+          "Max": 16,
+          "Min": 4
+        },
+        "granolabar": {
+          "Max": 16,
+          "Min": 4
+        },
+        "jar.pickle": {
+          "Max": 12,
+          "Min": 24
+        },
+        "smallwaterbottle": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_fuel.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "crude.oil": {
+          "Max": 1200,
+          "Min": 300
+        },
+        "diesel_barrel": {
+          "Max": 50,
+          "Min": 100
+        },
+        "lowgradefuel": {
+          "Max": 4000,
+          "Min": 1200
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 3,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_medical.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "antiradpills": {
+          "Max": 12,
+          "Min": 2
+        },
+        "bandage": {
+          "Max": 72,
+          "Min": 144
+        },
+        "black.raspberries": {
+          "Max": 24,
+          "Min": 18
+        },
+        "blueberries": {
+          "Max": 24,
+          "Min": 18
+        },
+        "healingtea": {
+          "Max": 3,
+          "Min": 1
+        },
+        "healingtea.pure": {
+          "Max": 1,
+          "Min": 1
+        },
+        "largemedkit": {
+          "Max": 30,
+          "Min": 10
+        },
+        "maxhealthtea": {
+          "Max": 3,
+          "Min": 1
+        },
+        "maxhealthtea.pure": {
+          "Max": 1,
+          "Min": 1
+        },
+        "syringe.medical": {
+          "Max": 36,
+          "Min": 72
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 1,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 48,
+          "Min": 24
+        },
+        "ammo.pistol": {
+          "Max": 512,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 512,
+          "Min": 256
+        },
+        "ammo.shotgun": {
+          "Max": 64,
+          "Min": 48
+        },
+        "autoturret": {
+          "Max": 10,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 20,
+          "Min": 1
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "coffeecan.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "electric.solarpanel.large": {
+          "Max": 10,
+          "Min": 1
+        },
+        "flameturret": {
+          "Max": 10,
+          "Min": 1
+        },
+        "flare": {
+          "Max": 5,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 48,
+          "Min": 24
+        },
+        "guntrap": {
+          "Max": 10,
+          "Min": 1
+        },
+        "heavy.plate.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "heavy.plate.pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalpipe": {
+          "Max": 48,
+          "Min": 96
+        },
+        "metalspring": {
+          "Max": 48,
+          "Min": 96
+        },
+        "pistol.prototype17": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.python": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.revolver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.semiauto": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 12,
+          "Min": 24
+        },
+        "roadsign.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 48,
+          "Min": 96
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "semibody": {
+          "Max": 12,
+          "Min": 24
+        },
+        "sewingkit": {
+          "Max": 48,
+          "Min": 96
+        },
+        "sheetmetal": {
+          "Max": 48,
+          "Min": 96
+        },
+        "shoes.boots": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smgbody": {
+          "Max": 12,
+          "Min": 24
+        },
+        "supply.signal": {
+          "Max": 10,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 20,
+          "Min": 1
+        },
+        "techparts": {
+          "Max": 48,
+          "Min": 96
+        }
+      },
+      "ItemsMax": 4,
+      "ItemsMin": 3,
+      "MaxBPs": 0,
+      "Scrap": 2500
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.pistol": {
+          "Max": 512,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 256,
+          "Min": 512
+        },
+        "cctv.camera": {
+          "Max": 16,
+          "Min": 1
+        },
+        "diving.fins": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.mask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.tank": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diving.wetsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "gears": {
+          "Max": 96,
+          "Min": 48
+        },
+        "hammer.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "longsword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metalpipe": {
+          "Max": 96,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 96,
+          "Min": 48
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pistol.revolver": {
+          "Max": 1,
+          "Min": 1
+        },
+        "propanetank": {
+          "Max": 96,
+          "Min": 48
+        },
+        "roadsigns": {
+          "Max": 96,
+          "Min": 48
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "semibody": {
+          "Max": 96,
+          "Min": 24
+        },
+        "targeting.computer": {
+          "Max": 16,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 1200
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/crate_tools.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 16,
+          "Min": 2
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hatchet": {
+          "Max": 1,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "knife.combat": {
+          "Max": 1,
+          "Min": 1
+        },
+        "longsword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pickaxe": {
+          "Max": 1,
+          "Min": 1
+        },
+        "salvaged.sword": {
+          "Max": 1,
+          "Min": 1
+        },
+        "scraptea": {
+          "Max": 6,
+          "Min": 1
+        },
+        "scraptea.pure": {
+          "Max": 2,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 16,
+          "Min": 2
+        }
+      },
+      "ItemsMax": 3,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 2500
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/tech_parts_1.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "semibody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "smgbody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "targeting.computer": {
+          "Max": 12,
+          "Min": 24
+        },
+        "techparts": {
+          "Max": 96,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 4,
+      "ItemsMin": 4,
+      "MaxBPs": 0,
+      "Scrap": 900
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/tech_parts_2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "gears": {
+          "Max": 48,
+          "Min": 48
+        },
+        "metalpipe": {
+          "Max": 96,
+          "Min": 48
+        },
+        "metalspring": {
+          "Max": 96,
+          "Min": 48
+        },
+        "semibody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "sheetmetal": {
+          "Max": 96,
+          "Min": 48
+        }
+      },
+      "ItemsMax": 5,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 900
+    },
+    "assets/bundled/prefabs/radtown/underwater_labs/vehicle_parts.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "carburetor1": {
+          "Max": 1,
+          "Min": 1
+        },
+        "crankshaft1": {
+          "Max": 1,
+          "Min": 1
+        },
+        "piston1": {
+          "Max": 1,
+          "Min": 1
+        },
+        "sparkplug1": {
+          "Max": 1,
+          "Min": 1
+        },
+        "valve1": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 1,
+      "Scrap": 8
+    },
+    "assets/bundled/prefabs/radtown/vehicle_parts.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "carburetor3": {
+          "Max": 6,
+          "Min": 12
+        },
+        "crankshaft3": {
+          "Max": 6,
+          "Min": 12
+        },
+        "piston3": {
+          "Max": 6,
+          "Min": 12
+        },
+        "sparkplug3": {
+          "Max": 6,
+          "Min": 12
+        },
+        "valve3": {
+          "Max": 6,
+          "Min": 12
+        }
+      },
+      "ItemsMax": 5,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 800
+    },
+    "assets/content/props/roadsigns/roadsign1.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign2.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign3.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign4.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign5.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign6.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign7.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign8.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/content/props/roadsigns/roadsign9.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "metalpipe": {
+          "Max": 25,
+          "Min": 100
+        },
+        "roadsigns": {
+          "Max": 25,
+          "Min": 100
+        }
+      },
+      "ItemsMax": 2,
+      "ItemsMin": 2,
+      "MaxBPs": 0,
+      "Scrap": 0
+    },
+    "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "aiming.module.mlrs": {
+          "Max": 1,
+          "Min": 1
+        },
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 60,
+          "Min": 120
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 60,
+          "Min": 120
+        },
+        "ammo.pistol": {
+          "Max": 1200,
+          "Min": 700
+        },
+        "ammo.pistol.fire": {
+          "Max": 384,
+          "Min": 192
+        },
+        "ammo.pistol.hv": {
+          "Max": 192,
+          "Min": 384
+        },
+        "ammo.rifle": {
+          "Max": 1200,
+          "Min": 700
+        },
+        "ammo.rifle.explosive": {
+          "Max": 192,
+          "Min": 384
+        },
+        "ammo.rifle.hv": {
+          "Max": 192,
+          "Min": 384
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 192,
+          "Min": 384
+        },
+        "ammo.rocket.basic": {
+          "Max": 20,
+          "Min": 40
+        },
+        "ammo.rocket.fire": {
+          "Max": 20,
+          "Min": 40
+        },
+        "ammo.rocket.hv": {
+          "Max": 20,
+          "Min": 40
+        },
+        "ammo.rocket.mlrs": {
+          "Max": 38,
+          "Min": 6
+        },
+        "ammo.shotgun": {
+          "Max": 90,
+          "Min": 180
+        },
+        "ammo.shotgun.fire": {
+          "Max": 90,
+          "Min": 180
+        },
+        "autoturret": {
+          "Max": 12,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 28,
+          "Min": 14
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "door.double.hinged.toptier": {
+          "Max": 12,
+          "Min": 1
+        },
+        "door.hinged.toptier": {
+          "Max": 12,
+          "Min": 1
+        },
+        "electric.battery.rechargable.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "explosive.timed": {
+          "Max": 44,
+          "Min": 22
+        },
+        "furnace.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "healingtea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lmg.m249": {
+          "Max": 1,
+          "Min": 1
+        },
+        "maxhealthtea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalspring": {
+          "Max": 200,
+          "Min": 150
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "oretea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "radiationremovetea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "radiationresisttea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 50,
+          "Min": 75
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 200,
+          "Min": 150
+        },
+        "samsite": {
+          "Max": 12,
+          "Min": 1
+        },
+        "scraptea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shoes.boots": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "small.oil.refinery": {
+          "Max": 1,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 28,
+          "Min": 14
+        },
+        "techparts": {
+          "Max": 150,
+          "Min": 200
+        },
+        "wall.frame.garagedoor": {
+          "Max": 12,
+          "Min": 3
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "woodtea.pure": {
+          "Max": 3,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 6,
+      "MaxBPs": 1,
+      "Scrap": 14000
+    },
+    "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "aiming.module.mlrs": {
+          "Max": 1,
+          "Min": 1
+        },
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 48,
+          "Min": 96
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 48,
+          "Min": 96
+        },
+        "ammo.pistol": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.pistol.hv": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.rifle.explosive": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle.hv": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rocket.basic": {
+          "Max": 16,
+          "Min": 32
+        },
+        "ammo.rocket.fire": {
+          "Max": 16,
+          "Min": 32
+        },
+        "ammo.rocket.hv": {
+          "Max": 16,
+          "Min": 32
+        },
+        "ammo.rocket.mlrs": {
+          "Max": 20,
+          "Min": 1
+        },
+        "ammo.shotgun": {
+          "Max": 72,
+          "Min": 144
+        },
+        "ammo.shotgun.fire": {
+          "Max": 72,
+          "Min": 144
+        },
+        "autoturret": {
+          "Max": 18,
+          "Min": 1
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 20,
+          "Min": 3
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "door.double.hinged.toptier": {
+          "Max": 10,
+          "Min": 1
+        },
+        "door.hinged.toptier": {
+          "Max": 10,
+          "Min": 1
+        },
+        "electric.battery.rechargable.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "electric.generator.small": {
+          "Max": 2,
+          "Min": 1
+        },
+        "explosive.timed": {
+          "Max": 24,
+          "Min": 48
+        },
+        "furnace.large": {
+          "Max": 1,
+          "Min": 1
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "healingtea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lmg.m249": {
+          "Max": 1,
+          "Min": 1
+        },
+        "maxhealthtea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalspring": {
+          "Max": 200,
+          "Min": 120
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "oretea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "radiationremovetea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "radiationresisttea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 120,
+          "Min": 60
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 200,
+          "Min": 120
+        },
+        "samsite": {
+          "Max": 18,
+          "Min": 1
+        },
+        "scraptea.pure": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shoes.boots": {
+          "Max": 3,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "small.oil.refinery": {
+          "Max": 1,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 20,
+          "Min": 3
+        },
+        "techparts": {
+          "Max": 200,
+          "Min": 120
+        },
+        "wall.frame.garagedoor": {
+          "Max": 10,
+          "Min": 1
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "woodtea.pure": {
+          "Max": 3,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 15000
+    },
+    "assets/prefabs/misc/supply drop/supply_drop.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.pistol": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 512,
+          "Min": 1024
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rocket.fire": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.hv": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.shotgun": {
+          "Max": 48,
+          "Min": 96
+        },
+        "ammo.shotgun.fire": {
+          "Max": 48,
+          "Min": 96
+        },
+        "axe.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 18,
+          "Min": 3
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "coffeecan.helmet": {
+          "Max": 3,
+          "Min": 1
+        },
+        "diesel_barrel": {
+          "Max": 50,
+          "Min": 100
+        },
+        "door.double.hinged.toptier": {
+          "Max": 9,
+          "Min": 3
+        },
+        "door.hinged.toptier": {
+          "Max": 9,
+          "Min": 3
+        },
+        "explosive.timed": {
+          "Max": 32,
+          "Min": 12
+        },
+        "gears": {
+          "Max": 192,
+          "Min": 96
+        },
+        "grenade.f1": {
+          "Max": 96,
+          "Min": 48
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "hoodie": {
+          "Max": 3,
+          "Min": 1
+        },
+        "icepick.salvaged": {
+          "Max": 1,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lmg.m249": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.m39": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 12,
+          "Min": 24
+        },
+        "roadsign.jacket": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 192,
+          "Min": 96
+        },
+        "sewingkit": {
+          "Max": 192,
+          "Min": 96
+        },
+        "shoes.boots": {
+          "Max": 3,
+          "Min": 1
+        },
+        "smg.mp5": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smgbody": {
+          "Max": 48,
+          "Min": 24
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 18,
+          "Min": 3
+        },
+        "techparts": {
+          "Max": 192,
+          "Min": 96
+        },
+        "wall.frame.garagedoor": {
+          "Max": 9,
+          "Min": 3
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.burstmodule": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 9000
+    },
+    "assets/prefabs/npc/m2bradley/bradley_crate.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "aiming.module.mlrs": {
+          "Max": 1,
+          "Min": 1
+        },
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.pistol": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.rifle.explosive": {
+          "Max": 128,
+          "Min": 356
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rocket.basic": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.fire": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.hv": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.mlrs": {
+          "Max": 16,
+          "Min": 1
+        },
+        "ammo.shotgun": {
+          "Max": 48,
+          "Min": 96
+        },
+        "autoturret": {
+          "Max": 18,
+          "Min": 3
+        },
+        "cctv.camera": {
+          "Max": 16,
+          "Min": 3
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "diesel_barrel": {
+          "Max": 50,
+          "Min": 100
+        },
+        "door.double.hinged.toptier": {
+          "Max": 10,
+          "Min": 3
+        },
+        "door.hinged.toptier": {
+          "Max": 10,
+          "Min": 3
+        },
+        "explosive.timed": {
+          "Max": 16,
+          "Min": 32
+        },
+        "gears": {
+          "Max": 192,
+          "Min": 96
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "hoodie": {
+          "Max": 3,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lmg.m249": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalspring": {
+          "Max": 96,
+          "Min": 192
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 24,
+          "Min": 48
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rocket.launcher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "samsite": {
+          "Max": 18,
+          "Min": 3
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "supply.signal": {
+          "Max": 10,
+          "Min": 1
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 16,
+          "Min": 3
+        },
+        "techparts": {
+          "Max": 192,
+          "Min": 96
+        },
+        "wall.frame.garagedoor": {
+          "Max": 10,
+          "Min": 3
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.burstmodule": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.flashlight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.holosight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.lasersight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 7,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 8000
+    },
+    "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": {
+      "Enabled": true,
+      "ItemList": {
+        "aiming.module.mlrs": {
+          "Max": 1,
+          "Min": 1
+        },
+        "ammo.grenadelauncher.buckshot": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.grenadelauncher.he": {
+          "Max": 36,
+          "Min": 72
+        },
+        "ammo.pistol": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.pistol.fire": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rifle": {
+          "Max": 1024,
+          "Min": 512
+        },
+        "ammo.rifle.explosive": {
+          "Max": 256,
+          "Min": 128
+        },
+        "ammo.rifle.incendiary": {
+          "Max": 128,
+          "Min": 256
+        },
+        "ammo.rocket.basic": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.fire": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.hv": {
+          "Max": 18,
+          "Min": 6
+        },
+        "ammo.rocket.mlrs": {
+          "Max": 18,
+          "Min": 1
+        },
+        "autoturret": {
+          "Max": 12,
+          "Min": 1
+        },
+        "cctv.camera": {
+          "Max": 18,
+          "Min": 3
+        },
+        "chainsaw": {
+          "Max": 1,
+          "Min": 1
+        },
+        "diesel_barrel": {
+          "Max": 50,
+          "Min": 100
+        },
+        "explosive.timed": {
+          "Max": 16,
+          "Min": 32
+        },
+        "gears": {
+          "Max": 144,
+          "Min": 72
+        },
+        "hazmatsuit": {
+          "Max": 3,
+          "Min": 1
+        },
+        "hoodie": {
+          "Max": 3,
+          "Min": 1
+        },
+        "jackhammer": {
+          "Max": 1,
+          "Min": 1
+        },
+        "lmg.m249": {
+          "Max": 1,
+          "Min": 1
+        },
+        "metal.facemask": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metal.plate.torso": {
+          "Max": 3,
+          "Min": 1
+        },
+        "metalpipe": {
+          "Max": 144,
+          "Min": 72
+        },
+        "metalspring": {
+          "Max": 144,
+          "Min": 72
+        },
+        "multiplegrenadelauncher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "pants": {
+          "Max": 3,
+          "Min": 1
+        },
+        "rifle.ak": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.bolt": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.l96": {
+          "Max": 1,
+          "Min": 1
+        },
+        "rifle.lr300": {
+          "Max": 1,
+          "Min": 1
+        },
+        "riflebody": {
+          "Max": 32,
+          "Min": 16
+        },
+        "roadsign.kilt": {
+          "Max": 3,
+          "Min": 1
+        },
+        "roadsigns": {
+          "Max": 144,
+          "Min": 72
+        },
+        "rocket.launcher": {
+          "Max": 1,
+          "Min": 1
+        },
+        "samsite": {
+          "Max": 12,
+          "Min": 1
+        },
+        "shotgun.spas12": {
+          "Max": 1,
+          "Min": 1
+        },
+        "smgbody": {
+          "Max": 32,
+          "Min": 16
+        },
+        "supply.signal": {
+          "Max": 8,
+          "Min": 1
+        },
+        "tactical.gloves": {
+          "Max": 3,
+          "Min": 1
+        },
+        "targeting.computer": {
+          "Max": 18,
+          "Min": 3
+        },
+        "techparts": {
+          "Max": 96,
+          "Min": 48
+        },
+        "weapon.mod.8x.scope": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.burstmodule": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.extendedmags": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.flashlight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.holosight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.lasersight": {
+          "Max": 1,
+          "Min": 1
+        },
+        "weapon.mod.small.scope": {
+          "Max": 1,
+          "Min": 1
+        }
+      },
+      "ItemsMax": 6,
+      "ItemsMin": 5,
+      "MaxBPs": 0,
+      "Scrap": 7000
+    }
+  }
+}

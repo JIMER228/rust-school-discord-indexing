@@ -1,0 +1,83 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "<b><size=18><color=#679fc7>Блокировка предметов</color></size></b>",
+    "Текст на второй строке": "<b><size=13>Промо-код <color=#9370d8>FLEEPS</color></size></b>",
+    "Название сервера": ""
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('1852' - на 1852 секунд вперёд, '-1852' на 1852 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "1": [
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "5400": [
+        "pistol.semiauto",
+        "pistol.python",
+        "pistol.m92",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt",
+        "roadsign.gloves"
+      ],
+      "7200": [
+        "smg.2",
+        "smg.thompson",
+        "rifle.semiauto",
+        "shotgun.pump"
+      ],
+      "14400": [
+        "rifle.m39",
+        "explosive.satchel",
+        "grenade.f1",
+        "grenade.beancan",
+        "surveycharge",
+        "shotgun.spas12",
+        "smg.mp5"
+      ],
+      "21600": [
+        "rifle.ak",
+        "rifle.bolt",
+        "rifle.lr300",
+        "metal.facemask",
+        "metal.plate.torso",
+        "tactical.gloves"
+      ],
+      "86400": [
+        "ammo.rifle.explosive",
+        "ammo.rocket.basic",
+        "ammo.rocket.fire",
+        "ammo.rocket.hv",
+        "rocket.launcher",
+        "rifle.l96",
+        "lmg.m249"
+      ],
+      "93600": [
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants",
+        "explosive.timed",
+        "ammo.grenadelauncher.he",
+        "ammo.grenadelauncher.buckshot",
+        "ammo.grenadelauncher.smoke",
+        "multiplegrenadelauncher"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Weapon": "ОРУЖИЕ",
+      "Ammunition": "БОЕПРИПАСЫ",
+      "Medical": "МЕДИЦИНА",
+      "Food": "ЕДА",
+      "Traps": "ЛОВУШКИ",
+      "Tool": "ИНСТРУМЕНТЫ",
+      "Construction": "КОНСТРУКЦИИ",
+      "Resources": "РЕСУРСЫ",
+      "Items": "ПРЕДМЕТЫ",
+      "Component": "КОМПОНЕНТЫ",
+      "Misc": "ПРОЧЕЕ",
+      "Attire": "ОДЕЖДА"
+    }
+  },
+  "Включить поддержку экспериментальных функций": true
+}

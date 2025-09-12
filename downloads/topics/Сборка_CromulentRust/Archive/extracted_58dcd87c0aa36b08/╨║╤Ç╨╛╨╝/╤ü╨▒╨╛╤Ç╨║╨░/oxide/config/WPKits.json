@@ -1,0 +1,51 @@
+{
+  "Settings": {
+    "Kits Currency Name": "scrap",
+    "Close WelcomePanel after claiming kit": false,
+    "Main Panel Color": "0.25 0.25 0.25 0.65",
+    "Secondary Panel Color": "0.19 0.19 0.19 0.85",
+    "Claim Button Color": "0.31 0.37 0.20 1.0",
+    "On Cooldown Button Color": "0.56 0.20 0.15 1.0",
+    "Info Button Color": "0.19 0.19 0.19 0.85",
+    "Fade In Value": 0.3,
+    "Font Outline Color": "0 0 0 1",
+    "Font Outline Thickness": "1"
+  },
+  "Kits": {
+    "VIP_GUNS": {
+      "» Display Name": "VIP",
+      "» Image": "https://i.yapx.ru/WIgFc.png",
+      "» Big Image": null,
+      "» Short Text": "<size=15>Покупка на сайте:</size>\n<size=23><color=#4A95CC>rust-crom.ru</color></size>",
+      "» Description": "Забрать привилегию команда - /store\nЕжедневные наборы VIP /kit\nЗащита от ночного рейда 75%\nПовышенные рейты на всё +5\nСкорость плавки печей X50\nПриставка перед ником - [VIP]\nДополнительные цвета для чата /chat\nМетаболизм\nCлотов в сумке 30\nВзлом ящика с чинука 5 мин\nОткат на TP/Home - 60 секунд\nОжидание телепорта - 25 секунд\nТочек дома 5"
+    },
+    "PREMIUM_GUNS": {
+      "» Display Name": "PREMIUM",
+      "» Image": "https://i.yapx.ru/WIgFa.png",
+      "» Big Image": null,
+      "» Short Text": "<size=15>Покупка на сайте:</size>\n<size=23><color=#4A95CC>rust-crom.ru</color></size>",
+      "» Description": "Забрать привилегию команда - /store\nЕжедневные наборы PREMIUM /kit\nЗащита от ночного рейда 80%\nПовышенные рейты на всё +10\nСкорость плавки печей X75\nПриставка перед ником - [PREMIUM]\nДополнительные цвета для чата /chat\nМетаболизм\nCлотов в сумке 36\nВзлом ящика с чинука 4 мин\nОткат на TP/Home - 45 секунд\nОжидание телепорта - 20 секунд\nТочек дома 7\n30 турелей без электричества /t on"
+    },
+    "DELUXE_GUNS": {
+      "» Display Name": "DELUXE",
+      "» Image": "https://i.yapx.ru/WIgFZ.png",
+      "» Big Image": null,
+      "» Short Text": "<size=15>Покупка на сайте:</size>\n<size=23><color=#4A95CC>rust-crom.ru</color></size>",
+      "» Description": "Забрать привилегию команда - /store\nЕжедневные наборы DELUXE /kit\nЗащита от ночного рейда 85%\nПовышенные рейты на всё +15\nСкорость плавки печей X100\nПриставка перед ником - [DELUXE]\nДополнительные цвета для чата /chat\nМетаболизм\nCлотов в сумке 42\nВзлом ящика с чинука 3 мин\nОткат на TP/Home - 30 секунд\nОжидание телепорта - 15 секунд\nТочек дома 10\n50 турелей без электричества /t on\nКарманный переработчик /rec\nНеломаемые предметы"
+    },
+    "ELITE_GUNS": {
+      "» Display Name": "ELITE",
+      "» Image": "https://i.yapx.ru/WIgFZ.png",
+      "» Big Image": null,
+      "» Short Text": "<size=15>Покупка на сайте:</size>\n<size=23><color=#4A95CC>rust-crom.ru</color></size>",
+      "» Description": "Забрать привилегию команда - /store\nЕжедневные наборы ELITE /kit\nЗащита от ночного рейда 90%\nПовышенные рейты на всё +20\nСкорость плавки печей X125\nПриставка перед ником - [ELITE]\nДополнительные цвета для чата /chat\nМетаболизм\nCлотов в сумке 48\nВзлом ящика с чинука 2 мин\nОткат на TP/Home - 15 секунд\nОжидание телепорта - 10 секунд\nТочек дома 15\n100 турелей без электричества /t on\nКарманный переработчик /rec\nНеломаемые предметы\nУзнать владельца дома /scan\nИгнор вайп блока"
+    },
+    "ELITE_RES": {
+      "» Display Name": "CEZAR",
+      "» Image": "https://i.yapx.ru/WIgFX.png",
+      "» Big Image": null,
+      "» Short Text": "<size=15>Покупка на сайте:</size>\n<size=23><color=#4A95CC>rust-crom.ru</color></size>",
+      "» Description": "Забрать привилегию команда - /store\nДоступ ко ВСЕМ VIP китам /kit\nЗащита от ночного рейда 95%\nПовышенные рейты на всё +25\nСкорость плавки печей X150\nПриставка перед ником - [CEZAR], Доступ ко всем тегам!\nДополнительные цвета для чата /chat\nМетаболизм\nCлотов в сумке 48\nВзлом ящика с чинука 1 мин\nОткат на TP/Home и Ожидание телепорта - 5 секунд\nТочек дома 20\n200 турелей без электричества /t on\nКарманный переработчик /rec\nНеломаемые предметы\nУзнать владельца дома /scan\nЛичный миникоптер /vm\nИгнор вайп блока и игнор рейд блока\nУсиление дома за ресурсы  днём 70%"
+    }
+  }
+}

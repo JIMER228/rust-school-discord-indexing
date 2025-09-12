@@ -1,0 +1,53 @@
+{
+  "Действия при ВКЛЮЧЕНИИ режима администратора": {
+    "Список групп, которые нужно выдать": [
+      "admin"
+    ],
+    "Список групп, которые нужно забрать": [
+      "default"
+    ],
+    "Список привилегий, которые нужно выдать": [
+      "removeaaa.*",
+	  "nteleportation.tp",
+	  "worldmap.map.allplayers",
+	  "worldmap.map.findplayer",
+	  "worldmap.map.findplayer.nocooldown",
+	  "worldmap.map.bags",
+	  "worldmap.map.banned",
+	  "worldmap.map.homes",
+	  "enhancedbansystem.ban",
+	  "enhancedbansystem.unban",
+    ],
+    "Список привилегий, которые нужно забрать": [
+      "nteleportation.tphome"
+    ]
+  },
+  "Действия при ВЫКЛЮЧЕНИИ режима администратора": {
+    "Список групп, которые нужно выдать": [
+      "default"
+    ],
+    "Список групп, которые нужно забрать": [
+      "admin"
+    ],
+    "Список привилегий, которые нужно выдать": [
+      "worldmap.map.banned"
+    ],
+    "Список привилегий, которые нужно забрать": [
+      "removeaaa.*",
+	  "nteleportation.tp",
+	  "worldmap.map.allplayers",
+	  "worldmap.map.findplayer",
+	  "worldmap.map.findplayer.nocooldown",
+	  "worldmap.map.bags",
+	  "worldmap.map.banned",
+	  "worldmap.map.homes",
+	  "enhancedbansystem.ban",
+	  "enhancedbansystem.unban",
+    ]
+  },
+  "Добавлять и удалять игрока при смене режима администратора в users.cfg": false,
+  "Команда переключения режима администратора": "/admin",
+  "Логировать использование команды": true,
+  "Привилегия, требующаяся для активации команды": "easyadmin.use",
+  "Формат сообщений в чате": "<color=#42eef4>[JustAdmin]</color> <color=#AAAAAA>{0}</color>"
+}

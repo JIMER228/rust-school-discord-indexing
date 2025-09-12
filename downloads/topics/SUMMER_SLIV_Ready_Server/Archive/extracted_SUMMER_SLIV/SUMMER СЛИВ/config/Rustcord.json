@@ -1,0 +1,97 @@
+{
+  "CustomLoggingKeywords": [],
+  "FilterWords": [
+    "badword1",
+    "badword2"
+  ],
+  "FilteredWord": "<censored>",
+  "LogExcludeGroups": [
+    "default"
+  ],
+  "LogExcludePerms": [
+    "example.permission"
+  ],
+  "Apikey": "ODcyMzU5MzM5MzA0ODE2NjUw.YQot8g.Pdzh1d36PDr7g1l3ebJ3Zbq684U",
+  "AutoReloadPlugin": true,
+  "AutoReloadTime": 901,
+  "EnableBotStatus": true,
+  "GameChatIconSteamID": 76561198325182612,
+  "GameChatTag": "[ОПОВЕЩЕНИЕ]",
+  "GameChatTagColor": "#F65050FF",
+  "GameChatNameColor": "#efedee",
+  "GameChatTextColor": "#efedee",
+  "LogChat": true,
+  "LogJoinQuits": true,
+  "LogDeaths": false,
+  "LogVehicleSpawns": false,
+  "LogCrateDrops": false,
+  "LogUserGroups": false,
+  "LogPermissions": false,
+  "LogKickBans": true,
+  "LogNameChanges": false,
+  "LogServerCommands": false,
+  "LogServerMessages": false,
+  "LogF7Reports": false,
+  "LogTeams": false,
+  "LogRCON": false,
+  "LogPluginAdminHammer": false,
+  "LogPluginAdminRadar": false,
+  "LogPluginBetterChatMute": false,
+  "LogPluginClans": false,
+  "LogPluginDiscordAuth": false,
+  "LogPluginPrivateMessages": false,
+  "LogPluginRaidableBases": false,
+  "LogPluginSignArtist": false,
+  "LogPluginVanish": false,
+  "EnableCustomLogging": false,
+  "ReportCommand": "say",
+  "Commandprefix": "!",
+  "Channels": [
+    {
+      "Channelid": "872362114147311656",
+      "perms": [
+        "cmd_allow",
+        "msg_joinlog",
+        "msg_join",
+        "cmd_players",
+        "cmd_kick",
+        "cmd_com",
+        "cmd_mute",
+        "cmd_unmute",
+        "msg_join",
+        "msg_quit",
+        "death_pvp",
+        "msg_chat",
+        "msg_serverinit"
+      ]
+    },
+    {
+      "Channelid": "873097468055793684",
+      "perms": [
+        "cmd_allow",
+        "log_bans",
+        "cmd_ban",
+        "cmd_timeban",
+        "log_kicks"
+      ]
+    },
+    {
+      "Channelid": "",
+      "perms": [
+        "msg_joinlog",
+        "game_report",
+        "game_bug"
+      ]
+    }
+  ],
+  "Commandroles": {
+    "command1": [
+      "rolename1",
+      "rolename2"
+    ],
+    "command2": [
+      "rolename1",
+      "rolename2"
+    ]
+  }
+}

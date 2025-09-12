@@ -1,0 +1,71 @@
+{
+  "SteamAPI": "450E4D352716018011731D44EB8E656A",
+  "Silent Aim: настройка": {
+    "Автобан (не знаешь, не трогай!)": 7,
+    "Причина бана": "\"Cheat Detected! (1)\"",
+    "На сколько часов бан?": 87600
+  },
+  "Spider: настройка": {
+    "Причина бана": "\"Cheat Detected! (2)\"",
+    "На сколько часов бан?": 87600
+  },
+  "ESP SmallStash: настройка": {
+    "Количество": 40,
+    "Возможный лут": {
+      "rifle.semiauto": 1,
+      "wood": 1000,
+      "stones": 1000,
+      "metal.refined": 33,
+      "metal.fragments": 100,
+      "metal.facemask": 1,
+      "scrap": 50,
+      "explosive.timed": 2,
+      "supply.signal": 1,
+      "explosives": 5,
+      "ammo.rifle": 22
+    }
+  },
+  "FLY: настройка": {
+    "Причина бана": "\"Cheat Detected! (3)\"",
+    "На сколько часов бан?": 87600
+  },
+  "TEAMBAN: настройка": null,
+  "CODELOCK: настройка": null,
+  "HITMOD: настройка": {
+    "Причина бана": "\"Cheat Detected! (5)\"",
+    "На сколько часов бан?": 87600
+  },
+  "MACROS: настройка": {
+    "Причина бана": "\"Cheat Detected! (4)\"",
+    "Количество выстрелов": 25,
+    "Количество детектов": 3,
+    "На сколько часов бан?": 87600
+  },
+  "Debug camera: Банить?": true,
+  "Отображать данные при подключении игрока?": true,
+  "Не банить Steam игроков?": false,
+  "Отправлять в тюрьму, если есть плагин PrisonBitch": false,
+  "Банить не настроеные аккаунты?": false,
+  "Банить аккаунты, которым меньше X дней": 1,
+  "На сколько часов банить новые аккаунты": 24,
+  "Кикать не настроенные аккаунты": false,
+  "Кикать приватные аккаунты": true,
+  "Кикать игроков использующих VPN": false,
+  "Не кикать лицухи?": true,
+  "Не банить лицушников за новые аккаунты?": true,
+  "Писать/сохранять логи [0 - нет | 1 - только баны | 2 - все]": 2,
+  "Discord: ID канала": "",
+  " Логи попаданий с огнестрела в консоль": false,
+  "IPINFO ТОКЕН": "69edfe83295bd4",
+  "tt": null,
+  "Сообщения": {
+    "NEW.ACCOUNT": "\"New Account\"",
+    "KICK.PRIVATE": "\"Откройте профиль Steam, что бы играть на этом сервере! (Make your Steam profile public to play on this server)\"",
+    "KICK.NENASTROYEN": "Настройте профиль, что бы играть на этом сервере! (Make your Steam profile public to play on this server)",
+    "KICK.VPN": "\"На сервере запрещено играть с VPN! (VPN DETECTED)\""
+  },
+  "Шаблоны банов": {
+    "BAN.ACCOUNT": "ban {steamid} {time}h {reason}",
+    "PRISON.ACCOUNT": "prison.add {steamid} {time} {reason}"
+  }
+}

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Localization>
+  <Texts>
+<Text controlId="TabPage12" value="Webhooks 3" />
+<Text controlId="MetroLabel82" value="Vignette:" />
+<Text controlId="MetroLabel176" value="Couleur:" />
+<Text controlId="MetroLabel163" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel75" value="Coleur:" />
+<Text controlId="MetroLabel49" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel173" value="Vignette:" />
+<Text controlId="MetroLabel174" value="Lien Webhook:" />
+<Text controlId="MetroLabel175" value="Mise à jour carbone" />
+<Text controlId="MetroButton32" value="Envoyer un test" />
+<Text controlId="MetroButton31" value="Sauvegarder les paramètres" />
+<Text controlId="MetroLabel149" value="Mise à jour sur l'oxide" />
+<Text controlId="MetroButton26" value="Envoyer le test" />
+<Text controlId="MetroLabel144" value="Lien Webhook:" />
+<Text controlId="MetroButton4" value="Sauvegarder les paramètres" />
+<Text controlId="MetroButton7" value="Envoyer le journal d'erreurs" />
+<Text controlId="ToolStripMenuItem10" value="Supprimer" />
+<Text controlId="ToolStripMenuItem21" value="Langue" />
+<Text controlId="RussianToolStripMenuItem" value="Russe (nombreuses erreurs)" />
+<Text controlId="ToolStripMenuItem34" value="Connecteur WebSocket" />
+<Text controlId="CbWipeServer" value="ServeurWipe" />
+<Text controlId="Label51" value="Version:" />
+<Text controlId="Toolplayer" value="Joueurs: " />
+<Text controlId="Toolsleepers" value="Les Sleeper:" />
+<Text controlId="ToolJoining" value="Adhésion:" />
+<Text controlId="Toolfps" value="FPS:" />
+<Text controlId="Toolentitycount" value="Comptaged'entités:" />
+<Text controlId="Toolcpu" value="CPU:" />
+<Text controlId="ToolRAM" value="RAM:" />
+<Text controlId="LStatusTop" value="Statut" />
+<Text controlId="MetroLabel107" value="Barre d'état" />
+<Text controlId="BSupport" value="Assistance" />
+<Text controlId="BDashboard" value="Tableau de bord" />
+<Text controlId="BInstaller" value="Installer" />
+<Text controlId="BSettings" value="Paramètres" />
+<Text controlId="BDiscordRemote" value="Discord" />
+<Text controlId="BPlugins" value="Plugins" />
+<Text controlId="BServerMessages" value="Messages" />
+<Text controlId="BWipeManager" value="Essuyer" />
+<Text controlId="BPlayerManager" value="Joueurs" />
+<Text controlId="BOxide" value="Extensions" />
+<Text controlId="BConsole" value="Console" />
+<Text controlId="MetroButton17" value="Sauvegarder les paramètres" />
+<Text controlId="TabPage11" value="Webhooks 2" />
+<Text controlId="MetroLabel171" value="\n = nouvelle ligne" />
+<Text controlId="MetroLabel191" value="! = Ip du Serveur:Port" />
+<Text controlId="MetroLabel192" value="$ = Image du serveur" />
+<Text controlId="MetroLabel193" value="? = Temps (sec)" />
+<Text controlId="MetroLabel161" value="Coleur:" />
+<Text controlId="MetroLabel151" value="Redémarrage du serveur" />
+<Text controlId="MetroLabel152" value="Lien Webhook:" />
+<Text controlId="MetroLabel155" value="Vignette:" />
+<Text controlId="DCServerWipecolor" value="Aqua" />
+<Text controlId="MetroLabel153" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel158" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel162" value="Coleur:" />
+<Text controlId="MetroLabel154" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel159" value="Coleur:" />
+<Text controlId="MetroLabel164" value="Vignette:" />
+<Text controlId="MetroLabel160" value="Vignette:" />
+<Text controlId="MetroLabel165" value="Lien Webhook:" />
+<Text controlId="MetroLabel166" value="Mise à jour des clients" />
+<Text controlId="MetroLabel157" value="Lien Webhook:" />
+<Text controlId="MetroLabel167" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel168" value="Mise à jour du serveur" />
+<Text controlId="MetroLabel169" value="Lien Webhook:" />
+<Text controlId="MetroLabel170" value="Vignette:" />
+<Text controlId="MetroLabel156" value="Nettoyage du serveur" />
+<Text controlId="MetroLabel172" value="Coleur:" />
+<Text controlId="MetroLabel105" value="Image:" />
+<Text controlId="MetroLabel126" value="Text:" />
+<Text controlId="MetroLabel127" value="Image:" />
+<Text controlId="MetroLabel125" value="Text:" />
+<Text controlId="MetroButton29" value="Sauvegarder les paramètres" />
+<Text controlId="MetroButton25" value="Envoyer un test" />
+<Text controlId="MetroButton27" value="Envoyer un test" />
+<Text controlId="MetroButton28" value="Envoyer un test" />
+<Text controlId="MetroButton24" value="Envoyer un test" />
+<Text controlId="MetroLabel102" value="ID_Canal du Message Test:" />
+<Text controlId="Botsendtest" value="Envoyer un message de test" />
+<Text controlId="TabPage10" value="Webhooks" />
+<Text controlId="MetroLabel190" value="\n = nouvelle ligne" />
+<Text controlId="MetroLabel114" value="! = IP du serveur:Port" />
+<Text controlId="MetroLabel180" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel181" value="Starts Up" />
+<Text controlId="MetroLabel182" value="Lien Webhook:" />
+<Text controlId="MetroLabel183" value="Vignette:" />
+<Text controlId="MetroLabel184" value="Text:" />
+<Text controlId="MetroLabel185" value="Coleur:" />
+<Text controlId="MetroLabel186" value="Image:" />
+<Text controlId="MetroLabel79" value="$ = Image du serveur" />
+<Text controlId="MetroLabel147" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel148" value="Coleur:" />
+<Text controlId="MetroLabel150" value="Vignette:" />
+<Text controlId="MetroLabel146" value="Lien Webhook:" />
+<Text controlId="MetroLabel145" value="Arrêt du serveur" />
+<Text controlId="MetroLabel142" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel143" value="Coleur:" />
+<Text controlId="MetroLabel141" value="Vignette:" />
+<Text controlId="MetroLabel140" value="Lien Webhook:" />
+<Text controlId="MetroLabel139" value="Serveur hors ligne" />
+<Text controlId="MetroLabel138" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel137" value="Serveur en ligne" />
+<Text controlId="MetroLabel131" value="Lien Webhook:" />
+<Text controlId="MetroLabel135" value="Vignette:" />
+<Text controlId="MetroLabel119" value="Texte:" />
+<Text controlId="MetroLabel136" value="Coleur:" />
+<Text controlId="MetroLabel130" value="Image:" />
+<Text controlId="MetroLabel128" value="Image:" />
+<Text controlId="MetroLabel129" value="Image:" />
+<Text controlId="MetroLabel133" value="? = Temps (sec)" />
+<Text controlId="MetroButton35" value="Envoyer le test" />
+<Text controlId="MetroButton23" value="Envoyer le test" />
+<Text controlId="MetroButton22" value="Envoyer le test" />
+<Text controlId="MetroButton21" value="Envoyer le test" />
+<Text controlId="BtnSaveMessage" value="Sauvegarder les messages" />
+<Text controlId="TabPage4" value="Message personnalisé" />
+<Text controlId="MetroLabel99" value="commande" />
+<Text controlId="MetroLabel50" value="commande" />
+<Text controlId="MetroLabel48" value="commande" />
+<Text controlId="MetroLabel14" value="commande" />
+<Text controlId="MetroLabel5" value="commande" />
+<Text controlId="MetroLabel98" value="Message Test" />
+<Text controlId="MetroLabel92" value="#4 Message" />
+<Text controlId="MetroLabel93" value="Chronométré en minutes" />
+<Text controlId="MetroLabel94" value="#3 Message" />
+<Text controlId="MetroLabel95" value="#2 Message" />
+<Text controlId="MetroLabel96" value="Chronométré en minutes" />
+<Text controlId="MetroLabel97" value="#1 Message" />
+<Text controlId="Customtestmessage" value="Envoyer un message test" />
+<Text controlId="Btcustommessage" value="Sauvegarder les messages" />
+<Text controlId="TabPage9" value="Paramètres du bot" />
+<Text controlId="LinkLabel12" value="Commandes du bot Discord" />
+<Text controlId="LinkLabel11" value="Guide du bot Discord" />
+<Text controlId="BunifuGroupBox8" value="Console Discord" />
+<Text controlId="LinkLabel8" value="Portail des développeurs Discord" />
+<Text controlId="BunifuGroupBox4" value="Paramètres du bot Discord" />
+<Text controlId="MetroLabel84" value="Masquer le statut du bot" />
+<Text controlId="MetroLabel76" value="Démarrer le bot sur MRS Startup" />
+<Text controlId="MetroLabel134" value="% = joueurs max" />
+<Text controlId="MetroLabel132" value="$ = Joueurs en ligne" />
+<Text controlId="MetroLabel74" value="ID_Serveur:" />
+<Text controlId="MetroLabel104" value="Définir le jeu:" />
+<Text controlId="MetroLabel73" value="ID du Role: (Permission)" />
+<Text controlId="Botdisconnect" value="Déconnecter le bot" />
+<Text controlId="MetroLabel72" value="Jeton du Bot:" />
+<Text controlId="Botconnect" value="Connecter le Bot" />
+<Text controlId="MetroLabel113" value="Präfix:" />
+<Text controlId="BunifuGroupBox3" value="Paramètres du WebHook Discord" />
+<Text controlId="MetroLabel80" value="Envoi d'une notification de nettoyage" />
+<Text controlId="MetroLabel77" value="(en ligne/hors ligne/redémarrage/arrêt)" />
+<Text controlId="MetroLabel78" value="(serveur/client/extérieur/carbon)" />
+<Text controlId="MetroButton20" value="Sauvegarder les paramètres" />
+<Text controlId="MetroLabel103" value="Message test:" />
+<Text controlId="TabPage16" value="Gestionnaire de permissions" />
+<Text controlId="Label44" value="Permissions" />
+<Text controlId="Label43" value="Joueur" />
+<Text controlId="Label42" value="Groupes" />
+<Text controlId="ToolStripMenuItem28" value="Ajouter un groupe" />
+<Text controlId="ToolStripMenuItem26" value="Supprimer un groupe" />
+<Text controlId="ToolStripMenuItem27" value="Ajouter un utilisateur" />
+<Text controlId="ToolStripMenuItem30" value="Copier l'ID Steam" />
+<Text controlId="ToolStripMenuItem29" value="Supprimer un utilisateur" />
+<Text controlId="MetroButton12" value="Désinstaller Carbon" />
+<Text controlId="MetroButton11" value="Installer ou mettre à jour Carbon" />
+<Text controlId="Btnaddcommand" value="Ajouter une commande" />
+<Text controlId="ToolStripMenuItem36" value="Ouvrir le profil Steam" />
+<Text controlId="ToolStripMenuItem37" value="Copier l'ID Steam" />
+<Text controlId="ToolStripMenuItem38" value="Copier le Nom" />
+<Text controlId="ToolStripMenuItem39" value="Vérifier l'IP" />
+<Text controlId="ToolStripMenuItem42" value="Tuer le joueur" />
+<Text controlId="ToolStripMenuItem44" value="Bannir un joueur (avec motif)" />
+<Text controlId="MetroButton6" value="Recharger" />
+<Text controlId="TabPage8" value="Banni" />
+<Text controlId="MetroButton18" value="Recharger" />
+<Text controlId="ToolStripMenuItem22" value="Ouvrir le profil Steam" />
+<Text controlId="ToolStripMenuItem23" value="Copier l'ID Steam" />
+<Text controlId="ToolStripMenuItem24" value="Copier le nom" />
+<Text controlId="ToolStripMenuItem25" value="Joueur non banni" />
+<Text controlId="TabPage14" value="Paramètres" />
+<Text controlId="Label50" value="Message" />
+<Text controlId="Label49" value="Bloquer le Pays" />
+<Text controlId="MetroButton8" value="Liste des pays" />
+<Text controlId="Label48" value="Message" />
+<Text controlId="Label47" value="Message" />
+<Text controlId="Label46" value="Interdictions de Coup de Pied Max Autorisé " />
+<Text controlId="Label36" value="Interdictions de Coup de Pied Max Autorisé " />
+<Text controlId="LinkLabel10" value="(Clé API Steam)" />
+<Text controlId="MetroButton5" value="Sauvegarder" />
+<Text controlId="TabPage3" value="Message du serveur" />
+<Text controlId="MetroLabel179" value="Avertissement baisse FPS" />
+<Text controlId="MetroLabel178" value="ID de la mention du rôle:" />
+<Text controlId="MetroLabel177" value="Coleur:" />
+<Text controlId="MetroLabel115" value="? = Join" />
+<Text controlId="Btnbackup" value="Créer une sauvegarde" />
+<Text controlId="MetroLabel87" value="Sauvegarde automatique" />
+<Text controlId="MetroButton2" value="Sauvegarder les paramètres" />
+<Text controlId="MetroLabel86" value="Tous les X jours:" />
+<Text controlId="MetroLabel89" value="Prochaine sauvegarde" />
+<Text controlId="OpenToolStripMenuItem" value="Ouvrir" />
+<Text controlId="ToolStripMenuItem11" value="Supprimer" />
+<Text controlId="WipeTab" value="Effacer" />
+<Text controlId="Btnwipe" value="Effacer le serveur" />
+<Text controlId="WipeSheduleTab" value="Effacer le calendrier" />
+<Text controlId="BunifuGroupBox6" value="Dossier/fichier personnalisé" />
+<Text controlId="ToolStripMenuItem31" value="Supprimer" />
+<Text controlId="MetroButton34" value="Ajouter un dossier" />
+<Text controlId="MetroButton33" value="Ajouter un fichier" />
+<Text controlId="BunifuGroupBox5" value="Effacer la Date" />
+<Text controlId="MetroLabel117" value="Prochain nettoyage:" />
+<Text controlId="MetroLabel100" value="Carte personnalisée" />
+<Text controlId="MetroLabel51" value="Dossier/fichier personnalisé" />
+<Text controlId="MetroLabel52" value="Graine personnalisée" />
+<Text controlId="MetroLabel53" value="Nouvelle semence de carte" />
+<Text controlId="MetroLabel54" value="Jetons de joueur" />
+<Text controlId="MetroLabel55" value="États des joueurs" />
+<Text controlId="MetroLabel60" value="Identités des joueurs" />
+<Text controlId="MetroLabel61" value="Décès de joueurs" />
+<Text controlId="MetroLabel62" value="Backpacks" />
+<Text controlId="MetroLabel63" value="Carte" />
+<Text controlId="MetroLabel64" value="Plans d'exécution" />
+<Text controlId="MetroLabel65" value="Nettoyage complet" />
+<Text controlId="MetroLabel66" value="Journaux" />
+<Text controlId="Btsheduleadd" value="Ajouter un horaire" />
+<Text controlId="CustomSeedTab" value="Douanes" />
+<Text controlId="Btnrandomemap" value="Ajouter une carte aléatoire" />
+<Text controlId="MetroButton1" value="Ajouter un fichier" />
+<Text controlId="MetroLabel68" value="Dossier/fichier personnalisé" />
+<Text controlId="MetroLabel67" value="Graine personnalisée" />
+<Text controlId="MetroLabel18" value="Carte personnalisée" />
+<Text controlId="ToolStripMenuItem18" value="Supprimer" />
+<Text controlId="ToolStripMenuItem35" value="Modifier" />
+<Text controlId="Btaddcustommap" value="Ajouter une carte" />
+<Text controlId="Btnaddfolder" value="Ajouter un dossier" />
+<Text controlId="ToolStripMenuItem17" value="Supprimer" />
+<Text controlId="ToolStripMenuItem16" value="Supprimer" />
+<Text controlId="Btaddmap" value="Ajouter une carte" />
+<Text controlId="TabPage6" value="Oxide" />
+<Text controlId="TabPage17" value="Installation/mise à jour" />
+<Text controlId="BUninstallOxide" value="Désinstaller Oxide" />
+<Text controlId="BInstallOxide" value="Installer ou mettre à jour Oxide" />
+<Text controlId="BStartServer" value="Démarrer le serveur" />
+<Text controlId="Label6" value="Forcer le redémarrage" />
+<Text controlId="Label34" value="Priorité CPU" />
+<Text controlId="Label11" value="Paramètres" />
+<Text controlId="Label12" value="Mode de jeu" />
+<Text controlId="CombForceRestart" value="06:00" />
+<Text controlId="Label33" value="Forcer le redémarrage (24h)" />
+<Text controlId="Label13" value="Affinité CPU" />
+<Text controlId="Label28" value="Extension" />
+<Text controlId="Label14" value="Serveur de redémarrage automatique" />
+<Text controlId="Label32" value="Mises à jour uniquement au démarrage" />
+<Text controlId="Label27" value="Activer l'affinité CPU" />
+<Text controlId="Label23" value="Serveur de mise à jour automatique" />
+<Text controlId="Btncpuaffinity" value="Affinité CPU" />
+<Text controlId="BUninstallDiscordExtension" value="Désinstaller l'extension Discord" />
+<Text controlId="BUninstallRustEdit" value="Désinstaller RustEdit" />
+<Text controlId="BInstallDiscordExtension" value="Installer / mettre à jour l'extension Discord" />
+<Text controlId="BInstallRustEdit" value="Installation / Mise à jour de RustEdit" />
+<Text controlId="BVerifyServerFiles" value="Vérification des fichiers du serveur" />
+<Text controlId="BInstallServer" value="Installer ou mettre à jour le serveur " />
+<Text controlId="TabPage1" value="Paramètres du serveur" />
+<Text controlId="Label40" value="Ajouter des ports au pare-feu Windows" />
+<Text controlId="MetroLabel120" value="taille de l'image 256x256" />
+<Text controlId="MetroButton14" value="Télécharger" />
+<Text controlId="MetroButton13" value="Télécharger" />
+<Text controlId="MetroLabel106" value="IP du serveur:" />
+<Text controlId="MetroLabel112" value="Port Query:" />
+<Text controlId="Lblrconip" value="IP Rcon :" />
+<Text controlId="Btnnewseed" value="Graine aléatoire" />
+<Text controlId="BtnAddUsers" value="Ajouter des utilisateurs" />
+<Text controlId="Btnaddmap" value="Ajouter une carte" />
+<Text controlId="Btndescription" value="Modifier" />
+<Text controlId="Btnsavesettings" value="Sauvegarder les paramètres" />
+<Text controlId="TabPage13" value="ConVars" />
+<Text controlId="BunifuGroupBox7" value="Console Variables" />
+<Text controlId="ToolStripMenuItem15" value="Supprimer" />
+<Text controlId="BAddConVars" value="ajouter ConVar" />
+<Text controlId="TabPage5" value="Paramètres avancés" />
+<Text controlId="MetroLabel81" value="Créer une sauvegarde au démarrage du serveur" />
+<Text controlId="MetroLabel118" value="Minimiser la console de serveur au démarrage" />
+<Text controlId="MetroLabel116" value="Commandes de démarrage de processus" />
+<Text controlId="MetroButton10" value="ajouter un argument de début de processus " />
+<Text controlId="ToolStripMenuItem6" value="Supprimer" />
+<Text controlId="MetroLabel108" value="Démarrer le Serveur Rust au démarrage de MyRustServer" />
+<Text controlId="BunifuGroupBox1" value="Paramètres de sauvegarde automatique" />
+<Text controlId="LinkLabel13" value="Dossier de sauvegarde:" />
+<Text controlId="MetroLabel90" value="Temps:" />
+<Text controlId="PDes5" value="Description" />
+<Text controlId="PAuthor5" value="Developeur" />
+<Text controlId="PVersion5" value="version" />
+<Text controlId="PName3" value="Nomduplugin" />
+<Text controlId="PDes3" value="Description" />
+<Text controlId="PAuthor3" value="Developeur" />
+<Text controlId="PVersion3" value="version" />
+<Text controlId="PDes2" value="Description" />
+<Text controlId="PAuthor2" value="Developeur" />
+<Text controlId="PVersion2" value="version" />
+<Text controlId="PName2" value="Nomduplugin" />
+<Text controlId="PName1" value="Nomduplugin" />
+<Text controlId="PDes1" value="Description" />
+<Text controlId="PAuthor1" value="Developeur" />
+<Text controlId="PVersion1" value="version" />
+<Text controlId="BunifuDropdown1" value="Titre (A-Z)" />
+<Text controlId="MetroButton30" value="Rechercher" />
+<Text controlId="MetroLabel16" value="Votre IDSteam:" />
+<Text controlId="MetroLabel19" value="taille de l'image 1024x512" />
+<Text controlId="MetroLabel2" value="Nombre maximal de joueurs:" />
+<Text controlId="lblserverport" value="Port du serveur:" />
+<Text controlId="lblrconport" value="Rcon Port:" />
+<Text controlId="lblappport" value="App Rust+ Port:" />
+<Text controlId="lblservermap" value="Carte du serveur:" />
+<Text controlId="lblmapsize" value="Taille de la carte:" />
+<Text controlId="lblmapseed" value="Graine de carte:" />
+<Text controlId="lblcustommap" value="Carte personnalisée:" />
+<Text controlId="lblrconpw" value="Mot de passe Rcon:" />
+<Text controlId="lbltags" value="Étiquettes:" />
+<Text controlId="lbldescription" value="Description:" />
+<Text controlId="lblapplogo" value="Logo de l'application:" />
+<Text controlId="lblweburl" value="URL web:" />
+<Text controlId="lbllogourl" value="Logo:" />
+<Text controlId="lblnameserver" value="Nom:" />
+<Text controlId="MetroLabel44" value="Afficher le serveur dans" />
+<Text controlId="MetroLabel13" value="Serveur" />
+<Text controlId="Label1" value="Dernier nettoyage:" />
+<Text controlId="MetroLabel32" value="Message de redémarrage" />
+<Text controlId="MetroLabel33" value="Message de mise à jour du serveur" />
+<Text controlId="MetroLabel39" value="Temps de redémarrage en minutes" />
+<Text controlId="MetroLabel34" value="Mise à jour du message sur l'oxyde" />
+<Text controlId="MetroLabel37" value="Temps de redémarrage en minutes" />
+<Text controlId="MetroLabel38" value="Temps de redémarrage en minutes" />
+<Text controlId="MetroLabel35" value="Message du serveur Wipe" />
+<Text controlId="MetroLabel36" value="Temps de redémarrage en minutes" />
+<Text controlId="MetroButton19" value="Sauvegarder le serveur" />
+<Text controlId="Label2" value="Panneau de contrôle" />
+<Text controlId="BKillServer" value="Tuer le serveur" />
+<Text controlId="BRestartServer" value="Redémarrer/arrêter le serveur" />
+<Text controlId="MetroLabel26" value="Décès de joueurs" />
+<Text controlId="MetroLabel25" value="Sacs à dos" />
+<Text controlId="MetroLabel24" value="Carte" />
+<Text controlId="MetroLabel23" value="Plans d'exécution" />
+<Text controlId="MetroLabel22" value="Nettoyage complet" />
+<Text controlId="ToolStripMenuItem14" value="Supprimer" />
+<Text controlId="MetroLabel20" value="Journaux de bord" />
+<Text controlId="ColumnHeader4" value="Nom de fichier" />
+<Text controlId="TabEditor1" value="Plugins" />
+<Text controlId="BtnLoadPlugins" value="Charger les Plugins" />
+<Text controlId="TabUpdate1" value="Mise à jour" />
+<Text controlId="MetroButton3" value="Plugins payants" />
+<Text controlId="Btnblacklixt" value="Plugins de liste noire" />
+<Text controlId="BtnAutoUpdatePlugins" value="Mettre à jour tous les plugins" />
+<Text controlId="Btncheckplugins" value="Vérifier les mises à jour des plugins" />
+<Text controlId="MetroLabel21" value="Mise à jour automatique (vérification toutes les 2 heures)" />
+<Text controlId="TabConfig1" value="Éditeur" />
+<Text controlId="TabInstaller1" value="Installateur de plugin" />
+<Text controlId="PName10" value="Nomduplugin" />
+<Text controlId="PDes10" value="Description" />
+<Text controlId="PAuthor10" value="Developeur" />
+<Text controlId="PVersion10" value="version" />
+<Text controlId="PName9" value="Nomduplugin" />
+<Text controlId="PDes9" value="Description" />
+<Text controlId="PAuthor9" value="Developeur" />
+<Text controlId="PVersion9" value="version" />
+<Text controlId="PName8" value="Nomduplugin" />
+<Text controlId="PDes8" value="Description" />
+<Text controlId="PAuthor8" value="Developeur" />
+<Text controlId="PVersion8" value="version" />
+<Text controlId="PName6" value="Nomduplugin" />
+<Text controlId="PDes6" value="Description" />
+<Text controlId="PAuthor6" value="Developeur" />
+<Text controlId="PVersion6" value="version" />
+<Text controlId="PName7" value="Nomduplugin" />
+<Text controlId="PDes7" value="Description" />
+<Text controlId="PAuthor7" value="Developeur" />
+<Text controlId="PVersion7" value="version" />
+<Text controlId="PName4" value="Nomduplugin" />
+<Text controlId="PDes4" value="Description" />
+<Text controlId="PAuthor4" value="Developeur" />
+<Text controlId="PVersion4" value="version" />
+<Text controlId="PName5" value="Nomduplugin" />
+<Text controlId="ToolStripMenuItem7" value="Recharger" />
+<Text controlId="ToolStripMenuItem12" value="Mise à jour" />
+<Text controlId="ToolStripMenuItem8" value="Voir le site web" />
+<Text controlId="ToolStripMenuItem20" value="Activer/Désactiver" />
+<Text controlId="ToolStripMenuItem9" value="Supprimer" />
+<Text controlId="OpenSteamprofile" value="Ouvrir le profil Steam" />
+<Text controlId="CopySteamID" value="Copier l'identifiant Steam" />
+<Text controlId="CopyName" value="Copier le nom" />
+<Text controlId="CheckIP" value="Vérifier l'IP" />
+<Text controlId="ToolStripMenuItem32" value="Donner des articles" />
+<Text controlId="ToolStripMenuItem33" value="Guérir le joueur" />
+<Text controlId="KillPlayer" value="Tuer le joueur" />
+<Text controlId="KickPlayer" value="Coups de pied au joueur (avec raison)" />
+<Text controlId="BanPlayer" value="Bannir le joueur (avec raison)" />
+<Text controlId="Teleportto" value="Téléporter vers" />
+<Text controlId="SetAdminToolStripMenuItem" value="Du joueur à moi" />
+<Text controlId="SetModToolStripMenuItem" value="De moi au joueur" />
+<Text controlId="Permissions" value="Permissions" />
+<Text controlId="SetAdminToolStripMenuItem1" value="Définir l'Admin" />
+<Text controlId="SetModToolStripMenuItem1" value="Définir le Mod" />
+<Text controlId="RemoveAdminToolStripMenuItem1" value="Supprimer l'admin" />
+<Text controlId="RemoveModToolStripMenuItem1" value="Supprimer le mod" />
+<Text controlId="LinkLabel4" value="Permissions Oxide" />
+<Text controlId="MetroLabel15" value="défilement automatique" />
+<Text controlId="MetroLabel3" value="Envoyer la commande" />
+<Text controlId="Lblconsole" value="Console du serveur" />
+<Text controlId="Lblquickc" value="Commandes rapides" />
+<Text controlId="ToolStripMenuItem19" value="Supprimer" />
+<Text controlId="MetroLabel40" value="Dossier/fichier personnalisé" />
+<Text controlId="MetroButton9" value="Ajouter un dossier" />
+<Text controlId="MetroLabel45" value="Calendrier de nettoyage automatique" />
+<Text controlId="ToolStripMenuItem13" value="Supprimer" />
+<Text controlId="MetroLabel42" value="Graines personnalisées" />
+<Text controlId="MetroLabel31" value="Afficher les données d'extension" />
+<Text controlId="MetroLabel30" value="Nouvelle graine de carte lors de la suppression" />
+<Text controlId="MetroLabel29" value="Jetons de joueur" />
+<Text controlId="MetroLabel28" value="États des joueurs" />
+<Text controlId="MetroLabel27" value="Identités des joueurs" />
+<Text controlId="Label16" value="Joueurs:" />
+<Text controlId="Label24" value="PID du serveur:" />
+<Text controlId="Label19" value="Heure de pointe:" />
+<Text controlId="Label18" value="Compte d'entité:" />
+<Text controlId="Label17" value="FPS:" />
+<Text controlId="MetroLabel7" value="Installé:" />
+<Text controlId="MetroLabel10" value="Installé:" />
+<Text controlId="MetroLabel57" value="Installé:" />
+<Text controlId="MetroLabel58" value="Installé:" />
+<Text controlId="MetroLabel11" value="Récents:" />
+<Text controlId="MetroLabel4" value="Récents:" />
+<Text controlId="Label22" value="Sleepers:" />
+<Text controlId="Label21" value="Adhésion:" />
+<Text controlId="Label20" value="Protocole:" />
+<Text controlId="Label31" value="Dernier nettoyage:" />
+<Text controlId="Label37" value="Utilisation de la RAM:" />
+<Text controlId="Label38" value="IP du serveur:" />
+<Text controlId="Label15" value="Aperçu du serveur" />
+<Text controlId="MetroLabel189" value="Afficher le serveur dans" />
+<Text controlId="MetroLabel46" value="Installé::" />
+<Text controlId="MetroLabel47" value="Récents:" />
+<Text controlId="MetroLabel122" value="Installé:" />
+<Text controlId="MetroLabel21" value="Récents:" />
+<Text controlId="MetroLabel71" value="Chronométré en minutes:" />
+<Text controlId="MetroLabel91" value="Chronométré en minutes:" />
+<Text controlId="MetroLabel83" value="Date au titre du serveur" />
+<Text controlId="MetroButton38" value="Transformer l'oxyde en carbone" />
+<Text controlId="MetroButton36" value="Désactiver tout" />
+<Text controlId="MetroButton37" value="Activer tout" />
+<Text controlId="MetroButton41" value="Liste des téléchargements" />
+<Text controlId="MetroButton40" value="Liste claire" />
+<Text controlId="TabPage7" value="En ligne" />
+<Text controlId="TabPage15" value="Hors ligne" />
+  </Texts>
+</Localization>

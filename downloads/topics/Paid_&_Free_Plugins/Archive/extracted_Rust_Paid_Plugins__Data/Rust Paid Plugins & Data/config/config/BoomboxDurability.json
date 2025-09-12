@@ -1,0 +1,17 @@
+{
+  "DefaultDecayRate": 0.025,
+  "ProfilesRequiringPermission": [
+    {
+      "PermissionSuffix": "fastdecay",
+      "DecayRate": 0.111
+    },
+    {
+      "PermissionSuffix": "slowdecay",
+      "DecayRate": 0.007
+    },
+    {
+      "PermissionSuffix": "nodecay",
+      "DecayRate": 0.0
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "Token": "",
+  "VkGroupName": "Test",
+  "ServerName": "Test",
+  "NextSendTime": 15,
+  "NextRegTime": 1.0,
+  "TestMessage": "Вы успешно подключили систему оповещений о рейде на сервере {0}",
+  "RegMessage": "Чтобы завершить прикрепление своего профиля ВК к Steam аккаунту, зайдите на сервер {0} и введите в чате /regvk {1}",
+  "VkRaidMessage": "Игрок {0} разрушил {2} на сервере {1}",
+  "SrvRaidMessage": "<color=#FA8072>Игрок <color=#aae9f2>{0}</color> разрушил {1}</color>",
+  "MessageOff": "Вы успешно отключили систему оповещений о рейде на сервере {0}",
+  "NoInfoIfFriends": true,
+  "DefaultBlock": {
+    "pre": "ваш",
+    "name": "Строительный блок"
+  },
+  "ColorBlock": "#aae9f2",
+  "InfoBlocks": {
+    "door.double.hinged.metal": {
+      "pre": "вашу",
+      "name": "Двойную металлическую дверь"
+    },
+    "door.double.hinged.toptier": {
+      "pre": "вашу",
+      "name": "Двойную бронированную дверь"
+    },
+    "door.double.hinged.wood": {
+      "pre": "вашу",
+      "name": "Двойную деревянную дверь"
+    },
+    "door.hinged.metal": {
+      "pre": "вашу",
+      "name": "Металлическую дверь"
+    },
+    "door.hinged.toptier": {
+      "pre": "вашу",
+      "name": "Бронированную дверь"
+    },
+    "door.hinged.wood": {
+      "pre": "вашу",
+      "name": "Деревянную дверь"
+    },
+    "floor.grill": {
+      "pre": "ваш",
+      "name": "Решетчатый настил"
+    },
+    "floor.ladder.hatch": {
+      "pre": "ваш",
+      "name": "Люк с лестницей"
+    },
+    "floor.triangle.grill": {
+      "pre": "ваш",
+      "name": "Треугольный решетчатый настил"
+    },
+    "floor.triangle.ladder.hatch": {
+      "pre": "ваш",
+      "name": "Треугольный люк с лестницей"
+    },
+    "gates.external.high.stone": {
+      "pre": "ваши",
+      "name": "Высокие внешние каменные ворота"
+    },
+    "gates.external.high.wood": {
+      "pre": "ваши",
+      "name": "Высокие внешние деревянные ворота"
+    },
+    "Metal,block.stair.lshape": {
+      "pre": "вашу",
+      "name": "Металлическую лестницу"
+    },
+    "Metal,block.stair.spiral": {
+      "pre": "вашу",
+      "name": "Металлическую спиральную лестницу"
+    },
+    "Metal,block.stair.spiral.triangle": {
+      "pre": "вашу",
+      "name": "Металлическую треугольную спиральную лестницу"
+    },
+    "Metal,block.stair.ushape": {
+      "pre": "вашу",
+      "name": "Металлическую лестницу"
+    },
+    "Metal,floor": {
+      "pre": "ваш",
+      "name": "Металлический потолок"
+    },
+    "Metal,floor.frame": {
+      "pre": "ваш",
+      "name": "Металлический потолочный каркас"
+    },
+    "Metal,floor.triangle": {
+      "pre": "ваш",
+      "name": "Металлический треугольный потолок"
+    },
+    "Metal,floor.triangle.frame": {
+      "pre": "ваш",
+      "name": "Металлический треугольный потолочный каркас"
+    },
+    "Metal,foundation": {
+      "pre": "ваш",
+      "name": "Металлический фундамент"
+    },
+    "Metal,foundation.steps": {
+      "pre": "ваши",
+      "name": "Металлические ступеньки для фундамента"
+    },
+    "Metal,foundation.triangle": {
+      "pre": "ваш",
+      "name": "Металлический треугольный фундамент"
+    },
+    "Metal,pillar": {
+      "pre": "вашу",
+      "name": "Металлическую опору"
+    },
+    "Metal,ramp": {
+      "pre": "ваш",
+      "name": "Металлический скат"
+    },
+    "Metal,roof": {
+      "pre": "вашу",
+      "name": "Металлическую крышу"
+    },
+    "Metal,roof.triangle": {
+      "pre": "вашу",
+      "name": "Металлическую треугольную крышу"
+    },
+    "Metal,wall": {
+      "pre": "вашу",
+      "name": "Металлическую стену"
+    },
+    "Metal,wall.doorway": {
+      "pre": "ваш",
+      "name": "Металлический дверной проём"
+    },
+    "Metal,wall.frame": {
+      "pre": "ваш",
+      "name": "Металлический настенный каркас"
+    },
+    "Metal,wall.half": {
+      "pre": "вашу",
+      "name": "Металлическую полустенку"
+    },
+    "Metal,wall.low": {
+      "pre": "вашу",
+      "name": "Металлическую низкую стену"
+    },
+    "Metal,wall.window": {
+      "pre": "ваш",
+      "name": "Металлический оконный проём"
+    },
+    "shutter.metal.embrasure.a": {
+      "pre": "вашу",
+      "name": "Металлическую горизонтальную бойницу"
+    },
+    "shutter.metal.embrasure.b": {
+      "pre": "вашу",
+      "name": "Металлическую вертикальную бойницу"
+    },
+    "Stone,block.stair.lshape": {
+      "pre": "вашу",
+      "name": "Каменную лестницу"
+    },
+    "Stone,block.stair.spiral": {
+      "pre": "вашу",
+      "name": "Каменную спиральную лестницу"
+    },
+    "Stone,block.stair.spiral.triangle": {
+      "pre": "вашу",
+      "name": "Каменную треугольную спиральную лестницу"
+    },
+    "Stone,block.stair.ushape": {
+      "pre": "вашу",
+      "name": "Каменную лестницу"
+    },
+    "Stone,floor": {
+      "pre": "ваш",
+      "name": "Каменный потолок"
+    },
+    "Stone,floor.frame": {
+      "pre": "ваш",
+      "name": "Каменный потолочный каркас"
+    },
+    "Stone,floor.triangle": {
+      "pre": "ваш",
+      "name": "Каменный треугольный потолок"
+    },
+    "Stone,floor.triangle.frame": {
+      "pre": "ваш",
+      "name": "Каменный треугольный потолочный каркас"
+    },
+    "Stone,foundation": {
+      "pre": "ваш",
+      "name": "Каменный фундамент"
+    },
+    "Stone,foundation.steps": {
+      "pre": "ваши",
+      "name": "Каменные ступеньки для фундамента"
+    },
+    "Stone,foundation.triangle": {
+      "pre": "ваш",
+      "name": "Каменный треугольный фундамент"
+    },
+    "Stone,pillar": {
+      "pre": "вашу",
+      "name": "Каменную опору"
+    },
+    "Stone,ramp": {
+      "pre": "ваш",
+      "name": "Каменный скат"
+    },
+    "Stone,roof": {
+      "pre": "вашу",
+      "name": "Каменную крышу"
+    },
+    "Stone,roof.triangle": {
+      "pre": "вашу",
+      "name": "Каменную треугольную крышу"
+    },
+    "Stone,wall": {
+      "pre": "вашу",
+      "name": "Каменную стену"
+    },
+    "Stone,wall.doorway": {
+      "pre": "ваш",
+      "name": "Каменный дверной проём"
+    },
+    "Stone,wall.frame": {
+      "pre": "ваш",
+      "name": "Каменный настенный каркас"
+    },
+    "Stone,wall.half": {
+      "pre": "вашу",
+      "name": "Каменную полустенку"
+    },
+    "Stone,wall.low": {
+      "pre": "вашу",
+      "name": "Каменную низкую стену"
+    },
+    "Stone,wall.window": {
+      "pre": "ваш",
+      "name": "Каменный оконный проём"
+    },
+    "TopTier,block.stair.lshape": {
+      "pre": "вашу",
+      "name": "Бронированную лестницу"
+    },
+    "TopTier,block.stair.spiral": {
+      "pre": "вашу",
+      "name": "Бронированную спиральную лестницу"
+    },
+    "TopTier,block.stair.spiral.triangle": {
+      "pre": "вашу",
+      "name": "Бронированную треугольную спиральную лестницу"
+    },
+    "TopTier,block.stair.ushape": {
+      "pre": "вашу",
+      "name": "Бронированную лестницу"
+    },
+    "TopTier,floor": {
+      "pre": "ваш",
+      "name": "Бронированный потолок"
+    },
+    "TopTier,floor.frame": {
+      "pre": "ваш",
+      "name": "Бронированный потолочный каркас"
+    },
+    "TopTier,floor.triangle": {
+      "pre": "ваш",
+      "name": "Бронированный треугольный потолок"
+    },
+    "TopTier,floor.triangle.frame": {
+      "pre": "ваш",
+      "name": "Бронированный треугольный потолочный каркас"
+    },
+    "TopTier,foundation": {
+      "pre": "ваш",
+      "name": "Бронированный фундамент"
+    },
+    "TopTier,foundation.steps": {
+      "pre": "ваши",
+      "name": "Бронированные ступеньки для фундамента"
+    },
+    "TopTier,foundation.triangle": {
+      "pre": "ваш",
+      "name": "Бронированный треугольный фундамент"
+    },
+    "TopTier,pillar": {
+      "pre": "вашу",
+      "name": "Бронированную опору"
+    },
+    "TopTier,ramp": {
+      "pre": "ваш",
+      "name": "Бронированный скат"
+    },
+    "TopTier,roof": {
+      "pre": "вашу",
+      "name": "Бронированную крышу"
+    },
+    "TopTier,roof.triangle": {
+      "pre": "вашу",
+      "name": "Бронированную треугольную крышу"
+    },
+    "TopTier,wall": {
+      "pre": "вашу",
+      "name": "Бронированную стену"
+    },
+    "TopTier,wall.doorway": {
+      "pre": "ваш",
+      "name": "Бронированный дверной проём"
+    },
+    "TopTier,wall.frame": {
+      "pre": "ваш",
+      "name": "Бронированный настенный каркас"
+    },
+    "TopTier,wall.half": {
+      "pre": "вашу",
+      "name": "Бронированную полустенку"
+    },
+    "TopTier,wall.low": {
+      "pre": "вашу",
+      "name": "Бронированную низкую стену"
+    },
+    "TopTier,wall.window": {
+      "pre": "ваш",
+      "name": "Бронированный оконный проём"
+    },
+    "wall.external.high": {
+      "pre": "вашу",
+      "name": "Высокую внешнюю деревянную стену"
+    },
+    "wall.external.high.stone": {
+      "pre": "вашу",
+      "name": "Высокую внешнюю каменную стену"
+    },
+    "wall.frame.cell": {
+      "pre": "вашу",
+      "name": "Тюремную решетку"
+    },
+    "wall.frame.cell.gate": {
+      "pre": "вашу",
+      "name": "Тюремную дверь"
+    },
+    "wall.frame.garagedoor": {
+      "pre": "вашу",
+      "name": "Гаражную дверь"
+    },
+    "wall.frame.shopfront.metal": {
+      "pre": "вашу",
+      "name": "Металлическую витрину магазина"
+    },
+    "wall.window.bars.metal": {
+      "pre": "ваши",
+      "name": "Металлические оконные решетки"
+    },
+    "wall.window.bars.toptier": {
+      "pre": "ваши",
+      "name": "Укрепленные оконные решетки"
+    },
+    "wall.window.glass.reinforced": {
+      "pre": "ваше",
+      "name": "Укрепленное оконное стекло"
+    },
+    "Wood,block.stair.lshape": {
+      "pre": "вашу",
+      "name": "Деревянную лестницу"
+    },
+    "Wood,block.stair.spiral": {
+      "pre": "вашу",
+      "name": "Деревянную спиральную лестницу"
+    },
+    "Wood,block.stair.spiral.triangle": {
+      "pre": "вашу",
+      "name": "Деревянную треугольную спиральную лестницу"
+    },
+    "Wood,block.stair.ushape": {
+      "pre": "вашу",
+      "name": "Деревянную лестницу"
+    },
+    "Wood,floor": {
+      "pre": "ваш",
+      "name": "Деревянный потолок"
+    },
+    "Wood,floor.frame": {
+      "pre": "ваш",
+      "name": "Деревянный потолочный каркас"
+    },
+    "Wood,floor.triangle": {
+      "pre": "ваш",
+      "name": "Деревянный треугольный потолок"
+    },
+    "Wood,floor.triangle.frame": {
+      "pre": "ваш",
+      "name": "Деревянный треугольный потолочный каркас"
+    },
+    "Wood,foundation": {
+      "pre": "ваш",
+      "name": "Деревянный фундамент"
+    },
+    "Wood,foundation.steps": {
+      "pre": "ваши",
+      "name": "Деревянные ступеньки для фундамента"
+    },
+    "Wood,foundation.triangle": {
+      "pre": "ваш",
+      "name": "Деревянный треугольный фундамент"
+    },
+    "Wood,pillar": {
+      "pre": "вашу",
+      "name": "Деревянную опору"
+    },
+    "Wood,ramp": {
+      "pre": "ваш",
+      "name": "Деревянный скат"
+    },
+    "Wood,roof": {
+      "pre": "вашу",
+      "name": "Деревянную крышу"
+    },
+    "Wood,roof.triangle": {
+      "pre": "вашу",
+      "name": "Деревянную треугольную крышу"
+    },
+    "Wood,wall": {
+      "pre": "вашу",
+      "name": "Деревянную стену"
+    },
+    "Wood,wall.doorway": {
+      "pre": "ваш",
+      "name": "Деревянный дверной проём"
+    },
+    "Wood,wall.frame": {
+      "pre": "ваш",
+      "name": "Деревянный настенный каркас"
+    },
+    "Wood,wall.half": {
+      "pre": "вашу",
+      "name": "Деревянную полустенку"
+    },
+    "Wood,wall.low": {
+      "pre": "вашу",
+      "name": "Деревянную низкую стену"
+    },
+    "Wood,wall.window": {
+      "pre": "ваш",
+      "name": "Деревянный оконный проём"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Настройка интерфейса плагина": {
+    "Тип фона 0 - Блюр, 1 - Картинка ": 1,
+    "Цвет блюра hex (Если тип фона 0)": "#5B77E4A2",
+    "Цвет задних панелей 'Топ 10 лучших игроков' hex": "#767676A0",
+    "Иконки (Названия не менять! Только ссылки)": {
+      "Head": "https://i.imgur.com/hB5PeGM.png",
+      "Rip": "https://i.imgur.com/uhfywvv.png",
+      "Gather": "https://i.imgur.com/FNIYgEF.png",
+      "Kill": "https://i.imgur.com/ZNVS80J.png",
+      "FonUI": "https://i.imgur.com/BEpvMN7.png",
+      "Time": "https://i.imgur.com/eaPoPdf.png",
+      "TopTime": "https://i.imgur.com/mi2iuhy.png",
+      "Economic": "https://i.imgur.com/AlYGP18.png",
+      "Killer": "https://i.imgur.com/KcMC9qj.png",
+      "Exsplosive": "https://i.imgur.com/RMbLnp3.png",
+      "Farmila": "https://i.imgur.com/Q7zpl4A.png",
+      "NpcKill": "https://i.imgur.com/49bl3hv.png"
+    }
+  },
+  "Основные настройки плагина": {
+    "Скрытие статистики по премешену(true - без пермешена не скроешь. false - Скрытие доступно всем игрокам)": true,
+    "Отчищать статистику игроков при вайпе ?": true,
+    "Команда для открытия статистики": "stat",
+    "Использовать поддержку IQFakeActive": false,
+    "Сохранять дату при каждом сохранении сервера? (Рекомендуется ставить в крайних случаях, если не сохраняется дата)": false
+  }
+}

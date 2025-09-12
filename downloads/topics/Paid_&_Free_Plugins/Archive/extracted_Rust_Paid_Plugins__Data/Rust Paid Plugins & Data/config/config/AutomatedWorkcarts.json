@@ -1,0 +1,42 @@
+{
+  "EnableTerrainCollision": true,
+  "PlayHornForNearbyPlayersInRadius": 0.0,
+  "DefaultSpeed": "Fwd_Hi",
+  "DefaultTrackSelection": "Left",
+  "BulldozeOffendingWorkcarts": false,
+  "EnableMapTriggers": true,
+  "EnableTunnelTriggers": {
+    "TrainStation": false,
+    "BarricadeTunnel": false,
+    "LootTunnel": false,
+    "Intersection": false,
+    "LargeIntersection": false
+  },
+  "MaxConductors": -1,
+  "ConductorOutfit": [
+    {
+      "ShortName": "jumpsuit.suit",
+      "Skin": 0
+    },
+    {
+      "ShortName": "sunglasses03chrome",
+      "Skin": 0
+    },
+    {
+      "ShortName": "hat.boonie",
+      "Skin": 0
+    }
+  ],
+  "ColoredMapMarker": {
+    "Enabled": false,
+    "Color": "#00ff00",
+    "Alpha": 1.0,
+    "Radius": 0.05
+  },
+  "VendingMapMarker": {
+    "Enabled": false,
+    "Name": "Automated Train"
+  },
+  "MapMarkerUpdateInveralSeconds": 5.0,
+  "TriggerDisplayDistance": 150.0
+}

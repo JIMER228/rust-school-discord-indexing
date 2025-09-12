@@ -1,0 +1,155 @@
+{
+  "ID": "",
+  "Enabled? [true/false]": true,
+  "Position": "(328.87, 79.79, -1135.53)",
+  "Rotation": "(0.00, 0.00, 0.00)",
+  "Radius": 150.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 30,
+      "Maximum numbers - Day": 40,
+      "Minimum numbers - Night": 38,
+      "Maximum numbers - Night": 49,
+      "NPCs setting": {
+        "Names": [
+          "Mummy"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "halloween.mummysuit",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "pitchfork",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-61.46, 0.19, 81.87)",
+        "(-46.70, 0.01, 62.30)",
+        "(-33.96, 0.01, 61.38)",
+        "(-13.90, 0.20, 68.97)",
+        "(15.71, 0.01, 74.66)",
+        "(29.21, 0.06, 88.20)",
+        "(38.15, 0.02, 99.91)",
+        "(55.89, 0.00, 96.62)",
+        "(69.13, 1.10, 75.55)",
+        "(84.14, 0.00, 66.34)",
+        "(94.82, -0.01, 37.24)",
+        "(121.68, 0.00, 23.47)",
+        "(127.85, 0.20, -2.60)",
+        "(121.57, 0.09, -19.72)",
+        "(111.86, 0.00, -38.41)",
+        "(94.41, 0.19, -46.88)",
+        "(64.31, 0.19, -74.21)",
+        "(46.13, -0.01, -99.35)",
+        "(16.07, -0.13, -102.99)",
+        "(-3.14, 0.10, -94.34)",
+        "(-24.41, 0.01, -82.29)",
+        "(-34.10, 0.01, -68.91)",
+        "(-13.08, 0.01, -48.99)",
+        "(-25.29, 0.00, -28.34)",
+        "(-46.16, 0.19, 2.43)",
+        "(-58.27, 0.20, 17.75)",
+        "(-73.04, 0.02, 19.97)",
+        "(-58.76, 0.00, 44.45)",
+        "(-17.52, 0.01, 36.26)",
+        "(-11.77, 0.19, 19.81)",
+        "(5.48, 0.05, -5.74)",
+        "(22.73, 0.03, -7.51)",
+        "(40.25, 0.00, -7.68)",
+        "(64.96, 0.01, 3.72)",
+        "(75.98, 0.01, 15.35)",
+        "(92.65, 0.02, 29.92)",
+        "(7.15, 0.04, -37.83)",
+        "(-12.02, 0.20, -59.77)",
+        "(-2.66, 0.54, 46.02)",
+        "(4.43, 0.53, 40.33)",
+        "(7.99, 0.54, 43.68)",
+        "(4.08, 0.54, 59.13)",
+        "(-13.92, 1.35, -4.07)",
+        "(20.90, 0.54, 11.19)",
+        "(25.31, 0.53, 25.62)",
+        "(39.09, 0.54, 16.61)",
+        "(39.55, 9.08, 21.39)",
+        "(25.60, 9.07, 25.93)",
+        "(32.61, 18.35, 26.26)",
+        "(35.29, 17.65, -1.22)",
+        "(35.96, 0.35, -28.49)",
+        "(34.93, 0.35, -38.75)",
+        "(29.46, 0.35, -45.96)",
+        "(35.92, 0.35, -47.31)",
+        "(42.88, 4.24, -36.24)",
+        "(32.27, 4.24, -49.33)",
+        "(37.56, 8.10, -29.29)",
+        "(37.92, 8.10, -35.96)",
+        "(41.40, 11.97, -33.51)",
+        "(28.68, 11.97, -34.54)",
+        "(78.54, 0.63, -43.21)",
+        "(82.77, 0.63, -37.27)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

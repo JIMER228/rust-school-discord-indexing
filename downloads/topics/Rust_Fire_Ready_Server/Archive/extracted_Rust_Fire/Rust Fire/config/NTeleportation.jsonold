@@ -1,0 +1,193 @@
+{
+  "Settings": {
+    "ChatName": "",
+    "HomesEnabled": true,
+    "TPREnabled": true,
+    "TownEnabled": true,
+    "OutpostEnabled": false,
+    "BanditEnabled": false,
+    "InterruptTPOnHurt": true,
+    "InterruptTPOnCold": true,
+    "InterruptTPOnHot": false,
+    "InterruptTPOnHostile": false,
+    "InterruptTPOnSafe": false,
+    "InterruptTPOnBalloon": true,
+    "InterruptTPOnCargo": true,
+    "InterruptTPOnRig": true,
+    "InterruptTPOnExcavator": false,
+    "InterruptTPOnLift": true,
+    "InterruptTPOnMonument": false,
+    "InterruptTPOnMounted": false,
+    "InterruptTPOnSwimming": true,
+    "InterruptAboveWater": false,
+    "StrictFoundationCheck": true,
+    "CaveDistanceSmall": 40.0,
+    "CaveDistanceMedium": 60.0,
+    "CaveDistanceLarge": 100.0,
+    "DefaultMonumentSize": 50.0,
+    "MinimumTemp": -15.0,
+    "MaximumTemp": 50.0,
+    "BlockedItems": {},
+    "BypassCMD": "pay",
+    "UseEconomics": false,
+    "UseServerRewards": false,
+    "WipeOnUpgradeOrChange": true,
+    "AutoGenOutpost": false,
+    "AutoGenBandit": false
+  },
+  "GameVersion": {
+    "Network": 2215,
+    "Save": 189,
+    "Level": "Barren",
+    "LevelURL": "http://rustmaps.ru/upload/mapfiles/4079/6729//BarrenCustomRF41.map",
+    "WorldSize": 3800,
+    "Seed": 44686
+  },
+  "Admin": {
+    "AnnounceTeleportToTarget": false,
+    "UseableByAdmins": true,
+    "UseableByModerators": true,
+    "LocationRadius": 25,
+    "TeleportNearDefaultDistance": 30
+  },
+  "Home": {
+    "HomesLimit": 2,
+    "VIPHomesLimits": {
+      "nteleportation.vip": 3,
+      "nteleportation.elite": 5,
+      "nteleportation.premium": 4,
+      "nteleportation.fire": 6
+    },
+    "Cooldown": 300,
+    "Countdown": 15,
+    "DailyLimit": 0,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 0,
+      "nteleportation.elite": 0,
+      "nteleportation.premium": 0,
+      "nteleportation.fire": 0
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 240,
+      "nteleportation.elite": 120,
+      "nteleportation.premium": 180,
+      "nteleportation.fire": 60
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 12,
+      "nteleportation.elite": 8,
+      "nteleportation.premium": 10,
+      "nteleportation.fire": 5
+    },
+    "LocationRadius": 25,
+    "ForceOnTopOfFoundation": true,
+    "CheckFoundationForOwner": true,
+    "UseFriends": true,
+    "UseClans": false,
+    "UseTeams": false,
+    "UsableOutOfBuildingBlocked": true,
+    "UsableIntoBuildingBlocked": true,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowIceberg": true,
+    "AllowCave": true,
+    "AllowCraft": true,
+    "AllowAboveFoundation": true,
+    "CheckValidOnList": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "TPR": {
+    "Cooldown": 300,
+    "Countdown": 15,
+    "DailyLimit": 0,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 0,
+      "nteleportation.elite": 0,
+      "nteleportation.premium": 0,
+      "nteleportation.fire": 0
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 240,
+      "nteleportation.elite": 180,
+      "nteleportation.premium": 120,
+      "nteleportation.fire": 60
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 12,
+      "nteleportation.elite": 8,
+      "nteleportation.premium": 10,
+      "nteleportation.fire": 5
+    },
+    "RequestDuration": 30,
+    "OffsetTPRTarget": false,
+    "BlockTPAOnCeiling": true,
+    "UsableOutOfBuildingBlocked": true,
+    "UsableIntoBuildingBlocked": true,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowCraft": true,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Town": {
+    "Cooldown": 600,
+    "Countdown": 15,
+    "DailyLimit": 5,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 5
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 5
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "Location": "0 0 0",
+    "UsableOutOfBuildingBlocked": false,
+    "AllowCraft": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Outpost": {
+    "Cooldown": 600,
+    "Countdown": 15,
+    "DailyLimit": 5,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 5
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 5
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "Location": "0 0 0",
+    "UsableOutOfBuildingBlocked": false,
+    "AllowCraft": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Bandit": {
+    "Cooldown": 600,
+    "Countdown": 15,
+    "DailyLimit": 5,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 5
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 5
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "Location": "0 0 0",
+    "UsableOutOfBuildingBlocked": false,
+    "AllowCraft": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 86
+  }
+}

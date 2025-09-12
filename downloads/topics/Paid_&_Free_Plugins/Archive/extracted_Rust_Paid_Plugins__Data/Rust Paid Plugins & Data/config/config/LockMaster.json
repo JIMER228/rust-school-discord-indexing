@@ -1,0 +1,20 @@
+{
+  "General Options": {
+    "Command": "refreshall",
+    "Permission Name": "lockmaster.admin"
+  },
+  "Configuration": {
+    "Enable Locks on Composters": true,
+    "Enable Locks on DropBoxes": true,
+    "Enable Locks on Vending Machines": true,
+    "Enable Locks on Ovens (Furnaces, BBQ Grills, Small Oil Refineries)": true,
+    "Enable Locks on Small & Large Planters": true,
+    "Enable Locks on Hitch & Trough": true,
+    "Enable Locks on Mixing Table": true
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Patch": 8
+  }
+}

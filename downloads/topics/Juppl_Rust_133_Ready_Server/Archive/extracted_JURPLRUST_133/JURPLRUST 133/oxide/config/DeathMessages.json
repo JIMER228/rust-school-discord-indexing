@@ -1,0 +1,241 @@
+{
+  "|Модули": {
+    "4x Zoom Scope": "4x Zoom Scope",
+    "Holosight": "Holosight",
+    "Muzzle Boost": "Muzzle Boost",
+    "Muzzle Brake": "Muzzle Brake",
+    "Silencer": "Silencer",
+    "Weapon Flashlight": "Weapon Flashlight",
+    "Weapon Lasersight": "Weapon Lasersight"
+  },
+  "|Названия": {
+    "Высоким деревянным забором": "Высоким деревянным забором",
+    "Высокой каменной стеной": "Высокой каменной стеной",
+    "Деревянной баррикадой": "Деревянной баррикадой",
+    "Деревянные колья": "Деревянные колья",
+    "Зомби": "Зомби",
+    "Капкан": "Капкан",
+    "Металлической баррикадой": "Металлической баррикадой",
+    "Мина": "Мина",
+    "Патруль": "Патруль",
+    "Турель": "Турель"
+  },
+  "|Сообщения": {
+    "Animal": [
+      "<size=16>{attacker} убил {victim}</size>"
+    ],
+    "AnimalDeath": [
+      "<size=16>{attacker} убил {victim} ({weapon}, {distance}м.)</size>"
+    ],
+    "Arrow": [
+      "<size=16>{attacker} застрелил {victim} ({weapon}, {bodypart}, {distance}м.)</size>"
+    ],
+    "Bleeding": [
+      "<size=16>{victim} умер от кровотечения</size>"
+    ],
+    "Blunt": [
+      "<size=16>{attacker} убил {victim} ({weapon})</size>"
+    ],
+    "Blunt Sleeping": [
+      "<size=16>{attacker} убил спящего {victim} ({weapon})</size>"
+    ],
+    "Bullet": [
+      "<size=16>{attacker} убил {victim} ({weapon}, {bodypart}, {distance}м.)</size>"
+    ],
+    "Bullet Sleeping": [
+      "<size=16>{attacker} убил спящего {victim} ({weapon}, {bodypart}, {distance}м.)</size>"
+    ],
+    "Cold": [
+      "<size=16>{victim} умер от обморожения</size>"
+    ],
+    "Drowned": [
+      "<size=16>{victim} утонул</size>"
+    ],
+    "Explosion": [
+      "<size=16>{attacker} взорвал игрока {victim} орудуя ({weapon})</size>"
+    ],
+    "Explosion Sleeping": [
+      "<size=16>{attacker} взорвал спяцего {victim} ({weapon})</size>"
+    ],
+    "Fall": [
+      "<size=16>{victim} разбился</size>"
+    ],
+    "Flamethrower": [
+      "<size=16>{attacker} сжег заживо игрока {victim}</size>"
+    ],
+    "Flamethrower Sleeping": [
+      "<size=16>{attacker} сжег спящего {victim}</size>"
+    ],
+    "Heat": [
+      "<size=16>{victim} сгорел</size>"
+    ],
+    "Helicopter": [
+      "<size=16>{victim} был убит патрульным вертолётом</size>"
+    ],
+    "Hunger": [
+      "<size=16>{victim} умер от голода</size>"
+    ],
+    "Poison": [
+      "<size=16>{victim} умер от отравления</size>"
+    ],
+    "Radiation": [
+      "<size=16>{victim} умер от радиационного отравления</size>"
+    ],
+    "Slash": [
+      "<size=16>{attacker} зарубил {victim} ({weapon})</size>"
+    ],
+    "Slash Sleeping": [
+      "<size=16>{attacker} зарубил спяцего {victim} ({weapon})</size>"
+    ],
+    "Stab": [
+      "<size=16>{attacker} убил {victim} ({weapon}, {bodypart})</size>"
+    ],
+    "Stab Sleeping": [
+      "<size=16>{attacker} убил спящего {victim} ({weapon})</size>"
+    ],
+    "Structure": [
+      "<size=16>{victim} умер от сближения с {attacker}</size>"
+    ],
+    "Suicide": [
+      "<size=16>{victim} совершил самоубийство</size>"
+    ],
+    "Thirst": [
+      "<size=16>{victim} умер от обезвоживания</size>"
+    ],
+    "Trap": [
+      "<size=16>{victim} попался на ловушку</size>"
+    ],
+    "Turret": [
+      "<size=16>{victim} был убит автоматической турелью</size>"
+    ],
+    "Unknown": [
+      "<size=16>У {victim} что-то пошло не так</size>"
+    ]
+  },
+  "Настройка цвета": {
+    "Цвет атакующего": "#f04646",
+    "Цвет дистанции": "#FFFFFF",
+    "Цвет жертвы": "#559bf2",
+    "Цвет обвесов": "#FFC040",
+    "Цвет оружия": "#FFFFFF",
+    "Цвет сообщений": "#FFFFFF",
+    "Цвет титула": "#96FFFC",
+    "Цвет частей тела": "#FFC040"
+  },
+  "Общие настройки": {
+    "Включить систему разрешений": false,
+    "Время UI оповещений (в секундах)": 5.0,
+    "Иконка чата": "76561198077847390",
+    "Интерфейс UI - Максимальная высота": 0.05,
+    "Интерфейс UI - Максимальная ширина": 0.8,
+    "Интерфейс UI - Положение вверх": 0.1,
+    "Интерфейс UI - Положение влево": 0.1,
+    "Интерфейс UI - Размер фона": 16,
+    "Использовать UI интерфейс": true,
+    "Использовать уведомления": false,
+    "Ключить радиус сообщений": false,
+    "Логирование файлов": true,
+    "Оповещения в консоле": true,
+    "Оповещения в чат": false,
+    "Радиус сообщений": 300.0,
+    "Разделитель": " | ",
+    "Титул": "Jurpl Rust",
+    "Формат": "[{Title}]: {Message}",
+    "Формат для отображения обвесов": " ({attachments})",
+    "Формат консоли": "{Message}",
+    "Цвет полосы UI интерфейса": true
+  },
+  "Оружие": {
+    "Ak47u": "Ak47u",
+    "Assault Rifle": "Assault Rifle",
+    "Beancan Grenade": "Beancan Grenade",
+    "Bolt Action Rifle": "Bolt Action Rifle",
+    "Bolt Rifle": "Bolt Rifle",
+    "Bone Club": "Bone Club",
+    "Bone Knife": "Bone Knife",
+    "Bow Hunting": "Bow Hunting",
+    "Crossbow": "Crossbow",
+    "Custom SMG": "Custom SMG",
+    "Double Barrel Shotgun": "Double Barrel Shotgun",
+    "Double Shotgun": "Double Shotgun",
+    "Eoka Pistol": "Eoka Pistol",
+    "Explosivesatchel": "Explosivesatchel",
+    "F1 Grenade": "F1 Grenade",
+    "Flamethrower": "Flamethrower",
+    "Hatchet": "Hatchet",
+    "Hunting Bow": "Hunting Bow",
+    "Landmine": "Landmine",
+    "Longsword": "Longsword",
+    "Lr300": "Lr300",
+    "LR-300 Assault Rifle": "LR-300 Assault Rifle",
+    "M249": "M249",
+    "Mace": "Mace",
+    "Machete": "Machete",
+    "Mp5": "Mp5",
+    "MP5A4": "MP5A4",
+    "No Weapon": "No Weapon",
+    "Pick Axe": "Pick Axe",
+    "Pickaxe": "Pickaxe",
+    "Pistol Eoka": "Pistol Eoka",
+    "Pistol Revolver": "Pistol Revolver",
+    "Pistol Semiauto": "Pistol Semiauto",
+    "Pump Shotgun": "Pump Shotgun",
+    "Revolver": "Revolver",
+    "Rock": "Rock",
+    "Rocket Basic": "Rocket Basic",
+    "Rocket Fire": "Rocket Fire",
+    "Rocket Heli": "Rocket Heli",
+    "Rocket Heli Napalm": "Rocket Heli Napalm",
+    "Rocket Hv": "Rocket Hv",
+    "Salvaged Axe": "Salvaged Axe",
+    "Salvaged Cleaver": "Salvaged Cleaver",
+    "Salvaged Hammer": "Salvaged Hammer",
+    "Salvaged Icepick": "Salvaged Icepick",
+    "Salvaged Sword": "Salvaged Sword",
+    "Semi Auto Rifle": "Semi Auto Rifle",
+    "Semi-Automatic Pistol": "Semi-Automatic Pistol",
+    "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+    "Shotgun Pump": "Shotgun Pump",
+    "Shotgun Waterpipe": "Shotgun Waterpipe",
+    "Smg": "Smg",
+    "Stone Hatchet": "Stone Hatchet",
+    "Stone Pick Axe": "Stone Pick Axe",
+    "Stone Pickaxe": "Stone Pickaxe",
+    "Stone Spear": "Stone Spear",
+    "Thompson": "Thompson",
+    "Timed Explosive": "Timed Explosive",
+    "Torch": "Torch",
+    "Waterpipe Shotgun": "Waterpipe Shotgun",
+    "Wooden Spear": "Wooden Spear"
+  },
+  "Части тела": {
+    "Body": "Body",
+    "Chest": "Chest",
+    "Groin": "Groin",
+    "Head": "Head",
+    "Hip": "Hip",
+    "Jaw": "Jaw",
+    "Left Arm": "Left Arm",
+    "Left Foot": "Left Foot",
+    "Left Forearm": "Left Forearm",
+    "Left Hand": "Left Hand",
+    "Left Knee": "Left Knee",
+    "Left Ring Finger": "Left Ring Finger",
+    "Left Shoulder": "Left Shoulder",
+    "Left Thumb": "Left Thumb",
+    "Left Toe": "Left Toe",
+    "Lower Spine": "Lower Spine",
+    "Neck": "Neck",
+    "Pelvis": "Pelvis",
+    "Right Arm": "Right Arm",
+    "Right Foot": "Right Foot",
+    "Right Forearm": "Right Forearm",
+    "Right Hand": "Right Hand",
+    "Right Knee": "Right Knee",
+    "Right Ring Finger": "Right Ring Finger",
+    "Right Shoulder": "Right Shoulder",
+    "Right Thumb": "Right Thumb",
+    "Right Toe": "Right Toe",
+    "Stomach": "Stomach"
+  }
+}

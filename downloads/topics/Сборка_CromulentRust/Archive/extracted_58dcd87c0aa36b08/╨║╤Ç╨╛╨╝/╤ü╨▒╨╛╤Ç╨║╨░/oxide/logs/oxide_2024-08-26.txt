@@ -1,0 +1,1248 @@
+15:54 [Info] Loading Oxide Core v2.0.4106...
+15:54 [Info] Loading extensions...
+15:54 [Info] Loaded extension CSharp v6.0.7 by Oxide Team and Contributors
+15:54 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+15:54 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+15:54 [Info] Unity version: 2022.3.41f1
+15:54 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+15:54 [Info] Loaded extension Rust v2.0.6262 by Oxide Team and Contributors
+15:54 [Info] Loaded extension Chaos v1.0.21 by k1lly0u
+15:54 [Info] Loaded extension ChaosNPC v3.0.19 by k1lly0u
+15:54 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+15:54 [Info] Loaded extension RustEdit v1.0.46 by k1lly0u
+15:54 [Info] [InKernel] Debug -> False
+15:54 [Info] [InExtension] Install -> InCore.Interception.dll
+15:54 [Info] [InExtension] Install -> InCore.Kernel.dll
+15:54 [Info] Loaded extension InCoreLinux v1.0.8991 by Мизантроп
+15:54 [Info] File permissions set for Oxide.Compiler
+15:54 [Info] Using Covalence provider for game 'Rust'
+15:54 [Info] Loading plugins...
+15:54 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+15:54 [Info] Loaded plugin Rust v2.0.6262 by Oxide Team and Contributors
+15:54 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+15:54 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+15:54 [Info] Loaded plugin ChaosNPC Automatic Updater v1.0.0 by Chaos
+15:54 [Info] Loaded plugin ChaosNPC v1.0.0 by Chaos
+15:54 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+15:54 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+15:54 [Info] Loaded plugin InCoreLinux v1.0.8991 by Мизантроп
+15:54 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+15:54 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+15:54 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+15:54 [Info] Added '// Reference: I18N' in plugin 'FixedBots'
+15:54 [Info] Added '// Reference: I18N.Other' in plugin 'FixedBots'
+15:54 [Info] Added '// Reference: InCore.Kernel' in plugin 'Fixes'
+15:54 [Info] Added '// Reference: InCore.Interception' in plugin 'Fixes'
+15:54 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:54 [Info] Shutting down compiler because no more jobs
+15:54 [Info] AAlertRaid, Abobus, AdminMenu, AdminRadar, AdvancedEntityLimit, AimAssistDonate, ArenaTournament, AutoBaseUpgrade, AutoCodeLock, Backpacks, BetterHealth, BetterLoot, BetterVanish, BlueprintManager, Boom, BuildProtection, BulletProjectile, CMenu, ChatTags, Clans, CompoundOptions, CompoundTeleport, ConsoleFilter, Convoy, CopyPaste, Coroutines, CromWarp, CupboardSet, CustomButtons, DeathMessages, DisableColdDamage, DiscordRewards, DiscordStatus, EntityCleanup, ExplosiveWeapons, FGS, FMegaGrenade, FRPGSystem, FSystem, FVanish, Friends, GameStoresRUST, GlobalCleaner, Godmode, Guard, HackCrateSettings, HealthTick, HitMarker, IQChat, IQEconomic, IQGradeRemove, IQHotPoints, IQRates, IQTurret, ImageLibrary, InfiniteAmmo, InstantAirdrop, InstantBuy, InstantCraft, InventoryCleaner, JetPack, Kits, LSkins, MachiningTools, ManageZone, MapNoteTeleport, Metabolism, MinicopterCombat, MultiFighting, MyEcoRecycler, NeverWear, NoEscape, NoFlykick, NoWorkbench, Notifications, Notify, NpcSpawn, PerformanceMonitor, PermissionsManager, PlayerAdministration, PlayerList, PogoStick, PreferredEnvironment, QuickMarker, RadioStationManager, RandomRespawner, RocketFire, RustApp, SentryTurrets, SignArtist, SponsorChanger, SponsorGifter, StackModifier, SuicideKill, TPMenu, TeleportGun, Teleportation, TerrainViolationFix, TimedPermissions, Trade, UItemSort, UberTool, VKBot, VehicleBuy, WPSocialLinks, WeaponDamageScale, WelcomeMusic, WelcomePanel, XAntiCheat, XBuildingSkinMenu, XDShop, XDStatistics, XHazmatPlusV2, XKamikazeFPVDrone, XL96Plus, XMenu, XMiniCopterPlus, XPrison, XRaidProtection, XRestartUI, XScan, ZetaVehicle, FLuma, FixedBots, Fixes and LauncherAlkad were compiled successfully in 0ms
+15:54 [Info] InCompiledAssemblyPatch
+15:54 [Warning] A plugin has polluted the global namespace by defining <Module>
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType0`3
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType1`2
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType2`2
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType3
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType4`10
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType5`2
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType6`5
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType7`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType8`6
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType9`6
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType10`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType11`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType12`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType13`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType14`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType15`10
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType16`1
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType17`2
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType18`3
+15:54 [Warning] A plugin has polluted the global namespace by defining <>f__AnonymousType19`4
+15:54 [Warning] A plugin has polluted the global namespace by defining Microsoft.CodeAnalysis.EmbeddedAttribute
+15:54 [Warning] A plugin has polluted the global namespace by defining System.Runtime.CompilerServices.NullableAttribute
+15:54 [Warning] A plugin has polluted the global namespace by defining System.Runtime.CompilerServices.NullableContextAttribute
+15:54 [Warning] A plugin has polluted the global namespace by defining System.Runtime.CompilerServices.RefSafetyRulesAttribute
+15:54 [Warning] A plugin has polluted the global namespace by defining IsExternalInit
+15:54 [Info] Compiler shutdown completed
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining Extensions
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+15:54 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+15:54 [Info] Loaded plugin AAlertRaid v1.0.0 by fermens
+15:54 [Info] Loaded plugin Abobus v1.0.0 by FourTeen
+15:54 [Info] Loaded plugin AdminMenu v2.1.2 by k1lly0u
+15:54 [Info] Loaded plugin Admin Radar v5.3.4 by nivex
+15:54 [Info] Loaded plugin AdvancedEntityLimit v1.0.7 by M&B-Studios
+15:54 [Info] Loaded plugin AimAssistDonate v2.0.0 by FourTeen & Koks
+15:54 [Info] Loaded plugin ArenaTournament v1.1.22 by discord: fermens#8767
+15:54 [Info] Loaded plugin AutoBaseUpgrade v1.2.2 by CASHR#6906
+15:54 [Info] Loaded plugin AutoCodeLock v3.0.6 by k1lly0u
+15:54 [Info] Loaded plugin Backpacks v3.13.5 by WhiteThunder
+15:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:54 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:54 [Info] Loaded plugin BetterVanish v1.7.3 by Def
+15:54 [Info] Loaded plugin Blueprint Manager v2.0.6 by Whispers88
+15:54 [Info] Loaded plugin Boom v1.3.0 by Baks
+15:54 [Info] Loaded plugin BuildProtection v1.0.1 by CASHR#6906 & FourTeen
+15:54 [Info] Loaded plugin BulletProjectile v1.0.1 by Karuza
+15:54 [Info] Loaded plugin CMenu v1.0.0 by Baks
+15:54 [Info] Loaded plugin ChatTags v1.0.2 by FourTeen
+15:54 [Info] Loaded plugin Clans v1.1.35 by Mevent
+15:54 [Info] Loaded plugin Compound Options v1.2.5 by FastBurst
+15:54 [Info] Loaded plugin CompoundTeleport v2.0.16 by k1lly0u
+15:54 [Info] Loaded plugin Console Filter v0.0.2 by Wulf
+15:54 [Info] Loaded plugin Convoy v2.5.1 by Adem
+15:54 [Info] Loaded plugin Copy Paste v4.1.37 by misticos
+15:54 [Info] Loaded plugin Coroutines v3.0.8 by birthdates
+15:54 [Info] Loaded plugin Better Health v2.2.3 by birthdates & FourTeen
+15:54 [Info] Loaded plugin CromWarp v1.0.0 by Baks
+15:54 [Info] Loaded plugin CupboardSet v1.0.5 by LAGZYA
+15:54 [Info] Loaded plugin CustomButtons v2.0.6 by David
+15:54 [Info] Loaded plugin DeathMessages v1.4.8 by VooDoo
+15:54 [Info] Loaded plugin Disable Cold Damage v1.0.4 by Talha
+15:54 [Info] Loaded plugin Discord Rewards v2.0.1 by k1lly0u
+15:54 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+15:54 [Info] Loaded plugin Entity Cleanup v4.0.0 by 2CHEVSKII
+15:54 [Info] Loaded plugin ExplosiveWeapons v1.0.8 by Cameron
+15:54 [Info] Loaded plugin FGS v1.0.1 by FourTeen
+15:54 [Info] Loaded plugin FMegaGrenade v1.0.2 by FourTeen
+15:54 [Info] Loaded plugin FRPGSystem v1.0.6 by FourTeen
+15:54 [Info] Loaded plugin FSystem v1.0.4 by FourTeen
+15:54 [Info] Loaded plugin FVanish v1.0.0 by FourTeen
+15:54 [Info] Loaded plugin Friends v2.0.0 by xkrystalll / Mevent
+15:54 [Info] Loaded plugin GameStoresRUST v1.0.21 by HOUGAN & Sstine & rostov114 & Mevent # GAMESTORES
+15:54 [Info] Loaded plugin GlobalCleaner v1.0.3 by FourTeen
+15:54 [Info] Loaded plugin Godmode v4.2.14 by Wulf/lukespragg/Arainrr/dFxPhoeniX
+15:54 [Info] Loaded plugin Guard v1.0.4 by FourTeen
+15:54 [Info] Loaded plugin HackCrateSettings v1.0.2 by CRACED
+15:54 [Info] Loaded plugin HealthTick v1.0.9 by FourTeen
+15:54 [Info] Loaded plugin HitMarker v1.0.8 by Nimant
+15:54 [Warning] [IQChat] Языковой файл загружается...
+15:54 [Warning] [IQChat] Языковой файл загружен успешно
+15:54 [Info] Loaded plugin IQChat v2.52.32 by Mercury
+15:54 [Warning] [IQEconomic] Языковой файл загружен успешно
+15:54 [Info] Loaded plugin IQEconomic v1.24.22 by Mercury
+15:54 [Warning] [IQGradeRemove] Языковой файл загружен успешно
+15:55 [Info] Loaded plugin IQGradeRemove v2.27.33 by Mercury
+15:55 [Info] Loaded plugin IQHotPoints v1.4.8 by Mercury
+15:55 [Info] Loaded plugin IQRates v1.96.33 by Mercury
+15:55 [Warning] [IQTurret] Logs : #832545 | Языковой файл загружен успешно
+15:55 [Info] Loaded plugin IQTurret v1.9.21 by Mercury
+15:55 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+15:55 [Info] Loaded plugin Infinite Ammo v1.3.0 by collect_vood & Mughisi
+15:55 [Info] Loaded plugin InstantAirdrop v1.0.10 by Rogder Dodger
+15:55 [Info] Loaded plugin Instant Buy v1.0.3 by Jake_Rich/collect_vood/Bushhy
+15:55 [Error] [Instant Craft] Invalid item short name in config: 
+15:55 [Error] [Instant Craft] Invalid item short name in config: 
+15:55 [Info] Loaded plugin Instant Craft v2.2.7 by Vlad-0003 / Orange / rostov114
+15:55 [Warning] [Inventory Cleaner] Registering permissions...
+15:55 [Info] Loaded plugin Inventory Cleaner v2.1.1 by Joao Pster
+15:55 [Info] Loaded plugin JetPack v1.1.9 by Adem
+15:55 [Info] Loaded plugin Kits v4.4.1 by k1lly0u
+15:55 [Info] Loaded plugin LSkins v1.7.5 by LAGZYA
+15:55 [Info] Loaded plugin MachiningTools v1.3.2 by Vlad-00003
+15:55 [Info] Loaded plugin ManageZone v1.1.4 by tofurahie & FourTeen
+15:55 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+15:55 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+15:55 [Info] Loaded plugin MinicopterCombat v1.1.2 by Karuza BxrFlip LeroyJenkins420
+15:55 [Info] Loaded plugin MultiFighting v1.0.0 by FourTeen
+15:55 [Info] Loaded plugin MyEcoRecycler v1.0.9 by EcoSmile
+15:55 [Info] Loaded plugin NeverWear v0.2.0 by k1lly0u / rostov114
+15:55 [Info] Loaded plugin NoEscape v2.4.2 by OxideBro
+15:55 [Info] [NoFlykick] disabled
+15:55 [Info] Loaded plugin NoFlykick v1.0.0 by FourTeen
+15:55 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+15:55 [Info] Loaded plugin Notifications v1.0.1 by Mevent
+15:55 [Info] Loaded plugin Notify v1.0.12 by Mevent
+15:55 [Info] Loaded plugin NpcSpawn v2.7.1 by KpucTaJl
+15:55 [Info] Loaded plugin Performance Monitor v1.2.5 by Orange
+15:55 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:55 [Info] Loaded plugin PlayerAdministration v1.6.9 by ThibmoRozier
+15:55 [Info] Loaded plugin Player List v1.4.0 by Mevent
+15:55 [Info] Loaded plugin PogoStick v1.0.4 by Adem
+15:55 [Info] Loaded plugin PreferredEnvironment v2.0.14 by k1lly0u
+15:55 [Info] Loaded plugin Quick Marker v1.0.1 by Menevt
+15:55 [Info] Loaded plugin Radio Station Manager v1.0.3 by Whispers88
+15:55 [Info] Loaded plugin Random Respawner v1.2.6 by Egor Blagov/Arainrr/Tryhard
+15:55 [Info] Loaded plugin Rocket Fire v1.0.4 by birthdates
+15:55 [Info] Loaded plugin RustApp v1.7.7 by Hougan & Xacku & Olkuts & FourTeen
+15:55 [Info] Loaded plugin Sentry Turrets v2.3.9 by Orange & FourTeen
+15:55 [Info] Loaded plugin Sign Artist v1.4.1 by Whispers88
+15:55 [Info] Loaded plugin SponsorChanger v1.0.1 by FourTeen
+15:55 [Info] Loaded plugin SponsorGifter v1.0.1 by FourTeen
+15:55 [Info] Loaded plugin Stack Modifier v2.3.8 by Khan
+15:55 [Info] Loaded plugin SuicideKill v1.0.1 by Ankawi
+15:55 [Info] Loaded plugin TPMenu v1.1.0 by Baks
+15:55 [Info] Loaded plugin Teleport Gun v1.0.0 by M&B-Studios
+15:55 [Info] Loaded plugin Teleportation v1.5.21 by OxideBro & FourTeen
+15:55 [Info] Loaded plugin Terrain Violation Fix v1.0.3 by Tryhard
+15:55 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+15:55 [Info] Loaded plugin Trade v2.2.4 by OxideBro
+15:55 [Info] Loaded plugin ItemSort v1.0.2 by BadMandarin
+15:55 [Info] Loaded plugin UberTool v1.4.37 by Pirated From FuJiCuRa
+15:55 [Info] Loaded plugin VKBot v1.7.6 by kamAp
+15:55 [Info] Loaded plugin Purchase Vehicles from the Shop v1.1.7 by M&B-Studios
+15:55 [Info] Loaded plugin WPSocialLinks v1.2.2 by David
+15:55 [Info] Loaded plugin WeaponDamageScale v1.0.0 by Drop Dead & FourTeen
+15:55 [Info] Loaded plugin WelcomeMusic v1.1.0 by Ajie
+15:55 [Info] Loaded plugin WelcomePanel v3.2.21 by David
+15:55 [Info] Loaded plugin XAntiCheat v2.0.1 by fermens
+15:55 [Info] Loaded plugin XBuildingSkinMenu v1.1.5 by Monster
+15:55 [Info] Loaded plugin XDShop v1.4.1 by DezLife
+15:55 [Info] Loaded plugin XDStatistics v2.8.2 by DezLife
+15:55 [Info] Loaded plugin XHazmatPlusV2 v2.0.6 by Monster
+15:55 [Info] Loaded plugin XKamikazeFPVDrone v1.0.2 by Monster
+15:55 [Info] Loaded plugin XL96Plus v1.0.1 by Monster
+15:55 [Info] Loaded plugin XMenu v1.1.12 by Monster
+15:55 [Info] Loaded plugin XMiniCopterPlus v1.0.4 by Monster
+15:55 [Info] Loaded plugin XPrison v1.0.4 by Monster
+15:55 [Info] Loaded plugin XRaidProtection v1.2.1 by Monster
+15:55 [Info] Loaded plugin XRestartUI v1.0.3 by Monster
+15:55 [Info] Loaded plugin XScan v1.0.3 by Monster.
+15:55 [Info] Loaded plugin ZetaVehicle v0.1.3 by fermens
+15:55 [Info] Loaded plugin FLuma v1.1.631 by FourTeen
+15:55 [Info] Loaded plugin FixedBots v1.0.9 by TheRyuzaki
+15:55 [Info] [Fixes] Loaded configuration.
+15:55 [Info] [Fixes Collection] Initialized: True/False/False/False/False
+15:55 [Info] [Fixes] Initialize configuration file -> 'Fixes.json'
+15:55 [Info] Loaded plugin Fixes Collection v1.1.2 by Varzhak
+15:55 [Info] Loaded plugin LauncherAlkad v1.1.8 by KosiakS
+15:55 [Error] Failed to call hook 'ImportImageList' on plugin 'ImageLibrary v2.0.62' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.ImportImageList (System.String title, System.Collections.Generic.Dictionary`2[TKey,TValue] imageList, System.UInt64 imageId, System.Boolean replace, System.Action callback) [0x00099] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x009da] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+15:55 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:55 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:55 [Info] [RustEdit] - IO data loaded and ready to be processed!
+15:55 [Warning] [RustEdit] - No vending data found in map file
+15:55 [Warning] [RustEdit] - No loot data found in map file
+15:55 [Warning] [RustEdit] - No APC path data found in map file
+15:55 [Warning] [RustEdit] - No vehicle data found in map file
+15:55 [Warning] [RustEdit] - No NPC data found in map file
+15:56 [Warning] [RustEdit] - No ocean patrol path data found in map file
+15:57 [Warning] [Backpacks] New save created. Backpacks were wiped according to the config and player permissions.
+- 79 file(s) were deleted because those backpacks are now empty.
+15:57 [Warning] [Teleportation] Обнаружен вайп. Очищаем данные с data/Teleportation
+15:58 [Info] IP address from command-line: 46.174.50.103
+15:58 [Info] [RustEdit] - Checking for updates...
+15:58 [Warning] Duplicate permission registered 'advancedentitylimit.admin' (by plugin 'AdvancedEntityLimit')
+15:58 [Warning] Missing plugin name prefix 'aimassistdonate' for permission 'aimassist.use' (by plugin 'AimAssistDonate')
+15:58 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+15:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:58 [Info] [BetterLoot] Updating internals ...
+15:58 [Info] [Blueprint Manager] Configuration changes saved to BlueprintManager.json
+15:58 [Error] [BuildProtection] |-----------------------------------|
+15:58 [Warning] [BuildProtection] |  Plugin BuildProtection v1.0.1 is loaded  |
+15:58 [Warning] [BuildProtection] |          Discord: CASHR#6906      |
+15:58 [Error] [BuildProtection] |-----------------------------------|
+15:58 [Warning] Calling 'OnServerInitialized' on 'BuildProtection v1.0.1' took 393ms [GARBAGE COLLECT]
+15:58 [Info] [Clans] Loaded 1 clans!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for stables
+15:58 [Info] [Compound Options] Added Vending Machine: stables to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: stables to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for stables
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Bandit_Farming
+15:58 [Info] [Compound Options] Added Vending Machine: Bandit_Farming to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Bandit_Farming to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Bandit_ProduceExchange
+15:58 [Info] [Compound Options] Added Vending Machine: Bandit_ProduceExchange to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Bandit_ProduceExchange to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Vehicles
+15:58 [Info] [Compound Options] Added Vending Machine: Vehicles to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Vehicles to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Weapons_Bandit
+15:58 [Info] [Compound Options] Added Vending Machine: Weapons_Bandit to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Weapons_Bandit to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for BuyResources
+15:58 [Info] [Compound Options] Added Vending Machine: BuyResources to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: BuyResources to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for building_bandit
+15:58 [Info] [Compound Options] Added Vending Machine: building_bandit to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: building_bandit to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for FoodVendor
+15:58 [Info] [Compound Options] Added Vending Machine: FoodVendor to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: FoodVendor to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Compound_Extra1
+15:58 [Info] [Compound Options] Added Vending Machine: Compound_Extra1 to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Compound_Extra1 to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Tools
+15:58 [Info] [Compound Options] Added Vending Machine: Tools to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Tools to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Resources
+15:58 [Info] [Compound Options] Added Vending Machine: Resources to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Resources to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Components
+15:58 [Info] [Compound Options] Added Vending Machine: Components to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Components to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Weapons
+15:58 [Info] [Compound Options] Added Vending Machine: Weapons to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Weapons to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Attire
+15:58 [Info] [Compound Options] Added Vending Machine: Attire to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Attire to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Building
+15:58 [Info] [Compound Options] Added Vending Machine: Building to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Building to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Fishing_Village
+15:58 [Info] [Compound Options] Added Vending Machine: Fishing_Village to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: Fishing_Village to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for FishExchange
+15:58 [Info] [Compound Options] Added Vending Machine: FishExchange to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: FishExchange to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for BoatVendor
+15:58 [Info] [Compound Options] Added Vending Machine: BoatVendor to data file!
+15:58 [Info] [Compound Options] Added Vending Machine: BoatVendor to data file!
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Fishing_Village
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for FishExchange
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for BoatVendor
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for Fishing_Village
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for FishExchange
+15:58 [Info] [Compound Options] Trying to save default vendingOrders for BoatVendor
+15:58 [Info] [CompoundTeleport] Generated 55 spawn points at the Outpost
+15:58 [Info] [CompoundTeleport] Generated 35 spawn points at the Bandit Camp
+15:58 [Warning] Calling 'OnServerInitialized' on 'CompoundTeleport v2.0.16' took 180ms
+15:58 [Warning] Calling 'OnServerInitialized' on 'DeathMessages v1.4.8' took 114ms
+15:58 [Warning] Missing plugin name prefix 'fsystem' for permission 'rustpanel.ignorereport' (by plugin 'FSystem')
+15:58 [Warning] Calling 'OnServerInitialized' on 'HealthTick v1.0.9' took 1018ms [GARBAGE COLLECT]
+15:58 [Warning] [IQChat] Permissions - completed
+15:58 [Warning] Calling 'OnServerInitialized' on 'IQChat v2.52.32' took 280ms
+15:58 [Info] [IQEconomic] Инициализирована база данных 14560 игроков
+15:58 [Warning] Calling 'OnServerInitialized' on 'IQEconomic v1.24.22' took 1282ms [GARBAGE COLLECT]
+15:58 [Warning] Calling 'OnServerInitialized' on 'IQGradeRemove v2.27.33' took 109ms
+15:58 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+15:58 [Warning] LSkins has replaced the 'skin' chat command previously registered by LSkins
+15:58 [Warning] Calling 'OnServerInitialized' on 'LSkins v1.7.5' took 1749ms [GARBAGE COLLECT]
+15:58 [Warning] Duplicate permission registered 'MinicopterCombat.A10' (by plugin 'MinicopterCombat')
+15:58 [Warning] Calling 'OnServerInitialized' on 'MinicopterCombat v1.1.2' took 1009ms
+15:58 [Error] Failed to call hook 'OnServerInitialized' on plugin 'NpcSpawn v2.7.1' (UnauthorizedAccessException: Доступ к системе ограничен, недостаточно прав для использования -> (TYPE)System.IO.Directory)
+  at Oxide.Plugins.NpcSpawn.CreateAllFolders () [0x00000] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.NpcSpawn.OnServerInitialized () [0x00000] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.NpcSpawn.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0079b] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+15:58 [Info] [Radio Station Manager] Configuration changes saved to RadioStationManager.json
+15:58 [Warning] Calling 'OnServerInitialized' on 'SentryTurrets v2.3.9' took 240ms
+15:58 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+15:58 [Info] [Stack Modifier] Updated 10 outdated configuration options
+15:58 [Info] [Stack Modifier] Checking Configuration Settings
+15:58 [Warning] [VKBot] Список адресатов рассылки о вайпе пуст.
+15:58 [Error] Failed to call hook 'OnServerInitialized' on plugin 'WeaponDamageScale v1.0.0' (InvalidOperationException: Collection was modified; enumeration operation may not execute.)
+  at System.Collections.Generic.Dictionary`2+Enumerator[TKey,TValue].MoveNext () [0x00013] in <f98723dd4586469db5213ec59da723ca>:0 
+  at Oxide.Plugins.WeaponDamageScale.OnServerInitialized () [0x00130] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.WeaponDamageScale.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00169] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+15:58 [Warning] Calling 'OnServerInitialized' on 'WeaponDamageScale v1.0.0' took 1731ms [GARBAGE COLLECT]
+15:58 [Warning] Calling 'OnServerInitialized' on 'XAntiCheat v2.0.1' took 194ms
+15:58 [Warning] [XBuildingSkinMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.66719
+-----------------------------
+15:58 [Warning] [XHazmatPlusV2] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.3910
+-----------------------------
+15:58 [Warning] [XKamikazeFPVDrone] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.08911
+-----------------------------
+15:58 [Warning] [XL96Plus] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2126
+-----------------------------
+15:58 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.3612
+-----------------------------
+15:58 [Warning] [XMiniCopterPlus] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+-----------------------------
+15:58 [Warning] [XPrison] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.80401
+-----------------------------
+15:58 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.99079
+-----------------------------
+15:58 [Warning] [XRestartUI] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.31118
+-----------------------------
+15:58 [Warning] [XScan] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.3619
+-----------------------------
+15:58 [Warning] Calling 'OnServerInitialized' on 'ZetaVehicle v0.1.3' took 273ms [GARBAGE COLLECT]
+15:58 [Warning] Calling 'OnServerInitialized' on 'FLuma v1.1.631' took 230ms
+15:58 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+15:58 [Info] [RustEdit] - The RustEdit extension is up to date!
+15:58 [Info] [IQEconomic] 2 изображений успешно загружено!
+15:58 [Info] [TPMenu] 4 изображений успешно загружено!
+15:58 [Info] [BetterLoot] Removed 642 stacked LootContainer
+15:58 [Warning] Calling 'OnItemAddedToContainer' on 'LSkins v1.7.5' took average 1750ms
+15:58 [Info] [BetterLoot] Populated '3962' supported containers.
+15:58 [Info] [RustApp] Добро пожаловать в RustApp! Подключение к серверам панели...
+15:58 [Warning] [RustApp] Ваш плагин не настроен, создайте сервер на сайте и следуйте указаниям
+15:58 [Info] [LSkins] Loads skins: 3999
+15:58 [Warning] [LauncherAlkad] Обновляю информацию...
+15:58 [Info] [Image Library] Starting order Clans
+15:58 [Warning] Calling 'API_SET_BALANCE' on 'IQEconomic v1.24.22' took average 1282ms
+15:58 [Info] [IQGradeRemove] 10 изображений успешно загружено!
+15:58 [Info] [CMenu] 11 изображений успешно загружено!
+15:58 [Info] [Stack Modifier] Missing motorbike, -1417478274, 1
+15:58 [Info] [Stack Modifier] Missing motorbike_sidecar, 1869224826, 1
+15:58 [Info] [Stack Modifier] Missing bicycle, 821588319, 1
+15:58 [Info] [Stack Modifier] Missing trike, 1991794121, 1
+15:58 [Info] [Stack Modifier] Missing prisonerhood, -892718768, 1
+15:58 [Info] [Stack Modifier] Missing tincan.alarm, 962186730, 1
+15:58 [Info] [Stack Modifier] Missing electric.seismicsensor, -948291630, 10
+15:58 [Info] [Stack Modifier] Missing cupboard.tool.shockbyte, 1174957864, 1
+15:58 [Info] [Stack Modifier] Missing handcuffs, -839576748, 1
+15:58 [Info] [Stack Modifier] Missing rifle.sks, -348232115, 1
+15:58 [Info] [Stack Modifier] Successfully updated all server stack sizes.
+15:58 [Warning] [GameStoresRUST] -----------------------------
+15:58 [Warning] [GameStoresRUST]  GameStores 1.0.21 (c) 2024
+15:58 [Warning] [GameStoresRUST]       Initialized - OK
+15:58 [Warning] [GameStoresRUST] -----------------------------
+15:58 [Warning] [XDStatistics] Wipe Detected. Data was successfully cleared!
+15:58 [Info] [XDShop] 19 изображений успешно загружено!
+15:58 [Info] [XDStatistics] 20 изображений успешно загружено!
+15:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+15:58 [Warning] [VKBot] Новое имя группы - Cromulent [RUST СЕРВЕРА] | WIPE 26.08
+15:58 [Info] [IQChat] 29 изображений успешно загружено!
+15:58 [Info] [Admin Radar] Cached 13479/94404 entities in 13.644789 seconds!
+15:58 [Warning] Calling 'OnPermissionRegistered' on 'AdminMenu v2.1.2' took average 4892ms
+15:58 [Info] [AutoBaseUpgrade] Image upload completed
+15:58 [Info] [RustEdit] - Processing 4 IO entities
+15:58 [Info] [RustEdit] - Successfully connected 4 IO links
+15:58 [Info] You've successfully pasted the structure
+15:58 [Info] [RustEdit] - No custom vending machines found in map
+15:58 [Info] [RustEdit] - 1021 loot containers processed!
+15:58 [Info] [RustEdit] - 1094 resource entities processed!
+15:58 [Info] [RustEdit] - 0 junkpiles processed!
+15:58 [Warning] [Random Respawner] Successfully found 427 spawn positions.
+15:58 [Warning] [LauncherAlkad] Информация обновлена: 
+ => Сервер: 46.174.50.103:20530
+ => VK: https://vk.com/crom_rust
+ => Shop: https://rust-crom.ru
+ => Discord: https://discord.gg/crom-rust
+ => Античит: Нету
+15:58 [Info] Listing 126 plugins:
+  01 "AAlertRaid" (1.0.0) by fermens (0.01s / 740 KB) - AAlertRaid.cs
+  02 "Abobus" (1.0.0) by FourTeen (0.00s / 40 KB) - Abobus.cs
+  03 "AdminMenu" (2.1.2) by k1lly0u (5.72s / 1 GB) - AdminMenu.cs
+  04 "Admin Radar" (5.3.4) by nivex (0.01s / 3 MB) - AdminRadar.cs
+  05 "AdvancedEntityLimit" (1.0.7) by M&B-Studios (0.04s / 6 MB) - AdvancedEntityLimit.cs
+  06 "AimAssistDonate" (2.0.0) by FourTeen & Koks (0.01s / 1 MB) - AimAssistDonate.cs
+  07 "ArenaTournament" (1.1.22) by discord: fermens#8767 (0.03s / 2 MB) - ArenaTournament.cs
+  08 "AutoBaseUpgrade" (1.2.2) by CASHR#6906 (0.02s / 2 MB) - AutoBaseUpgrade.cs
+  09 "AutoCodeLock" (3.0.6) by k1lly0u (0.03s / 116 KB) - AutoCodeLock.cs
+  10 "Backpacks" (3.13.5) by WhiteThunder (0.06s / 12 MB) - Backpacks.cs
+  11 "BetterLoot" (3.5.8) by Tryhard & Khan (0.10s / 9 MB) - BetterLoot.cs
+  12 "BetterVanish" (1.7.3) by Def (0.00s / 64 KB) - BetterVanish.cs
+  13 "Blueprint Manager" (2.0.6) by Whispers88 (0.09s / 20 MB) - BlueprintManager.cs
+  14 "Boom" (1.3.0) by Baks (0.01s / 2 MB) - Boom.cs
+  15 "BuildProtection" (1.0.1) by CASHR#6906 & FourTeen (0.39s / 40 KB) - BuildProtection.cs
+  16 "BulletProjectile" (1.0.1) by Karuza (0.00s / 28 KB) - BulletProjectile.cs
+  17 "CMenu" (1.0.0) by Baks (0.00s / 32 KB) - CMenu.cs
+  18 "ChatTags" (1.0.2) by FourTeen (0.01s / 736 KB) - ChatTags.cs
+  19 "Clans" (1.1.35) by Mevent (0.02s / 656 KB) - Clans.cs
+  20 "Compound Options" (1.2.5) by FastBurst (0.03s / 5 MB) - CompoundOptions.cs
+  21 "CompoundTeleport" (2.0.16) by k1lly0u (0.18s / 52 KB) - CompoundTeleport.cs
+  22 "Console Filter" (0.0.2) by Wulf (0.00s / 28 KB) - ConsoleFilter.cs
+  23 "Convoy" (2.5.1) by Adem (0.00s / 104 KB) - Convoy.cs
+  24 "Copy Paste" (4.1.37) by misticos (0.02s / 9 MB) - CopyPaste.cs
+  25 "Coroutines" (3.0.8) by birthdates (0.02s / 44 KB) - Coroutines.cs
+  26 "Better Health" (2.2.3) by birthdates & FourTeen (0.00s / 20 KB) - BetterHealth.cs
+  27 "CromWarp" (1.0.0) by Baks (0.00s / 20 KB) - CromWarp.cs
+  28 "CupboardSet" (1.0.5) by LAGZYA (0.00s / 24 KB) - CupboardSet.cs
+  29 "CustomButtons" (2.0.6) by David (0.03s / 6 MB) - CustomButtons.cs
+  30 "DeathMessages" (1.4.8) by VooDoo (0.11s / 13 MB) - DeathMessages.cs
+  31 "Disable Cold Damage" (1.0.4) by Talha (0.00s / 20 KB) - DisableColdDamage.cs
+  32 "Discord Rewards" (2.0.1) by k1lly0u (0.01s / 60 KB) - DiscordRewards.cs
+  33 "Discord Status" (4.0.1) by Gonzi (0.00s / 20 KB) - DiscordStatus.cs
+  34 "Entity Cleanup" (4.0.0) by 2CHEVSKII (0.00s / 96 KB) - EntityCleanup.cs
+  35 "ExplosiveWeapons" (1.0.8) by Cameron (0.00s / 20 KB) - ExplosiveWeapons.cs
+  36 "FGS" (1.0.1) by FourTeen (0.00s / 64 KB) - FGS.cs
+  37 "FMegaGrenade" (1.0.2) by FourTeen (0.01s / 1 MB) - FMegaGrenade.cs
+  38 "FRPGSystem" (1.0.6) by FourTeen (0.00s / 20 KB) - FRPGSystem.cs
+  39 "FSystem" (1.0.4) by FourTeen (0.01s / 1 MB) - FSystem.cs
+  40 "FVanish" (1.0.0) by FourTeen (0.01s / 3 MB) - FVanish.cs
+  41 "Friends" (2.0.0) by xkrystalll / Mevent (0.05s / 108 KB) - Friends.cs
+  42 "GameStoresRUST" (1.0.21) by HOUGAN & Sstine & rostov114 & Mevent # GAMESTORES (0.00s / 56 KB) - GameStoresRUST.cs
+  43 "GlobalCleaner" (1.0.3) by FourTeen (0.00s / 12 KB) - GlobalCleaner.cs
+  44 "Godmode" (4.2.14) by Wulf/lukespragg/Arainrr/dFxPhoeniX (0.00s / 16 KB) - Godmode.cs
+  45 "Guard" (1.0.4) by FourTeen (0.07s / 6 MB) - Guard.cs
+  46 "HackCrateSettings" (1.0.2) by CRACED (0.03s / 9 MB) - HackCrateSettings.cs
+  47 "HealthTick" (1.0.9) by FourTeen (1.02s / 31 MB) - HealthTick.cs
+  48 "HitMarker" (1.0.8) by Nimant (0.00s / 32 KB) - HitMarker.cs
+  49 "IQChat" (2.52.32) by Mercury (0.29s / 103 MB) - IQChat.cs
+  50 "IQEconomic" (1.24.22) by Mercury (1.29s / 92 KB) - IQEconomic.cs
+  51 "IQGradeRemove" (2.27.33) by Mercury (0.11s / 19 MB) - IQGradeRemove.cs
+  52 "IQHotPoints" (1.4.8) by Mercury (0.00s / 24 KB) - IQHotPoints.cs
+  53 "IQRates" (1.96.33) by Mercury (0.09s / 8 MB) - IQRates.cs
+  54 "IQTurret" (1.9.21) by Mercury (0.10s / 28 MB) - IQTurret.cs
+  55 "Image Library" (2.0.62) by Absolut & K1lly0u (0.06s / 8 MB) - ImageLibrary.cs
+  56 "Infinite Ammo" (1.3.0) by collect_vood & Mughisi (0.00s / 12 KB) - InfiniteAmmo.cs
+  57 "InstantAirdrop" (1.0.10) by Rogder Dodger (0.00s / 8 KB) - InstantAirdrop.cs
+  58 "Instant Buy" (1.0.3) by Jake_Rich/collect_vood/Bushhy (0.00s / 12 KB) - InstantBuy.cs
+  59 "Instant Craft" (2.2.7) by Vlad-0003 / Orange / rostov114 (0.00s / 8 KB) - InstantCraft.cs
+  60 "Inventory Cleaner" (2.1.1) by Joao Pster (0.00s / 4 KB) - InventoryCleaner.cs
+  61 "JetPack" (1.1.9) by Adem (0.05s / 12 MB) - JetPack.cs
+  62 "Kits" (4.4.1) by k1lly0u (0.00s / 48 KB) - Kits.cs
+  63 "LSkins" (1.7.5) by LAGZYA (1.87s / 3 MB) - LSkins.cs
+  64 "MachiningTools" (1.3.2) by Vlad-00003 (0.01s / 188 KB) - MachiningTools.cs
+  65 "ManageZone" (1.1.4) by tofurahie & FourTeen (0.01s / 88 KB) - ManageZone.cs
+  66 "MapNote Teleport" (2.2.1) by MON@H (0.00s / 12 KB) - MapNoteTeleport.cs
+  67 "Metabolism" (1.0.0) by Orange (0.00s / 20 KB) - Metabolism.cs
+  68 "MinicopterCombat" (1.1.2) by Karuza BxrFlip LeroyJenkins420 (1.16s / 16 MB) - MinicopterCombat.cs
+  69 "MultiFighting" (1.0.0) by FourTeen (0.00s / 12 KB) - MultiFighting.cs
+  70 "MyEcoRecycler" (1.0.9) by EcoSmile (0.03s / 2 MB) - MyEcoRecycler.cs
+  71 "NeverWear" (0.2.0) by k1lly0u / rostov114 (0.00s / 4 KB) - NeverWear.cs
+  72 "NoEscape" (2.4.2) by OxideBro (0.00s / 4 KB) - NoEscape.cs
+  73 "NoFlykick" (1.0.0) by FourTeen (0.00s / 8 KB) - NoFlykick.cs
+  74 "NoWorkbench" (0.1.51) by k1lly0u (0.00s / 464 KB) - NoWorkbench.cs
+  75 "Notifications" (1.0.1) by Mevent (0.00s / 32 KB) - Notifications.cs
+  76 "Notify" (1.0.12) by Mevent (0.04s / 5 MB) - Notify.cs
+  77 "NpcSpawn" (2.7.1) by KpucTaJl (0.00s / 72 KB) - NpcSpawn.cs
+  78 "Performance Monitor" (1.2.5) by Orange (0.00s / 4 KB) - PerformanceMonitor.cs
+  79 "PermissionsManager" (2.0.9) by Steenamaroo (0.02s / 3 MB) - PermissionsManager.cs
+  80 "PlayerAdministration" (1.6.9) by ThibmoRozier (0.00s / 12 KB) - PlayerAdministration.cs
+  81 "Player List" (1.4.0) by Mevent (0.00s / 32 KB) - PlayerList.cs
+  82 "PogoStick" (1.0.4) by Adem (0.01s / 1 MB) - PogoStick.cs
+  83 "PreferredEnvironment" (2.0.14) by k1lly0u (0.00s / 8 KB) - PreferredEnvironment.cs
+  84 "Quick Marker" (1.0.1) by Menevt (0.00s / 4 KB) - QuickMarker.cs
+  85 "Radio Station Manager" (1.0.3) by Whispers88 (0.05s / 1 MB) - RadioStationManager.cs
+  86 "Random Respawner" (1.2.6) by Egor Blagov/Arainrr/Tryhard (0.00s / 20 KB) - RandomRespawner.cs
+  87 "Rocket Fire" (1.0.4) by birthdates (0.00s / 4 KB) - RocketFire.cs
+  88 "RustApp" (1.7.7) by Hougan & Xacku & Olkuts & FourTeen (0.01s / 140 KB) - RustApp.cs
+  89 "Sentry Turrets" (2.3.9) by Orange & FourTeen (0.24s / 10 MB) - SentryTurrets.cs
+  90 "Sign Artist" (1.4.1) by Whispers88 (0.00s / 12 KB) - SignArtist.cs
+  91 "SponsorChanger" (1.0.1) by FourTeen (0.00s / 48 KB) - SponsorChanger.cs
+  92 "SponsorGifter" (1.0.1) by FourTeen (0.00s / 8 KB) - SponsorGifter.cs
+  93 "Stack Modifier" (2.3.8) by Khan (0.02s / 2 MB) - StackModifier.cs
+  94 "SuicideKill" (1.0.1) by Ankawi (0.00s / 4 KB) - SuicideKill.cs
+  95 "TPMenu" (1.1.0) by Baks (0.00s / 4 KB) - TPMenu.cs
+  96 "Teleport Gun" (1.0.0) by M&B-Studios (0.00s / 8 KB) - TeleportGun.cs
+  97 "Teleportation" (1.5.21) by OxideBro & FourTeen (0.00s / 204 KB) - Teleportation.cs
+  98 "Terrain Violation Fix" (1.0.3) by Tryhard (0.00s / 0 B) - TerrainViolationFix.cs
+  99 "Timed Permissions" (1.6.0) by LaserHydra (0.00s / 64 KB) - TimedPermissions.cs
+  100 "Trade" (2.2.4) by OxideBro (0.00s / 20 KB) - Trade.cs
+  101 "ItemSort" (1.0.2) by BadMandarin (0.04s / 11 MB) - UItemSort.cs
+  102 "UberTool" (1.4.37) by Pirated From FuJiCuRa (0.04s / 13 MB) - UberTool.cs
+  103 "VKBot" (1.7.6) by kamAp (0.05s / 27 MB) - VKBot.cs
+  104 "Purchase Vehicles from the Shop" (1.1.7) by M&B-Studios (0.06s / 10 MB) - VehicleBuy.cs
+  105 "WPSocialLinks" (1.2.2) by David (0.00s / 120 KB) - WPSocialLinks.cs
+  106 "WeaponDamageScale" (1.0.0) by Drop Dead & FourTeen (1.73s / 4 KB) - WeaponDamageScale.cs
+  107 "WelcomeMusic" (1.1.0) by Ajie (0.00s / 4 KB) - WelcomeMusic.cs
+  108 "WelcomePanel" (3.2.21) by David (0.01s / 268 KB) - WelcomePanel.cs
+  109 "XAntiCheat" (2.0.1) by fermens (0.19s / 24 MB) - XAntiCheat.cs
+  110 "XBuildingSkinMenu" (1.1.5) by Monster (0.04s / 13 MB) - XBuildingSkinMenu.cs
+  111 "XDShop" (1.4.1) by DezLife (0.00s / 12 KB) - XDShop.cs
+  112 "XDStatistics" (2.8.2) by DezLife (0.09s / 14 MB) - XDStatistics.cs
+  113 "XHazmatPlusV2" (2.0.6) by Monster (0.04s / 14 MB) - XHazmatPlusV2.cs
+  114 "XKamikazeFPVDrone" (1.0.2) by Monster (0.03s / 4 MB) - XKamikazeFPVDrone.cs
+  115 "XL96Plus" (1.0.1) by Monster (0.03s / 9 MB) - XL96Plus.cs
+  116 "XMenu" (1.1.12) by Monster (0.05s / 4 MB) - XMenu.cs
+  117 "XMiniCopterPlus" (1.0.4) by Monster (0.02s / 68 KB) - XMiniCopterPlus.cs
+  118 "XPrison" (1.0.4) by Monster (0.03s / 9 MB) - XPrison.cs
+  119 "XRaidProtection" (1.2.1) by Monster (0.08s / 27 MB) - XRaidProtection.cs
+  120 "XRestartUI" (1.0.3) by Monster (0.00s / 88 KB) - XRestartUI.cs
+  121 "XScan" (1.0.3) by Monster. (0.09s / 33 MB) - XScan.cs
+  122 "ZetaVehicle" (0.1.3) by fermens (0.27s / 8 KB) - ZetaVehicle.cs
+  123 "FLuma" (1.1.631) by FourTeen (0.23s / 5 MB) - FLuma.alkad
+  124 "FixedBots" (1.0.9) by TheRyuzaki (0.00s / 8 KB) - FixedBots.alkad
+  125 "Fixes Collection" (1.1.2) by Varzhak (0.03s / 52 KB) - Fixes.alkad
+  126 "LauncherAlkad" (1.1.8) by KosiakS (0.00s / 48 KB) - LauncherAlkad.alkad
+15:58 [Error] Exception while calling NextTick callback (NullReferenceException: Object reference not set to an instance of an object.)
+  at Oxide.Plugins.CopyPaste.PasteLoop (Oxide.Plugins.CopyPaste+PasteData pasteData) [0x01305] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CopyPaste+<>c__DisplayClass44_0.<PasteLoop>b__0 () [0x00000] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <beb2b64691c64e2b95b99491bd85442c>:0 
+15:58 [Warning] [XPrison] Зона успешно инициализирована!
+15:58 [Info] You've successfully pasted the structure
+15:58 [Warning] [XPrison] Найдено 16 точек для спавна!
+15:58 [Warning] [XPrison] Найдено 1 точек для спавна администрации!
+15:58 [Warning] [XPrison] Найдено 4 точек для спавна посетителей!
+15:58 [Warning] [XPrison] Найдено 8 точек для спавна в сейф зоне!
+15:58 [Info] [Image Library] Starting order Kits
+15:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:02 [Info] [Image Library] Starting order Notify
+16:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:02 [Info] [Image Library] Starting order UberTool
+16:02 [Warning] [UberTool] ImageLibrary has finished processing UberTool's required images. UberTool is now active
+16:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:22 [Info] [Image Library] Starting order Clans
+16:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:46 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:47 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:48 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:49 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:50 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:51 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:51 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1158078107618644028/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724680305.836, Current Time: 1724680301
+16:51 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1158078107618644028/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724680310.841, Current Time: 1724680306
+16:51 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1158078107618644028/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724680315.985, Current Time: 1724680311
+16:52 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:53 [Info] [VKBot] Статус отправлен(о): {"response":1}
+16:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:58 [Info] [MinicopterCombat] its a ch47
+16:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:01 [Warning] 'NoEscape v2.4.2' is using deprecated hook 'canRedeemKit', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'CanRedeemKit'
+17:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:02 [Info] [IQChat] Beast(76561199020791783): ./block хде
+17:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:19 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1173937257695162408/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724681973.987, Current Time: 1724681969
+17:19 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1173937257695162408/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724681978.769, Current Time: 1724681974
+17:19 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1173937257695162408/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724681983.849, Current Time: 1724681979
+17:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:20 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682023.935, Current Time: 1724682019
+17:20 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682028.798, Current Time: 1724682024
+17:20 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682033.991, Current Time: 1724682029
+17:20 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682057.977, Current Time: 1724682053
+17:20 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682062.976, Current Time: 1724682058
+17:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:21 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1275514498962161765/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724682067.977, Current Time: 1724682063
+17:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:41 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+17:41 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:41 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:46 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:48 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:49 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:50 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:51 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:52 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+17:58 [Info] [MinicopterCombat] its a ch47
+17:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:13 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1256256938308796419/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724685222.838, Current Time: 1724685218
+18:13 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1256256938308796419/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724685228.93, Current Time: 1724685224
+18:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:19 [Warning] 'NoEscape v2.4.2' is using deprecated hook 'canRedeemKit', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'CanRedeemKit'
+18:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:32 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1266377469083123829/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724686381.929, Current Time: 1724686377
+18:33 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1266377469083123829/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724686387.914, Current Time: 1724686383
+18:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:33 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1266377469083123829/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724686393.859, Current Time: 1724686389
+18:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:45 [Info] [MinicopterCombat] its a ch47
+18:46 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:47 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:48 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:49 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:50 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:51 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:52 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:53 [Info] [VKBot] Статус отправлен(о): {"response":1}
+18:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+18:58 [Info] [MinicopterCombat] its a ch47
+18:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:03 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+19:03 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:03 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:37 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1221787684104699996/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724690267.932, Current Time: 1724690263
+19:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:40 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1177976239022153799/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724690433.942, Current Time: 1724690429
+19:40 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1177976239022153799/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724690438.81, Current Time: 1724690434
+19:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:46 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:48 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:49 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:50 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:51 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:52 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+19:58 [Info] [MinicopterCombat] its a ch47
+19:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:24 [Info] [Compound Options] Added Vending Machine: TravellingVendorLite to data file!
+20:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:25 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277679810176483401/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724693145.983, Current Time: 1724693141
+20:25 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277679810176483401/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724693150.992, Current Time: 1724693146
+20:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:46 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:47 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:48 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:49 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:50 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:51 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:52 [Info] [VKBot] Статус отправлен(о): {"response":1}
+20:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:54 [Error] Failed to call hook 'OnEntityKill' on plugin 'SentryTurrets v2.3.9' (KeyNotFoundException: The given key '0' was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <f98723dd4586469db5213ec59da723ca>:0 
+  at Oxide.Plugins.SentryTurrets.OnEntityKill (NPCAutoTurret entity) [0x0000c] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.SentryTurrets.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00688] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+20:54 [Error] Failed to call hook 'OnEntityKill' on plugin 'SentryTurrets v2.3.9' (KeyNotFoundException: The given key '0' was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <f98723dd4586469db5213ec59da723ca>:0 
+  at Oxide.Plugins.SentryTurrets.OnEntityKill (NPCAutoTurret entity) [0x0000c] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.SentryTurrets.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00688] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+20:54 [Error] Failed to call hook 'OnEntityKill' on plugin 'SentryTurrets v2.3.9' (KeyNotFoundException: The given key '0' was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <f98723dd4586469db5213ec59da723ca>:0 
+  at Oxide.Plugins.SentryTurrets.OnEntityKill (NPCAutoTurret entity) [0x0000c] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.SentryTurrets.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00688] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+20:54 [Error] Failed to call hook 'OnEntityKill' on plugin 'SentryTurrets v2.3.9' (KeyNotFoundException: The given key '0' was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <f98723dd4586469db5213ec59da723ca>:0 
+  at Oxide.Plugins.SentryTurrets.OnEntityKill (NPCAutoTurret entity) [0x0000c] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.SentryTurrets.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00688] in <39fe8e35814b41678d9c3c034487fee1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <58a9bd7f6e0746638054bf1318c946eb>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <beb2b64691c64e2b95b99491bd85442c>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <beb2b64691c64e2b95b99491bd85442c>:0 
+20:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+20:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:58 [Info] [MinicopterCombat] its a ch47
+20:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:18 [Info] [MinicopterCombat] its a ch47
+21:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:46 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:48 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:49 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:50 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:51 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:52 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:54 [Warning] 'NoEscape v2.4.2' is using deprecated hook 'canRedeemKit', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'CanRedeemKit'
+21:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:56 [Info] [Friends] Player '76561199566872237' added '76561198079309153' as a friend
+21:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+21:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:58 [Info] [MinicopterCombat] its a ch47
+21:58 [Warning] [GlobalCleaner] Карта автоматически очищена от объектов, которые не подключены к шкафу. Очищено обьектов: 0
+21:58 [Warning] [GlobalCleaner] Карта автоматически очищена от объектов, которые не подключены к шкафу. Очищено обьектов: 0
+21:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:19 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+22:19 [Info] [Discord Extension] [Info]: Discord socket opened!
+22:19 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+22:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:46 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:47 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:48 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:49 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:50 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:51 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:52 [Info] [VKBot] Статус отправлен(о): {"response":1}
+22:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+22:58 [Info] [MinicopterCombat] its a ch47
+22:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:00 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:01 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:02 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:03 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:05 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:06 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:07 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:08 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:09 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:10 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:11 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:12 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:13 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:14 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:15 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:16 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:18 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:19 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:20 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:21 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:22 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:23 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:24 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:25 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:25 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1272192924880474184/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724703938.778, Current Time: 1724703934
+23:25 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1272192924880474184/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724703943.969, Current Time: 1724703939
+23:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:27 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:28 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:29 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:30 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:31 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:32 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:33 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:35 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:36 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:37 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:38 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:39 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:40 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:41 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:42 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:43 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:44 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:45 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:46 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:47 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705273.588, Current Time: 1724705269
+23:47 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705278.213, Current Time: 1724705274
+23:47 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705283.611, Current Time: 1724705279
+23:48 [Warning] [GlobalCleaner] Через 10 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:48 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705297.963, Current Time: 1724705293
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705303.94, Current Time: 1724705299
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705308.815, Current Time: 1724705304
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705316.971, Current Time: 1724705312
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705321.986, Current Time: 1724705317
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705327.783, Current Time: 1724705323
+23:48 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1277731192040329347/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705332.025, Current Time: 1724705328
+23:48 [Error] [Discord Extension] [Error]: Discord API has returned error Discord Code: 50007 Discord Error: Cannot send messages to this user Request: [POST] https://discord.com/api/v9/channels/1277731192040329347/messages (Response Code: Forbidden) Content-Type: application/json
+Discord Errors: 
+Request Body:
+{
+  "content": "The token you entered is invalid. Please copy the 6 digit token you recieved from ingame chat"
+}
+23:49 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:50 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:51 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:52 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:53 [Warning] [GlobalCleaner] Через 5 минут карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:53 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:54 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:54 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1258703164736016434/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705694.776, Current Time: 1724705690
+23:54 [Warning] [Discord Extension] [Warning]: Discord rate limit reached. (Rate limit info: remaining: [POST] Route: https://discord.com/api/v9/channels/1258703164736016434/messages Content-Type: application/json Remaining: 0 Limit: 5, Reset In: 1724705703.864, Current Time: 1724705699
+23:55 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:56 [Warning] [GlobalCleaner] Через 2 минуты карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:57 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:57 [Warning] [GlobalCleaner] Через 30 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:57 [Warning] [GlobalCleaner] Через 10 секунд карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:57 [Warning] [GlobalCleaner] Через 3 секунды карта будет автоматически очищена от объектов, которые не подключены к шкафу.
+23:58 [Info] [MinicopterCombat] its a ch47
+23:58 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:59 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/

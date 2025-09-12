@@ -1,0 +1,9 @@
+{
+  "Disable native refill": false,
+  "Do not refill items": [
+    "put item shortname here"
+  ],
+  "Do not refill vendings": [
+    "put vending orders name here (see console command >>> vending_orders_name <<<)"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "Стандартные причины мута": {
+        "Чрезмерный+мат+в+чате": "15m",
+        "Оскорбления+родителей": "1h",
+        "Оскорбление+администрации": "1h",
+        "Реклама+другого+проекта": "3h",
+        "Нарушение+правил+проекта": "30m"
+    },
+    "Стандартные теги игроков": {
+        "chatsystem.default": "—",
+        "chatsystem.shooter": "<color=#7CFC00>SHOOTER |</color>",
+        "chatsystem.knight": "<color=#B22222>KNIGHT |</color>",
+        "chatsystem.monarch": "<color=#A9A9A9>MONARCH |</color>",
+        "chatsystem.prince": "<color=#B8860B>PRINCE |</color>",
+        "chatsystem.winners": "<color=#FFA500>ПОБЕДИТЕЛИ |</color>",
+        "chatsystem.defender": "<color=#FFA500>DEFENDER |</color>",
+        "chatsystem.admin": "<color=#FF4500>Администратор |</color>",
+        "chatsystem.gladmin": "<color=#FF4500>Гл.Администратор |</color>"
+    },
+    "Скрытые теги": [],
+    "Цвета доступные для выбора": {
+        "#FFFFFF": "chatsystem.default",
+        "#7CFC00": "chatsystem.shooter",
+        "#B22222": "chatsystem.knight",
+        "#A9A9A9": "chatsystem.monarch",
+        "#B8860B": "chatsystem.prince",
+        "#B22222": "chatsystem.admin",
+        "#B22222": "chatsystem.gladmin"
+    },
+    "Случайные сообщения": [
+        "Добро пожаловать на сервер <color=#a5e664>BASE RUST</color>!\nНадеемся, что он Вам понравится.\nПриятной игры и окупных рейдов.",
+        "Наш донат магазин - <color=#a5e664>baserust.ru</color>",
+        "Чтобы зарегистрировать шкаф - <color=#a5e664>/regtc</color>",
+        "Лимит объектов - <color=#a5e664>16000</color> блоков на шкаф",
+        "После захвата рт, ваши рейты будут - <color=#a5e664>х2</color> (только на рт которое вы захватили)",
+        "На нашем сервере происходит очитска стен - <color=#a5e664>каждые 20 минут</color>"
+    ]
+}

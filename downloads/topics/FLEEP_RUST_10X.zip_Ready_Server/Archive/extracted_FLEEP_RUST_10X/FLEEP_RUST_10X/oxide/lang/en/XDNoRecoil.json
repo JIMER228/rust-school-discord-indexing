@@ -1,0 +1,14 @@
+{
+  "NoRecoil_NoPermission": "You are not authorized to use this command.",
+  "NoRecoil_WrongSyntaxConsole": "Wrong syntax, use : nrg Steam64ID/Nick ShortName",
+  "NoRecoil_WrongSyntaxChat": "Wrong syntax, use : /nrg ShortName",
+  "NoRecoil_PlayerNotFound": "There is no such player!",
+  "NoRecoil_ErrorNameGun": "{0} does not exist in the configuration",
+  "NoRecoil_GunGiveSucc": "The weapon has been successfully issued to the player!",
+  "NoRecoil_UserNotPerm": "This player does not have permission to play with this weapon. First he needs to issue permissions - {0}",
+  "NoRecoil_OffModification": "You have disabled the modification for everything {0}",
+  "NoRecoil_EnableModification": "Weapon successfully modified",
+  "NoRecoil_NoModificationPermission": "You do not have permission to modify this weapon.",
+  "NoRecoil_NotAllowed": "This weapon is not on the list of allowed",
+  "NoRecoil_Mustbeactive": "Weapons must be picked up!"
+}

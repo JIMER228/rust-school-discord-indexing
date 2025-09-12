@@ -1,0 +1,27 @@
+{
+  "Ban": true,
+  "FlyHackActualMaxDetects": 4,
+  "Kick": true,
+  "ReturnPlayerBack": true,
+  "SpeedGatherActualMaxDetects": 4,
+  "SpeedHackActualMaxDetects": 4,
+  "SpeedHackFalseMaxDetects": 4,
+  "Основное": {
+    "TextureHack - Наказать киком и убить игрока:": true,
+    "Включить отправку детектов и сообщений на канал Discord (Нужен плагин Discord)": true,
+    "Количество детектов FlyHack для наказания:": 4,
+    "Количество детектов SpeedHack для наказания:": 4,
+    "Логировать детекты FlyHack:": true,
+    "Логировать детекты SpeedHack:": true,
+    "Логировать детекты TextureHack:": true,
+    "Логировать детекты на WallHackAttack:": true,
+    "Логировать детекты на быстрое добывание:": true,
+    "Наказать баном:": true,
+    "Наказать киком:": true,
+    "Не логировать детекты в машине?": true
+  },
+  "Экспериментальное": {
+    "Включить AntiESP на людей (Внимание! Может сильно нагружать сервер!)": false,
+    "Включить AntiESP на объекты (Внимание! Может нагружать сервер!)": true
+  }
+}

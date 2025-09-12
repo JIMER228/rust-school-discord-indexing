@@ -1,0 +1,1707 @@
+00:01 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): кто то кого то рейдит, и не понимает что защита 100%
+00:05 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): блять
+00:05 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): 10 фпс ебаных
+00:06 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 7 | Или ивент уже запущен![True]
+00:09 [Info] <color=#FFB841>100 часов плеер (76561199112399846)</color> был кикнут. Причина: <color=#FFB841>'FlyHack Violation Level 486.5856'</color>
+00:09 [Info] <color=#FFB841>factsss valimrust (76561198831231334)</color> был кикнут. Причина: <color=#FFB841>'FlyHack Violation Level 426.544'</color>
+00:41 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+00:41 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+01:06 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 4 | Или ивент уже запущен![True]
+01:13 [Info] [IQChat] [WWS] lfg./.justThawne(76561199117057202): спасибо парни
+01:13 [Info] [IQChat] [WWS] qukepay(76561198963051790): спасибо спонсоры антизакида
+01:15 [Info] [IQChat] [5ozer] how are you?(76561199381021164): билдите анти закид от шкафа сладкие ;)))))))
+01:15 [Info] [IQChat] [5ozer] how are you?(76561199381021164): у вас впринципе 2/3  скоро будет 3/3 №)
+01:15 [Info] [IQChat] [5ozer] how are you?(76561199381021164): и дисквал ;(
+01:41 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+01:41 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+02:06 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![True]
+03:06 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![True]
+04:06 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![True]
+05:03 [Info] Loading Oxide Core v2.0.4048...
+05:03 [Info] Loading extensions...
+05:03 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+05:03 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+05:03 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+05:03 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+05:03 [Info] Unity version: 2019.4.7f1
+05:03 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+05:03 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+05:03 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+05:03 [Info] Using Covalence provider for game 'Rust'
+05:03 [Info] Loading plugins...
+05:03 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+05:03 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+05:03 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+05:03 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+05:03 [Info] AdminESP, AdminHammer, AdminMenu, AutoDoors, AutomaticAuthorization, Backpacks, BedsCooldowns, BetterLoot, BlueprintManager, Clans, CopyPaste, CupWars, DeathMessages, ExplosionDamageReducer, ExtraSeating, GameStoresRUST, ImageLibrary, InstantCraft, IQChat, IQGradeRemove, IQHotPoints, IQMarker, IQTurret, IQWipeBlock, Kits, kryAlwaysday, kryChinookBalance, LimitObject, MarkerManager, Metabolism, NoBulletFire, NoEscape, NoGiveNotices, NoHeliFire, NoWorkbench, NTeleportation, Obmen, Recycler, RustMap, RustPanel, SecureAdmin, SightsSystem, Stacks, StaticTrader, TeamMarker, TimedPermissions, Tournament, TPOnMap, UberTool, Vanish, Whitelist, XDStatistics, XerCopterCraft, XMenu, XOreEvent, XRaidProtection and XRate were compiled successfully in 0ms
+05:03 [Error] Error while compiling: Crafts.cs(1539,26): error CS1061: Type `Oxide.Plugins.Recycler' does not contain a definition for `Kill' and no extension method `Kill' of type `Oxide.Plugins.Recycler' could be found. Are you missing an assembly reference?
+05:03 [Info] Loaded plugin AdminESP v0.0.12 by OxideBro / Fixed by Drop Dead
+05:03 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+05:03 [Info] Loaded plugin AdminMenu v0.1.50 by k1lly0u
+05:03 [Info] Loaded plugin Auto Doors v3.2.9 by Wulf/lukespragg/Arainrr
+05:03 [Info] Loaded plugin Automatic Authorization v1.3.0 by k1lly0u/Arainrr
+05:03 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+05:03 [Info] Loaded plugin Beds Cooldowns v1.1.4 by Orange
+05:03 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+05:03 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+05:03 [Info] Loaded plugin Blueprint Manager v1.1.6 by Orange
+05:03 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+05:03 [Info] Loaded plugin Copy Paste v4.1.32 by misticos
+05:03 [Info] Loaded plugin CupWars v1.0.7 by Qbis
+05:03 [Info] Loaded plugin DeathMessages v2.3.1 by Sempai#3239
+05:03 [Info] Loaded plugin Explosion Damage Reducer v1.0.0 by paulsimik
+05:03 [Info] Loaded plugin Extra Seating v1.0.8 by Pho3niX90
+05:03 [Info] Loaded plugin GameStoresRUST v0.3.9 by HOUGAN & Sstine & rostov114 # GAMESTORES
+05:03 [Info] Loaded plugin Image Library v2.0.60 by Absolut & K1lly0u
+05:03 [Info] Loaded plugin Instant Craft v2.2.1 by Vlad-0003 / Orange / rostov114
+05:03 [Warning] [IQChat] Языковой файл загружается...
+05:03 [Warning] [IQChat] Языковой файл загружен успешно
+05:03 [Info] Loaded plugin IQChat v2.2.35 by Menevt
+05:03 [Warning] [IQGradeRemove] Языковой файл загружен успешно
+05:03 [Info] Loaded plugin IQGradeRemove v0.1.4 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:03 [Info] Loaded plugin IQHotPoints v1.0.7 by Mercury
+05:03 [Warning] [IQMarker] Языковой файл загружен успешно
+05:03 [Info] Loaded plugin IQMarker v1.1.5 by TopPlugin.ru
+05:03 [Warning] [IQTurret] Logs : #32471912 | Языковой файл загружен успешно
+05:03 [Info] Loaded plugin IQTurret v1.0.5 by Sempai#3239
+05:03 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+05:03 [Info] Loaded plugin IQWipeBlock v0.1.0 by Mercury
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:03 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+05:03 [Info] Loaded plugin kryAlwaysday v1.0.0 by xkrystalll
+05:03 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+05:03 [Info] Loaded plugin LimitObject v0.0.1 by Sparkless
+05:03 [Info] Loaded plugin Marker Manager v2.1.1 by Orange
+05:03 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+05:03 [Info] Loaded plugin NoBulletFire v1.0.0 by djm.
+05:03 [Info] Loaded plugin NoEscape v2.4.1 by Sempai#3239
+05:03 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+05:03 [Info] Loaded plugin No Heli Fire v1.0.5 by Tryhard
+05:03 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+05:03 [Info] Loaded plugin NTeleportation v1.6.8 by nivex
+05:03 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+05:03 [Info] Loaded plugin Recycler v1.0.0 by Fartus
+05:03 [Info] Loaded plugin RustMap v2.1.51 by OxideBro - RustPlugin.ru
+05:03 [Info] Loaded plugin Rust Panel v2.1.2 by Hougan
+05:03 [Info] Loaded plugin Secure Admin v1.1.8 by https://topplugin.ru/
+05:03 [Info] Loaded plugin SightsSystem v1.1.0 by Chibubrik
+05:03 [Info] Loaded plugin Stacks v1.4.0 by TopPlugin.ru
+05:03 [Info] Loaded plugin StaticTrader v1.2.6 by Raul-Sorin Sorban
+05:03 [Info] Loaded plugin Team Marker v0.0.2 by DarkPlugins.ru
+05:03 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+05:03 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+05:03 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+05:03 [Info] Loaded plugin UberTool v1.4.18 by FuJiCuRa
+05:03 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+05:03 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+05:03 [Info] Loaded plugin XDStatistics v2.0.9 by TopPlugin.ru
+05:03 [Info] Loaded plugin XerCopterCraft v1.0.3 by SkuliDropek
+05:03 [Info] Loaded plugin XMenu v1.0.803 by Monster
+05:03 [Info] Loaded plugin XOreEvent v1.0.0 by Sempai#3239
+05:03 [Info] Loaded plugin XRaidProtection v1.0.9 by TopPlugin.ru
+05:03 [Info] Loaded plugin XRate v1.0.3 by Menevt
+05:08 [Info] IP address from command-line: 185.66.84.216
+05:08 [Info] [BetterLoot] Using '52' active of '56' supported containertypes
+05:08 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+05:08 [Info] [BetterLoot] Updating internals ...
+05:08 [Info] [Clans] Loaded data with '42' valid Clans and overall '113' Members.
+05:08 [Warning] Calling 'OnServerInitialized' on 'Clans v1.0.61' took 119ms
+05:08 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+05:08 [Warning] [IQChat] Permissions - completed
+05:08 [Warning] [IQMarker] Загружаем изображения..
+05:08 [Warning] [IQMarker] Регистрируем права..
+05:08 [Warning] [IQMarker] Проверяем права игроков..
+05:08 [Warning] [IQMarker] Плагин загружен успешно!
+05:08 [Warning] Calling 'OnServerInitialized' on 'IQTurret v1.0.5' took 131ms
+05:08 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+05:08 [Error] Failed to add image for путин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/69qDSVU.png
+05:08 [Error] Failed to add image for путинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/rC4p7Bn.png
+05:08 [Error] Failed to add image for медведев. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/nuqYJH8.png
+05:08 [Error] Failed to add image for путинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/QiaSxsE.png
+05:08 [Error] Failed to add image for ленин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+05:08 [Error] Failed to add image for медведевмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/JAeV5MQ.png
+05:08 [Error] Failed to add image for медведевфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/SXbK4vR.png
+05:08 [Error] Failed to add image for ельцинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7aYJWJD.png
+05:08 [Error] Failed to add image for ельцин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/1qlJ7mn.png
+05:08 [Error] Failed to add image for медведевган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Fe7jS4K.png
+05:08 [Error] Failed to add image for ельцинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/xdKfrt8.png
+05:08 [Error] Failed to add image for коптер. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+05:08 [Error] Failed to add image for дом. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/yRvgxFQ.png
+05:08 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+05:08 [Error] Failed to add image for боевой. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/v3bvaDd.png
+05:08 [Error] Failed to add image for медик. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7reIw27.png
+05:08 [Error] Failed to add image for буры. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/TwAwgZG.png
+05:08 [Error] Failed to add image for top. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+05:08 [Error] Failed to add image for дайвинг. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+05:08 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.6.8' took 324ms
+05:08 [Warning] [RustMap] Начало загрузки все изображений RustMap. Ожидайте завершения
+05:08 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.60' took 634ms [GARBAGE COLLECT]
+05:08 [Warning] Calling 'OnServerInitialized' on 'Stacks v1.4.0' took 661ms [GARBAGE COLLECT]
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2647204)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv3948977)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4004407)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4023924)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2737189)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4264400)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+05:08 [Warning] [UberTool] ImageLibrary has finished processing UberTool's required images. UberTool is now active
+05:08 [Error] [XerCopterCraft] AddImages SkyPlugins.ru...
+05:08 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.544
+-----------------------------
+05:08 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Sempai#3239
+     Discord - Sempai#3239
+     Config - v.2676
+-----------------------------
+05:08 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+05:08 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 252ms
+05:09 [Info] [BetterLoot] Removed 17 stacked LootContainer
+05:09 [Info] [BetterLoot] Populated '702' supported containers.
+05:09 [Warning] [Rust Panel] Core: языковые файлы загружены / lang files loaded
+05:09 [Warning] [Rust Panel] Core: команды зарегистрированы / commands registered
+05:09 [Info] [Rust Panel] Для лучшей производительности, происходит плавная проверка игроков на наличие блокировок
+05:09 [Info] [Rust Panel] Плавная проверка завершена: 0/0 игроков проверено
+05:09 [Warning] [Rust Panel] UpdateService: успешно загружен / successfull load
+05:09 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 0%
+05:09 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+05:09 [Error] [XerCopterCraft] AddImages SkyPlugins.ru - completed..
+05:09 [Warning] [GameStoresRUST] -----------------------------
+05:09 [Warning] [GameStoresRUST]  GameStores 0.3.9 (c) 2022
+05:09 [Warning] [GameStoresRUST]       Initialized - OK
+05:09 [Warning] [GameStoresRUST] -----------------------------
+05:09 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 20%
+05:09 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 40%
+05:09 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 60%
+05:09 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 80%
+05:09 [Info] [RustMap] Идёт загрузка кастомных изображений, загружено: 0%
+05:09 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/modding/volumes_and_triggers/monument_marker.prefab Position: (1246.4, 10.0, 1361.3)
+05:09 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/modding/volumes_and_triggers/monument_marker.prefab Position: (-133.4, 7.1, 1275.4)
+05:09 [Warning] [RustMap] Все изображения карты (161), успешно загружены
+05:09 [Warning] [IQChat] Интерфейс успешно загружен!
+05:09 [Info] [Image Library] Starting order Stacks
+05:09 [Info] [Image Library] Starting order Stacks
+06:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![False]
+07:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![False]
+08:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![False]
+09:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 0 | Или ивент уже запущен![False]
+10:03 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+10:07 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+10:08 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+10:10 [Warning] 'XDStatistics v2.0.9' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+10:12 [Info] [IQChat] Бонжорно(76561198446872634): 12
+10:16 [Info] [IQChat] [WWS] Hunchik(76561199180689287): ты слышишь меня?
+10:16 [Info] [IQChat] [WWS] lfg./.justThawne(76561199117057202): у тя что-то я себя норм слышу
+10:21 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .ЛШЕ
+10:25 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .ЛШЕ
+10:26 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .ГЗ 3
+10:40 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): админ тут?
+10:40 [Info] [IQChat] Царь Леонид(76561198838036510): вам же пизда
+10:44 [Info] [IQChat] [FITS] pump1kk(76561199154573241): .гз 4
+10:44 [Warning] Calling 'cmdKickOfClan' on 'Clans v1.0.61' took 1142ms
+10:44 [Warning] Calling 'OnServerCommand' on 'Clans v1.0.61' took average 1160ms
+10:52 [Info] [IQChat] [FITS] pump1kk(76561199154573241): .гз 4
+10:53 [Info] [IQChat] [FITS] pump1kk(76561199154573241): .гз 4
+11:02 [Info] [IQChat] Бонжорно(76561198446872634): 1
+11:03 [Warning] Calling 'cmdKickOfClan' on 'Clans v1.0.61' took 1146ms
+11:03 [Warning] Calling 'OnEntityTakeDamage' on 'Clans v1.0.61' took average 1156ms
+11:04 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): админ
+11:06 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ebal
+11:06 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): xnj
+11:06 [Info] [IQChat] [ebal] zxcursed x deadinsade(76561198453908692): шо
+11:06 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .езф
+11:06 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): правила читали?
+11:06 [Info] [IQChat] [ebal] zxcursed x deadinsade(76561198453908692): всмысле
+11:06 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): +
+11:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+11:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+11:10 [Info] [IQChat] [ebal] zxcursed x deadinsade(76561198453908692): Я щяс уходить буду
+11:12 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): АЛЛО ЕБЛАНЫ
+11:15 [Info] [IQChat] kms po kuni(76561199243230411): У кого место есть?
+11:21 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): WWS ДАУНЫ? МЫ СДЕСЬ
+11:28 [Info] [IQChat] [WWS] lfg./.justThawne(76561199117057202): папххпаххпахпхап
+11:28 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): ХАХАХАХХАА
+11:28 [Info] [IQChat] [5ozer] how are you?(76561199381021164): типы 3 часа думают крышу держать будут xdd
+11:29 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .езк
+11:33 [Info] [IQChat] [FITS] pump1kk(76561199154573241): 3
+11:36 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): wws зачем на нас билдить ?
+11:36 [Info] [IQChat] [WWS] lfg./.justThawne(76561199117057202): с чего ты взял ?
+11:54 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): админ
+11:56 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): админ ты тут?
+12:01 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): админ ау ты тут?
+12:01 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): когда защита пройдет?
+12:01 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): вырубай защиту админ ало
+12:01 [Info] [IQChat] [FITS] ekkez(76561198841778620): Всем доброе утро, друзья!
+12:02 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ky
+12:02 [Info] [IQChat] [WWS] [БАГДАД]Region#BOLOTORUST(76561199077807356): хай
+12:02 [Info] [IQChat] [5ozer] how are you?(76561199381021164): дирол рестартни зеленку
+12:03 [Info] [IQChat] [FITS] pump1kk(76561199154573241): off zashity ale
+12:04 [Info] [IQChat] [5ozer] how are you?(76561199381021164): дирол рестартни зеленку
+12:04 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): wws нахуй трогайте?
+12:04 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): вы нам турели ломаете дети пидоров
+12:04 [Info] Unloaded plugin XRaidProtection v1.0.9 by TopPlugin.ru
+12:05 [Info] [IQChat] [5ozer] how are you?(76561199381021164): дирол зеленку рестартни !!!!!!!!
+12:06 [Warning] 'XDStatistics v2.0.9' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+12:07 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] lfg./.justThawne : СООБЩЕНИЕ :  фитсы авалонов рейдят
+12:07 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] lfg./.justThawne : СООБЩЕНИЕ :  идите им шкафы занимайте
+12:08 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [WWS] lfg./.justThawne(76561199117057202) -> [5ozer] how are you? : СООБЩЕНИЕ :  мы уже рейдим
+12:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 19 | Или ивент уже запущен![True]
+12:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+12:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+12:16 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] lfg./.justThawne : СООБЩЕНИЕ :  вам че кибу бахнули?
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  1
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  1
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  сука
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  рестартни зеленку
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  плиз
+12:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [WWS] 妻ナdead outsideナ妻(76561199165921368) -> [5ozer] how are you? : СООБЩЕНИЕ :  ?
+12:18 [Info] Clans was compiled successfully in 2102ms
+12:18 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+12:18 [Info] [Clans] Loaded data with '42' valid Clans and overall '114' Members.
+12:18 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+12:18 [Info] [Timed Permissions] [БАГДАД]Region#BOLOTORUST (76561199077807356) - Added to group: ельцин for 2.23:59:59.9979993
+12:23 [Info] [IQChat] [5ozer] how are you?(76561199381021164): дейт выключили урон от эфок
+12:24 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Араб
+12:24 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): что
+12:25 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): что
+12:25 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Араб, почему я проснулся, а на горизонте ничего?
+12:25 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): ekkez ты еблан иди дефай свой менй
+12:25 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): там шкафы
+12:25 [Info] [IQChat] [FITS] ekkez(76561198841778620): я твой задефал ебалн
+12:25 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): которые ты даже не застроил?
+12:25 [Info] [IQChat] [5ozer] how are you?(76561199381021164): xd сам рейдил
+12:25 [Info] [IQChat] [FITS] ekkez(76561198841778620): мои сета под твоей туркой, я её ломал
+12:25 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): а ок
+12:25 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Шкафы, которые ты сегодня утром бахал?)
+12:26 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): fits ez def
+12:27 [Info] [IQChat] [FITS] ekkez(76561198841778620): дай себя залутать
+12:33 [Info] [IQChat] [5ozer] how are you?(76561199381021164): слабак потей на эфках
+12:33 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): я 1
+12:33 [Info] [IQChat] [5ozer] how are you?(76561199381021164): и че нахуй? вы вчера в 5 не задефали нас 2
+12:35 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): 1
+12:35 [Info] [IQChat] [FITS] ekkez(76561198841778620): блять а что такое, почему я не могу перестрелять
+12:35 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): потому что я самый крутой славик
+12:35 [Info] [IQChat] [FITS] ekkez(76561198841778620): ты васёк
+12:35 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): где шкаф говори
+12:36 [Info] [IQChat] [FITS] ekkez(76561198841778620): первый этаж с вашей стороны
+12:36 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): врешь
+12:36 [Info] [IQChat] [FITS] ekkez(76561198841778620): нет
+12:36 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): на демку покажешь?
+12:36 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): слив клана?
+12:36 [Info] [IQChat] [FITS] ekkez(76561198841778620): за 250 покажу
+12:37 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): туда их
+12:37 [Info] [IQChat] [FITS] ekkez(76561198841778620): + 100к дерева боты
+12:39 [Info] [IQChat] twitch.tv/defzwer(76561199127717815): w
+12:39 [Info] [IQChat] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:40 [Info] [IQChat] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:41 [Info] [IQChat] twitch.tv/defzwer(76561199127717815): ищу друзей для клана
+12:42 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): ищу сокланов
+12:42 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): gg
+12:42 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): кто будет моим сокланом
+12:43 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): мб ремнитесь нет смысла
+12:43 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): щас рб пройдет сета унесем ресы
+12:43 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): тогда нет мы под ноль сносим
+12:43 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:43 [Info] <color=#FFB841>ekkez (76561198841778620)</color> был кикнут. Причина: <color=#FFB841>'FlyHack Violation Level 295.6779'</color>
+12:44 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:44 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:45 [Info] [IQChat] [ebal] Rektor(76561198816004814): .рщьу 3
+12:45 [Info] [IQChat] [zubr] twitch.tv/defzwer(76561199127717815): ищу друга есть микрофон мне 11
+12:46 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): 1
+12:46 [Info] [IQChat] 509$antarezz(76561198282749591): 1
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  1
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  1
+12:51 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ?
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  не туда сука
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  q
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [WWS] 妻ナdead outsideナ妻(76561199165921368) -> [5ozer] how are you? : СООБЩЕНИЕ :  а куда
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  шкаф активируй
+12:51 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): wws
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  сука
+12:51 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  не пиши мне
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [WWS] 妻ナdead outsideナ妻 : СООБЩЕНИЕ :  у нас шкаф деактивировался
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  1
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [WWS] 妻ナdead outsideナ妻(76561199165921368) -> [5ozer] how are you? : СООБЩЕНИЕ :  xD
+12:52 [Info] [IQChat] [FITS] ekkez(76561198841778620): фозеры, пока
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  шкаф активируй ты вчера главку передавал сегодня че лсам как то ливнул с клана
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  у нас шкаф деактивировался
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  когда чел
+12:52 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  с клана ливнул которому ты вчера главку давал
+12:52 [Info] [IQChat] [FITS] ekkez(76561198841778620): Тренер
+12:53 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): wws
+12:53 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): что тебе
+12:53 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): мб титан ремните
+12:53 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): вы же блять с нич ничего уже не сделаете
+12:53 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): лут вы в жизни не найдете
+12:54 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): потрайте идите других и все
+12:54 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): будете ремать?
+12:54 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ща
+12:55 [Info] [IQChat] [FITS] ekkez(76561198841778620): они ремают
+12:55 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): кто что
+12:55 [Info] [IQChat] [FITS] ekkez(76561198841778620): титан
+12:56 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ну пусть ремают
+12:57 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ekke
+12:58 [Info] [IQChat] [FITS] Aux(76561199224702078): -позер
+12:58 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): позеры
+12:59 [Info] [IQChat] [FITS] Aux(76561199224702078): админ эту тоже сремай
+12:59 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ты еблан я сам сремал
+12:59 [Info] [IQChat] [FITS] Aux(76561199224702078): админ продай гроб угля
+12:59 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): админам похуй на всё
+13:00 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): с
+13:00 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): дс екез
+13:00 [Info] [IQChat] [FITS] ekkez(76561198841778620): я с ввсами
+13:01 [Info] [IQChat] [FITS] ekkez(76561198841778620): Заканчиваем?
+13:01 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ekkez
+13:01 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): +
+13:01 [Info] [IQChat] [FITS] ekkez(76561198841778620): a
+13:01 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): со мной фастом беги
+13:03 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): закончим?
+13:04 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): нет
+13:04 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): да
+13:04 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): мы топ 1 го
+13:04 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ...
+13:04 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): зарейдишь го
+13:04 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): лут сверху если что
+13:05 [Info] [IQChat] [FITS] ekkez(76561198841778620): ДЕДРОС, мб тебя за просвет забанитЬ?
+13:06 [Info] [IQChat] [ebal] ARAB X KALAH(76561198139802195): RELAX ЧТО С ЛИЦОМ?
+13:06 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): xD
+13:06 [Info] [IQChat] [5ozer] how are you?(76561199381021164): ex
+13:07 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): закончим?
+13:07 [Info] [IQChat] [FITS] Aux(76561199224702078): -
+13:07 [Info] [IQChat] [WWS] [БАГДАД]Region#BOLOTORUST(76561199077807356): озер вы не учавствуете
+13:07 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): авалон упали.....
+13:07 [Info] [IQChat] [5ozer] how are you?(76561199381021164): оно само убралось
+13:07 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): вы переивайтили типа который зарегал шкаф значит
+13:07 [Info] [IQChat] [FITS] ekkez(76561198841778620): И просвет сам купился?
+13:07 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): с
+13:07 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): ты долбаеб
+13:08 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): тут плагины из говна , оно слетело
+13:08 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): алё вы за-ебали 2вайп подряд тунельчок в шкаф
+13:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 21 | Или ивент уже запущен![True]
+13:09 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): алло пидорок на админе тут?
+13:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+13:09 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): сколько за 2 место дают? есть вообще смысл играть мб ремнутся?
+13:09 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+13:09 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): вы 3
+13:09 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): это пока что
+13:10 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): дедрос ебанат тупой тебя что забанить?
+13:10 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): за кое какие пруфы
+13:10 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): мб тебя забангить бонжорно?
+13:10 [Info] [IQChat] [5ozer] how are you?(76561199381021164): ez top 10
+13:11 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): забань
+13:11 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): рейдите нас позеры фастиком и я пойду на касту
+13:11 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): а то там ракеты уже скоро
+13:12 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): позеры, а тунелем в шкаф бахать это дефолт ?
+13:12 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): лысый во время зашел
+13:13 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): 5ozer больше не участвуют в турнире.
+13:13 [Info] [IQChat] [5ozer] how are you?(76561199381021164): почему ??
+13:13 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): xD
+13:13 [Info] [IQChat] [FITS] pump1kk(76561199154573241): ahahaha
+13:13 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): hahaha
+13:13 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол в лс чек
+13:13 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): xd
+13:13 [Info] [IQChat] [FITS] Aux(76561199224702078): заканчиваем
+13:13 [Info] [IQChat] [FITS] ekkez(76561198841778620): нт
+13:13 [Info] [IQChat] [WWS] lfg./.justThawne(76561199117057202): xD
+13:13 [Info] [IQChat] [ebal] Rektor(76561198816004814): не
+13:13 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Почему?
+13:13 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): еблан на дедросе
+13:13 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): заканчиваем?
+13:13 [Info] [IQChat] [WWS] [БАГДАД]Region#BOLOTORUST(76561199077807356): изи дуры
+13:14 [Info] [IQChat] [FITS] pump1kk(76561199154573241): заканчиваем ?
+13:14 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол в дс
+13:14 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): Почему?
+13:14 [Info] [IQChat] [5ozer] how are you?(76561199381021164): у тебя плагин тупой
+13:14 [Info] [IQChat] [ebal] Rektor(76561198816004814): НЕ
+13:14 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): заканчиваем
+13:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): У вас одних была такая проблема
+13:14 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): заканчиваем
+13:14 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): дирол
+13:14 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): уебище на админе в дс заходи
+13:14 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол в дс чек
+13:14 [Info] [IQChat] [5ozer] how are you?(76561199381021164): зайди в войс
+13:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Была бы не у тебя одного ладно еще
+13:14 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): дирол закончи турик
+13:14 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): +
+13:14 [Info] [IQChat] [FITS] Aux(76561199224702078): +
+13:14 [Info] [IQChat] [5ozer] how are you?(76561199381021164): зайди в войс
+13:14 [Info] [IQChat] [FITS] pump1kk(76561199154573241): +
+13:14 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  в войс зайди
+13:14 [Info] [IQChat] [WWS] [БАГДАД]Region#BOLOTORUST(76561199077807356): всё джём на балик промик
+13:14 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): алё дирол
+13:14 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  срочно
+13:15 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [5ozer] how are you?(76561199381021164) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  зайди в войс
+13:15 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол дс чек
+13:15 [Warning] 'XDStatistics v2.0.9' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+13:15 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол
+13:16 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): мувни к себе дирол
+13:16 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): дирол
+13:18 [Info] [IQChat] [FITS] ekkez(76561198841778620): давай вася, пока
+13:19 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): сервер говна ебаного просто , плагины из дешевой хуйни , не проводите турниры нахуй в жизни своей нещеёбы
+13:19 [Info] [IQChat] [5ozer] how are you?(76561199381021164): .СЕЩЗ
+13:19 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): ban
+13:19 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): админ
+13:19 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): а
+13:20 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): да все ты вылетел не пиши в чат
+13:20 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): за что его так
+13:20 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): алё 0рейдов ебало
+13:20 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): алло дальше себе шкафы с акка брата отдавай
+13:20 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): боже мой
+13:20 [Info] [IQChat] [FITS] ekkez(76561198841778620): хахаха круто звучит
+13:20 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): мб ещё 500к пороха себе скинешь?
+13:20 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): жирный хуесос
+13:21 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): мб ещё раз зайдешь с акка брата и начнешь бегать шкаф искать???
+13:21 [Info] [IQChat] [Avalon] sitrexxx(76561198886619363): тот шкаф мы давно бахали
+13:21 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Репорты сегодня будут проверяться?
+13:21 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): +
+13:21 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): кого проверить?
+13:22 [Info] [IQChat] [FITS] ekkez(76561198841778620): ало тп на меня, ставьте кибу
+13:22 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): 946 ч. всегоВ игреRust
+13:22 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): жесткий ты тип
+13:22 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): cек
+13:22 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): ну а ты че думал
+13:23 [Info] Unloaded plugin Tournament v1.0.0 by Xavier
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): .гз 4
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ctop откатят щас похожу
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): походу*
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:23 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClansTopMain' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClansTopMain (ConsoleSystem+Arg arg) [0x00021] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x020fd] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'cmdClanTOP' on plugin 'Clans v1.0.61' (InvalidOperationException: Nullable object must have a value.)
+  at System.Nullable`1[T].get_Value () [0x00008] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Clans.ClanTOP (BasePlayer player, System.Int32 page) [0x00666] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.cmdClanTOP (BasePlayer player, System.String command, System.String[] args) [0x00000] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.Clans.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x02128] in <11fcc7b2edfb4108bc8b9d69209e563d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Info] Tournament was compiled successfully in 1941ms
+13:24 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2647204)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4004407)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4023924)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2737189)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4264400)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <a73e9ceb701042b185e3445713aa7a4a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+13:24 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+13:25 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): c
+13:25 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): тепаться?
+13:25 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): 5ozer участвуют класс
+13:25 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ну да и ?
+13:25 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): я с ресами
+13:25 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): да это пиздец нахуй
+13:25 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): пососи
+13:25 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): отсосал?
+13:25 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): я думал уже ливать, а тебе ещё сидеть
+13:25 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): заканчивайте долбаебы
+13:25 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): -
+13:26 [Info] [IQChat] [5ozer] how are you?(76561199381021164): заканчиваем?
+13:26 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): -
+13:26 [Info] [IQChat] [5ozer] how are you?(76561199381021164): а хули нет?
+13:28 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ну только если fits все кланы бахнут кроме 5ozer должны выйти на топ 1
+13:28 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): хуй
+13:29 [Info] [IQChat] detected macro I have(76561199124951373): 1
+13:29 [Warning] Calling 'cmdChatClan' on 'Clans v1.0.61' took 1131ms
+13:29 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): но если мы щас шкаф не сремаем
+13:29 [Warning] Calling 'OnActiveItemChanged' on 'Clans v1.0.61' took average 1141ms
+13:29 [Info] [IQChat] detected macro I have(76561199124951373): 111
+13:29 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): нахуй ремайся
+13:29 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): хзхзхзхз
+13:29 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): 1
+13:30 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): tp
+13:31 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): 5ozer вы будете нас рейдить, у нас нет ресов дефаться
+13:32 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [WWS] 妻ナdead outsideナ妻(76561199165921368) -> [FITS] ekkez : СООБЩЕНИЕ :  зайди к нам в дс срочно
+13:32 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): админ ну чё там?
+13:35 [Warning] [Rust Panel] У игрока (76561199381021164) обнаружена блокировка, выгоняем с сервера [баны на других проектах]
+13:35 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): вы вообще ебанутые?
+13:35 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): Xd
+13:35 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ez
+13:35 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): бонжорно хппхпхп
+13:35 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): бля бонжорно ты такая девочка слабая это пиздец ахахха
+13:36 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): мапу?
+13:36 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): пхпххп пошли 3х3
+13:36 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): 1x1
+13:36 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): тимейтов нет(
+13:36 [Info] [IQChat] [5ozer] 509$antarezz(76561198282749591): мда.. нью рек мапу идты , да ты смешной
+13:36 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): est(
+13:36 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): 1x1 боишься?
+13:37 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): G'
+13:38 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .ЫЛШТ
+13:38 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): админ в дс зайди
+13:38 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): а ты в пикселе потому что боишься?
+13:38 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): иди нах
+13:38 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): хахахахахахахахахахаххахах
+13:38 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): 2/3?
+13:38 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ага 3/3
+13:38 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): У него не макрос
+13:39 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): я тебя понял найс играем
+13:39 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): А баны
+13:39 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): Нытик
+13:39 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): а причём тут баны на сервах
+13:39 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): понойте в хуй
+13:39 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): так алё типы бахнули с просветом и типа норм да?
+13:39 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): У него баны на серверах
+13:39 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): udav ебало закрой слабый
+13:39 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): у него баны на старой отдачи
+13:39 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): слабый?
+13:39 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): ахаахах
+13:39 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): У него бан на валиме 3.08
+13:39 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): за что бан?)
+13:39 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): (
+13:39 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): cheat
+13:40 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): пруф есть?
+13:40 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол в дс зайди объесни
+13:40 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Ищи сам
+13:40 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): и мы ливним
+13:40 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): так если пруфа нет значит не обословный бан
+13:40 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): У меня есть пруф то что у него бан
+13:40 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Я ему кинул
+13:40 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): ПРУФ ЕСТЬ НА ЧИТ?
+13:40 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): дирол дс
+13:42 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .лше
+13:45 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol дс
+13:46 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): doril ебл-ан в дс
+13:48 [Info] [IQChat] zymn(76561199159303437): Дирол бот
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): ахахахах
+13:52 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ?
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): c
+13:52 [Info] [IQChat] [FITS] ekkez(76561198841778620): ?
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:52 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): В ДСИК ЗАЙДИТЕ
+13:52 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): а найс ьтпы дисбанднулись
+13:52 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ban
+13:53 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): дай сихи
+13:53 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): СТОП РЕЙД ФИТС ВВС
+13:53 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ban
+13:53 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в лс да нет
+13:54 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): в дс добавьте
+13:54 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): перекиньте
+13:54 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в лс да нет
+13:54 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в лс да нет
+13:55 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [NTD] Suicide#Rustporn(76561199186351286) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  Проверь 100 часов плеер ауу нахуй
+13:55 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [NTD] Suicide#Rustporn(76561199186351286) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  типо блять бомжем с пиликом бегает
+13:55 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): .сещз
+13:56 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:56 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): он занят
+13:57 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): dirol ответь в дс да нет
+13:57 [Info] [IQChat] [Avalon] [Avalon]By./_UDAV_#Bolo(76561199186599290): 3секунды времени
+13:58 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): откуда у фитсов очки ?
+13:58 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): tsss
+13:58 [Info] [IQChat] mooniverse(76561198121409863): !clan create
+13:58 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ?
+13:59 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): что за конч на админе ало почему его разбанивают
+13:59 [Info] [IQChat] [5ozer] detected macro I have(76561199124951373): кого)
+14:01 [Info] <color=#FFB841>pump1kk (76561199154573241)</color> был кикнут. Причина: <color=#FFB841>'FlyHack Violation Level 482.0635'</color>
+14:04 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): -wws ?
+14:05 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): ekkez отдал спалку с кд где лут
+14:06 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): xD
+14:06 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): щас пофиксим
+14:06 [Info] [IQChat] [FITS] ekkez(76561198841778620): аааааааааааааааа
+14:06 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): откуда очки у фитсов?
+14:06 [Info] [IQChat] [FITS] ekkez(76561198841778620): за wws
+14:06 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): нас зарейдили
+14:06 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): суки отдались)
+14:07 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [NTD] Suicide#Rustporn(76561199186351286) -> [14145] .DeityxDirol : СООБЩЕНИЕ :  ауу нахуй дура ебанная ты можешь проверить 100 часов плеер?
+14:07 [Info] [IQChat] [FITS] ekkez(76561198841778620): мы альты показали
+14:07 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): окйе0
+14:07 [Info] [IQChat] [WWS] 妻ナdead outsideナ妻(76561199165921368): алло дирол ремни юбку
+14:08 [Info] [Rust Panel] Player 76561199112399846 sent a discord for communication: эпик#8452 
+14:08 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): poxuy
+14:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 15 | Или ивент уже запущен![True]
+14:10 [Info] [IQChat] [FITS] ekkez(76561198841778620): блээээээээээээээээээээээээээээээээээээээээээээээээээээээээээээт
+14:11 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+14:11 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+14:17 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [FITS] pump1kk(76561199154573241) -> [FITS] Бонжорно : СООБЩЕНИЕ :  заходи алё
+14:18 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): a
+14:18 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): фармить будете 5ozer ? hahahahahahah
+14:20 [Info] [IQChat] [FITS] pump1kk(76561199154573241): .куьщму
+14:22 [Info] [IQChat] [FITS] pump1kk(76561199154573241): .гз 4
+14:23 [Warning] 'XDStatistics v2.0.9' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+14:33 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): я пойду попью чай пока
+14:34 [Info] [IQChat] [FITS] ekkez(76561198841778620): Ок кабанидзе
+14:34 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): молчи борода
+14:37 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): жди я не готов
+14:42 [Info] [IQChat] [FITS] pump1kk(76561199154573241): ctop
+14:45 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [ebal] .фьюжен x katana666#1706(76561198806036537) -> [NTD] ムRelax : СООБЩЕНИЕ :  1
+14:46 [Warning] [IQChat] ЛИЧНЫЕ СООБЩЕНИЯ : [ebal] .фьюжен x katana666#1706(76561198806036537) -> [NTD] ムRelax : СООБЩЕНИЕ :  бахаайте фитсов они у нас
+14:47 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): когда закончим?
+14:47 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): щас можно
+14:47 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): когда твоя мать sdoxnet
+14:47 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Дирол, ну чекни ты репорты
+14:47 [Info] [IQChat] [FITS] Aux(76561199224702078): шкаф по правилам?
+14:47 [Info] [IQChat] [5ozer] afrikca(76561198332312560): ВЕЧЕРОМ
+14:48 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): меня уже проверили хуесос
+14:48 [Info] [IQChat] [NTD] ムRelax(76561199068775477): И когда же?
+14:48 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): у него папка мокрасы
+14:48 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): блин
+14:48 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): на ак
+14:49 [Info] [IQChat] [FITS] ekkez(76561198841778620): моракасы?
+14:49 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): да
+14:49 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): макасины?
+14:49 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Макросы на ак, всего лишь папка xD
+14:49 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): да иди нахуй
+14:50 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Чел 10 лет зажимает в точку
+14:50 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): сын мертвой узбечки завали еблет фулл нн
+14:50 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Ты что-ли бигнейм? Сынебанойсвиньи
+14:50 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): почти
+14:50 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Пхахааах, расскажешь
+14:50 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ты кто нахуй?
+14:50 [Info] [IQChat] [NTD] ムRelax(76561199068775477): В школе, в 5 а классе расскажешь своим одноклассникам
+14:51 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): иди убейся 2к очей
+14:51 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Иди в свой 5 а
+14:51 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): мне  15
+14:51 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Ты свой голос слышал?
+14:51 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): и что?
+14:51 [Info] [IQChat] [NTD] ムRelax(76561199068775477): 10 лет тебе
+14:51 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): мне 15
+14:52 [Info] [IQChat] [NTD] ムRelax(76561199068775477): У тебя голос меньше, чем даже 10 лет
+14:52 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ты блять дифектный
+14:52 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Мне 15 говорит :33333
+14:52 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .лше
+14:52 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ну да мне 15
+14:52 [Info] [IQChat] [NTD] ムRelax(76561199068775477): По твоему разуму и голосу видно
+14:52 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): разуму?
+14:52 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): что не так долбаеб?
+14:52 [Info] [IQChat] [NTD] ムRelax(76561199068775477): У тебя 0 iq, не пиши
+14:53 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): обоснуешь?
+14:53 [Info] [IQChat] [NTD] ムRelax(76561199068775477): В дс пойдешь - обосную
+14:57 [Info] [IQChat] [ebal] .фьюжен x katana666#1706(76561198806036537): .лдше
+15:01 [Info] <color=#FFB841>afrikca (76561198332312560)</color> был кикнут. Причина: <color=#FFB841>'FlyHack Violation Level 357.4046'</color>
+15:03 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): админ
+15:04 [Info] [IQChat] [NTD] ムRelax(76561199068775477): SQAD
+15:04 [Info] [IQChat] [NTD] ムRelax(76561199068775477): SQ
+15:04 [Info] [IQChat] [NTD] ムRelax(76561199068775477): SQriti...
+15:05 [Info] [Timed Permissions] Бонжорно (76561198446872634) - Added to group: путин for 2.23:59:59.9989998
+15:06 [Info] [IQChat] [NTD] ムRelax(76561199068775477): security
+15:06 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): gg
+15:06 [Info] [IQChat] [FITS] ekkez(76561198841778620): gg
+15:06 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): gg
+15:06 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): gg
+15:06 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): ezz 3 mesto
+15:06 [Info] [IQChat] [ebal] Rektor(76561198816004814): GG
+15:07 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): заканчиваем?
+15:07 [Info] [IQChat] [NTD] ムRelax(76561199068775477): А нас бахнуть
+15:07 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): давай ты ebal выебешь и на этом закончим :3
+15:07 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): idi naxuy
+15:08 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Ты слился с дс, куда ты пишешь?
+15:08 [Info] [IQChat] [NTD] ムRelax(76561199068775477): security
+15:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 11 | Или ивент уже запущен![True]
+15:08 [Info] [IQChat] [FITS] ekkez(76561198841778620): у маня альты есть
+15:08 [Info] [IQChat] [FITS] pump1kk(76561199154573241): заканчиваем
+15:09 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): -
+15:09 [Info] [IQChat] [FITS] pump1kk(76561199154573241): нету смысла
+15:09 [Info] [IQChat] [NTD] ムRelax(76561199068775477): +
+15:09 [Info] [IQChat] [FITS] pump1kk(76561199154573241): админ, ремни хату
+15:09 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): dayni na kripax
+15:10 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): -
+15:10 [Info] [IQChat] [FITS] pump1kk(76561199154573241): почему ?(
+15:10 [Info] [IQChat] [FITS] ekkez(76561198841778620): Кабаны, харошь мозг ебать
+15:11 [Info] [IQChat] [NTD] ムRelax(76561199068775477): SECURITY
+15:11 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+15:11 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+15:11 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ntd закончим?
+15:11 [Info] [IQChat] [NTD] ムRelax(76561199068775477): SRT
+15:11 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Да
+15:11 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): давайте
+15:11 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): позер закончим?
+15:11 [Info] [IQChat] [ebal] Rektor(76561198816004814): АХАХАХАХА
+15:12 [Info] [IQChat] сладкий кабачоче(76561199097762704): смишно сынку
+15:12 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ладно poxuy заканачиваем
+15:12 [Info] [IQChat] [FITS] pump1kk(76561199154573241): ура
+15:12 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): +
+15:12 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): gg
+15:12 [Info] [IQChat] [5ozer] afrikca(76561198332312560): ЗАКАНЧИВАЕМ
+15:12 [Info] [IQChat] [FITS] Aux(76561199224702078): gg
+15:12 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Не матерись, маленький ещё
+15:12 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Турик будет закончен в 6
+15:12 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): gg найс турик
+15:12 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Турик будет закончен в 18 00
+15:12 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): ты dolbaeb?
+15:12 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Додя?
+15:12 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): нахуя,давай щас
+15:12 [Info] [IQChat] [FITS] Aux(76561199224702078): уже закаончили
+15:12 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): щас давай
+15:12 [Info] [IQChat] [FITS] ekkez(76561198841778620): ало Дирол
+15:12 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): Тогда пиримирие до 6?
+15:12 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): все кланы решили
+15:12 [Info] [IQChat] [FITS] Бонжорно(76561198446872634): ты рил клоун?
+15:13 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Щас заканчиваем
+15:13 [Info] [IQChat] [FITS] ekkez(76561198841778620): Все хотят закончить
+15:13 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): Все кланы в дс
+15:13 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): Все согласны что бы щас закончить
+15:13 [Info] [IQChat] [NTD] ムRelax(76561199068775477): У меня тип там забанен
+15:13 [Info] [IQChat] [FITS] Царь Леонид(76561198838036510): ntd зайдите
+15:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): в дс нтд
+15:14 [Info] [IQChat] [NTD] Suicide#Rustporn(76561199186351286): В какой дс?
+15:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): НТД В ДС РАШИ
+15:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): НТД В ДС РАШИ
+15:14 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): НТД В ДС РАШИ
+15:15 [Info] [IQChat] [FITS] ekkez(76561198841778620): перекинь меня, миснул
+15:16 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Балик забирайте xS
+15:17 [Info] [IQChat] [NTD] ムRelax(76561199068775477): 1к на балик
+15:20 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Какой же дирол мелкий додик
+15:20 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): скок ему по голосу
+15:20 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Лет 14
+15:20 [Info] [IQChat] [NTD] |ytbx|Addorax金#Rustrun(76561198413438221): аокц
+15:20 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Этому dolbaebu лет 10 вна2ре
+15:21 [Info] [IQChat] [NTD] ムRelax(76561199068775477): Этот xuesos долго делает
+15:22 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+15:22 [Info] [IQChat] Suicide#Rustporn(76561199186351286): эээ
+15:22 [Info] [IQChat] ムRelax(76561199068775477): У меня из-за серва не перезарядилось
+15:23 [Info] [IQChat] |ytbx|Addorax金#Rustrun(76561198413438221): а где кланы
+15:23 [Info] [Clans] Loaded data with '44' valid Clans and overall '116' Members.
+15:23 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+15:25 [Info] [IQChat] [ebal] Rektor(76561198816004814): .СЕЩЗ
+15:33 [Info] [IQChat] [5ozer] 100 часов плеер(76561199112399846): axuel?
+15:35 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): как там с домом?
+15:35 [Info] [IQChat] сладкий кабачоче(76561199097762704): дерол педик
+16:08 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 3 | Или ивент уже запущен![True]
+20:12 [Info] Loading Oxide Core v2.0.4048...
+20:12 [Info] Loading extensions...
+20:12 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+20:12 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+20:12 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+20:12 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:12 [Info] Unity version: 2019.4.7f1
+20:12 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:12 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:12 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:12 [Info] Using Covalence provider for game 'Rust'
+20:12 [Info] Loading plugins...
+20:12 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+20:12 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:12 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:12 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:12 [Info] AdminESP, AdminHammer, AdminMenu, AutoDoors, AutomaticAuthorization, Backpacks, BedsCooldowns, BetterLoot, BlueprintManager, Clans, CopyPaste, CupWars, DeathMessages, ExplosionDamageReducer, ExtraSeating, GameStoresRUST, ImageLibrary, InstantCraft, IQChat, IQGradeRemove, IQHotPoints, IQMarker, IQTurret, IQWipeBlock, Kits, kryAlwaysday, kryChinookBalance, LimitObject, MarkerManager, Metabolism, NoBulletFire, NoEscape, NoGiveNotices, NoHeliFire, NoWorkbench, NTeleportation, Obmen, Recycler, RustMap, RustPanel, SecureAdmin, SightsSystem, Stacks, StaticTrader, TeamMarker, TimedPermissions, Tournament, TPOnMap, UberTool, Vanish, Whitelist, XDStatistics, XerCopterCraft, XMenu, XOreEvent, XRaidProtection and XRate were compiled successfully in 0ms
+20:12 [Error] Error while compiling: Crafts.cs(1539,26): error CS1061: Type `Oxide.Plugins.Recycler' does not contain a definition for `Kill' and no extension method `Kill' of type `Oxide.Plugins.Recycler' could be found. Are you missing an assembly reference?
+20:12 [Info] Loaded plugin AdminESP v0.0.12 by OxideBro / Fixed by Drop Dead
+20:12 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+20:12 [Info] Loaded plugin AdminMenu v0.1.50 by k1lly0u
+20:12 [Info] Loaded plugin Auto Doors v3.2.9 by Wulf/lukespragg/Arainrr
+20:12 [Info] Loaded plugin Automatic Authorization v1.3.0 by k1lly0u/Arainrr
+20:12 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+20:12 [Info] Loaded plugin Beds Cooldowns v1.1.4 by Orange
+20:12 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:12 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:12 [Info] Loaded plugin Blueprint Manager v1.1.6 by Orange
+20:12 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+20:12 [Info] Loaded plugin Copy Paste v4.1.32 by misticos
+20:12 [Info] Loaded plugin CupWars v1.0.7 by Qbis
+20:12 [Info] Loaded plugin DeathMessages v2.3.1 by Sempai#3239
+20:12 [Info] Loaded plugin Explosion Damage Reducer v1.0.0 by paulsimik
+20:12 [Info] Loaded plugin Extra Seating v1.0.8 by Pho3niX90
+20:12 [Info] Loaded plugin GameStoresRUST v0.3.9 by HOUGAN & Sstine & rostov114 # GAMESTORES
+20:12 [Info] Loaded plugin Image Library v2.0.60 by Absolut & K1lly0u
+20:12 [Info] Loaded plugin Instant Craft v2.2.1 by Vlad-0003 / Orange / rostov114
+20:12 [Warning] [IQChat] Языковой файл загружается...
+20:12 [Warning] [IQChat] Языковой файл загружен успешно
+20:12 [Info] Loaded plugin IQChat v2.2.35 by Menevt
+20:12 [Warning] [IQGradeRemove] Языковой файл загружен успешно
+20:12 [Info] Loaded plugin IQGradeRemove v0.1.4 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+20:12 [Info] Loaded plugin IQHotPoints v1.0.7 by Mercury
+20:12 [Warning] [IQMarker] Языковой файл загружен успешно
+20:12 [Info] Loaded plugin IQMarker v1.1.5 by TopPlugin.ru
+20:12 [Warning] [IQTurret] Logs : #32471912 | Языковой файл загружен успешно
+20:12 [Info] Loaded plugin IQTurret v1.0.5 by Sempai#3239
+20:12 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+20:12 [Info] Loaded plugin IQWipeBlock v0.1.0 by Mercury
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.60' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00781] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:12 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:12 [Info] Loaded plugin kryAlwaysday v1.0.0 by xkrystalll
+20:12 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+20:12 [Info] Loaded plugin LimitObject v0.0.1 by Sparkless
+20:12 [Info] Loaded plugin Marker Manager v2.1.1 by Orange
+20:12 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+20:12 [Info] Loaded plugin NoBulletFire v1.0.0 by djm.
+20:12 [Info] Loaded plugin NoEscape v2.4.1 by Sempai#3239
+20:12 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:12 [Info] Loaded plugin No Heli Fire v1.0.5 by Tryhard
+20:12 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+20:12 [Info] Loaded plugin NTeleportation v1.6.8 by nivex
+20:12 [Info] Loaded plugin Obmen v1.1.1 by Woks & Drop Dead
+20:12 [Info] Loaded plugin Recycler v1.0.0 by Fartus
+20:12 [Info] Loaded plugin RustMap v2.1.51 by OxideBro - RustPlugin.ru
+20:12 [Info] Loaded plugin Rust Panel v2.1.2 by Hougan
+20:12 [Info] Loaded plugin Secure Admin v1.1.8 by https://topplugin.ru/
+20:12 [Info] Loaded plugin SightsSystem v1.1.0 by Chibubrik
+20:12 [Info] Loaded plugin Stacks v1.4.0 by TopPlugin.ru
+20:12 [Info] Loaded plugin StaticTrader v1.2.6 by Raul-Sorin Sorban
+20:12 [Info] Loaded plugin Team Marker v0.0.2 by DarkPlugins.ru
+20:12 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+20:12 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+20:12 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+20:12 [Info] Loaded plugin UberTool v1.4.18 by FuJiCuRa
+20:12 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+20:12 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+20:12 [Info] Loaded plugin XDStatistics v2.0.9 by TopPlugin.ru
+20:12 [Info] Loaded plugin XerCopterCraft v1.0.3 by SkuliDropek
+20:12 [Info] Loaded plugin XMenu v1.0.803 by Monster
+20:12 [Info] Loaded plugin XOreEvent v1.0.0 by Sempai#3239
+20:12 [Info] Loaded plugin XRaidProtection v1.0.9 by TopPlugin.ru
+20:12 [Info] Loaded plugin XRate v1.0.3 by Menevt
+20:17 [Info] IP address from command-line: 185.66.84.216
+20:17 [Info] [BetterLoot] Using '52' active of '56' supported containertypes
+20:17 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:17 [Info] [BetterLoot] Updating internals ...
+20:17 [Info] [Clans] Loaded data with '44' valid Clans and overall '116' Members.
+20:17 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+20:17 [Warning] [IQChat] Permissions - completed
+20:17 [Warning] [IQMarker] Загружаем изображения..
+20:17 [Warning] [IQMarker] Регистрируем права..
+20:17 [Warning] [IQMarker] Проверяем права игроков..
+20:17 [Warning] [IQMarker] Плагин загружен успешно!
+20:17 [Warning] Calling 'OnServerInitialized' on 'IQTurret v1.0.5' took 243ms
+20:17 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+20:17 [Error] Failed to add image for путин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/69qDSVU.png
+20:17 [Error] Failed to add image for путинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/rC4p7Bn.png
+20:17 [Error] Failed to add image for медведев. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/nuqYJH8.png
+20:17 [Error] Failed to add image for путинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/QiaSxsE.png
+20:17 [Error] Failed to add image for ленин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:17 [Error] Failed to add image for медведевмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/JAeV5MQ.png
+20:17 [Error] Failed to add image for медведевфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/SXbK4vR.png
+20:17 [Error] Failed to add image for ельцинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7aYJWJD.png
+20:17 [Error] Failed to add image for ельцин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/1qlJ7mn.png
+20:17 [Error] Failed to add image for медведевган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Fe7jS4K.png
+20:17 [Error] Failed to add image for ельцинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/xdKfrt8.png
+20:17 [Error] Failed to add image for коптер. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+20:17 [Error] Failed to add image for дом. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/yRvgxFQ.png
+20:17 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:17 [Error] Failed to add image for боевой. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/v3bvaDd.png
+20:17 [Error] Failed to add image for медик. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7reIw27.png
+20:17 [Error] Failed to add image for буры. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/TwAwgZG.png
+20:17 [Error] Failed to add image for top. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:17 [Error] Failed to add image for дайвинг. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+20:17 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.6.8' took 269ms
+20:17 [Warning] [RustMap] Начало загрузки все изображений RustMap. Ожидайте завершения
+20:17 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.60' took 210ms
+20:17 [Warning] Calling 'OnServerInitialized' on 'Stacks v1.4.0' took 236ms
+20:17 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2647204)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:17 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4004407)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:17 [Warning] [UberTool] ImageLibrary has finished processing UberTool's required images. UberTool is now active
+20:17 [Error] [XerCopterCraft] AddImages SkyPlugins.ru...
+20:17 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.544
+-----------------------------
+20:17 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Sempai#3239
+     Discord - Sempai#3239
+     Config - v.2676
+-----------------------------
+20:17 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+20:17 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 243ms
+20:17 [Info] [BetterLoot] Removed 17 stacked LootContainer
+20:17 [Info] [BetterLoot] Populated '702' supported containers.
+20:17 [Warning] [Rust Panel] Core: языковые файлы загружены / lang files loaded
+20:17 [Warning] [Rust Panel] Core: команды зарегистрированы / commands registered
+20:17 [Info] [Rust Panel] Для лучшей производительности, происходит плавная проверка игроков на наличие блокировок
+20:17 [Info] [Rust Panel] Плавная проверка завершена: 0/0 игроков проверено
+20:17 [Warning] [Rust Panel] UpdateService: успешно загружен / successfull load
+20:17 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 0%
+20:17 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+20:17 [Error] [XerCopterCraft] AddImages SkyPlugins.ru - completed..
+20:17 [Warning] [GameStoresRUST] -----------------------------
+20:17 [Warning] [GameStoresRUST]  GameStores 0.3.9 (c) 2022
+20:17 [Warning] [GameStoresRUST]       Initialized - OK
+20:17 [Warning] [GameStoresRUST] -----------------------------
+20:17 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 20%
+20:18 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 40%
+20:18 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 60%
+20:18 [Info] [RustMap] Идёт загрузка всех изображений, загружено: 80%
+20:18 [Info] [RustMap] Идёт загрузка кастомных изображений, загружено: 0%
+20:18 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/modding/volumes_and_triggers/monument_marker.prefab Position: (1246.4, 10.0, 1361.3)
+20:18 [Info] [RustMap] MAP IGNORE: assets/bundled/prefabs/modding/volumes_and_triggers/monument_marker.prefab Position: (-133.4, 7.1, 1275.4)
+20:18 [Warning] [RustMap] Все изображения карты (157), успешно загружены
+20:18 [Warning] [IQChat] Интерфейс успешно загружен!
+20:18 [Info] [Image Library] Starting order Stacks
+20:18 [Info] [Image Library] Starting order Stacks
+20:20 [Info] Whitelist was compiled successfully in 1889ms
+20:20 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+20:20 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+20:31 [Info] Unloaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:32 [Info] Kits was compiled successfully in 1900ms
+20:32 [Error] Failed to add image for путинфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Jf49ZJW.png
+20:32 [Error] Failed to add image for путин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/69qDSVU.png
+20:32 [Error] Failed to add image for путинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/rC4p7Bn.png
+20:32 [Error] Failed to add image for медведев. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/nuqYJH8.png
+20:32 [Error] Failed to add image for путинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/QiaSxsE.png
+20:32 [Error] Failed to add image for ленин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:32 [Error] Failed to add image for медведевмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/JAeV5MQ.png
+20:32 [Error] Failed to add image for медведевфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/SXbK4vR.png
+20:32 [Error] Failed to add image for ельцинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7aYJWJD.png
+20:32 [Error] Failed to add image for ельцин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/1qlJ7mn.png
+20:32 [Error] Failed to add image for медведевган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Fe7jS4K.png
+20:32 [Error] Failed to add image for ельцинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/xdKfrt8.png
+20:32 [Error] Failed to add image for коптер. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+20:32 [Error] Failed to add image for дом. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/yRvgxFQ.png
+20:32 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:32 [Error] Failed to add image for боевой. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/v3bvaDd.png
+20:32 [Error] Failed to add image for медик. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7reIw27.png
+20:32 [Error] Failed to add image for буры. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/TwAwgZG.png
+20:32 [Error] Failed to add image for top. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:32 [Error] Failed to add image for дайвинг. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+20:32 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:35 [Warning] Duplicate permission registered 'kits.default' (by plugin 'Kits')
+20:36 [Warning] Duplicate permission registered 'kits.default' (by plugin 'Kits')
+20:37 [Warning] Duplicate permission registered 'kits.default' (by plugin 'Kits')
+20:38 [Warning] Duplicate permission registered 'kits.default' (by plugin 'Kits')
+20:43 [Info] Unloaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:43 [Error] Failed to add image for путинфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Jf49ZJW.png
+20:43 [Error] Failed to add image for путин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/69qDSVU.png
+20:43 [Error] Failed to add image for путинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/rC4p7Bn.png
+20:43 [Error] Failed to add image for медведев. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/nuqYJH8.png
+20:43 [Error] Failed to add image for путинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/QiaSxsE.png
+20:43 [Error] Failed to add image for ленин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:43 [Error] Failed to add image for медведевмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/JAeV5MQ.png
+20:43 [Error] Failed to add image for медведевфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/SXbK4vR.png
+20:43 [Error] Failed to add image for ельцинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7aYJWJD.png
+20:43 [Error] Failed to add image for ельцин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/1qlJ7mn.png
+20:43 [Error] Failed to add image for медведевган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Fe7jS4K.png
+20:43 [Error] Failed to add image for ельцинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/xdKfrt8.png
+20:43 [Error] Failed to add image for коптер. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+20:43 [Error] Failed to add image for дом. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/yRvgxFQ.png
+20:43 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:43 [Error] Failed to add image for боевой. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/v3bvaDd.png
+20:43 [Error] Failed to add image for медик. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7reIw27.png
+20:43 [Error] Failed to add image for буры. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/TwAwgZG.png
+20:43 [Error] Failed to add image for top. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:43 [Error] Failed to add image for дайвинг. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+20:43 [Error] Failed to add image for спонсор. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:43 [Error] Failed to add image for спонсорган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:43 [Error] Failed to add image for спонсормед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:43 [Error] Failed to add image for спонсорфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:43 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:47 [Info] Unloaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:47 [Error] Failed to add image for путинфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Jf49ZJW.png
+20:47 [Error] Failed to add image for путин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/69qDSVU.png
+20:47 [Error] Failed to add image for путинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/rC4p7Bn.png
+20:47 [Error] Failed to add image for медведев. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/nuqYJH8.png
+20:47 [Error] Failed to add image for путинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/QiaSxsE.png
+20:47 [Error] Failed to add image for ленин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:47 [Error] Failed to add image for медведевмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/JAeV5MQ.png
+20:47 [Error] Failed to add image for медведевфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/SXbK4vR.png
+20:47 [Error] Failed to add image for ельцинмед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7aYJWJD.png
+20:47 [Error] Failed to add image for ельцин. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/1qlJ7mn.png
+20:47 [Error] Failed to add image for медведевган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/Fe7jS4K.png
+20:47 [Error] Failed to add image for ельцинган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/xdKfrt8.png
+20:47 [Error] Failed to add image for коптер. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/MvtcIGZ.png
+20:47 [Error] Failed to add image for дом. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/yRvgxFQ.png
+20:47 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:47 [Error] Failed to add image for боевой. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/v3bvaDd.png
+20:47 [Error] Failed to add image for медик. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/7reIw27.png
+20:47 [Error] Failed to add image for буры. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/TwAwgZG.png
+20:47 [Error] Failed to add image for top. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+20:47 [Error] Failed to add image for дайвинг. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\file://C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\home.png
+20:47 [Error] Failed to add image for спонсор. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:47 [Error] Failed to add image for спонсорган. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:47 [Error] Failed to add image for спонсормед. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:47 [Error] Failed to add image for спонсорфарм. File address possibly invalide
+ C:\Servers\gsp_3449\185.66.84.216-35200\server\survivalhost.org\oxide\data\Kits\https://i.imgur.com/bdsvXzq.png
+20:47 [Info] Loaded plugin Kits v2.0.0 by TopPlugin.ru/Sempai#3239
+20:47 [Error] Could not load plugin 'IQchat' (no plugin found with that file name)
+20:48 [Info] IQChat was compiled successfully in 2242ms
+20:48 [Info] Unloaded plugin IQChat v2.2.35 by Menevt
+20:48 [Warning] [IQChat] Языковой файл загружается...
+20:48 [Warning] [IQChat] Языковой файл загружен успешно
+20:48 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+20:48 [Warning] [IQChat] Permissions - completed
+20:48 [Info] Loaded plugin IQChat v2.2.35 by Menevt
+20:48 [Warning] [IQChat] Интерфейс успешно загружен!
+20:48 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): 1
+21:01 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadWeapon', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnWeaponReload(BaseProjectile weapon, BasePlayer player)'
+21:01 [Warning] 'IQWipeBlock v0.1.0' is using deprecated hook 'OnReloadMagazine', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnMagazineReload(BaseProjectile weapon, int desiredAmount, BasePlayer player)'
+21:30 [Info] Unloaded plugin Tournament v1.0.0 by Xavier
+21:30 [Info] Unloaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+21:30 [Error] Plugin filename Tournament_6.cs must match the main class Tournament (should be Tournament.cs)
+21:30 [Error] Plugin filename Clans_44_1.cs must match the main class Clans (should be Clans.cs)
+21:30 [Error] Error while compiling: Clans.cs(1593,13): error CS1501: No overload for method `ClanTopg' takes `1' arguments
+21:30 [Info] Tournament was compiled successfully in 269ms
+21:30 [Warning] [Tournament] Создание начальной конфигурации плагина!!!
+21:30 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv2647204)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+21:30 [Error] Failed to call hook 'ApiAddPointUrl' on plugin 'RustMap v2.1.51' (ArgumentException: An item with the same key has already been added. Key: priv4004407)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.RustMap.ApiAddPointUrl (System.String url, System.String iconName, UnityEngine.Vector3 pos, System.String title, System.Single size) [0x00048] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.RustMap.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x01125] in <ea744d7f7eaa4e4783f2fec63bcc092f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+21:30 [Info] Loaded plugin Tournament v1.0.0 by Xavier
+21:31 [Error] Error while compiling: Clans.cs(1593,13): error CS1501: No overload for method `ClanTopg' takes `1' arguments
+21:31 [Error] Plugin filename Clans_44_1 (1).cs must match the main class Clans (should be Clans.cs)
+21:31 [Info] Clans was compiled successfully in 497ms
+21:31 [Info] [Clans] Loaded data with '44' valid Clans and overall '116' Members.
+21:31 [Info] Loaded plugin Clans v1.0.61 by OxideBro - RustPlugin.ru
+21:39 [Info] kryChinookBalance12 was compiled successfully in 2361ms
+21:39 [Warning] kryChinookBalance12 has polluted the global namespace by defining kryChinookBalance
+21:39 [Error] Unable to find main plugin class: kryChinookBalance12
+21:39 [Info] No previous version to rollback plugin: kryChinookBalance_12
+21:39 [Info] Unloaded plugin kryChinookBalance v1.0.2 by xkrystalll
+21:40 [Info] kryChinookBalance was compiled successfully in 222ms
+21:40 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+21:40 [Info] kryChinookBalance12 (1) was compiled successfully in 233ms
+21:40 [Warning] kryChinookBalance12 (1) has polluted the global namespace by defining kryChinookBalance
+21:40 [Error] Unable to find main plugin class: kryChinookBalance12 (1)
+21:40 [Info] No previous version to rollback plugin: kryChinookBalance_12 (1)
+21:41 [Info] Unloaded plugin kryChinookBalance v1.0.2 by xkrystalll
+21:41 [Info] kryChinookBalance was compiled successfully in 209ms
+21:41 [Info] Loaded plugin kryChinookBalance v1.0.2 by xkrystalll
+21:57 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): 1
+22:01 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): 1
+22:01 [Info] [IQChat] [14145] .DeityxDirol(76561199221588990): 1
+22:17 [Warning] [XOreEvent] Недостаточный онлайн на сервере! Нужно: 1 | Сейчас: 1 | Или ивент уже запущен![True]

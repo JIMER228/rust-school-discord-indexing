@@ -1,0 +1,10 @@
+{
+  "Block commands sent by players": true,
+  "Block commands sent by server": false,
+  "List of commands to block": [
+    "spectate",
+	"physics.steps",
+    "status"
+  ],
+  "Log blocked command attempts": false
+}

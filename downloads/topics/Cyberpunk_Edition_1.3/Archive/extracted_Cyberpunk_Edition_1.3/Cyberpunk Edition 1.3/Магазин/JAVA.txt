@@ -1,0 +1,23 @@
+var jQueryScript = document.createElement('script');  
+jQueryScript.setAttribute('src','https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js');
+document.head.appendChild(jQueryScript);
+
+
+window.onload = startInterval;
+function startInterval() {
+    setInterval("startTime();",10);
+}
+
+function startTime() {
+    var now = new Date();
+    document.getElementsByClassName('progress').innerHTML = now.getHours() + ":" + now.getMinutes() + ":" +now.getSeconds();
+}
+
+
+link=document.createElement('link');
+link.href='https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600&display=swap';
+link.rel='stylesheet';
+document.getElementsByTagName('head')[0].appendChild(link);
+
+
+document.oncontextmenu = cmenu; function cmenu() { return false; }

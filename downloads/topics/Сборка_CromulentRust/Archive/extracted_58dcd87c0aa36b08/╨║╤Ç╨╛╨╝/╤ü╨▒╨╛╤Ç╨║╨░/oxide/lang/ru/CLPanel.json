@@ -1,0 +1,18 @@
+{
+  "Text_CallCheck": "Вас вызвали на проверку!\nУ вас есть 5 минут, чтобы предоставить Ваш дискорд!\nИспользуйте команду: <color=#d1b160>/{0} <Ваш дискорд></color>",
+  "Message_For_Player": "<color=#525454>[Сообщение от </color><color=#76c6cc><b>{0}</b></color><color=#525454>]</color> {1}",
+  "OnPlayerBan_Broadcast_NeverUnBan": "Забанен <color=#c78b48>{0}</color> <color=#c78b48>навсегда</color>, по причине: <color=#c78b48>{1}</color>",
+  "OnPlayerBan_Broadcast": "Забанен <color=#c78b48>{0}</color> до <color=#c78b48>{1:F}</color>, по причине: <color=#c78b48>{2}</color>",
+  "OnPlayerBan_Kick_NeverUnBan": "Вы забанены <color=#c78b48>навсегда</color>, по причине: <color=#c78b48>{0}</color>",
+  "OnPlayerBan_Kick": "Вы забанены до <color=#c78b48>{0:F}</color>, по причине: <color=#c78b48>{1}</color>",
+  "Kick_Has_License": "У вас есть лицензия, подключайтесь с неё!",
+  "Kick_VPN": "Подключайтесь без использования VPN!",
+  "NoticeModers_CountRep_Player_Discord": "АЛО МОДОРИ!!1! у игрока уже более {0} жалоб!",
+  "NoticeModers_CountRep_Player_Discord_Ping": "",
+  "NoticeModers_CountRep_Player": "У игрока <color=#c78b48>{0}</color> уже более {1} жалоб!",
+  "OnPlayerBan_OtherServer_Kick_NeverUnBan": "Вы забанены на другом сервере <color=#c78b48>навсегда</color>, по причине: <color=#c78b48>{0}</color>",
+  "OnPlayerBan_OtherServer_Kick": "Вы забанены на другом сервере до <color=#c78b48>{0:F}</color>, по причине: <color=#c78b48>{1}</color>",
+  "CallCheck_Discord_NotOnCheck": "Вы не на проверке!",
+  "CallCheck_Discord_NotDiscord": "Вы не указали ваш дискорд!",
+  "CallCheck_Discord_DiscordSpecified": "Вы указали дискорд: {0}"
+}

@@ -1,0 +1,516 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="body">
+<div class="full-width">
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="pull-left">
+{{ __("Checkout") }}
+</div>
+<div class="text-right">
+{{ basket.price|money }} <small>{{ basket.currency }}</small>
+</div>
+</div>
+<div class="panel-body">
+<div class="checkout">
+
+                        <div class="packages">
+                          <form method="post" action="/checkout/update">
+                            <table class="table table-hover table-striped">
+                              <thead>
+                                <th></th>
+                                <th>{{ __("Name") }}</th>
+                                <th>{{ __("Package Options") }}</th>
+                                <th>{{ __("Price") }}</th>
+                                <th class="hidden-xs">{{ __("Qty") }}</th>
+                                <th>&nbsp;</th>
+                              </thead>
+                              <tbody>
+                                    {% for package in basket.packages %}
+                                      <tr>
+                                        <td class="attribute">{% if package.ign != "" %}<i class="fa fa-gift"></i>{% endif %}</td>
+                                        <td class="name">
+                                            {{ package.name }}
+                                        </td>
+                                        <td class="options hidden-xs">
+                                            {% for option in package.options %}
+                                                <div class="package-options">
+                                                    <div class="pull-left"><strong>{{ option.name }}</strong></div>
+                                                    <div class="pull-right">{{ option.value|raw }}</div>
+                                                </div>
+                                            {% endfor %}
+                                        </td>
+                                        <td class="price">{{ package.price|money }} <small>{{ basket.currency }}</small></td>
+                                        <td class="quantity"><input type="text" name="quantity[{{ package.id }}]" value="{{ package.quantity }}" {% if package.price == 0.00 or package.disableQuantity %}disabled="disabled"{% endif %}/></td>
+                                        <td class="buttons">
+                                          <button class="btn btn-default btn-sm hidden-xs"><i class="fa fa-refresh"></i></button>
+                                          <a href="javascript::void(0);" data-remote="/package/{{ package.id }}" class="btn btn-info hidden-xs btn-sm toggle-modal"><i class="fa fa-info-circle"></i></a>
+                                          <a href="/checkout/packages/remove/{{ package.id }}" class="btn btn-danger btn-sm"><i class="fa fa-times"></i></a>
+                                        </td>
+                                      </tr>
+                                   {% endfor %}
+                              </tbody>
+                            </table>
+                          </form>
+                        </div>
+    
+                        <div class="page-header">
+                          <h4>{{ __("Redeem coupons / gift cards") }}</h4>
+                        </div>
+    
+                        <div class="coupons">
+    
+                          <div class="redeem">
+    
+                            <form method="post" action="/checkout/coupons/add">
+                              <div class="input-group">
+                                <input type="text" name="coupon" placeholder="{{ __("Have a coupon code? Enter it here and click redeem.") }}" class="form-control">
+                                <div class="input-group-btn"><button class="btn btn-primary">{{ __("Redeem") }} <i class="fa fa-arrow-right"></i></button></div>
+                              </div>
+                            </form>
+    
+                          </div>
+    
+                          <div class="redeemed">
+        
+                            {% if basket.coupons|length > 0 %}
+                                <table class="table table-hover table-striped">
+                                  <tbody>
+                                    {% for coupon in basket.coupons %}
+                                      <tr>
+                                        <td>{{ coupon.code }}</td>
+                                        <td>{{ coupon.description }}</td>
+                                        <td>
+                                          <a href="/checkout/coupons/remove/{{ coupon.code }}" class="btn btn-danger btn-xs"><i class="fa fa-times"></i></a>
+                                        </td>
+                                      </tr>
+                                    {% endfor %}
+                                  </tbody>
+                                </table>
+                            {% endif %}
+    
+                          </div>
+    
+                        </div>
+                        {% if store.useCheckout %}
+                            <div class="page-header">
+                               <h4>{{ __("Purchase") }}</h4>
+                            </div>
+                            <div class="row">
+                               <div class="col-sm-8">
+                                  You will be directed to our payment gateway to complete your purchase.
+                               </div>
+                               <div class="col-sm-4">
+                                  <div class="hide">{{ privacyForm|raw }}</div>
+                                  <form method="post" action="{% if basket.price > 0 %}/checkout/pay{% else %}/checkout/free{% endif %}" {% if basket.price >
+                                     0 %}class="gateway"{% endif %}>
+                                    <div class="form-group">
+                                    	<button type="submit" class="btn btn-success btn-block" id="purchase-button" data-loading-text="{{ __("Loading, please wait...") }}">{{ __("Proceed to checkout") }} &raquo;</button>
+                                    </div>
+                                  </form>
+                               </div>
+                            </div>
+                        {% else %}
+                                
+                            {% if checkout.gameCurrency.verified is defined and checkout.gameCurrency.verified == false %}
+                                <div class="page-header">
+                                    <h4>{{ __("Virtual Currency") }}</h4>
+                                </div>
+                                <p>You could use your virtual currency to make purchases on our webstore, but first you need to create a Tebex account and login using a verified profile.</p>
+                            {% elseif checkout.gameCurrency.verified == true and checkout.gameCurrency.basketValue %}
+                                <div class="page-header">
+                                    <h4>{{ __("Virtual Currency") }}</h4>
+                                </div>
+                                <form method="post" action="/checkout/gamecurrency">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-9" id="game-currency-text">
+                                            {% if basket.gameCurrency != null %}
+                                                <p>You are using virtual currency for this purchase, we will remove {{ checkout.gameCurrency.symbol }}{{ checkout.gameCurrency.spentBalance }} from your virtual balance.</p>
+                                            {% else %}
+                                                <p>Your virtual balance is {{ checkout.gameCurrency.symbol }}{{ checkout.gameCurrency.balance }}, this equates to {{ checkout.gameCurrency.basketValue }} {{ basket.currency }}.</p>
+                                            {% endif %}
+                            
+                                            {% if checkout.gameCurrency.minimumSpend.value > basket.gameCurrency %}
+                                                <p>You are required to spend at least {{ checkout.gameCurrency.symbol }}{{ checkout.gameCurrency.minimumSpend.balance }} ({{ checkout.gameCurrency.minimumSpend.basketValue }} {{ basket.currency }}) in virtual currency to complete this purchase.</p>
+                                            {% endif %}
+                                        </div>
+                                        <div class="col-sm-12 col-md-3">
+                                            <button class="btn btn-primary pull-right">{{ basket.gameCurrency != null ? __("Remove virtual currency") : __("Use virtual currency") }} <i class="fa fa-arrow-right"></i></button>
+                                        </div>
+                                    </div>
+                                </form>
+                            {% endif %}
+                            
+    		<form method="post" action="{% if basket.price > 0 %}/checkout/pay{% else %}/checkout/free{% endif %}" {% if basket.price > 0 %}class="gateway"{% endif %}>
+        
+        <input type="hidden" name="type" value="single" />    
+                                
+    {% if (checkout.amazonpay or checkout.gateways|length > 0) and basket.price > 0 %}
+                                    <div class="page-header">
+                                      <h4>{{ __("Payment method") }}</h4>
+                                    </div>
+                                    
+                                    <div class="gateways">
+                                        {% for gateway in checkout.gateways %}
+                                            <div class="radio">
+                                                <label>
+                                                  <input type="radio" name="gateway" id="gateway" value="{{ gateway.id }}" {% if checkout.gateways|length == 1 %} checked="checked" {% endif %} data-id="{{ gateway.gateway }}">
+                                                  <img src="{{ gateway.image }}"/> 
+                                                  {{ gateway.name }} 
+                                                  {% if gateway.offset != 0 %}
+    ({% if gateway.offset > 0 %}+{% endif %}{{ gateway.offset|money }} <small>{{ basket.currency }}</small>)
+        {% endif %} 
+                                                </label>
+                                            </div>
+                                        {% endfor %}
+                                    </div>
+    
+                                    {% if checkout.amazonpay %}
+                                        {% include "amazonpaybutton.html" %}
+                                    {% endif %} 
+                                        
+                                {% endif %}
+                                
+                                {% if checkout.braintree %}
+                                    <div class="braintree-details hidden">
+                                        
+                                        <div class="bt-drop-in-wrapper">
+                                            <div id="bt-dropin"></div>
+                                        </div>
+            
+                                        <input id="nonce" name="payment_method_nonce" type="hidden" />                            
+                                        <script src="https://js.braintreegateway.com/web/dropin/1.2.0/js/dropin.min.js"></script>
+                                        <script>
+                                            var form = document.querySelector('.gateway')[0];
+                                            var client_token = "{{ checkout.braintree.braintree_client_token }}";
+                                            var braintreeinstance;
+                                        
+                                            braintree.dropin.create({
+                                              authorization: client_token,
+                                              selector: '#bt-dropin',
+                                              paypal: {
+                                                flow: 'vault'
+                                              }
+                                            }, function (createErr, instance) {
+                                                braintreeinstance = instance;
+                                            });
+                                
+                                        </script>
+                                        
+                                    </div>
+                                {% endif %}                            
+                                
+                                {% if checkout.requiredFields|length > 0 %}
+                                    <div class="page-header">
+                                       <h4>Billing details</h4>
+                                    </div>
+                                    <div class="details">
+                                       <div class="row">
+                                          {% if "req_full_name" in checkout.requiredFields %}
+                                          <div class="name">
+                                             <div class="form-group">
+                                                <label>Full Name:</label>
+                                                <input type="input" class="form-control" name="address_name" />
+                                             </div>
+                                          </div>
+                                          {% endif %}
+                                          {% if "req_email" in checkout.requiredFields %}
+                                          <div class="email">
+                                             <div class="form-group">
+                                                <label>Email address:</label>
+                                                <input type="input" class="form-control" name="email" />
+                                             </div>
+                                          </div>
+                                          {% endif %}
+                                       </div>
+                                       {% if "req_address" in checkout.requiredFields or "req_country_and_state" in checkout.requiredFields %}
+                                       <div class="row">
+                                          {% if "req_address" in checkout.requiredFields %}
+                                          <div class="address1">
+                                             <div class="form-group">
+                                                <label>Address Line 1:</label>
+                                                <input type="input" class="form-control" name="address_line_1" />
+                                             </div>
+                                          </div>
+                                          <div class="address2">
+                                             <div class="form-group">
+                                                <label>Address Line 2:</label>
+                                                <input type="input" class="form-control" name="address_line_2" />
+                                             </div>
+                                          </div>
+                                          <div class="city">
+                                             <div class="form-group">
+                                                <label>City:</label>
+                                                <input type="input" class="form-control" name="address_city" />
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="zip">
+                                             <div class="form-group">
+                                                <label>Zip Code:</label>
+                                                <input type="input" class="form-control" name="address_zip" />
+                                             </div>
+                                          </div>
+                                          {% endif %}
+                                          {% if "req_address" in checkout.requiredFields or "req_country_and_state" in checkout.requiredFields %}
+                                          <div class="country">
+                                             <div class="form-group">
+                                                <label>Country:</label>
+                                                <select class="form-control" name="address_country">
+                                                   <option value="">Select a country</option>
+                                                   {% for country in checkout.countries %}
+                                                   <option value="{{ country.id }}">{{ country.name }}</option>
+                                                   {% endfor %}
+                                                </select>
+                                             </div>
+                                          </div>
+                                          <div class="state">
+                                             <div class="form-group">
+                                                <label>State/Region:</label>
+                                                <input type="input" class="form-control" name="address_state" />
+                                             </div>
+                                          </div>
+                                       </div>
+                                       {% endif %}
+                                    </div>
+                                    {% endif %}
+                                    {% endif %}
+                                    
+
+                                
+                                <div class="card-container">
+                                
+                                    <div class="page-header">
+                                      <h4>{{ __("Card details:") }}</h4>
+                                    </div>
+                
+                                    <div class="card">
+                
+                                      <div class="row">
+                                        <div class="number">
+                                          <div class="form-group">
+                                              <label>{{ __("Card number:") }}</label>
+                                              <input type="text" class="form-control" placeholder="4242 4242 4242 4242" />
+                                          </div>
+                                        </div>
+                                      </div>
+                
+                                      <div class="row">
+                                        <div class="cvc">
+                                          <div class="form-group">
+                                            <label>{{ __("CVC:") }} <a href="http://www.cvvnumber.com/cvv.html" target="_blank" style="font-size:11px">{{ __("What is this?") }}</a></label>
+                                            <input type="text" class="form-control" placeholder="123" />
+                                          </div>
+                                        </div>
+                                        <div class="expiration">
+                                          <div class="month">
+                                            <div class="form-group">
+                                              <label>{{ __("Expiry month:") }}</label>
+                                              <select class="form-control">
+                                                <option value='01'>{{ __("01 - January") }}</option>
+                                                <option value='02'>{{ __("02 - February") }}</option>
+                                                <option value='03'>{{ __("03 - March") }}</option>
+                                                <option value='04'>{{ __("04 - April") }}</option>
+                                                <option value='05'>{{ __("05 - May") }}</option>
+                                                <option value='06'>{{ __("06 - June") }}</option>
+                                                <option value='07'>{{ __("07 - July") }}</option>
+                                                <option value='08'>{{ __("08 - August") }}</option>
+                                                <option value='09'>{{ __("09 - September") }}</option>
+                                                <option value='10'>{{ __("10 - October") }}</option>
+                                                <option value='11'>{{ __("11 - November") }}</option>
+                                                <option value='12'>{{ __("12 - December") }}</option>
+                                              </select>
+                                            </div>
+                                          </div>
+                                          <div class="year">
+                                              <label>{{ __("Expiry year:") }}</label>
+                                              <select class="form-control">
+                                                {% for year in checkout.expiryYears %}
+                                                    <option value="{{ year }}">{{ year }}</option>
+                                                {% endfor %}
+                                              </select>
+                                          </div>
+                                        </div>
+                                      </div>
+                
+                                    </div>
+                                    
+                                </div>
+            
+                                <div class="tax"></div>
+    			{{ privacyForm|raw }}
+            
+                                <div class="page-header">
+                                  <h4>{{ __("Purchase") }} {% if checkout.playerReferrals %}<a href="javascript::void(0);" class="referral-button pull-right toggle-modal" data-remote="/checkout/playerReferral">Did someone refer you?</a>{% endif %}</h4>
+                                </div>
+                
+                                {% if checkout.gateways|length > 0 or basket.price == 0 %}
+                                    <div class="row">
+                                      <div class="col-sm-8">
+                                        <div class="checkbox">
+                                          <label>
+                                            <input type="checkbox" value="true" name="agreement">
+                                            {{ __("I agree to the :link_start terms & conditions :link_end of this purchase.", {'link_start': '<a href="javascript::void(0);" data-remote="/terms" class="toggle-modal">', 'link_end': '</a>'})|raw }}
+                                          </label>
+                                  {% if checkout.paypalv2.canTokenize %}
+                                <div class="hidden" id="save-token">
+                                    <label>
+                                        <input type="checkbox" name="save-token" checked /> {{ __("Save my payment method") }}.
+                                    </label>
+                                </div>
+                                {% if checkout.paypalv2.token %}
+                                    <div class="hidden" id="paypal-token">
+                                        <label><input type="checkbox" name="paypalv2-billing-token-id" value="{{ checkout.paypalv2.token.id }}" checked /> Use {{ checkout.paypalv2.token.name }} ({{ checkout.paypalv2.token.description }}).</label>
+                                    </div>
+                                {% endif %}
+                                {% endif %}
+
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-4">
+                                        {% if checkout.paypalv2 %}
+    <div id="paypal-button" class="hidden text-right">
+    </div>
+                                                        
+    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    
+    <input type="hidden" name="paypalv2-order-id"/>
+    <input type="hidden" name="paypalv2-payer-id"/>
+    <input type="hidden" name="paypalv2-agreement-token"/>
+    <input type="hidden" name="paypalv2-personal-account" value="{{ checkout.paypalv2.personal_account }}"/>
+    
+    <script>
+        var tokenized = false;
+        var agreementToken = "";
+
+        paypal.Button.render({
+            env: 'production',
+            commit: true,
+             style: {
+                layout: 'vertical',
+                size: '{{ checkout.paypalv2.size }}',
+                shape: 'rect',
+                color: '{{ checkout.paypalv2.colour }}'
+            },
+            
+            buttonStyle: {
+                label: 'buynow'
+            },
+            funding: {
+            {% if checkout.paypalv2.disabledApms|length > 0 %}
+                disallowed: [
+                    {% for apm in checkout.paypalv2.disabledApms %}
+                        {{ apm.funding_option }},
+                    {% endfor %}
+                ],
+            {% endif %}
+            {% if checkout.paypalv2.apms|length > 0 %}
+                allowed: [
+                    {% for apm in checkout.paypalv2.apms %}
+                        {{ apm.funding_option }},
+                    {% endfor %}
+                ]
+            {% endif %}
+            },
+            payment: function(data, actions) {
+                
+                postObject = {};
+                var form = jQuery("[name=agreement]").parents("form").eq(0);
+                
+                formValues = form.find("input, select").serializeArray();
+                
+                for (i = 0; i < formValues.length; i++) {
+                    postObject[formValues[i].name] = formValues[i].value;
+                }
+                
+                console.log(postObject);
+                
+                postObject.gateway_id = 24;
+                postObject.tokenized = tokenized;
+                if (!postObject.address_state) {
+                    postObject.address_state = '';
+                }
+                
+                if (!postObject.address_country) {
+                    postObject.address_country = '';
+                }
+                
+                {% if basket.type == "single" %}
+                    tokenized = $("input[name='save-token']").is(":checked");
+                    
+                    return actions.request.post("/checkout/initPayment", postObject).then(function (res) {
+                        if (res.type && res.type == 'error') {
+                            notification.show(res.type, res.message);
+                            return false;
+                        }                        
+                        if(tokenized) {
+                            agreementToken = res.value;
+                        }
+                        
+                        return res.value;
+                    });
+                {% else %}
+                    postObject.tokenized = true;
+                    return actions.request.post("/checkout/initPayment", postObject).then(function (res) {
+                        if (res.type && res.type == 'error') {
+                            notification.show(res.type, res.message);
+                            return false;
+                        }
+                        agreementToken = res.value;
+                        return res.value;
+                    });
+                {% endif %}
+            },
+            onAuthorize: function(data, actions) {
+                
+                
+                {% if basket.type == "single" %}
+                    if(!tokenized) {
+                        $("input[name='paypalv2-order-id']").val(data.orderID);
+                        $("input[name='paypalv2-payer-id']").val(data.payerID);
+                    } else {
+                        $("input[name='paypalv2-agreement-token']").val(data.billingToken);
+                    }
+                {% else %}
+                    $("input[name='paypalv2-agreement-token']").val(data.billingToken);
+                {% endif %}
+                
+                $("div#waiting-overlay").fadeIn();
+                $("button#purchase-button").click();
+                
+            }
+        }, '#paypal-button');
+    </script>
+{% endif %}
+
+
+                                            <div class="form-group">
+                                                {% if basket.price > 0 %}
+                                                    <button type="submit" class="btn btn-success btn-block" id="purchase-button" data-loading-text="{{ __("Loading, please wait...") }}">{{ __("Purchase") }} &raquo;</button>
+                                                {% else %}
+                                                     <button type="submit" class="btn btn-success btn-block" data-loading-text="{{ __("Loading, please wait...") }}">{{ __("Claim for free") }} &raquo;</button>
+                                                {% endif %}
+                                            </div>
+
+                                      </div>
+                                    </div>  
+                                {% else %}
+        <h5>{{ __("You need to setup a :gateway in your control panel before players can donate.", {"gateway": '<a href="http://server.buycraft.net/gateways" target="_blank">payment gateway</a>'})|raw }}</h5>
+        {% endif %}
+                                
+                            </form>
+                        {% endif %}
+                    </div>
+</div>
+</div>
+</div>
+</div>
+
+{% if checkout.kount %}
+        <iframe width="1" height="1" frameborder="0" scrolling="no" src="{{ checkout.kount.url|raw }}">
+            <img width="1" height="1" src="{{ checkout.kount.gif|raw }}">    
+        </iframe>
+    {% endif %}
+
+{% endblock %} 

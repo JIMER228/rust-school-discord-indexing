@@ -1,0 +1,150 @@
+{
+  "ID": "",
+  "Enabled? [true/false]": true,
+  "Position": "(970.9, 69.0, 1111.8)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 200.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 15,
+      "Maximum numbers - Day": 19,
+      "Minimum numbers - Night": 15,
+      "Maximum numbers - Night": 12,
+      "NPCs setting": {
+        "Names": [
+          "Krieg"
+        ],
+        "Health": 175.0,
+        "Roam Range": 5.0,
+        "Chase Range": 200.0,
+        "Attack Range Multiplier": 2.5,
+        "Sense Range": 100.0,
+        "Target Memory Duration [sec.]": 120.0,
+        "Scale damage": 1.7,
+        "Aim Cone Scale": 0.6,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 3600.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 1107214333
+          },
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 2176988889
+          },
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 2184218268
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 2192338913
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "SkinID (0 - default)": 1116027401
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "SkinID (0 - default)": 1116032718
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "smg.mp5",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-78.1, -9.3, -81.5)",
+        "(-82.7, -9.3, -49.3)",
+        "(-82.4, -9.3, -10.1)",
+        "(-74.1, -9.2, 10.7)",
+        "(-43.0, -9.3, 20.6)",
+        "(-16.5, -9.3, 20.8)",
+        "(12.7, -9.3, 20.0)",
+        "(47.7, -9.3, 20.3)",
+        "(81.2, -8.7, 19.4)",
+        "(83.6, -9.3, -15.9)",
+        "(83.4, -9.3, -47.2)",
+        "(83.3, -9.2, -75.1)",
+        "(58.7, -9.3, -97.0)",
+        "(27.9, -9.3, -95.4)",
+        "(-8.5, -9.3, -98.2)",
+        "(-41.9, -9.3, -99.3)",
+        "(-26.0, -8.9, -64.6)",
+        "(0.9, -9.4, -61.2)",
+        "(8.7, -9.4, -25.2)",
+        "(5.3, -9.4, 9.1)",
+        "(59.5, -9.4, 6.7)",
+        "(55.7, -9.4, -19.0)",
+        "(47.6, -9.4, -37.2)",
+        "(16.9, -9.4, -36.2)",
+        "(34.1, -17.0, -12.2)",
+        "(-75.7, -9.3, 57.0)",
+        "(-40.7, -9.3, 56.6)",
+        "(8.0, -9.3, 57.4)",
+        "(36.1, -9.3, 58.6)",
+        "(67.8, -9.3, 51.9)",
+        "(81.3, -9.3, 21.4)",
+        "(99.7, -9.4, -42.6)",
+        "(118.3, -9.4, -40.5)",
+        "(101.8, -9.4, -74.6)",
+        "(128.8, -9.4, -79.9)",
+        "(-41.0, -6.9, 91.6)",
+        "(-44.7, -6.8, 78.9)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

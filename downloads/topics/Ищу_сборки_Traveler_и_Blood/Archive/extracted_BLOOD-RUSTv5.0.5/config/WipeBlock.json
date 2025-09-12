@@ -1,0 +1,89 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "БЛОКИРОВКА ПРЕДМЕТОВ",
+    "Текст на второй строке": "НАЖМИТЕ ЧТОБЫ УЗНАТЬ БОЛЬШЕ",
+    "Название сервера": "%CONFIG%"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('18' - на 18 секунд вперёд, '-18' на 18 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "1800": [
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "3600": [
+        "flamethrower",
+        "bucket.helmet",
+        "riot.helmet",
+        "pants",
+        "hoodie"
+      ],
+      "7200": [
+        "pistol.python",
+        "pistol.semiauto",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt",
+        "icepick.salvaged",
+        "axe.salvaged",
+        "hammer.salvaged"
+      ],
+      "14400": [
+        "shotgun.pump",
+        "shotgun.spas12",
+        "pistol.m92",
+        "smg.mp5",
+        "jackhammer",
+        "chainsaw"
+      ],
+      "28800": [
+        "smg.2",
+        "smg.thompson",
+        "rifle.semiauto",
+        "explosive.satchel",
+        "grenade.f1",
+        "grenade.beancan",
+        "surveycharge"
+      ],
+      "43200": [
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.lr300",
+        "metal.facemask",
+        "metal.plate.torso",
+        "rifle.l96",
+        "rifle.m39"
+      ],
+      "64800": [
+        "ammo.rifle.explosive",
+        "ammo.rocket.basic",
+        "ammo.rocket.fire",
+        "ammo.rocket.hv",
+        "rocket.launcher",
+        "explosive.timed"
+      ],
+      "86400": [
+        "lmg.m249",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Total": "ВСЁ",
+      "Food": "ЕДЫ",
+      "Attire": "БРОНЯ",
+      "Traps": "ЛОВУШЕК",
+      "Misc": "ПРОЧЕГО",
+      "Medical": "МЕДИЦИНЫ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Weapon": "ВООРУЖЕНИЕ",
+      "Ammunition": "БОЕПРИПАСЫ",
+      "Tool": "ВЗРЫВЧАТКА",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Component": "КОМПОНЕНТОВ"
+    }
+  }
+}

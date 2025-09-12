@@ -1,0 +1,169 @@
+{
+  "Settings": {
+    "Disable autofarm placement by default /autofarm": false,
+    "How far can sprinkler water": 1.0,
+    "Large Box Sprinkler On Soil Saturation Level": 5100,
+    "Large Box Sprinkler OFF Soil Saturation Level": 6000,
+    "Small Box Sprinkler On Soil Saturation Level": 1650,
+    "Small Box Sprinkler OFF Soil Saturation Level": 1750,
+    "Enable for use in plugins that require CallHookOnCollectiblePickup": false,
+    "Enable weed pick from Ganja plugin": false
+  },
+  "Permission needed and options": {
+    "autofarm.allow": {
+      "How many auto farms they allowed to have": 5,
+      "How many slots in seed container": 6,
+      "How many slots in output container": 6,
+      "Add sprinkler to planter": false,
+      "Sprinkler needs water hookup to work": true,
+      "Add storage adapters": false,
+      "Always Light Exposure 100%": false,
+      "Always Temperature Exposure 100%": false,
+      "Allowed seed itemID's and multiplier amount to get on auto gather": {
+        "803954639": 1,
+        "998894949": 1,
+        "1911552868": 1,
+        "-1776128552": 1,
+        "-237809779": 1,
+        "-2084071424": 1,
+        "-1511285251": 1,
+        "830839496": 1,
+        "-992286106": 1,
+        "-520133715": 1,
+        "838831151": 1,
+        "-778875547": 1,
+        "-1305326964": 1,
+        "-886280491": 1,
+        "1512054436": 1,
+        "1898094925": 1,
+        "2133269020": 1,
+        "1533551194": 1,
+        "390728933": 1
+      },
+      "Enable cloning with knife": false,
+      "Allowed To Clone And Stage ": {
+        "blue_berry": "Sapling",
+        "white_berry": "Sapling",
+        "red_berry": "Sapling",
+        "green_berry": "Sapling",
+        "black_berry": "Sapling",
+        "yellow_berry": "Sapling",
+        "pumpkin": "Sapling",
+        "potato": "Sapling",
+        "hemp": "Sapling",
+        "corn": "Sapling"
+      },
+      "Available tools And Clone Multiplier": {
+        "1814288539": 0,
+        "-194509282": 0,
+        "2040726127": 0,
+        "-2073432256": 0
+      }
+    },
+    "autofarm.vip": {
+      "How many auto farms they allowed to have": 5,
+      "How many slots in seed container": 6,
+      "How many slots in output container": 6,
+      "Add sprinkler to planter": false,
+      "Sprinkler needs water hookup to work": true,
+      "Add storage adapters": false,
+      "Always Light Exposure 100%": false,
+      "Always Temperature Exposure 100%": false,
+      "Allowed seed itemID's and multiplier amount to get on auto gather": {
+        "803954639": 1,
+        "998894949": 1,
+        "1911552868": 1,
+        "-1776128552": 1,
+        "-237809779": 1,
+        "-2084071424": 1,
+        "-1511285251": 1,
+        "830839496": 1,
+        "-992286106": 1,
+        "-520133715": 1,
+        "838831151": 1,
+        "-778875547": 1,
+        "-1305326964": 1,
+        "-886280491": 1,
+        "1512054436": 1,
+        "1898094925": 1,
+        "2133269020": 1,
+        "1533551194": 1,
+        "390728933": 1
+      },
+      "Enable cloning with knife": false,
+      "Allowed To Clone And Stage ": {
+        "blue_berry": "Sapling",
+        "white_berry": "Sapling",
+        "red_berry": "Sapling",
+        "green_berry": "Sapling",
+        "black_berry": "Sapling",
+        "yellow_berry": "Sapling",
+        "pumpkin": "Sapling",
+        "potato": "Sapling",
+        "hemp": "Sapling",
+        "corn": "Sapling"
+      },
+      "Available tools And Clone Multiplier": {
+        "1814288539": 0,
+        "-194509282": 0,
+        "2040726127": 0,
+        "-2073432256": 0
+      }
+    },
+    "autofarm.advanced": {
+      "How many auto farms they allowed to have": 10,
+      "How many slots in seed container": 12,
+      "How many slots in output container": 12,
+      "Add sprinkler to planter": true,
+      "Sprinkler needs water hookup to work": false,
+      "Add storage adapters": true,
+      "Always Light Exposure 100%": false,
+      "Always Temperature Exposure 100%": false,
+      "Allowed seed itemID's and multiplier amount to get on auto gather": {
+        "803954639": 1,
+        "998894949": 1,
+        "1911552868": 1,
+        "-1776128552": 1,
+        "-237809779": 1,
+        "-2084071424": 1,
+        "-1511285251": 1,
+        "830839496": 1,
+        "-992286106": 1,
+        "-520133715": 1,
+        "838831151": 1,
+        "-778875547": 1,
+        "-1305326964": 1,
+        "-886280491": 1,
+        "1512054436": 1,
+        "1898094925": 1,
+        "2133269020": 1,
+        "1533551194": 1,
+        "390728933": 1
+      },
+      "Enable cloning with knife": false,
+      "Allowed To Clone And Stage ": {
+        "blue_berry": "Sapling",
+        "white_berry": "Sapling",
+        "red_berry": "Sapling",
+        "green_berry": "Sapling",
+        "black_berry": "Sapling",
+        "yellow_berry": "Sapling",
+        "pumpkin": "Sapling",
+        "potato": "Sapling",
+        "hemp": "Sapling",
+        "corn": "Sapling"
+      },
+      "Available tools And Clone Multiplier": {
+        "1814288539": 0,
+        "-194509282": 0,
+        "2040726127": 0,
+        "-2073432256": 0
+      }
+    }
+  },
+  "Version": {
+    "Major": 3,
+    "Minor": 0,
+    "Patch": 0
+  }
+}

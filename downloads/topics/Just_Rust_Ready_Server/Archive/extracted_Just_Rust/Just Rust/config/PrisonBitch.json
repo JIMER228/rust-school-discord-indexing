@@ -1,0 +1,31 @@
+{
+  "Одежда заключеного": [
+    {
+      "Название": "attire.nesthat",
+      "Скин": 0
+    }
+  ],
+  "Название постройки в CopyPaste": "JustGulag",
+  "Позиции для спавна (не трогать!)": [
+    "(300.6, 28.7, 89.8)",
+    "(311.5, 31.7, 92.9)",
+    "(311.9, 28.7, 90.5)",
+    "(309.0, 28.7, 94.0)"
+  ],
+  "Координаты для постройки тюрьмы": "(306, 0, 92)",
+  "Запретить писать в общий чат": true,
+  "Разрешенные команды": [
+    "report",
+    "kill",
+    "respawn",
+    "inventory.endloot"
+  ],
+  "Вещи в поясе": [],
+  "Сообщения": {
+    "COMMAND.BLOCKED": "<color=orange>В JustGulag нельзя иcпользовать эту команду!</color>",
+    "CHAT.BLOCKED": "<color=orange>В JustGulag тюрьме общий чат не работает!</color>",
+    "GUI.TIMER": "ВАМ ОСТАЛОСЬ ПРОВЕСТИ ЕЩЕ {time} В JUSTGULAG",
+    "PRISON.ADD": "<color=#32C8C8>JustGulag™</color>\n\n<color=orange>{name}</color> отправлен в ссылку в Сибирь\nCрок: <color=orange>{time}</color>\nПричина: <color=orange>{reason}</color>",
+    "PRISON.REMOVE": "<color=#32C8C8>JustGulag™</color>\n\n<color=orange>{name}</color> вернулся с ссылки."
+  }
+}

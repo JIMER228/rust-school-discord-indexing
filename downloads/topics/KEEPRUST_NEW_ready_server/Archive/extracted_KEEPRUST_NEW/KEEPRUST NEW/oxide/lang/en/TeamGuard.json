@@ -1,0 +1,13 @@
+{
+  "TextBeforeDmg": "You have more players around then allowed (Allowed - {0}).\nYou have {1} seconds before you will start to get damage.",
+  "TextWhileDmg": "You have more players around then allowed (Allowed - {0}).\nAll players in the area would get {1} damage every {2} seconds until redundant player will leave the area.",
+  "LogLimit": "Player \"{0}\" attempted to auth in the {1} of the player \"{2}\"\nPlayer position: {3} | Target position: {4}",
+  "LogCleared": "Player \"{0}\" has authorized and cleared auth list of {1} of the player \"{2}\"\nPlayer position: {3} | Target position: {4}",
+  "LogReplaced": "Player \"{0}\" has replaced player \"{1}\" in the {2} of the player  \"{3}\"\nPlayer position: {4} | Target position: {5}",
+  "Replace": "replace first authorized player",
+  "Clear": "authorize and clear previously authorized players list",
+  "ChatLimit": "This {0} has it's auth limit. (Max - {1}).\nRetry to {2}.",
+  "CodeLock": "code lock",
+  "Cupboard": "cupboard",
+  "Turret": "turret"
+}

@@ -1,0 +1,265 @@
+{
+  "_Settings": {
+    "DisableBlueprintDropMultiplier": true,
+    "DisableBlueprintDrops": false,
+    "ForceRefreshDisabledCratesOnLoad": false,
+    "ItemListMultiplier": 1,
+    "Multiplier": 1,
+    "MultiplyOnlyItemList": false,
+    "RandomWorkshopSkins": true,
+    "ReportMissingConfigCrates": true
+  },
+  "DeveloperDebug": {
+    "_EnableLogs": false,
+    "AmountChange": false,
+    "ExtraItem": false,
+    "LootRefresh": false,
+    "Skins": false
+  },
+  "Exclude": {
+    "list": [
+      "ammo.rocket.smoke"
+    ]
+  },
+  "ExcludeFromMultiplication": {
+    "list": [
+      "crude.oil"
+    ]
+  },
+  "ExtraLoot": {
+    "Enabled": false,
+    "ExtraItemsMax": 3,
+    "ExtraItemsMin": 3,
+    "ItemStackSizeMin": 3,
+    "PreventDuplicates": false,
+    "VanillaLootTablesOnly": true
+  },
+  "ItemList": {
+    "list": {
+      "antiradpills": 3.0,
+      "apple": 3.0,
+      "bandage": 3.0,
+      "black.raspberries": 3.0,
+      "bleach": 3.0,
+      "blueberries": 3.0,
+      "can.beans": 3.0,
+      "can.tuna": 3.0,
+      "chocholate": 3.0,
+      "ducttape": 3.0,
+      "gears": 3.0,
+      "glue": 3.0,
+      "granolabar": 3.0,
+      "largemedkit": 3.0,
+      "lowgradefuel": 3.0,
+      "metal.fragments": 3.0,
+      "metal.refined": 3.0,
+      "metalblade": 3.0,
+      "metalpipe": 3.0,
+      "metalspring": 3.0,
+      "propanetank": 3.0,
+      "riflebody": 3.0,
+      "roadsigns": 3.0,
+      "rope": 3.0,
+      "scrap": 3.0,
+      "semibody": 3.0,
+      "sewingkit": 3.0,
+      "sheetmetal": 3.0,
+      "smgbody": 3.0,
+      "sticks": 3.0,
+      "syringe.medical": 3.0,
+      "tarp": 3.0,
+      "techparts": 3.0,
+      "wood": 3.0
+    }
+  },
+  "LootContainersEnabled": {
+    "list": {
+      "bradley_crate": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_basic": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_elite": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_mine": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_normal": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_normal_2": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_normal_2_food": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_normal_2_medical": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_tools": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "foodbox": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "heli_crate": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "loot_barrel_1": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "loot_barrel_2": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "loot_trash": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "loot-barrel-1": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "loot-barrel-2": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "minecart": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "oil_barrel": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "stocking_large_deployed": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "stocking_small_deployed": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "supply_drop": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "trash-pile-1": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "codelockedhackablecrate": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_underwater_basic": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "crate_underwater_advanced": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "dm tier2 lootbox": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "dm tier1 lootbox": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "dm tier3 lootbox": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "presentdrop": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      },
+      "giftbox_loot": {
+        "enabled": true,
+        "minExtraItems": 0,
+        "maxExtraItems": 0,
+        "lootMultiplier": 1.0
+      }
+    }
+  }
+}

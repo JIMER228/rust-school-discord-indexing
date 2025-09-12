@@ -1,0 +1,135 @@
+{
+  "Settings": {
+    "Bot Token": "MTExNTc4MDM1NTc4MjM1NzEwMw.GworhT.H8B9OjD19gHlF0dk0PAEebzLH8nXzpVwYaqaas",
+    "Bot Client ID": "1115780355782357103",
+    "Bot Status Messages": [],
+    "Bot Status Cycle Time (seconds)": 120,
+    "Log Level (Verbose, Debug, Info, Warning, Error, Exception, Off)": "Info"
+  },
+  "Rewards": {
+    "Amount of reward tokens to give by linking Discord account": 1,
+    "Amount of reward tokens to give every time a linked account is re-validated": 1,
+    "Basic Rewards": {
+      "Add user to Oxide user groups": [],
+      "Commands to run on successful validation": [],
+      "Permissions to grant on successful validation": [],
+      "Discord roles to grant on successful validation": [],
+      "Discord roles to revoke on successful validation": []
+    },
+    "Nitro Rewards": {
+      "Add user to Oxide user groups": [],
+      "Commands to run on successful validation": [],
+      "Permissions to grant on successful validation": [],
+      "Discord roles to grant on successful validation": [],
+      "Discord roles to revoke on successful validation": []
+    }
+  },
+  "Validation Tokens": {
+    "Token Lifetime (seconds)": 3600,
+    "Require Re-validation": true,
+    "Automatically try and re-validate users when their token has expired": true,
+    "Revalidation Interval (seconds)": 84600,
+    "Revoke rewards and wipe token data on map wipe": false,
+    "Reset reward cooldowns on map wipe": false,
+    "Validation channel": ""
+  },
+  "Global Cooldown": {
+    "Use Global Cooldown": false,
+    "Global Cooldown Time (seconds)": 84600
+  },
+  "UI Options": {
+    "Enable Reward Menu": true,
+    "UI Colors": {
+      "Segment": {
+        "Hex": "27241D",
+        "Alpha": 0.97
+      },
+      "Panel": {
+        "Hex": "6F6B64",
+        "Alpha": 0.25
+      },
+      "Text": {
+        "Hex": "BAB1A8",
+        "Alpha": 1.0
+      },
+      "Button": {
+        "Hex": "6F6B64",
+        "Alpha": 0.6
+      },
+      "Button Text": {
+        "Hex": "BAB1A8",
+        "Alpha": 1.0
+      },
+      "Button Selected": {
+        "Hex": "6F6B64",
+        "Alpha": 0.5
+      },
+      "Button Selected Text": {
+        "Hex": "FFFFFF",
+        "Alpha": 0.8
+      },
+      "Button Disabled Text": {
+        "Hex": "6F6B64",
+        "Alpha": 0.3
+      },
+      "Button Disabled": {
+        "Hex": "6F6B64",
+        "Alpha": 0.3
+      },
+      "Claim": {
+        "Hex": "738D45",
+        "Alpha": 1.0
+      },
+      "Claim Text": {
+        "Hex": "AAEE31",
+        "Alpha": 0.94
+      },
+      "Nitro": {
+        "Hex": "DC16F5",
+        "Alpha": 0.42
+      },
+      "Nitro Text": {
+        "Hex": "FACFFF",
+        "Alpha": 0.87
+      },
+      "Insufficient": {
+        "Hex": "AB2021",
+        "Alpha": 0.6
+      },
+      "Insufficient Text": {
+        "Hex": "FFBDBE",
+        "Alpha": 0.87
+      },
+      "Input": {
+        "Hex": "BAB1A8",
+        "Alpha": 0.3
+      },
+      "Input Text": {
+        "Hex": "FFFFFF",
+        "Alpha": 0.8
+      },
+      "Scrollbar Background": {
+        "Hex": "27241D",
+        "Alpha": 0.9
+      },
+      "Scrollbar Handle": {
+        "Hex": "6F6B64",
+        "Alpha": 0.6
+      },
+      "Scrollbar Highlight": {
+        "Hex": "6F6B64",
+        "Alpha": 0.6
+      },
+      "Scrollbar Pressed": {
+        "Hex": "6F6B64",
+        "Alpha": 0.6
+      }
+    },
+    "Default bot profile icon shown in UI (overridden by actual bot profile icon if set)": "https://better-default-discord.netlify.app/Icons/Blast-Blue.png"
+  },
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 1
+  }
+}

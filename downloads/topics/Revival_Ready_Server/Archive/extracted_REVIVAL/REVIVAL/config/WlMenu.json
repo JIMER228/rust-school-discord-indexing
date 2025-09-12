@@ -1,0 +1,41 @@
+{
+  "Интервал обновление сообщение": 2,
+  "Title": "ДОБРО ПОЖАЛОВАТЬ НА REVIVAL RUST",
+  "Logo Image": "https://media.discordapp.net/attachments/972819252904067122/976805859638247424/logo.png",
+  "Background Image": "https://cdn.discordapp.com/attachments/972819252904067122/976805816998953000/background.png",
+  "Notify Image": "https://cdn.discordapp.com/attachments/956598122560233492/961591328083435530/ZvBufFr.png",
+  "Buttons": [
+    {
+      "Title": "НАБОРЫ",
+      "Image (for mini buttons)": "",
+      "Command": "chat.say /kit"
+    },
+    {
+      "Title": "ДРУЗЬЯ",
+      "Image (for mini buttons)": "",
+      "Command": "chat.say /friends"
+    },
+    {
+      "Title": "ТОП",
+      "Image (for mini buttons)": "",
+      "Command": "chat.say /top"
+    },
+    {
+      "Title": "ЖАЛОБЫ",
+      "Image (for mini buttons)": "",
+      "Command": "chat.say /report"
+    }
+  ],
+  "Mini Buttons": [
+    {
+      "Title": "",
+      "Image (for mini buttons)": "https://cdn.discordapp.com/attachments/956598122560233492/961591903550337074/s84DMbk.png",
+      "Command": "chat.say /store"
+    },
+    {
+      "Title": "",
+      "Image (for mini buttons)": "https://cdn.discordapp.com/attachments/956598122560233492/961591903772618772/timetomoney.png",
+      "Command": "chat.say /block"
+    }
+  ]
+}

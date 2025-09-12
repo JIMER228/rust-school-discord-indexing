@@ -1,0 +1,3642 @@
+{
+  "Simple Mode (disables advance blueprint management options)": false,
+  "Update players on permission change (automatically updates a players BPs when their permissions change)": true,
+  "Blacklist (items from being automatically learnt)": [],
+  "DefaultBPs (Blueprints to be automatically learnt)": [],
+  "Assign custom BP unlocks to various perms (permission, BP List": {
+    "customperm1": [
+      "rock"
+    ],
+    "customperm2": [
+      "torch"
+    ]
+  },
+  "Advanced Blueprint Management Options": {
+    "hat.wolf": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fogmachine": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "strobelight": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "kayak": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skidoo": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "arrow.hv": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "arrow.wooden": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "arrow.bone": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "arrow.fire": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.handmade.shell": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.nailgun.nails": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.pistol": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.pistol.fire": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.pistol.hv": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rifle": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rifle.explosive": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rifle.incendiary": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rifle.hv": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rocket.basic": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rocket.fire": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rocket.hv": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rocket.seeker": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.shotgun": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.shotgun.fire": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.shotgun.slug": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "speargun.spear": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "submarine.torpedo.straight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.double.hinged.metal": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.double.hinged.toptier": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.double.hinged.wood": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.hinged.metal": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.hinged.toptier": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.hinged.wood": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "floor.grill": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "floor.ladder.hatch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "floor.triangle.grill": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "floor.triangle.ladder.hatch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gates.external.high.stone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gates.external.high.wood": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ladder.wooden.wall": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "legacy.shelter.wood": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.external.high.stone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.external.high": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.cell.gate": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.cell": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.fence.gate": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.fence": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.garagedoor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.netting": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.shopfront": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.frame.shopfront.metal": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.window.bars.metal": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.window.bars.toptier": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.window.bars.wood": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shutter.metal.embrasure.a": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shutter.metal.embrasure.b": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.window.glass.reinforced": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shutter.wood.a": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "watchtower.wood": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "boots.frog": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.gloves.new": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.gloves": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "roadsign.gloves": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "draculamask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "frankensteinmask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mummymask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.helterneck": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.beenie": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.boonie": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bucket.helmet": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.headwrap": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.candle": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.cap": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "clatter.helmet": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "coffeecan.helmet": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "deer.skull.mask": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "heavy.plate.helmet": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.miner": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "prisonerhood": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "riot.helmet": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wood.armor.helmet": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hoodie": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 100,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bone.armor.suit": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "heavy.plate.jacket": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "jacket.snow": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "jacket": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wood.armor.jacket": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mask.balaclava": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mask.bandana": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metal.facemask": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "nightvisiongoggles": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.ninja.suit": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.trousers": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "heavy.plate.pants": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.pants": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "roadsign.kilt": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pants.shorts": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wood.armor.pants": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pants": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.poncho": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.shirt": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shirt.collared": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.vest": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shirt.tanktop": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shoes.boots": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "burlap.shoes": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.boots": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.hide.skirt": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hazmatsuit": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tshirt.long": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tshirt": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metal.plate.torso": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "roadsign.jacket": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "carburetor1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "carburetor2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "carburetor3": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "crankshaft1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "crankshaft2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "crankshaft3": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "piston1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "piston2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "piston3": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sparkplug1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sparkplug2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sparkplug3": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "valve1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "valve2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "valve3": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gears": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 100,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metalblade": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 10,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metalpipe": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 20,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "propanetank": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 10,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "roadsigns": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 20,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sewingkit": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metalspring": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.concrete": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.wood.cover": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.metal": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.sandbags": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.stone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.wood": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "barricade.woodwire": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bbq": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "trap.bear": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bed": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "campfire": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ceilinglight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "chair": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "composter": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "computerstation": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "drone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "dropbox": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "elevator": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fireplace.stone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.blue": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.champagne": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.green": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.orange": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.pattern": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.red": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.boomer.violet": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.romancandle.blue": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.romancandle.green": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.romancandle.red": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.romancandle.violet": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.volcano": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.volcano.red": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "firework.volcano.violet": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spikes.floor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fridge": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "furnace.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "furnace": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hitchtroughcombo": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hab.armor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "jackolantern.angry": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "jackolantern.happy": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "trap.landmine": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "lantern": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "box.wooden.large": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "water.barrel": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "locker": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mailbox": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mixingtable": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "modularcarlift": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "small.oil.refinery": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "planter.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "planter.small": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.audioalarm": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smart.alarm": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smart.switch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "storage.monitor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.battery.rechargable.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.battery.rechargable.medium": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.battery.rechargable.small": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.button": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.counter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.hbhfsensor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.laserdetector": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.pressurepad": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tincan.alarm": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.digitalclock": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.doorcontroller": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.furnace": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.heater": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fluid.combiner": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fluid.splitter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fluid.switch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.andswitch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.blocker": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electrical.branch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electrical.combiner": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electrical.memorycell": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.orswitch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.random.switch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.rf.broadcaster": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.rf.receiver": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.xorswitch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.fuelgenerator.small": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.solarpanel.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.igniter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "storageadaptor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.combiner": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.conveyor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.crafter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.splitter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.flasherlight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.sirenlight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "powered.water.purifier": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.seismicsensor": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.switch": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.splitter": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.sprinkler": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.teslacoil": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "electric.timer": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "waterpump": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ptz.cctv.camera": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "target.reactive": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "box.repair.bench": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "research.table": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rug.bear": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rug": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "searchlight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "secretlabchair": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shelves": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.hanging.banner.large": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.hanging": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.hanging.ornate": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pictureframe.landscape": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pictureframe.portrait": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pictureframe.tall": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pictureframe.xl": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pictureframe.xxl": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.pole.banner.large": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.post.double": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.post.single": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.post.town": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.post.town.roof": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.wooden.huge": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.wooden.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.wooden.medium": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.wooden.small": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "guntrap": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sleepingbag": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "stash.small": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sofa": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sofa.pattern": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spinner.wheel": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 10,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fishtrap.small": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "table": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "workbench1": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "workbench2": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "workbench3": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "cupboard.tool": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tunalight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vending.machine": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "water.catcher.large": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "water.catcher.small": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "water.purifier": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack.single.1.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack.single.2.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack.single.3.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack_stand": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack_tall.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunrack_wide.horizontal": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "generator.wind.scrap": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "box.wooden": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hazmatyoutooz": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "heavyscientistyoutooz": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "botabag": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.bass": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.cowbell": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "drumkit": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.flute": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.guitar": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.jerrycanguitar": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "piano": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.tambourine": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.trumpet": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.tuba": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xylophone": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "lock.key": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "lock.code": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "chineselantern": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "chineselanternwhite": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "dragondoorknocker": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.dragonmask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "newyeargong": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.oxmask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.rabbitmask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.ratmask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skylantern": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.tigermask": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "arcade.machine.chippy": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "door.double.hinged.bardoors": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bathtub.planter": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fishtrophy": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "huntingtrophylarge": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "huntingtrophysmall": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "minecart.planter": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rail.road.planter": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rockingchair": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "knife.skinning": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "storage_barrel_b": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "storage_barrel_c": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "torchholder": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wantedposter": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hat.bunnyhat": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "chicken.costume": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "easterdoorwreath": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.egg.suit": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_a": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_b": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_c": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_d": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_e": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rustige_egg_f": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.nesthat": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "largecandles": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smallcandles": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "carvable.pumpkin": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "cursedcauldron": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wall.graveyard.fence": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "scarecrow": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skullspikes": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skulldoorknocker": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skull_fire_pit": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spookyspeaker": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "halloween.surgeonsuit": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "skull.trophy": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "movembermoustache": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "note": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "parachute": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.wall.light.green": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.wall.light": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "industrial.wall.light.red": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smallbackpack": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "abovegroundpool": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "beachchair": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "beachparasol": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "beachtable": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "beachtowel": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "boogieboard": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "innertube": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tool.instant_camera": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "paddlingpool": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "photoframe.landscape": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "photoframe.large": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "photoframe.portrait": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sunglasses": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gun.water": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.water": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "trophy": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "trophy2023": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "twitchsunglasses": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "twitch.headset": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hobobarrel": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmas.lightstring": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmas.door.garland": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmas.double.door.garland": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "giantcandycanedecor": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "giantlollipops": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.neon.125x125": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.neon.125x215.animated": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.neon.125x215": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.neon.xl.animated": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "sign.neon.xl": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmas.lightstring.advanced": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "snowmachine": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "snowman": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "santabeard": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "attire.snowman.helmet": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmas.window.garland": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "xmasdoorwreath": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "autoturret": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "flameturret": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "ammo.rocket.sam": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "explosives": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "gunpowder": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "lowgradefuel": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "tool.binoculars": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "explosive.timed": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rf.detonator": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fishingrod.handmade": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 100,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "flare": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "flashlight.held": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "handcuffs": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hosetool": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "largemedkit": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "syringe.medical": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 100,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "metal.detector": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rf_pager": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pipetool": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "building.planner": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "grenade.smoke": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spraycan": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "surveycharge": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wiretool": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.cockpit": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.cockpit.armored": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.cockpit.with.engine": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.engine": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.flatbed": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.passengers.armored": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.rear.seats": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.storage": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.1mod.taxi": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.2mod.camper": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.2mod.flatbed": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.2mod.fuel.tank": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "vehicle.2mod.passengers": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "boombox": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.boomboxportable": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "cassette": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "cassette.medium": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "cassette.short": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "fun.casetterecorder": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "discoball": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "discofloor": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "connected.speaker": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "laserlight": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "megaphone": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "microphonestand": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mobilephone": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "soundlight": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "telephone": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "wallpaper": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.extendedmags": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.flashlight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.gascompressionovedrive": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.holosight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.lasersight": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.muzzleboost": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.muzzlebrake": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.simplesight": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.silencer": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "weapon.mod.small.scope": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rifle.ak": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rifle.ak.ice": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bandage": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "grenade.beancan": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rifle.bolt": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bone.club": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "knife.bone": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bow.hunting": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "chainsaw": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "salvaged.cleaver": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bow.compound": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "crossbow": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shotgun.double": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 200,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.eoka": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "grenade.f1": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "flamethrower": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "grenade.flashbang": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hammer": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hatchet": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "revolver.hc": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hmlmg": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "homingmissile.launcher": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "knife.combat": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "mace": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "machete": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "grenade.molotov": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smg.mp5": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.nailgun": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "paddle": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pickaxe": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shotgun.waterpipe": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.python": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.revolver": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 50,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rock": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rocket.launcher": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "axe.salvaged": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "hammer.salvaged": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "icepick.salvaged": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "explosive.satchel": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "shotgun.pump": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "pistol.semiauto": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "rifle.semiauto": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smg.2": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "speargun": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "stonehatchet": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "stone.pickaxe": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spear.stone": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "longsword": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "salvaged.sword": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "smg.thompson": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "toolgun": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "torch": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "bucket.water": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "spear.wooden": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "horse.armor.roadsign": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "horse.armor.wood": {
+      "defaultBP": true,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "horse.saddlebag": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "horse.shoes.advanced": {
+      "defaultBP": false,
+      "canResearch": true,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "horse.shoes.basic": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "draculacape": {
+      "defaultBP": false,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    },
+    "frankensteintable": {
+      "defaultBP": true,
+      "canResearch": false,
+      "scrapRequired": 0,
+      "unlockMinutesAfterWipe": -1,
+      "autoUnlockMinutesAfterWipe": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Талисманы": [
+    {
+      "Позиция на экране в меню (начиная с 1)": 1,
+      "Название талисмана": "Талисман носорога",
+      "Скин талисмана": 2082320181,
+      "Группа с привилегией талисмана": "talsv2_metabolism",
+      "Время действия талисмана (команды) в часах": 6,
+      "Контейнер и процент вероятности спавна там талисмана": {
+        "assets/bundled/prefabs/radtown/crate_elite.prefab": 20.0,
+        "assets/bundled/prefabs/radtown/crate_normal.prefab": 10.0,
+        "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": 100.0,
+		"assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": 100.0,
+        "assets/prefabs/misc/supply drop/supply_drop.prefab": 20.0,
+        "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": 30.0
+      },
+      "Выпадающие предметы при переработке талисмана": {
+        "gunpowder": "200|500|10|A|1"
+      },
+      "Картинка с активным талисманом": "https://i.imgur.com/D1HlHqj.png",
+      "Картинка с неактивным талисманом": "https://i.imgur.com/0c9HttF.png"
+    },
+    {
+      "Позиция на экране в меню (начиная с 1)": 2,
+      "Название талисмана": "Талисман быка",
+      "Скин талисмана": 2082322192,
+      "Группа с привилегией талисмана": "talsv2_backpack",
+      "Время действия талисмана (команды) в часах": 6,
+      "Контейнер и процент вероятности спавна там талисмана": {
+        "assets/bundled/prefabs/radtown/crate_elite.prefab": 20.0,
+        "assets/bundled/prefabs/radtown/crate_normal.prefab": 10.0,
+        "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": 100.0,
+		"assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": 100.0,
+        "assets/prefabs/misc/supply drop/supply_drop.prefab": 20.0,
+        "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": 30.0
+      },
+      "Выпадающие предметы при переработке талисмана": {
+        "gunpowder": "200|500|10|A|1"
+      },
+      "Картинка с активным талисманом": "https://i.imgur.com/jp2pcQc.png",
+      "Картинка с неактивным талисманом": "https://i.imgur.com/4X7mqwx.png"
+    },
+    {
+      "Позиция на экране в меню (начиная с 1)": 3,
+      "Название талисмана": "Талисман хамелеона",
+      "Скин талисмана": 2082323231,
+      "Группа с привилегией талисмана": "talsv2_skins",
+      "Время действия талисмана (команды) в часах": 24,
+      "Контейнер и процент вероятности спавна там талисмана": {
+        "assets/bundled/prefabs/radtown/crate_elite.prefab": 20.0,
+        "assets/bundled/prefabs/radtown/crate_normal.prefab": 10.0,
+        "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": 100.0,
+		"assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": 100.0,
+        "assets/prefabs/misc/supply drop/supply_drop.prefab": 20.0,
+        "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": 30.0
+      },
+      "Выпадающие предметы при переработке талисмана": {
+        "gunpowder": "200|500|10|A|1"
+      },
+      "Картинка с активным талисманом": "https://i.imgur.com/fyEf09x.png",
+      "Картинка с неактивным талисманом": "https://i.imgur.com/R0BzaNC.png"
+    },
+    {
+      "Позиция на экране в меню (начиная с 1)": 4,
+      "Название талисмана": "Талисман кролика",
+      "Скин талисмана": 2082324429,
+      "Группа с привилегией талисмана": "talsv2_crafting",
+      "Время действия талисмана (команды) в часах": 3,
+      "Контейнер и процент вероятности спавна там талисмана": {
+        "assets/bundled/prefabs/radtown/crate_elite.prefab": 20.0,
+        "assets/bundled/prefabs/radtown/crate_normal.prefab": 10.0,
+        "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": 100.0,
+		"assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": 100.0,
+        "assets/prefabs/misc/supply drop/supply_drop.prefab": 20.0,
+        "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": 30.0
+      },
+      "Выпадающие предметы при переработке талисмана": {
+        "gunpowder": "200|500|10|A|1"
+      },
+      "Картинка с активным талисманом": "https://i.imgur.com/QqrXmmB.png",
+      "Картинка с неактивным талисманом": "https://i.imgur.com/QVSCx7O.png"
+    },
+    {
+      "Позиция на экране в меню (начиная с 1)": 5,
+      "Название талисмана": "Талисман петуха",
+      "Скин талисмана": 2082324977,
+      "Группа с привилегией талисмана": "talsv2_raidalert",
+      "Время действия талисмана (команды) в часах": 24,
+      "Контейнер и процент вероятности спавна там талисмана": {
+        "assets/bundled/prefabs/radtown/crate_elite.prefab": 20.0,
+        "assets/bundled/prefabs/radtown/crate_normal.prefab": 10.0,
+        "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": 100.0,
+		"assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": 100.0,
+        "assets/prefabs/misc/supply drop/supply_drop.prefab": 20.0,
+        "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": 30.0
+      },
+      "Выпадающие предметы при переработке талисмана": {
+        "gunpowder": "200|500|10|A|1"
+      },
+      "Картинка с активным талисманом": "https://i.imgur.com/FtmjP2E.png",
+      "Картинка с неактивным талисманом": "https://i.imgur.com/nqdP6VL.png"
+    }
+  ]
+}

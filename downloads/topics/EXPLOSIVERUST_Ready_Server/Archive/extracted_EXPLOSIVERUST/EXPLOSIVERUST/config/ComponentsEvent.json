@@ -1,0 +1,49 @@
+{
+  "Основные настройки": {
+    "Включить автоматичесский старт ивента?": true,
+    "Включить ли минимальное количество игроков для старта ивента?": false,
+    "Минимальное количество игроков для старта ивента": 5,
+    "Время для начала ивента после старта сервера, перезагрузки плагина (первый раз)": 5400.0,
+    "Время для начала ивента в последующие разы (второй, третий и тд)": 5400.0,
+    "Время до конца ивента (в минутах)": 15.0
+  },
+  "Настройки доступа": {
+    "Название пермишна для использования команды /componentsevent (с приставкой ComponentsEvent)": "ComponentsEvent.Use"
+  },
+  "Настройки очков": {
+    "Настройки очков за бочки": {
+      "loot_barrel_1": 20,
+      "loot_barrel_2": 20,
+      "loot-barrel-1": 20,
+      "loot-barrel-2": 20,
+      "oil_barrel": 10
+    },
+    "Настройки очков за лут ящиков": {
+      "bradley_crate": 10,
+      "codelockedhackablecrate": 30,
+      "codelockedhackablecrate_oilrig": 20,
+      "crate_basic": 20,
+      "crate_elite": 20,
+      "crate_mine": 10,
+      "crate_normal": 20,
+      "crate_normal_2": 20,
+      "crate_normal_2_food": 10,
+      "crate_normal_2_medical": 20,
+      "crate_tools": 10,
+      "crate_underwater_advanced": 20,
+      "crate_underwater_basic": 10,
+      "heli_crate": 10,
+      "loot_barrel_1": 20,
+      "loot_barrel_2": 20,
+      "loot-barrel-1": 20,
+      "loot-barrel-2": 20,
+      "oil_barrel": 20
+    },
+    "XP за 1 место": 15,
+    "XP за 2 место": 10,
+    "XP за 3 место": 5
+  },
+  "Дополнительные настройки": {
+    "Цвет выделения текста в интерфейсе": "#CF1E1E"
+  }
+}

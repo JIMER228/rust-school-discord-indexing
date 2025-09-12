@@ -1,0 +1,23 @@
+{
+  "formataddlvl": "/addlvl <lvl> <nickname / steamid>\n con.addlvl <lvl> <nickname / steamid>",
+  "formatsetlvl": "/setlvl <lvl> <nickname / steamid>\n con.setlvl <lvl> <nickname / steamid>",
+  "formatresetlvl": "/resetlvl <nickname / steamid>\n con.resetlvl <nickname / steamid>",
+  "formatshowone": "/showone <nickname / steamid>\n con.showone <nickname / steamid>",
+  "formataddxp": "/addxp <points> <nickname/ steamid>\n con.addxp <points> <nickname / steamid>",
+  "StringFormat": "String format:\n <color=orange>{0}</color>",
+  "NoPlayers": "No players found!",
+  "LevelValidNum": "Level needs to be positive number!",
+  "PageValidNum": "Page needs to be positive number!",
+  "LevelLimit": "<color=orange>Error!</color> Player can reach maximum level with that number. Current players level: <color=orange>{0}</color>",
+  "AddLevelSuccess": "New level of player <color=orange>{0}</color>: <color=orange>{1}</color>",
+  "PointsValidNum": "The number of points must be positive!",
+  "AddXpSuccess": "Player <color=orange>{0}</color> got <color=orange>{1} XP</color>",
+  "ResetLevelSuccess": "Player <color=orange>{0}</color> successfully were reseted!",
+  "FormatValidLevel": "This level can't be set to player. Valid values: <color=orange>1 < x < {0}</color>",
+  "SetLevelSuccess": "Player <color=orange>{0}</color> got lvl: <color=orange>{1}</color>",
+  "ShowOneSuccess": "Player <color=orange>{0}</color> has: <color=#24C63D>{1}</color> LVL and <color=#3E82D0>{2}</color> XP",
+  "ListPlayers": "List of online players",
+  "ChangePage": "Change page: showall <page>",
+  "Page": "Page",
+  "CheckConsole": "<color=orange>Check your console!</color>"
+}

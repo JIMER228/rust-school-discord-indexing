@@ -1,0 +1,82 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "",
+    "Текст на второй строке": "",
+    "Название сервера": "<color=#FFB02E>COOKIE RUST</color>"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('1594' - на 1594 секунд вперёд, '-1594' на 1594 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "2000": [
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "7200": [
+        "flamethrower",
+        "bucket.helmet",
+        "riot.helmet"
+      ],
+      "10800": [
+        "pistol.python",
+        "pistol.semiauto",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt"
+      ],
+      "21600": [
+        "shotgun.pump",
+        "shotgun.spas12",
+        "pistol.m92",
+        "smg.2",
+        "smg.thompson",
+        "rifle.semiauto",
+        "smg.mp5"
+      ],
+      "43200": [
+        "grenade.f1",
+        "grenade.beancan",
+        "surveycharge"
+      ],
+      "86400": [
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.lr300",
+        "metal.facemask",
+        "metal.plate.torso",
+        "explosive.satchel",
+        "rifle.m39"
+      ],
+      "129600": [
+        "ammo.rifle.explosive",
+        "ammo.rocket.basic",
+        "ammo.rocket.fire",
+        "ammo.rocket.hv",
+        "rocket.launcher",
+        "explosive.timed"
+      ],
+      "144000": [
+        "lmg.m249",
+        "rifle.l96",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Weapon": "ОРУЖИЯ",
+      "Ammunition": "БОЕПРИПАСОВ",
+      "Medical": "МЕДИЦИНЫ",
+      "Food": "ЕДЫ",
+      "Traps": "ЛОВУШЕК",
+      "Tool": "ИНСТРУМЕНТОВ",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Component": "КОМПОНЕНТОВ",
+      "Misc": "ПРОЧЕГО",
+      "Attire": "ОДЕЖДЫ"
+    }
+  },
+  "Включить поддержку экспериментальных функций": true
+}

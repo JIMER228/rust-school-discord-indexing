@@ -1,0 +1,322 @@
+{
+  "Name": "Default",
+  "SchemaVersion": 2.0,
+  "MonumentData": {
+    "compound": {
+      "Entities": [
+        {
+          "Id": "77e40b4b-92ad-4b40-9bc4-e4997c1ab3bd",
+          "PrefabName": "assets/bundled/prefabs/static/recycler_static.prefab",
+          "Position": {
+            "x": -4.22176743,
+            "y": 0.2499237,
+            "z": 5.08112049
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 269.608765,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c66ac589-d0f2-41f1-b16b-708ffc44b2f3",
+          "PrefabName": "assets/bundled/prefabs/static/recycler_static.prefab",
+          "Position": {
+            "x": -4.27074957,
+            "y": 0.2499237,
+            "z": 2.14318538
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 268.909454,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "0d8e4f23-fe15-4922-b7f7-57d96e244cdd",
+          "PrefabName": "assets/bundled/prefabs/static/recycler_static.prefab",
+          "Position": {
+            "x": -6.60663652,
+            "y": 0.249938965,
+            "z": -1.27187872
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0181274414,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "863f8f42-b859-4a98-a7fb-37da48232cd1",
+          "PrefabName": "assets/prefabs/deployable/water catcher/water_catcher_small.prefab",
+          "Position": {
+            "x": -3.96345067,
+            "y": 0.243759155,
+            "z": 14.4369173
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 126.052292,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "ed0a4170-2102-4bfe-a6fb-ca29484258a5",
+          "PrefabName": "assets/bundled/prefabs/static/recycler_static.prefab",
+          "Position": {
+            "x": -25.4053745,
+            "y": 1.75022888,
+            "z": 11.3324776
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 267.171234,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "8933c710-2cb0-4459-ae96-4e2142889b85",
+          "PrefabName": "assets/bundled/prefabs/static/chair.static.prefab",
+          "Position": {
+            "x": -25.5770035,
+            "y": 1.75022888,
+            "z": 13.02339
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 267.331116,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "2176ed19-6706-4fb6-a83b-e17325afa32f",
+          "PrefabName": "assets/bundled/prefabs/static/chair.static.prefab",
+          "Position": {
+            "x": -27.4063778,
+            "y": 1.75022888,
+            "z": 7.894629
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 358.040375,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "4548fd9d-c4ec-4749-a4a7-6553c0f8a5f5",
+          "PrefabName": "assets/bundled/prefabs/static/chair.static.prefab",
+          "Position": {
+            "x": -32.2049866,
+            "y": 1.75022888,
+            "z": 8.028339
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 14.5238647,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "4cf2ec80-691f-4ad4-88de-f71decb781eb",
+          "PrefabName": "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_tools.prefab",
+          "Position": {
+            "x": 6.5625,
+            "y": 0.2784958,
+            "z": -2.194674
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 180.258148,
+            "z": 0.0
+          },
+          "VendingProfile": {
+            "ShopName": "Tools & Stuff",
+            "Offers": [
+              {
+                "SellItem": {
+                  "ShortName": "locker",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 50
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "cctv.camera",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 40
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "shovel",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 75
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "hat.miner",
+                  "Amount": 1,
+                  "Capacity": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 45
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "smallbackpack",
+                  "Amount": 1,
+                  "Capacity": 12
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 35
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "rifle.semiauto",
+                  "Amount": 1,
+                  "Ammo": 6,
+                  "AmmoType": "ammo.rifle",
+                  "Capacity": 4
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 200
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "pistol.semiauto",
+                  "Amount": 1,
+                  "Ammo": 4,
+                  "AmmoType": "ammo.pistol",
+                  "Capacity": 4
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 125
+                }
+              }
+            ]
+          }
+        },
+        {
+          "Id": "f78a937d-c479-4fb3-86d6-778ca22ee9fc",
+          "PrefabName": "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_tools.prefab",
+          "Position": {
+            "x": 28.71753,
+            "y": 1.49288559,
+            "z": -22.8374882
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 358.4795,
+            "z": 0.0
+          },
+          "VendingProfile": {
+            "ShopName": "Tools & Stuff",
+            "Offers": [
+              {
+                "SellItem": {
+                  "ShortName": "smart.alarm",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 120
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "industrial.wall.light",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 20
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "industrial.wall.light.green",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 20
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "industrial.wall.light.red",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 20
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "electric.battery.rechargable.medium",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 75
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "torchholder",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 5
+                }
+              },
+              {
+                "SellItem": {
+                  "ShortName": "dropbox",
+                  "Amount": 1
+                },
+                "CurrencyItem": {
+                  "ShortName": "scrap",
+                  "Amount": 45
+                }
+              }
+            ]
+          }
+        },
+        {
+          "Id": "b642e5a4-e21f-4c9c-ac16-5c0b924438d4",
+          "PrefabName": "assets/prefabs/misc/trophy/trophy.deployed.prefab",
+          "Position": {
+            "x": -7.32571936,
+            "y": 1.0136795,
+            "z": 12.4269857
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 236.921539,
+            "z": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

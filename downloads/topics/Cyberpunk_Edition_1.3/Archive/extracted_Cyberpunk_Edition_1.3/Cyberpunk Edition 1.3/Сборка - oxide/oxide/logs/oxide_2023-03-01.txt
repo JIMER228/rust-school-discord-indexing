@@ -1,0 +1,509 @@
+20:03 [Info] Loading Oxide Core v2.0.4050...
+20:03 [Info] Loading extensions...
+20:03 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+20:03 [Info] Loaded extension Chaos v1.0.7 by k1lly0u
+20:03 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+20:03 [Info] Loaded extension RustEdit v1.0.41 by k1lly0u
+20:03 [Info] [InKernel] Debug -> False
+20:03 [Info] [InExtension] Install -> InCore.Interception.dll
+20:03 [Info] [InExtension] Install -> InCore.Kernel.dll
+20:03 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+20:03 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+20:03 [Info] Loaded extension Rust v2.0.5758 by Oxide Team and Contributors
+20:03 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:03 [Info] Unity version: 2019.4.7f1
+20:03 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:03 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:03 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:03 [Info] Using Covalence provider for game 'Rust'
+20:03 [Info] Loading plugins...
+20:03 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+20:03 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+20:03 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+20:03 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+20:03 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+20:03 [Info] Loaded plugin Rust v2.0.5758 by Oxide Team and Contributors
+20:03 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:03 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:03 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:03 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+20:03 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+20:03 [Info] Added '// Reference: Tags' in plugin 'uCore'
+20:03 [Info] AAlertRaid, AdminESP, Backpack, BattlePass, BetterNpc, BossMonster, Broadcast, Cases, Clans, Convoy, CopyPaste, CraftMenu, Delamain, EconomicsEvo, Expedition, FCalandar, FMenu, FShop, FSocial, Farmer, FragmentSystem, Friends, GameStoresRUST, HitMarkersRu, IQChat, IQReportSystem, ImageLibrary, InfoMenu, Kits, LegendaryBeasts, MenuSystem, Metabolism, NpcSpawn, PNPCUI, PermView, PermissionSystem, PermissionsManager, PersonalNPC, PlaceAnything, RustPanel, SkillTree, StaticButtons, StatisticsRu, Teleportation, TimedPermissions, Trade, Vanish, VehileShop, WipeBlock, XSkinMenu, ZetaDeathAnoncer, kryBuild, kryHealthBar, kryIncreaseWeapons, DiscordApi, MultiFighting, SimpleWhiteList, StacksExtended and uCore were compiled successfully in 0ms
+20:03 [Info] InCompiledAssemblyPatch
+20:03 [Warning] A plugin has polluted the global namespace by defining <Module>
+20:04 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+20:04 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+20:04 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+20:04 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+20:04 [Warning] A plugin has polluted the global namespace by defining ExtensionMethods
+20:04 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+20:04 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+20:04 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+20:04 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+20:04 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+20:04 [Warning] A plugin has polluted the global namespace by defining Tokens
+20:04 [Warning] A plugin has polluted the global namespace by defining UserData
+20:04 [Warning] A plugin has polluted the global namespace by defining Users
+20:04 [Warning] A plugin has polluted the global namespace by defining Steam
+20:04 [Warning] A plugin has polluted the global namespace by defining Response
+20:04 [Warning] A plugin has polluted the global namespace by defining Error
+20:04 [Warning] A plugin has polluted the global namespace by defining Params
+20:04 [Warning] A plugin has polluted the global namespace by defining Serialize
+20:04 [Warning] A plugin has polluted the global namespace by defining Converter
+20:04 [Warning] A plugin has polluted the global namespace by defining Helpers
+20:04 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`3
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType3`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType4`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType5
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType6`1
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType7`1
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType8`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType9`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType10`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType11`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType12`4
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType13`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType14`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType15`2
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType16`3
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType17`1
+20:04 [Warning] A plugin has polluted the global namespace by defining <>__AnonType18`1
+20:04 [Info] Loaded plugin AAlertRaid v0.0.73 by Fermens
+20:04 [Info] Loaded plugin AdminESP v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Backpack v1.0.1 by Netrunner
+20:04 [Info] Loaded plugin BattlePass v0.1.0 by Netrunner
+20:04 [Info] Loaded plugin BetterNpc v1.1.8 by KpucTaJl
+20:04 [Info] Loaded plugin BossMonster v2.0.3 by KpucTaJl
+20:04 [Info] Loaded plugin Broadcast v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin Cases v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Clans v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Convoy v2.2.0 by Adem
+20:04 [Info] Loaded plugin Copy Paste v4.1.33 by misticos
+20:04 [Info] Loaded plugin CraftMenu v1.1.4 by David
+20:04 [Info] Loaded plugin Delamain v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin EconomicsEvo v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Expedition v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin FCalandar v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin FMenu v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin FShop v0.1.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin FSocial v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin Farmer v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin FragmentSystem v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Friends v4.0.51 by LAGZYA
+20:04 [Info] Loaded plugin GameStoresRUST v0.3.9 by HOUGAN & Sstine & rostov114 # GAMESTORES
+20:04 [Info] Loaded plugin Hit Markers v1.2.0 by Mevent
+20:04 [Warning] [IQChat] Языковой файл загружается...
+20:04 [Warning] [IQChat] Языковой файл загружен успешно
+20:04 [Info] Loaded plugin IQChat v2.14.54 by Mercury
+20:04 [Warning] [IQReportSystem] Языковой файл загружен успешно
+20:04 [Info] Loaded plugin IQReportSystem v0.2.7 by Netrunner
+20:04 [Info] Loaded plugin Image Library v2.0.60 by Absolut & K1lly0u
+20:04 [Info] Loaded plugin InfoMenu v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin Kits v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Legendary Beasts v1.1.4 by GuestMods
+20:04 [Info] Loaded plugin MenuSystem v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Metabolism v1.0.0 by Я и Я
+20:04 [Info] Loaded plugin NpcSpawn v2.4.8 by KpucTaJl
+20:04 [Info] Loaded plugin PNPCUI v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin PermView v1.1.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin PermissionSystem v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin PermissionsManager v2.0.7 by Steenamaroo
+20:04 [Info] Loaded plugin PersonalNPC v1.5.76 by walkinrey
+20:04 [Info] Loaded plugin PlaceAnything v1.0.5 by David
+20:04 [Info] Loaded plugin Rust Panel v2.1.2 by Hougan
+20:04 [Info] Loaded plugin Skill Tree v1.2.9 by imthenewguy
+20:04 [Info] Loaded plugin StaticButtons v0.1.0 by Тест
+20:04 [Info] Loaded plugin Statistics v1.0.15 by ATOM
+20:04 [Info] Loaded plugin Teleportation v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Timed Permissions v1.6.0 by LaserHydra
+20:04 [Info] Loaded plugin Trade v1.0.0 by Test
+20:04 [Info] Loaded plugin Vanish v1.0.0 by Discord: Netrunner#0115
+20:04 [Info] Loaded plugin VehileShop v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin Wipe Block v1.0.0 by Netrunner
+20:04 [Info] Loaded plugin XSkinMenu v1.0.13 by Monster
+20:04 [Info] Loaded plugin ZetaDeathAnoncer v0.1.1 by oxide
+20:04 [Info] Loaded plugin kryBuild v1.0.5 by xkrystalll
+20:04 [Info] Loaded plugin kryHealthbar v1.0.3 by xkrystalll
+20:04 [Info] Loaded plugin kryIncreaseWeapons v1.1.16 by xkrystalll
+20:04 [Warning] [DiscordApi] Please edit the config
+20:04 [Info] Unloaded plugin DiscordApi v1.0.5 by wazzzup
+20:04 [Info] Loaded plugin DiscordApi v1.0.5 by wazzzup
+20:04 [Info] [] Генерирую новый конфиг...
+20:04 [Info] Loaded plugin  v3.0.48 by Мизантроп
+20:04 [Info] Loaded plugin SimpleWhiteList v1.0.0 by xkrystalll
+20:04 [Info] Loaded plugin StacksExtended v1.3.21 by Fujikura
+20:04 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+20:05 [Info] [RustEdit] - IO data loaded and ready to be processed!
+20:05 [Info] [RustEdit] - Vending data loaded and ready to be processed!
+20:05 [Warning] [RustEdit] - No loot data found in map file
+20:05 [Warning] [RustEdit] - No APC path data found in map file
+20:05 [Warning] [RustEdit] - No vehicle data found in map file
+20:05 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+20:06 [Info] [RustEdit] - Loaded 18 custom ocean patrol path points
+20:06 [Warning] Calling 'OnTerrainInitialized' on 'StacksExtended v1.3.21' took 1513ms [GARBAGE COLLECT]
+20:10 [Info] IP address from command-line: 188.40.78.240
+20:10 [Info] [RustEdit] - Checking for updates...
+20:10 [Info] [BetterNpc] File Abandoned Cabins has been loaded successfully!
+20:10 [Info] [BetterNpc] File Abandoned Military Base A has been loaded successfully!
+20:10 [Info] [BetterNpc] File Abandoned Military Base B has been loaded successfully!
+20:10 [Info] [BetterNpc] File Abandoned Military Base C has been loaded successfully!
+20:10 [Info] [BetterNpc] File Abandoned Military Base D has been loaded successfully!
+20:10 [Info] [BetterNpc] File Abandoned Supermarket has been loaded successfully!
+20:10 [Info] [BetterNpc] File Airfield has been loaded successfully!
+20:10 [Info] [BetterNpc] File Arctic Research Base has been loaded successfully!
+20:10 [Info] [BetterNpc] File Giant Excavator Pit has been loaded successfully!
+20:10 [Info] [BetterNpc] File HQM Quarry has been loaded successfully!
+20:10 [Info] [BetterNpc] File Junkyard has been loaded successfully!
+20:10 [Info] [BetterNpc] File Large Harbor has been loaded successfully!
+20:10 [Info] [BetterNpc] File Large Oil Rig has been loaded successfully!
+20:10 [Info] [BetterNpc] File Launch Site has been loaded successfully!
+20:10 [Info] [BetterNpc] File Lighthouse has been loaded successfully!
+20:10 [Info] [BetterNpc] File Military Tunnel has been loaded successfully!
+20:10 [Info] [BetterNpc] File Mining Outpost has been loaded successfully!
+20:10 [Info] [BetterNpc] File Oil Rig has been loaded successfully!
+20:10 [Info] [BetterNpc] File Oxum's Gas Station has been loaded successfully!
+20:10 [Info] [BetterNpc] File Power Plant has been loaded successfully!
+20:10 [Info] [BetterNpc] File Satellite Dish has been loaded successfully!
+20:10 [Info] [BetterNpc] File Sewer Branch has been loaded successfully!
+20:10 [Info] [BetterNpc] File Small Harbor has been loaded successfully!
+20:10 [Info] [BetterNpc] File Stone Quarry has been loaded successfully!
+20:10 [Info] [BetterNpc] File Sulfur Quarry has been loaded successfully!
+20:10 [Info] [BetterNpc] File The Dome has been loaded successfully!
+20:10 [Info] [BetterNpc] File Train Yard has been loaded successfully!
+20:10 [Info] [BetterNpc] File Water Treatment Plant has been loaded successfully!
+20:10 [Info] [BetterNpc] File Wild Swamp has been loaded successfully!
+20:10 [Info] [BetterNpc] Monument Large Harbor has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Launch Site has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Arctic Research Base has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Sewer Branch has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Abandoned Military Base C has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Airfield has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument The Dome has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Satellite Dish has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Water Treatment Plant has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Sulfur Quarry has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Stone Quarry has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument HQM Quarry has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Junkyard has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Oxum's Gas Station has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Abandoned Supermarket has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Mining Outpost has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Large Oil Rig has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Oil Rig has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Lighthouse has been successfully loaded!
+20:10 [Info] [BetterNpc] Monument Lighthouse has been successfully loaded!
+20:10 [Warning] Calling 'OnServerInitialized' on 'BetterNpc v1.1.8' took 2185ms
+20:10 [Info] [BossMonster] Loading files on the /oxide/data/BossMonster/Bosses/ path has started...
+20:10 [Info] [BossMonster] File Clown has been loaded successfully!
+20:10 [Info] [BossMonster] File Evil has been loaded successfully!
+20:10 [Info] [BossMonster] File Franken has been loaded successfully!
+20:10 [Info] [BossMonster] File Frankenstein has been loaded successfully!
+20:10 [Info] [BossMonster] File Heavy has been loaded successfully!
+20:10 [Info] [BossMonster] File Horror has been loaded successfully!
+20:10 [Info] [BossMonster] File Jason has been loaded successfully!
+20:10 [Info] [BossMonster] File Michael Myers has been loaded successfully!
+20:10 [Info] [BossMonster] File Raptor has been loaded successfully!
+20:10 [Info] [BossMonster] File Scary has been loaded successfully!
+20:10 [Info] [BossMonster] Loading files on the /oxide/data/BossMonster/CustomMap/ path has started...
+20:10 [Info] [BossMonster] File Example has been loaded successfully!
+20:10 [Warning] Calling 'OnServerInitialized' on 'BossMonster v2.0.3' took 180ms
+20:10 [Error] [Cases] Matching item IDs found (Cases): 11, 54, 31, 29, 27, 28, 26, 25, 24, 23
+20:10 [Error] [Cases] Items with the same ID found 11
+20:10 [Error] [Cases] Items with the same ID found 11
+20:10 [Error] [Cases] Items with the same ID found 11
+20:10 [Error] [Cases] Items with the same ID found 31
+20:10 [Error] [Cases] Items with the same ID found 54
+20:10 [Error] [Cases] Items with the same ID found 27
+20:10 [Error] [Cases] Items with the same ID found 29
+20:10 [Error] [Cases] Items with the same ID found 26
+20:10 [Error] [Cases] Items with the same ID found 28
+20:10 [Error] [Cases] Items with the same ID found 23
+20:10 [Error] [Cases] Items with the same ID found 25
+20:10 [Error] [Cases] Items with the same ID found 24
+20:10 [Info] [Clans] Loaded 0 clans!
+20:10 [Info] [CraftMenu] (!) Stored Images (0/53). Reload ImageLibrary and then CraftMenu plugin to start download order.
+20:10 [Warning] [EconomicsEvo] Init
+20:10 [Warning] [EconomicsEvo] Начата обработка валюты ЕВРОДОЛЛАРЫ
+20:10 [Error] [EconomicsEvo] Данные валюты ЕВРОДОЛЛАРЫ не обнаружены. Будут созданы новые данные
+20:10 [Warning] [EconomicsEvo] Начата обработка валюты РЕПУТАЦИЯ
+20:10 [Error] [EconomicsEvo] Данные валюты РЕПУТАЦИЯ не обнаружены. Будут созданы новые данные
+20:10 [Warning] [FCalandar] Global wipe:2 Thursday
+20:10 [Warning] [FCalandar] First wipe:4 Saturday
+20:10 [Warning] FMenu has replaced the 'kit' chat command previously registered by Kits
+20:10 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+20:10 [Warning] [IQChat] Permissions - completed
+20:10 [Warning] [Image Library] Waiting for Steamworks to update item definitions....
+20:10 [Info] [NpcSpawn] Points found in the biome Tundra: 918
+20:10 [Info] [NpcSpawn] Points found in the biome Temperate: 1671
+20:10 [Info] [NpcSpawn] Points found in the biome Arid: 541
+20:10 [Info] [NpcSpawn] Points found in the biome Arctic: 867
+20:10 [Info] [Skill Tree] Blueprint count: 469
+20:10 [Warning] Missing plugin name prefix 'statisticsru' for permission 'statistics.use' (by plugin 'Statistics')
+20:10 [Warning] Missing plugin name prefix 'statisticsru' for permission 'statistics.hide' (by plugin 'Statistics')
+20:10 [Warning] Calling 'OnServerInitialized' on 'XSkinMenu v1.0.13' took 214ms
+20:10 [Info] [kryHealthbar] Plugin was loaded!
+20:10 [Warning] [SimpleWhiteList] Whitelist marked as disabled.
+20:10 [Info] [StacksExtended] Created stacksize file with '751' items
+20:10 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.21' took 842ms
+20:10 [Info] [uCore] Загружаю базу данных...
+20:10 [Info] [uCore] Создаем базу, если не существует...
+20:10 [Info] [uCore] База данных загружена...
+20:10 [Info] [RustEdit] - The RustEdit extension is up to date!
+20:10 [Error] [Image Library] There was a error querying Steam for workshop item data : Code (400)
+20:10 [Info] [Skill Tree] Loaded all images for SkillTree.
+20:10 [Error] [Rust Panel] Can't connect to control panel
+20:10 [Error] [Rust Panel] Reason: 
+20:10 [Warning] [Rust Panel] Check plugin configuration, and reload plugin "o.reload RustPanel"
+20:10 [Info] [uCore] База загружена
+20:10 [Warning] [EconomicsEvo] Картинка валюты eddie загружена(https://ztreh.ru/CyberPunk/tcTqHaw.png)
+20:10 [Warning] [EconomicsEvo] Картинка валюты repute загружена(https://ztreh.ru/CyberPunk/VF6wJ9O.png)
+20:10 [Warning] [GameStoresRUST] -----------------------------
+20:10 [Warning] [GameStoresRUST]  GameStores 0.3.9 (c) 2022
+20:10 [Warning] [GameStoresRUST]       Initialized - OK
+20:10 [Warning] [GameStoresRUST] -----------------------------
+20:10 [Error] Failed to call hook 'OnDiscordGatewayReady' on plugin 'AAlertRaid v0.0.73' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.AAlertRaid.OnDiscordGatewayReady (Oxide.Ext.Discord.Entities.Gatway.Events.GatewayReadyEvent ready) [0x00019] in <2bea3485addb43ccbee08466e1851e36>:0 
+  at Oxide.Plugins.AAlertRaid.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0027f] in <2bea3485addb43ccbee08466e1851e36>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:10 [Info] [BetterNpc] File module_1200x1200_1way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1200_1way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1200_3way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1200_3way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1200_4way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1200_4way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x1800_2way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1200x600_2way_corridor has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1500x1500_4way_lshaped has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1500x1500_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1500x1800_2way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1500x600_2way_corridor has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_1800x1800_4way_lshaped has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_2100x600_3way_corridor has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_1way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_1way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_2way_moonpool has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_3way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_3way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_4way has been loaded successfully!
+20:10 [Info] [BetterNpc] File module_900x900_4way_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] File moonpool_1200x1500_1way has been loaded successfully!
+20:10 [Info] [BetterNpc] File moonpool_1200x1500_2way has been loaded successfully!
+20:10 [Info] [BetterNpc] File moonpool_1200x1500_3way has been loaded successfully!
+20:10 [Info] [BetterNpc] File moonpool_1200x1800_ladder has been loaded successfully!
+20:10 [Info] [BetterNpc] Underwater Module moonpool_1200x1800_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module moonpool_1200x1800_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1500x600_2way_corridor has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_3way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_3way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_2100x600_3way_corridor has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_2100x600_3way_corridor has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1200x600_2way_corridor has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_3way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1200x1800_2way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1200x1200_3way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1800x1800_4way_lshaped has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1200x1200_1way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1500x1500_4way_lshaped has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_1way has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_2100x600_3way_corridor has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1500x1500_4way_lshaped has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1800x1800_4way_lshaped has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1800x1800_4way_lshaped has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_900x900_4way_ladder has been successfully loaded!
+20:10 [Info] [BetterNpc] Underwater Module module_1200x1200_4way_ladder has been successfully loaded!
+20:10 [Warning] Calling 'GetSpawnPoint' on 'NpcSpawn v2.4.8' took average 2130ms
+20:10 [Warning] Calling 'OnEntitySpawned' on 'BetterNpc v1.1.8' took average 2201ms
+20:10 [Info] [BetterNpc] File curve-ne-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-ne-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-nw-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-nw-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-se-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-se-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-sw-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File curve-sw-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File intersection-e has been loaded successfully!
+20:10 [Info] [BetterNpc] File intersection-n has been loaded successfully!
+20:10 [Info] [BetterNpc] File intersection-s has been loaded successfully!
+20:10 [Info] [BetterNpc] File intersection-w has been loaded successfully!
+20:10 [Info] [BetterNpc] File intersection has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-sn-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-sn-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-sn-2 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-sn-3 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-we-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-we-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-we-2 has been loaded successfully!
+20:10 [Info] [BetterNpc] File station-we-3 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-2 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-3 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-4 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-sn-5 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-0 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-1 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-2 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-3 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-4 has been loaded successfully!
+20:10 [Info] [BetterNpc] File straight-we-5 has been loaded successfully!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-1 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-1 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-we-3 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-we-0 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-5 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-0 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-4 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-we-3 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-we-4 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-we-2 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-we-0 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-we-3 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-5 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-sn-3 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module station-we-3 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-we-4 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-0 has been successfully loaded!
+20:10 [Info] [BetterNpc] Tunnel Module straight-sn-4 has been successfully loaded!
+20:10 [Error] Failed to run a 5.00 timer in 'AAlertRaid v0.0.73' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.AAlertRaid.<CreateClient>m__0 () [0x0002d] in <2bea3485addb43ccbee08466e1851e36>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.FireCallback () [0x00018] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:10 [Info] [RustEdit] - Processing 1 IO entities
+20:10 [Info] [RustEdit] - Successfully connected 1 IO links
+20:10 [Info] [RustEdit] - No custom vending machines found in map
+20:10 [Info] [RustEdit] - 2 loot containers processed!
+20:10 [Info] [RustEdit] - 0 resource entities processed!
+20:10 [Info] [RustEdit] - 2 junkpiles processed!
+20:10 [Info] [RustEdit] - Created 2 NPC spawn handlers!
+20:10 [Info] [Image Library] Starting order Cases
+20:10 [Info] [BetterNpc] File AirDrop has been loaded successfully!
+20:10 [Info] [BetterNpc] File Bradley has been loaded successfully!
+20:10 [Info] [BetterNpc] File CH47 has been loaded successfully!
+20:10 [Info] [BetterNpc] File Helicopter has been loaded successfully!
+20:10 [Info] [Image Library] Starting order Clans
+20:10 [Info] [BetterNpc] File ExtraNarrow has been loaded successfully!
+20:10 [Info] [BetterNpc] File ExtraWide has been loaded successfully!
+20:10 [Info] [BetterNpc] File Standard has been loaded successfully!
+20:10 [Info] [BetterNpc] File Arctic has been loaded successfully!
+20:10 [Info] [BetterNpc] File Arid has been loaded successfully!
+20:10 [Info] [BetterNpc] File Temperate has been loaded successfully!
+20:10 [Info] [BetterNpc] File Tundra has been loaded successfully!
+20:10 [Warning] [IQChat] Интерфейс успешно загружен!
+20:10 [Warning] [Image Library] Retrieving item skin lists...
+20:11 [Warning] [Image Library] Processing approved skins; Page 1/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 2/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 3/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 4/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 5/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 6/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 7/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 8/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 9/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 10/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 11/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 12/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 13/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 14/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 15/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 16/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 17/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 18/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 19/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 20/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 21/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 22/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 23/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 24/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 25/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 26/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 27/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 28/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 29/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 30/36
+20:11 [Info] [Image Library] Starting order Statistics
+20:11 [Warning] [Image Library] Processing approved skins; Page 31/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 32/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 33/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 34/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 35/36
+20:11 [Warning] [Image Library] Processing approved skins; Page 36/36
+20:11 [Info] [Image Library] Approved skins loaded
+20:16 [Info] [Friends] Произошло сохранение даты!
+20:22 [Info] [Friends] Произошло сохранение даты!
+20:28 [Info] [Friends] Произошло сохранение даты!
+20:33 [Error] [] Steam API key not entered in the config!
+20:34 [Info] [Friends] Произошло сохранение даты!
+20:36 [Warning] [EconomicsEvo] ЕВРОДОЛЛАРЫ Имеет 0 записей
+20:36 [Warning] [EconomicsEvo] Добавлен игрок в валюту ЕВРОДОЛЛАРЫ со стартовым значением 100
+20:36 [Warning] [EconomicsEvo] РЕПУТАЦИЯ Имеет 0 записей
+20:36 [Warning] [EconomicsEvo] Добавлен игрок в валюту РЕПУТАЦИЯ со стартовым значением 1
+20:36 [Warning] [EconomicsEvo] игроку Doctor  120fps рейты валюту установлены на 1
+20:36 [Warning] [EconomicsEvo] Start init Doctor  120fps
+20:36 [Warning] [Expedition] 4
+20:36 [Warning] [PermissionSystem] Player Doctor  120fps Inited
+20:36 [Warning] [PermissionSystem] Player 127 Inited
+20:36 [Error] [] Doctor  120fps зашел без GameWer
+20:38 [Warning] [EconomicsEvo] AddBalanceByID
+20:38 [Warning] [EconomicsEvo] No player
+20:39 [Info] [IQChat] Doctor  120fps(76561199265939696): админы вы тут
+20:40 [Info] [Friends] Произошло сохранение даты!
+20:46 [Info] [Friends] Произошло сохранение даты!
+20:52 [Info] [Friends] Произошло сохранение даты!
+20:58 [Info] [Friends] Произошло сохранение даты!
+21:04 [Info] [Friends] Произошло сохранение даты!
+21:10 [Info] [Friends] Произошло сохранение даты!
+21:16 [Info] [Friends] Произошло сохранение даты!
+21:22 [Info] [Friends] Произошло сохранение даты!
+21:28 [Info] [Friends] Произошло сохранение даты!
+21:34 [Info] [Friends] Произошло сохранение даты!
+21:40 [Info] [Friends] Произошло сохранение даты!
+21:46 [Info] [Friends] Произошло сохранение даты!
+21:52 [Info] [Friends] Произошло сохранение даты!
+21:58 [Info] [Friends] Произошло сохранение даты!
+22:05 [Info] [Friends] Произошло сохранение даты!
+22:11 [Info] [Friends] Произошло сохранение даты!
+22:17 [Info] [Friends] Произошло сохранение даты!
+22:23 [Info] [Friends] Произошло сохранение даты!
+22:29 [Info] [Friends] Произошло сохранение даты!
+22:35 [Info] [Friends] Произошло сохранение даты!
+22:41 [Info] [Friends] Произошло сохранение даты!
+22:47 [Info] [Friends] Произошло сохранение даты!
+22:53 [Info] [Friends] Произошло сохранение даты!
+22:59 [Info] [Friends] Произошло сохранение даты!
+23:05 [Info] [Friends] Произошло сохранение даты!
+23:11 [Info] [Friends] Произошло сохранение даты!
+23:15 [Info] [Convoy] The event has begun
+23:17 [Info] [Friends] Произошло сохранение даты!
+23:23 [Info] [Friends] Произошло сохранение даты!
+23:29 [Info] [Friends] Произошло сохранение даты!
+23:35 [Info] [Friends] Произошло сохранение даты!
+23:41 [Info] [Friends] Произошло сохранение даты!
+23:47 [Info] [Friends] Произошло сохранение даты!
+23:53 [Info] [Friends] Произошло сохранение даты!
+23:59 [Info] [Friends] Произошло сохранение даты!

@@ -1,0 +1,609 @@
+{
+  "Buoyancy Points": 
+  [
+  "(8, -0.5, 15)",
+  "(-8, -0.5, 15)",  
+  "(8, -0.5, -15)",
+  "(-8, -0.5, -15)",
+  "(-8, -0.5, 0)", 
+  "(8, -0.5, 0)"
+  ],
+  "The location of the basic building blocks (Cannot be destroyed)": [
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, -13.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, -13.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, -13.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, -13.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, -13.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, -10.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, -10.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, -10.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, -10.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, -10.31027)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, -7.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, -7.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, -7.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, -7.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, -7.310265)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, -4.310267)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, -4.310267)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, -4.310267)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, -4.310267)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, -4.310265)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, -1.310267)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, -1.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, -1.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, -1.310266)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(0, 0.879, -1.31)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, 1.689742)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, 1.689742)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, 1.689742)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, 1.689743)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, 1.689743)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, 4.689734)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, 4.689734)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, 4.689734)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, 4.689734)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, 4.689735)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, 7.689733)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, 7.689733)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, 7.689733)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, 7.689733)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, 7.689735)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, 10.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, 10.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, 10.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, 10.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, 10.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(6.000072, 0.8790482, 13.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(3.000072, 0.8790482, 13.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(7.208196E-05, 0.8790482, 13.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-2.999928, 0.8790482, 13.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor/floor.prefab",
+      "Skin": 10232,
+      "Grade [0 - 4]": 1,
+      "Position": "(-5.999928, 0.8790482, 13.68973)",
+      "Color": 0,
+      "Rotation": "(0.00, 0.00, 0.00)"
+    }
+  ],
+  "Decor Entities": [
+  ],
+  "Regular Entities" : 
+  [
+	{
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-1.393267, 0.2245655, -15.08865)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(2.285366, 0.2245655, -15.08865)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(1.462367, 0.4315708, -15.29227)",
+      "Rotation": "(90.00, 270.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-2.297461, 0.4315708, -15.29227)",
+      "Rotation": "(90.00, 270.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.360452, -0.3642318, -11.79131)",
+      "Rotation": "(270.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-7.772648, 0.2202664, -11.79131)",
+      "Rotation": "(0.00, 270.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.360452, -0.3642318, -8.384892)",
+      "Rotation": "(270.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-7.772648, 0.2202664, -8.384892)",
+      "Rotation": "(0.00, 270.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.360452, -0.3642318, -5.005666)",
+      "Rotation": "(270.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-7.772648, 0.2202664, -5.005666)",
+      "Rotation": "(0.00, 270.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, -4.846213)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568458, 0.2245655, -4.846213)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.360454, -0.3642318, -1.599256)",
+      "Rotation": "(270.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-7.772648, 0.2202702, -1.599256)",
+      "Rotation": "(0.00, 270.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568458, 0.2245655, -1.439795)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, -1.439795)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, 1.939439)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568458, 0.2245655, 1.939439)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, 5.345853)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568458, 0.2245655, 5.345853)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, 8.759723)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568458, 0.2245655, 8.759723)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-8.568, 0.225, 12.166)",
+      "Rotation": "(0.00, 90.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(8.364751, 0.4315708, 12.16614)",
+      "Rotation": "(90.00, 0.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(2.321577, 0.2245655, 16.2671)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-1.581305, 0.2245655, 16.2671)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(1.24336, 0.4315708, 16.06348)",
+      "Rotation": "(90.00, 270.00, 0.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-2.436984, 0.4315708, 16.06348)",
+      "Rotation": "(90.00, 270.00, 0.00)"
+    }
+  ],
+  "Box Colliders" : [
+	{
+      "Local Position": "(-8.168, -0.439, 0.178)",
+      "Local Rotation": "(0, 0, 0)",
+      "Size": "(2.400, 1.5, 35.3)"
+    },
+	{
+      "Local Position": "(8.142, -0.439, 0.178)",
+      "Local Rotation": "(0, 0, 0)",
+      "Size": "(2.4, 1.5, 35.3)"
+    },
+	{
+      "Local Position": "(0, -0.476, 16.042)",
+      "Local Rotation": "(0, 0, 0)",
+      "Size": "(15, 1.5, 2)"
+    },
+	{
+      "Local Position": "(0, -0.476, -15.653)",
+      "Local Rotation": "(0, 0, 0)",
+      "Size": "(15, 1.5, 2)"
+    },
+  ],
+  "Parent Collider Size": "(19.5, 0, 40)"
+}

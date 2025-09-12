@@ -1,0 +1,50 @@
+{
+  "Общие настройки": {
+    "Сгенерировать/Проверять и добавлять новые скины принятые разработчиками или сделаные для твич дропсов": true,
+    "Сгенерировать/Проверять и добавлять новые скины добавленные разработчиками [ К примеру скин на хазмат ]": false,
+    "Отображать кнопку для удаления всех скинов": true,
+    "Черный список скинов которые нельзя изменить. [ Например: огненные перчатки, огненный топор ]]": [
+      1742796979,
+      841106268
+    ]
+  },
+  "Меню настроект": {
+    "Иконка включенного параметра": "assets/icons/check.png",
+    "Иконка вылюченного параметра": "assets/icons/close.png",
+    "Цвет включенного параметра": "0.53 0.77 0.35 0.8",
+    "Цвет вылюченного параметра": "1 0.4 0.35 0.8"
+  },
+  "Настройка категорий": {
+    "weapon": [
+      "pistol.revolver",
+      "pistol.semiauto",
+      "pistol.python",
+      "shotgun.waterpipe",
+      "shotgun.double",
+      "shotgun.pump",
+      "grenade.f1",
+      "smg.2",
+      "smg.thompson",
+      "smg.mp5",
+      "rifle.ak",
+      "rifle.lr300",
+      "lmg.m249",
+      "rocket.launcher",
+      "rifle.semiauto",
+      "rifle.m39",
+      "rifle.bolt",
+      "rifle.l96"
+    ],
+    "construction": [
+      "wall.frame.garagedoor",
+      "door.double.hinged.toptier",
+      "door.double.hinged.metal",
+      "door.double.hinged.wood",
+      "door.hinged.toptier",
+      "door.hinged.metal",
+      "door.hinged.wood",
+      "barricade.concrete",
+      "barricade.sandbags"
+    ]
+  }
+}

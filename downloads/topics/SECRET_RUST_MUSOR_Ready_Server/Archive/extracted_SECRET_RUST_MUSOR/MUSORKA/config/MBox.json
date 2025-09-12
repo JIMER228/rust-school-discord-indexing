@@ -1,0 +1,64 @@
+{
+  "Минимальное количество игроков для запуска ивента": 1,
+  "Время до начала ивента (Минимальное в секундах)": 3600,
+  "Время до начала ивента (Максимальное в секундах)": 7200,
+  "Время открытия ящика ( в секундах )": 600,
+  "Картинка ящика в оповещениях": "https://media.discordapp.net/attachments/1060231324109119559/1070437210320556144/4545-1.png",
+  "Настройка спавна на различных РТ": [
+    {
+      "Prefab Monument ( узнать префаб можно : data/Mbox/MonumentName": "assets/bundled/prefabs/autospawn/monument/medium/junkyard_1.prefab",
+      "Название РТ": "Аэродром",
+      "Позиция относительно ширины и длины РТ": "(5, 0.3, 1)",
+      "Лут, который может выпасть на данной рт": [
+        {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "DisplayName": "Какой-то автомат"
+        },
+        {
+          "ShortName": "battery.small",
+          "Amount": 100,
+          "SkinID": 0,
+          "DisplayName": ""
+        },
+        {
+          "ShortName": "metal.fragments",
+          "Amount": 3500,
+          "SkinID": 0,
+          "DisplayName": ""
+        }
+      ]
+    },
+    {
+      "Prefab Monument ( узнать префаб можно : data/Mbox/MonumentName": "assets/bundled/prefabs/autospawn/monument/medium/junkyard_1.prefab",
+      "Название РТ": "Хуй знает че",
+      "Позиция относительно ширины и длины РТ": "(5, 0.3, 1)",
+      "Лут, который может выпасть на данной рт": [
+        {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "DisplayName": "Какой-то автомат"
+        },
+        {
+          "ShortName": "battery.small",
+          "Amount": 100,
+          "SkinID": 0,
+          "DisplayName": ""
+        },
+        {
+          "ShortName": "metal.fragments",
+          "Amount": 3500,
+          "SkinID": 0,
+          "DisplayName": ""
+        }
+      ]
+    }
+  ],
+  "Версия конфигурации": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  }
+}

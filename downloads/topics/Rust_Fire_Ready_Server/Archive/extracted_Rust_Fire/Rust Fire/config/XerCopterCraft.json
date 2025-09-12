@@ -1,0 +1,30 @@
+{
+  "Название вещи в инвентаре / The name of the item in the inventory": "Minicopter",
+  "Вещи для крафта / Things for crafting": {
+    "metalblade": 15,
+    "roadsigns": 5,
+    "gears": 3,
+    "techparts": 2,
+    "wood": 2500,
+    "metal.fragments": 5000
+  },
+  "Настройки интерфейса / Interface setting": {
+    "Сообщение если у игрока недостаточно ресурсов / Message if the player does not have enough resources": "Недостаточно ресурсов / Insufficient resources",
+    "Символ показывающий,что у игрока достаточно предметов на крафт / Symbol showing that the player has enough items to craft": "√",
+    "Title в меню / Title in menu": "Создание миникоптера / Creating a minicopter",
+    "Minicopter.png(512x512)": "https://i.imgur.com/PoeTa16.png",
+    "Сообщение если у игрока нет прав / Message if the player does not have rights": "Недостаточно прав / Insufficient rights",
+    "Цвет символа(HEX) / The color of the symbol(HEX)": "#33F874FF",
+    "Сообщение когда игрок получил миникоптер / The message when a player has received minicopter": "Вы получили миникоптер / You got the minicopter",
+    "Цвет показателя,сколько необходимо еще компонентов на создание / Color of the indicator,how many more components are needed to create": "#F83232FF",
+    "Сообщение когда игрок создал миникоптер / The message when a player has created minicopter": "Миникоптер создан успешно / Minicopter created successfully",
+    "Текст в кнопке / The text in the button": "Создать / Create",
+    "Title предметов в меню / Title of items in the menu": "Список предметов,которые требуются для создания миникоптера / List of items required to create a minicopter"
+  },
+  "Миникоптер(Эту вещь игрок будет держать в руках,когда поставит - он заменится на коптер) / Minicopter(the thing the player will hold in their hands,when put - it will be replaced with the copter)": "electric.flasherlight",
+  "SkinId (Иконка в инвентаре) / SkinId (Icon in the inventory)": 1680939801,
+  "Дополнительные настройки / Other settings": {
+    "Звук при создании коптера / Sound when creating a copter": "assets/prefabs/deployable/tier 1 workbench/effects/experiment-start.prefab",
+    "Звук когда у игрока недостаточно ресурсов / Sound when the player does not have enough resources": "assets/prefabs/npc/autoturret/effects/targetlost.prefab"
+  }
+}

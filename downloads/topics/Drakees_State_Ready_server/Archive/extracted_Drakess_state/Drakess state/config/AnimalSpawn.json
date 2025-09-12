@@ -1,0 +1,17 @@
+{
+  "Ширина стороны одного квадрата сетки спавна животных (метры)": 1000,
+  "Частота возрождения животных (секунды)": 120,
+  "Минимальное расстояние от игрока до места где может заспавнится животное (метры)": 30,
+  "Максимальное количество попыток найти подходящий спавн в заданном квадрате (50-500)": 100,
+  "Допустимая величина отклонения неровности поверхности спавна": 0.5,
+  "Количество животных на один квадрат сетки (целое число)": {
+    "assets/rust.ai/agents/bear/bear.prefab": 2,
+    "assets/rust.ai/agents/boar/boar.prefab": 2,
+    "assets/rust.ai/agents/chicken/chicken.prefab": 0,
+    "assets/rust.ai/agents/horse/horse.prefab": 1,
+    "assets/rust.ai/agents/stag/stag.prefab": 2,
+    "assets/rust.ai/agents/wolf/wolf.prefab": 1,
+    "assets/rust.ai/agents/zombie/zombie.prefab": 0,
+	"assets/rust.ai/nextai/testridablehorse.prefab": 2
+  }
+}

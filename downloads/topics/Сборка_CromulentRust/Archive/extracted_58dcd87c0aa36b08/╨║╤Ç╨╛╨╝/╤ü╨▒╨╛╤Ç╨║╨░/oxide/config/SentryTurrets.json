@@ -1,0 +1,21 @@
+{
+  "Can get damage": true,
+  "Required power": 0,
+  "Authorize friends and team members": false,
+  "Authorize tc members": true,
+  "Amount of ammo for one spray (set to 0 for no-ammo mode)": 0,
+  "Range (normal turret - 30": 85,
+  "Give back on ground missing": true,
+  "Health (normal turret - 1000)": 10000.0,
+  "Aim cone (normal turret - 4)": 8.0,
+  "Пермишены : Количество": {
+    "sentryturrets.limit.standard": 5,
+    "sentryturrets.limit.vip": 10,
+    "sentryturrets.limit.premium": 15,
+    "sentryturrets.limit.deluxe": 20,
+    "sentryturrets.limit.elite": 25,
+    "sentryturrets.limit.cezar": 50,
+    "sentryturrets.limit.zeus": 100,
+    "sentryturrets.limit.vipp": 250
+  }
+}

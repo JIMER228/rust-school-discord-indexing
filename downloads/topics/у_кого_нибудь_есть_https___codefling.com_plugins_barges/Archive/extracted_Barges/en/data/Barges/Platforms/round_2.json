@@ -1,0 +1,314 @@
+{
+  "Buoyancy Points": 
+  [
+	"(-3.2, -0.5, 5.633)",
+	"(3.2, -0.5, 5.633)", 
+	"(-6.8, -0.5, 0)",
+	"(6.8, -0.5, 0)",
+	"(-3.2, -0.5, -5.633)",
+	"(3.2, -0.5, -5.633)", 
+  ],
+  "The location of the basic building blocks (Cannot be destroyed)": [
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(2.250481, 0.879, -3.896759)",
+      "Rotation": "(0.00, 240.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.249519, 0.879, -3.896759)",
+      "Rotation": "(0.00, 120.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(0, 0.879, -2.598083)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(3.000435, 0.8789466, -2.5979)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.999565, 0.8789466, -2.5979)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(0.0004806519, 0.879, -2.597839)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(3.750435, 0.8789466, -1.298859)",
+      "Rotation": "(0.00, 60.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(2.250435, 0.8789466, -1.298859)",
+      "Rotation": "(0.00, 120.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-3.749565, 0.8789466, -1.298859)",
+      "Rotation": "(0.00, 300.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.249565, 0.8789466, -1.298859)",
+      "Rotation": "(0.00, 240.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(1.500435, 0.8789466, 0.0001831055)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-1.499565, 0.8789466, 0.0001831055)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(1.500435, 0.8789466, 0.0001831055)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-1.499565, 0.8789466, 0.0001831055)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(3.750435, 0.8789466, 1.299225)",
+      "Rotation": "(0.00, 120.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(2.250435, 0.8789466, 1.299225)",
+      "Rotation": "(0.00, 60.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.249565, 0.8789466, 1.299225)",
+      "Rotation": "(0.00, 300.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-3.749565, 0.8789466, 1.299225)",
+      "Rotation": "(0.00, 240.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(0, 0.879, 2.598083)",
+      "Rotation": "(0.00, 180.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(3.000435, 0.8789466, 2.598267)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(0.0004348755, 0.8789466, 2.598267)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.999565, 0.8789466, 2.598267)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(2.250435, 0.8789466, 3.897308)",
+      "Rotation": "(0.00, 300.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    },
+    {
+      "Prefab": "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "Skin": 10232,
+      "Position": "(-2.249565, 0.8789466, 3.897308)",
+      "Rotation": "(0.00, 60.00, 0.00)",
+      "Grade [0 - 4]": 1,
+      "Color": 0
+    }
+    
+  ],
+  "Regular Entities": [
+	{
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-1.485443, 0.2240005, -5.483421)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(1.514648, 0.2239995, -6.26432)",
+      "Rotation": "(0.00, 0.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-4.674232, 0.2239986, -4.455162)",
+      "Rotation": "(0.00, 60.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(3.999573, 0.224001, -4.016891)",
+      "Rotation": "(0.00, 120.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-5.498009, 0.2240005, -1.466553)",
+      "Rotation": "(0.00, 240.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(6.175896, 0.2239995, -1.809181)",
+      "Rotation": "(0.00, 300.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-6.201881, 0.224, 1.809174)",
+      "Rotation": "(0.00, 120.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(5.472, 0.224, 1.466522)",
+      "Rotation": "(0.00, 60.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-4.025551, 0.2239995, 4.016876)",
+      "Rotation": "(0.00, 300.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(4.648239, 0.224001, 4.455132)",
+      "Rotation": "(0.00, 240.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(-1.540649, 0.224, 6.264313)",
+      "Rotation": "(0.00, 180.00, 90.00)"
+    },
+    {
+      "Prefab": "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab",
+      "Skin": 0,
+      "Position": "(1.459442, 0.224, 5.483414)",
+      "Rotation": "(0.00, 0.00, 90.00)"
+    }
+  ],
+  "Decor Entities": [],
+  "Box Colliders": [
+	{
+      "Local Position": "(-0.079, -0.475, 5.850)",
+      "Local Rotation": "(0, 90, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    },
+	{
+      "Local Position": "(-0.079, -0.475, -5.852)",
+      "Local Rotation": "(0, 90, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    },
+	{
+      "Local Position": "(5.114, -0.475, 2.826)",
+      "Local Rotation": "(0, 150, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    },
+	{
+      "Local Position": "(-5.030, -0.475, -3.030)",
+      "Local Rotation": "(0, 150, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    },
+	{
+      "Local Position": "(5.046, -0.475, -2.931)",
+      "Local Rotation": "(0, 30, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    },
+	{
+      "Local Position": "(-5.05, -0.475, 2.915)",
+      "Local Rotation": "(0, 30, 0)",
+      "Size": "(2.400, 1.3, 7)"
+    }
+  ],
+  "Parent Collider Size": "(18, 0, 0)"
+}

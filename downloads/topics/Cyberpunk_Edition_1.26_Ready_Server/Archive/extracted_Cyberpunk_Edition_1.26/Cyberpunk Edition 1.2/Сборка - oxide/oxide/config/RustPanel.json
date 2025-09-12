@@ -1,0 +1,20 @@
+{
+  "Server name for control panel": "Server #467",
+  "API URI (Do not change it!)": "https://api-rp3570.rustpanel.ru/api/plugin",
+  "API TOKEN (Do not change it!)": "17f86b10235e07ffb5a8e63ad236d992",
+  "Unique server ID (Do not change it!)": "",
+  "Command will open the GUI": "reports",
+  "Report reasons for UI": [
+    "Cheat",
+    "Macros",
+    "Bug",
+    "1+"
+  ],
+  "Report cooldown (in secs)": 1,
+  "Additional scan for in-game reports (F7)": true,
+  "Show moderator avatar, when message from control panel": true,
+  "Message from control panel format (Vars: %NAME% - moderator's name, %MSG% - message)": "<color=#B1D6F1>%NAME%</color>: %MSG%",
+  "Ban kick reason (%REASON% - ban reason, %TIME% - date of unban)": "Вы забанены на этом сервере, причина: %REASON%",
+  "Ban broadcast (%TARGET% - target name, %REASON% - reason, you can keep empty for hide message": "%TARGET% was banned for %REASON%",
+  "Direct message format (when moderator is chatting with suspected player)": "<color=orange>Сообщение от модератора:</color>\n%MSG%"
+}

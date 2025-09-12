@@ -1,0 +1,130 @@
+{
+  "Enabled? [true/false]": true,
+  "Position": "(318.5, 15.3, -903.9)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 5,
+      "Maximum numbers - Day": 7,
+      "Minimum numbers - Night": 4,
+      "Maximum numbers - Night": 6,
+      "NPCs setting": {
+        "Names": [
+          "Mercenaries"
+        ],
+        "Health": 150.0,
+        "Roam Range": 10.0,
+        "Chase Range": 500.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 40.0,
+        "Target Memory Duration [sec.]": 15.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 1.2,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": false,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "riot.helmet",
+            "SkinID (0 - default)": 787757311
+          },
+          {
+            "ShortName": "hoodie",
+            "SkinID (0 - default)": 845839465
+          },
+          {
+            "ShortName": "pants",
+            "SkinID (0 - default)": 842969736
+          },
+          {
+            "ShortName": "shoes.boots",
+            "SkinID (0 - default)": 1172088869
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "SkinID (0 - default)": 791917878
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "SkinID (0 - default)": 791908607
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "pistol.m92",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [
+              "weapon.mod.flashlight\t"
+            ]
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 3,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(5.8, -3.6, 30.8)",
+        "(14.9, -2.5, 40.6)",
+        "(12.6, -2.6, 43.1)",
+        "(11.3, 0.9, 48.4)",
+        "(13.8, 0.5, 55.4)",
+        "(15.0, 0.5, 60.6)",
+        "(18.7, 0.5, 63.2)",
+        "(17.3, 0.5, 66.4)",
+        "(10.1, 0.5, 69.2)",
+        "(12.1, 0.5, 78.6)",
+        "(15.7, 0.5, 74.2)",
+        "(22.8, 0.5, 73.5)",
+        "(9.2, 0.6, 64.8)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Avatar SteamID for chat": 0,
+  "Log the quarries received by players?": false,
+  "Maximum amount of quarries per player": 3,
+  "Maximum amount of pumpjacks per player": 1,
+  "List of custom quarries (skinid : settings)": {
+    "2896961730": {
+      "Only owner can toggle this quarry?": false,
+      "Include his team?": false,
+      "Quarry custom name": "Personal Quarry Lvl 1",
+      "This is a quarry (true) or pumpjack (false) ?": true,
+      "Use prefab substitution?": true,
+      "ShortName of the item from which we create a quarry": "furnace.large",
+      "Minimum distance from the player to the quarry (when installed)": 3.0,
+      "Change the item (fuel) on which the quarry is working?": true,
+      "A new item used as fuel (shortname)": "lowgradefuel",
+      "Amount of fuel to consume": 300,
+      "Replace standard resource production?": true,
+      "Production interval (seconds)": 5.0,
+      "Add progress points to reserve when consume fuel": 1000.0,
+      "Progress points per production tick": 40.0,
+      "Resource extraction settings": [
+        {
+          "ShortName": "stones",
+          "Required progress for extraction 1 amount of resource": 0.3
+        },
+        {
+          "ShortName": "metal.ore",
+          "Required progress for extraction 1 amount of resource": 5.0
+        }
+      ]
+    },
+    "2896961934": {
+      "Only owner can toggle this quarry?": false,
+      "Include his team?": false,
+      "Quarry custom name": "Personal Quarry Lvl 2",
+      "This is a quarry (true) or pumpjack (false) ?": true,
+      "Use prefab substitution?": true,
+      "ShortName of the item from which we create a quarry": "furnace.large",
+      "Minimum distance from the player to the quarry (when installed)": 3.0,
+      "Change the item (fuel) on which the quarry is working?": true,
+      "A new item used as fuel (shortname)": "lowgradefuel",
+      "Amount of fuel to consume": 300,
+      "Replace standard resource production?": true,
+      "Production interval (seconds)": 5.0,
+      "Add progress points to reserve when consume fuel": 1000.0,
+      "Progress points per production tick": 40.0,
+      "Resource extraction settings": [
+        {
+          "ShortName": "stones",
+          "Required progress for extraction 1 amount of resource": 0.3
+        },
+        {
+          "ShortName": "metal.ore",
+          "Required progress for extraction 1 amount of resource": 5.0
+        },
+        {
+          "ShortName": "sulfur.ore",
+          "Required progress for extraction 1 amount of resource": 7.5
+        }
+      ]
+    },
+    "2896962234": {
+      "Only owner can toggle this quarry?": false,
+      "Include his team?": false,
+      "Quarry custom name": "Personal Quarry Lvl 3",
+      "This is a quarry (true) or pumpjack (false) ?": true,
+      "Use prefab substitution?": true,
+      "ShortName of the item from which we create a quarry": "furnace.large",
+      "Minimum distance from the player to the quarry (when installed)": 3.0,
+      "Change the item (fuel) on which the quarry is working?": true,
+      "A new item used as fuel (shortname)": "lowgradefuel",
+      "Amount of fuel to consume": 300,
+      "Replace standard resource production?": true,
+      "Production interval (seconds)": 5.0,
+      "Add progress points to reserve when consume fuel": 1000.0,
+      "Progress points per production tick": 40.0,
+      "Resource extraction settings": [
+        {
+          "ShortName": "stones",
+          "Required progress for extraction 1 amount of resource": 0.3
+        },
+        {
+          "ShortName": "metal.ore",
+          "Required progress for extraction 1 amount of resource": 5.0
+        },
+        {
+          "ShortName": "sulfur.ore",
+          "Required progress for extraction 1 amount of resource": 7.5
+        },
+        {
+          "ShortName": "hq.metal.ore",
+          "Required progress for extraction 1 amount of resource": 75.0
+        }
+      ]
+    },
+    "2896959659": {
+      "Only owner can toggle this quarry?": false,
+      "Include his team?": false,
+      "Quarry custom name": "Personal PumpJack",
+      "This is a quarry (true) or pumpjack (false) ?": false,
+      "Use prefab substitution?": true,
+      "ShortName of the item from which we create a quarry": "furnace.large",
+      "Minimum distance from the player to the quarry (when installed)": 3.0,
+      "Change the item (fuel) on which the quarry is working?": true,
+      "A new item used as fuel (shortname)": "lowgradefuel",
+      "Amount of fuel to consume": 300,
+      "Replace standard resource production?": true,
+      "Production interval (seconds)": 5.0,
+      "Add progress points to reserve when consume fuel": 1000.0,
+      "Progress points per production tick": 40.0,
+      "Resource extraction settings": [
+        {
+          "ShortName": "crude.oil",
+          "Required progress for extraction 1 amount of resource": 16.6
+        },
+        {
+          "ShortName": "lowgradefuel",
+          "Required progress for extraction 1 amount of resource": 5.8
+        }
+      ]
+    }
+  },
+  "Plugin Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 1
+  }
+}

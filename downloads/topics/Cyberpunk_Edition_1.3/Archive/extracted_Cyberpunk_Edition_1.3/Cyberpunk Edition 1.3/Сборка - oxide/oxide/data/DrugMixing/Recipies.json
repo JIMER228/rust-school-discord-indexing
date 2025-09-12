@@ -1,0 +1,82 @@
+{
+  "syringe.medical": {
+    "Name": "Health Boost Syringe",
+    "Image": "https://rustplugins.net/products/consumables/syringe-maxhp512.png",
+    "SkinID": 2676140036,
+    "Description": "<size=11><b>Description</b></size>\nHealth boost syringe made for heavy duty combat use. This substance provides you with major max health boost for short amount of time however this comes with strong side effects.",
+    "Stats": "<size=11>Stats</size>\n<b>Healing <color=#91b94a>+45</color></b> \n<b>Max Health <color=#91b94a>+80</color></b> - 20s\nRemoves bleeding\n<b>Calories <color=#e67a2b>-120</color> / Water <color=#e67a2b>-60</color></b>\n<b>Overdose <color=#e67a2b>+70</color></b>",
+    "Ingredients": {
+      "syringe.medical": 1,
+      "blood": 5,
+      "2782631362": 1
+    }
+  },
+  "antiradpills": {
+    "Name": "Pseudoephedrine",
+    "Image": "https://rustplugins.net/products/consumables/pse.png",
+    "SkinID": 2782631362,
+    "Description": "<size=11><b>Description</b></size>\nPseudoephedrine is a phenethylamine and a diastereomer of ephedrine with sympathomimetic property. Pseudoephedrine displaces norepinephrine from storage vesicles in presynaptic neurones, thereby releasing norepinephrine.",
+    "Stats": "<size=11>Stats</size>\n\n<b>This item has no consumable benefits, it's solely used as mixing reagent.</b>",
+    "Ingredients": {
+      "largemedkit": 1,
+      "bleach": 2
+    }
+  },
+  "antiradpills{1}": {
+    "Name": "Methamphetamine",
+    "Image": "https://rustplugins.net/products/consumables/meth.png",
+    "SkinID": 2561876619,
+    "Description": "<size=11><b>Description</b></size>\nA synthetic substance. Normally seen as a white powder, it acts as a stimulant of the central nervous system (CNS). Causes hypertension and tachycardia with feelings of increased confidence, sociability and energy.",
+    "Stats": "<size=11>Stats</size>\n<b>Healing <color=#91b94a>+5</color></b> \n<b>Scrap Yield <color=#91b94a>+30%</color></b> - 15m\n<b>Calories <color=#e67a2b>+150</color> / Water <color=#e67a2b>-20</color></b>\n<b>Overdose <color=#e67a2b>+35</color></b>",
+    "Ingredients": {
+      "2782774662": 2,
+      "2782631362": 5,
+      "lowgradefuel": 35
+    }
+  },
+  "paper": {
+    "Name": "Red Phosphorus",
+    "Image": "https://rustplugins.net/products/consumables/redphosp1.png",
+    "SkinID": 2782774662,
+    "Description": "<size=11><b>Description</b></size>\nRed phosphorus is the most common allotrope of phosphorus. It is used in organic synthesis and chemical warfare including igniters, incendiaries, screening smoke ammunition and smoke signal.",
+    "Stats": "<size=11>Stats</size>\n\n<b>This item has no consumable benefits, it's solely used as mixing reagent.</b>",
+    "Ingredients": {
+      "sulfur": 75,
+      "lowgradefuel": 25,
+      "gunpowder": 5
+    }
+  },
+  "sticks": {
+    "Name": "Marihuana",
+    "Image": "https://rustplugins.net/products/consumables/weed.png",
+    "SkinID": 2415973290,
+    "Description": "<size=11><b>Description</b></size>\nMarijuana is the dried leaves and flowers of the Cannabis sativa or Cannabis indica plant. Stronger forms of the drug include high potency strains - known as sinsemilla (sin-seh-me-yah), hashish (hash for short), and extracts.",
+    "Stats": "<size=11>Stats</size>\n<b>Healing <color=#91b94a>+15</color></b> \n<b>Wood Yield <color=#91b94a>+40%</color></b> - 20m\nRemoves bleeding\n<b>Calories <color=#e67a2b>-180</color> / Water <color=#e67a2b>-90</color></b>\n<b>Overdose <color=#e67a2b>+15</color></b>",
+    "Ingredients": {
+      "2556285147": 15
+    }
+  },
+  "blueberries": {
+    "Name": "Cocaine",
+    "Image": "https://rustplugins.net/products/consumables/coca.png",
+    "SkinID": 2561877027,
+    "Description": "<size=11><b>Description</b></size>\nCocaine is a tropane alkaloid and stimulant drug obtained primarily from the leaves of two coca species. It is most commonly used as a recreational drug and euphoriant.",
+    "Stats": "<size=11>Stats</size>\n<b>Healing <color=#91b94a>+25</color></b> \n<b>Max Health <color=#91b94a>+20</color></b> - 7m\n<b>Calories <color=#e67a2b>-40</color> / Water <color=#e67a2b>-30</color></b>\n<b>Overdose <color=#e67a2b>+70</color></b>",
+    "Ingredients": {
+      "2783018053": 15,
+      "bleach": 3
+    }
+  },
+  "syringe.medical{1}": {
+    "Name": "Anti Radiation Syringe",
+    "Image": "https://rustplugins.net/products/consumables/syringe-rad.png",
+    "SkinID": 2676140350,
+    "Description": "<size=11><b>Description</b></size>\n Syringe is filled with salt of stable iodine that can help block radioactive iodine from being absorbed by the thyroid gland, thus protecting this gland from radiation injury.",
+    "Stats": "<size=11>Stats</size>\n<b>Rad Resistance<color=#91b94a> +40%</color></b> - 2m\n<b>Radiation <color=#91b94a>-35</color></b> \n<b>Calories <color=#e67a2b>-120</color> / Water <color=#e67a2b>-60</color></b>\n<b>Overdose <color=#e67a2b>+70</color></b>",
+    "Ingredients": {
+      "antiradpills": 3,
+      "bleach": 8,
+      "metal.refined": 2
+    }
+  }
+}

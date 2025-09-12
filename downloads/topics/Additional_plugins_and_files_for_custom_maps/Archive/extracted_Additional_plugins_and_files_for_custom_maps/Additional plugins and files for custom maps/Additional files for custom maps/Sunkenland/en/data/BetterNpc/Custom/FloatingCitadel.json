@@ -1,0 +1,237 @@
+{
+  "ID": "-331",
+  "Enabled? [true/false]": true,
+  "Position": "(1098.30, 50.37, -731.20)",
+  "Rotation": "(0.00, 0.00, 0.00)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 45,
+      "Maximum numbers - Day": 75,
+      "Minimum numbers - Night": 15,
+      "Maximum numbers - Night": 40,
+      "NPCs setting": {
+        "Names": [
+          "Sea Soldier"
+        ],
+        "Health": 200.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 600.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Disable radio effects? [true/false]": false,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "burlap.shirt",
+            "SkinID (0 - default)": 2365505183
+          },
+          {
+            "ShortName": "burlap.trousers",
+            "SkinID (0 - default)": 2365579502
+          },
+          {
+            "ShortName": "burlap.shoes",
+            "SkinID (0 - default)": 2215057317
+          },
+          {
+            "ShortName": "metal.facemask",
+            "SkinID (0 - default)": 3258472718
+          },
+          {
+            "ShortName": "roadsign.jacket",
+            "SkinID (0 - default)": 2562694940
+          },
+          {
+            "ShortName": "roadsign.kilt",
+            "SkinID (0 - default)": 2665984179
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "rifle.semiauto",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [
+              "weapon.mod.holosight",
+              "weapon.mod.flashlight"
+            ],
+            "Ammo": ""
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 10,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": ""
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-0.53, -0.09, 4.95)",
+        "(-14.75, -0.05, 0.94)",
+        "(-15.35, -0.05, -12.73)",
+        "(-10.93, 0.00, -17.34)",
+        "(-1.62, 0.00, -16.96)",
+        "(1.00, 0.00, -23.69)",
+        "(7.26, -0.01, -21.71)",
+        "(16.37, 0.01, -23.92)",
+        "(27.83, -0.09, -21.55)",
+        "(27.59, -0.08, -12.25)",
+        "(25.44, -0.06, -3.37)",
+        "(25.99, -0.09, 5.54)",
+        "(20.43, -6.49, 5.57)",
+        "(34.69, -7.58, 2.10)",
+        "(34.88, -7.57, -19.53)",
+        "(-18.42, -9.14, -19.57)",
+        "(-18.99, -10.43, -6.17)",
+        "(-14.70, -7.66, 8.66)",
+        "(73.01, -24.62, -43.82)",
+        "(74.92, -24.58, -55.09)",
+        "(68.41, -24.56, -67.25)",
+        "(69.91, -24.60, -87.76)",
+        "(65.01, -24.56, -95.12)",
+        "(47.98, -24.85, -88.35)",
+        "(25.13, -19.22, -89.84)",
+        "(10.79, -19.22, -87.92)",
+        "(-0.23, -10.22, -87.99)",
+        "(-12.13, -4.89, -83.21)",
+        "(-28.35, -24.85, -83.28)",
+        "(-54.67, -24.84, -82.57)",
+        "(-73.30, -24.64, -82.77)",
+        "(-85.91, -24.58, -74.72)",
+        "(-95.63, -24.84, -62.10)",
+        "(-104.44, -24.84, -48.39)",
+        "(-114.34, -24.85, -35.48)",
+        "(-118.44, -24.69, -16.83)",
+        "(-118.35, -24.86, -1.17)",
+        "(-112.17, -24.58, 9.78)",
+        "(-116.79, -24.52, 23.51)",
+        "(-122.90, -24.53, 35.44)",
+        "(-119.05, -24.53, 46.73)",
+        "(-124.16, -24.59, 58.22)",
+        "(-124.34, -24.58, 70.15)",
+        "(-117.40, -24.86, 82.10)",
+        "(-120.28, -23.57, 95.92)",
+        "(-124.88, -24.58, 109.77)",
+        "(-103.11, -24.79, 113.41)",
+        "(-95.67, -24.64, 122.91)",
+        "(-84.36, -24.80, 126.05)",
+        "(-70.91, -24.80, 135.81)",
+        "(-59.15, -24.81, 143.88)",
+        "(-48.87, -24.80, 149.11)",
+        "(-37.88, -24.80, 150.29)",
+        "(-20.38, -24.80, 150.67)",
+        "(-13.71, -24.59, 156.31)",
+        "(-1.49, -24.63, 154.04)",
+        "(13.04, -24.62, 149.78)",
+        "(22.93, -24.59, 156.50)",
+        "(37.13, -24.71, 152.58)",
+        "(48.94, -24.77, 149.25)",
+        "(62.23, -24.79, 146.97)",
+        "(69.12, -24.78, 140.36)",
+        "(91.58, 1.35, 75.58)",
+        "(87.18, -1.56, 74.45)",
+        "(92.26, -7.53, 78.01)",
+        "(85.89, -7.71, 69.96)",
+        "(90.40, -7.71, 54.35)",
+        "(91.04, -7.72, 44.23)",
+        "(87.93, -24.79, 36.53)",
+        "(83.75, -24.79, 26.47)",
+        "(83.20, -24.80, 18.79)",
+        "(83.55, -24.80, 6.69)",
+        "(82.88, -24.58, -11.81)",
+        "(83.76, -24.58, -24.17)",
+        "(73.33, -24.63, -33.48)",
+        "(74.20, -24.56, -53.03)",
+        "(67.83, -24.77, -68.83)",
+        "(69.98, -24.60, -88.67)",
+        "(61.22, -24.58, -95.12)",
+        "(-42.95, 27.16, 83.85)",
+        "(-41.61, 27.21, 75.09)",
+        "(-1.92, 27.16, 82.29)",
+        "(-11.10, 44.79, 85.69)",
+        "(-37.32, 44.64, 76.52)",
+        "(-29.68, -35.27, 71.86)",
+        "(-36.46, -35.27, 78.95)",
+        "(-37.88, -35.27, 83.89)",
+        "(-33.06, -31.27, 79.54)",
+        "(0.72, -38.78, 78.47)",
+        "(-13.20, -19.27, 79.61)",
+        "(-16.01, -23.27, 90.06)",
+        "(-37.24, -31.27, 84.59)",
+        "(-42.98, -31.27, 75.16)",
+        "(-42.15, -45.30, 47.83)",
+        "(-18.08, -48.29, 46.91)",
+        "(18.77, -48.22, 37.28)",
+        "(51.41, -48.27, 32.49)",
+        "(21.98, -45.35, 106.25)",
+        "(0.18, -47.01, 84.07)",
+        "(-3.48, 20.75, 79.58)",
+        "(-17.49, 20.74, 81.72)",
+        "(-20.19, 20.73, 71.76)",
+        "(-6.57, 20.74, 72.80)",
+        "(-7.71, 20.73, 86.41)",
+        "(-37.44, -19.27, 85.68)",
+        "(-29.37, -19.28, 78.81)",
+        "(-8.46, -31.27, 87.35)",
+        "(-8.93, -31.27, 68.42)",
+        "(-15.12, -31.27, 78.90)",
+        "(-26.00, -27.27, 68.14)",
+        "(-34.98, -27.25, 78.97)",
+        "(-40.13, -27.25, 84.36)",
+        "(-34.01, -31.27, 79.43)",
+        "(-38.09, -31.27, 75.23)"
+      ],
+      "If the NPC ends up below ocean sea level, should the NPC return to it's place of appearance? [true/false]": false,
+      "Type of navigation grid (0 - used mainly on the island, 1 - used mainly under water or under land, as well as outside the map, can be used on some monuments)": 0,
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

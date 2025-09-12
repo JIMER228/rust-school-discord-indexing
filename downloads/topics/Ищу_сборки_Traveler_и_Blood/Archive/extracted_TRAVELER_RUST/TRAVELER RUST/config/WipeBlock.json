@@ -1,0 +1,71 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "БЛОКИРОВКА ПРЕДМЕТОВ",
+    "Текст на второй строке": "НАЖМИТЕ ЧТОБЫ УЗНАТЬ БОЛЬШЕ",
+    "Название сервера": "TRAVELER BARREN"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('12' - на 12 секунд вперёд, '-12' на 12 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "7200": [
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "14400": [
+        "pistol.semiauto",
+        "pistol.python",
+        "shotgun.pump",
+        "shotgun.spas12",
+        "grenade.beancan",
+        "grenade.f1",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt"
+      ],
+      "28800": [
+        "rifle.semiauto",
+        "smg.thompson",
+        "smg.2",
+        "pistol.m92",
+        "rifle.m39",
+        "smg.mp5"
+      ],
+      "64800": [
+        "rifle.ak",
+        "rifle.lr300",
+        "rifle.bolt",
+        "explosive.satchel",
+        "metal.facemask",
+        "metal.plate.torso",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants"
+      ],
+      "86400": [
+        "rocket.launcher",
+        "multiplegrenadelauncher",
+        "explosive.timed",
+        "ammo.rifle.explosive"
+      ],
+      "115200": [
+        "rifle.l96",
+        "lmg.m249"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Weapon": "ОРУЖИЕ",
+      "Ammunition": "БОЕПРИПАСЫ",
+      "Medical": "МЕДИЦИНЫ",
+      "Food": "ЕДЫ",
+      "Traps": "ЛОВУШЕК",
+      "Tool": "ВЗРЫВЧАТКА",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Component": "КОМПОНЕНТОВ",
+      "Misc": "ПРОЧЕГО",
+      "Attire": "БРОНЯ"
+    }
+  }
+}

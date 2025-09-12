@@ -1,0 +1,135 @@
+{
+  "General Settings": {
+    "API Key (Bot Token)": "OTgzMjk1MjYxMzU3MDA2ODc5.GpQOOm.x4NmNEYz90zllogjgTE6FXWCdOrBOF7Xi2UAqk",
+    "Auto Reload Plugin": true,
+    "Auto Reload Time (Seconds)": 901,
+    "Enable Bot Status": true,
+    "In-Game Report Command": "43434343",
+    "Discord Extension Log Level (Verbose/Debug/Info/Warning/Error/Exception/Off)": "Info"
+  },
+  "Discord to Game Settings": {
+    "Discord Command Prefix": "!",
+    "Discord to Game Chat: Icon (Steam ID)": 76561199184583875,
+    "Discord to Game Chat: Tag": "[Администратор]",
+    "Discord to Game Chat: Tag Color (Hex)": "#ff0000",
+    "Discord to Game Chat: Player Name Color (Hex)": "#55aaff",
+    "Discord to Game Chat: Message Color (Hex)": "#ffffff"
+  },
+  "Rust Logging Settings": {
+    "Enable Logging: Player Chat": true,
+    "Enable Logging: Joins & Quits": true,
+    "Enable Logging: Deaths": false,
+    "Enable Logging: Vehicle Spawns (Heli/APC/Plane/Ship)": false,
+    "Enable Logging: Crate Drops (Hackable/Supply)": false,
+    "Enable Logging: Usergroup Changes": true,
+    "Enable Logging: Permission Changes": true,
+    "Enable Logging: Kicks & Bans": true,
+    "Enable Logging: Player Name Changes": true,
+    "Enable Logging: Server Commands (Gestures/Note Edits)": true,
+    "Enable Logging: Server Messages (Give/Item Spawns)": true,
+    "Enable Logging: Player F7 Reports": true,
+    "Enable Logging: Team Changes": true,
+    "Enable Logging: RCON Connections": false,
+    "Enable Logging: Spectates": true,
+    "Enable Logging: Server Wipe": true,
+    "Enable Custom Logging": true
+  },
+  "Plugin Logging Settings": {
+    "Enable Logging: AdminHammer": true,
+    "Enable Logging: Admin Radar": true,
+    "Enable Logging: Better Chat Mute": true,
+    "Enable Logging: Clans": true,
+    "Enable Logging: Dangerous Treasures": true,
+    "Enable Logging: Discord Auth": true,
+    "Enable Logging: Godmode": true,
+    "Enable Logging: Kits": true,
+    "Enable Logging: Private Messages": true,
+    "Enable Logging: Raidable Bases": true,
+    "Enable Logging: Sign Artist": true,
+    "Enable Logging: Vanish": true
+  },
+  "Discord Output Formatting": {
+    "Output Type: Bans (Simple/Embed)": "Simple",
+    "Output Type: Bug Report (Simple/Embed)": "Simple",
+    "Output Type: Deaths (Simple/Embed/DeathNotes)": "Simple",
+    "Output Type: F7 Reports (Simple/Embed)": "Simple",
+    "Output Type: Join/Quit (Simple/Embed)": "Simple",
+    "Output Type: Join Player Info (Admin Channel) (Simple/Embed)": "Simple",
+    "Output Type: Kicks (Simple/Embed)": "Simple",
+    "Output Type: Note Logging (Simple/Embed)": "Simple",
+    "Output Type: Player Name Change (Simple/Embed)": "Simple",
+    "Output Type: /Report (Simple/Embed)": "Simple",
+    "Output Type: Server Wipe (Simple/Embed)": "Simple",
+    "Output Type: Teams (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Admin Hammer (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Admin Radar (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Better Chat Mute (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Clans (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Dangerous Treasures (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Discord Auth (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Godmode (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Kits (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Private Messages (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Raidable Bases (Simple/Embed)": "Simple",
+    "Output Type (Plugin): Vanish (Simple/Embed)": "Simple"
+  },
+  "Logging Exclusions": {
+    "Exclude Listed Groups From log_groups": [
+      "admin"
+    ],
+    "Exclude Listed Permissions From log_perms": [
+      "example.permission1",
+      "example.permission2"
+    ]
+  },
+  "Filter Settings": {
+    "Chat Filter: Replacement Word": "",
+    "Chat Filter: Words to Filter": []
+  },
+  "Discord Logging Channels": [
+    {
+      "Discord Channel ID #": "983278747056762880",
+      "Channel Flags": [
+        "cmd_allow",
+        "cmd_players",
+        "cmd_kick",
+        "cmd_com",
+        "cmd_mute",
+        "cmd_unmute",
+        "msg_join",
+        "msg_quit",
+        "death_pvp",
+        "msg_chat",
+        "game_bug",
+        "msg_serverinit"
+      ],
+      "Custom: Words/Phrases to Log": [
+        "keyword1",
+        "keyword2"
+      ]
+    },
+    {
+      "Discord Channel ID #": "983278747056762880",
+      "Channel Flags": [
+        "msg_joinlog",
+        "game_report",
+        "msg_teamchat",
+        "game_bug"
+      ],
+      "Custom: Words/Phrases to Log": [
+        "keyword1",
+        "keyword2"
+      ]
+    }
+  ],
+  "Discord Command Role Assignment (Empty = All roles can use command.)": {
+    "ban": [],
+    "com": [],
+    "kick": [],
+    "mute": [],
+    "players": [],
+    "timeban": [],
+    "unban": [],
+    "unmute": []
+  }
+}

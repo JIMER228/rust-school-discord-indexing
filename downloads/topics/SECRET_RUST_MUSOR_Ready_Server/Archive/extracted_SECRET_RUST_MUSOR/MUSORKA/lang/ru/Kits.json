@@ -1,0 +1,17 @@
+{
+  "Help": "/kit new name - добавить набор с текущим инвентарём\n/kit replace name - заменить набор инветарём\n/kit remove name - удалить набор\n/kit edit name flags - редактировать набор, флаги: \nname newname\nisautokit true|false\nisrandom true|false\nrandomskin true|false\nmax <максимальное число наборов>\ncooldown <время в секундах>\nwipe <время в секундах>\nhide true|false",
+  "Kit Already Exists": "Такой набор уже существует",
+  "Kit Added": "Набор создан",
+  "No Kit Found": "Такого набора не существует",
+  "Kit Replaced": "Вещи в наборе успешно заменены",
+  "Kit Removed": "Набор удалён",
+  "KitRedeemed": "Набор получен",
+  "Empty kit name ": "Не указан набор",
+  "CantRedeemNow": "В данный момент нельзя получить набор",
+  "NoPermKit": "У вас нет прав на этот набор",
+  "NoRemainingUses": "Данный набор закончился",
+  "CooldownMessage": "Осталось подождать {0}",
+  "NoInventorySpace": "Недостаточно места в инвентаре",
+  "No kits": "Нет доступных наборов",
+  "Kit edited": "Набор успешно отредактирован"
+}

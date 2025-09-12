@@ -1,0 +1,217 @@
+[
+  {
+    "Name": "Дом",
+    "Permission": "mkitbr.use",
+    "Wipe delay": 0,
+    "Amount": 1,
+    "Cooldown": 604800,
+    "Image": "https://rustlabs.com/img/items180/torch.png",
+    "Items": [
+      {
+        "shortname": "stones",
+        "amount": 4500,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "cloth",
+        "amount": 300,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "leather",
+        "amount": 300,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "metal.refined",
+        "amount": 90,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "lowgradefuel",
+        "amount": 120,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "metal.fragments",
+        "amount": 3000,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "wood",
+        "amount": 4500,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "door.hinged.wood",
+        "amount": 1,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "lock.code",
+        "amount": 1,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "furnace",
+        "amount": 1,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "sleepingbag",
+        "amount": 1,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "cupboard.tool",
+        "amount": 1,
+        "skinId": 0,
+        "container": "main"
+      }
+    ]
+  },
+  {
+    "Name": "Дневной",
+    "Permission": "mkitbr.use",
+    "Wipe delay": 21600,
+    "Amount": -1,
+    "Cooldown": 86400,
+    "Image": "https://rustlabs.com/img/items180/sleepingbag.png",
+    "Items": [
+      {
+        "shortname": "cloth",
+        "amount": 100,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "leather",
+        "amount": 150,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "wood",
+        "amount": 2500,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "stones",
+        "amount": 5500,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "metal.fragments",
+        "amount": 3300,
+        "skinId": 0,
+        "container": "main"
+      }
+    ]
+  },
+  {
+    "Name": "Медицина",
+    "Permission": "mkitbr.use",
+    "Wipe delay": 0,
+    "Amount": -1,
+    "Cooldown": 3600,
+    "Image": "https://rustlabs.com/img/items180/syringe.medical.png",
+    "Items": [
+      {
+        "shortname": "syringe.medical",
+        "amount": 10,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "largemedkit",
+        "amount": 5,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "bandage",
+        "amount": 15,
+        "skinId": 0,
+        "container": "main"
+      }
+    ]
+  },
+  {
+    "Name": "Компоненты",
+    "Permission": "mkitbr.use",
+    "Wipe delay": 0,
+    "Amount": -1,
+    "Cooldown": 86400,
+    "Image": "https://rustlabs.com/img/items180/gears.png",
+    "Items": [
+      {
+        "shortname": "gears",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "roadsigns",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "metalspring",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "sheetmetal",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "metalpipe",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "sewingkit",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "propanetank",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "smgbody",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      },
+      {
+        "shortname": "riflebody",
+        "amount": 6,
+        "skinId": 0,
+        "container": "main"
+      }
+    ]
+  },
+  
+]

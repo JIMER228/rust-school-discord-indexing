@@ -1,0 +1,22 @@
+{
+  "checkConsole": "Check your console for a list of resources",
+  "noPerms": "You do not have permission to use this command",
+  "notType": "The number you have entered is not on the list",
+  "notNum": "You must enter a resource number",
+  "notBox": "You are not looking at a resource",
+  "notReg": "This is not a custom placed resource",
+  "RemovedResource": "Resource deleted",
+  "synAdd": "<color=orange>/crs add id </color><color=#939393>- Adds a new resource</color>",
+  "synRem": "<color=orange>/crs remove </color><color=#939393>- Remove the resource you are looking at</color>",
+  "synRemNear": "<color=orange>/crs remove near <radius> </color><color=#939393>- Removes the resources within <radius> (default 10M)</color>",
+  "synResource": "<color=orange>/crs resources </color><color=#939393>- List available resource types and their ID</color>",
+  "synWipe": "<color=orange>/crs wipe </color><color=#939393>- Wipes all custom placed resources</color>",
+  "synList": "<color=orange>/crs list </color><color=#939393>- Puts all custom resource details to console</color>",
+  "synNear": "<color=orange>/crs near XX </color><color=#939393>- Shows custom resources in radius XX</color>",
+  "wipedAll1": "Wiped {0} custom resource spawns",
+  "foundResources": "Found {0} resource spawns near you",
+  "noFind": "Couldn't find any resources in radius: {0}M",
+  "adding": "You have activated the resouce tool. Look where you want to place and press shoot. Type /crs to end",
+  "endAdd": "You have de-activated the resouce tool",
+  "removedNear": "Removed {0} resources within a {1}M radius of your position"
+}

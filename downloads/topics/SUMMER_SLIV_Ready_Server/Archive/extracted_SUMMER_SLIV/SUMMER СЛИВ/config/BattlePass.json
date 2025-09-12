@@ -1,0 +1,362 @@
+{
+  "Ссылка на логотип сервера(64x64 px)": "https://i.imgur.com/v0i0Rid.png",
+  "Название сервера": "The best of the best - Beast",
+  "Настройка очков": {
+    "Множитель очков у донатера": 1,
+    "Количество очков за убийство игрока": 1,
+    "Количество очков за убийство животных": 1,
+    "Количество очков за убийство вертолета": 1,
+    "Количество очков за убийство НПС": 1,
+    "Количество очков за убийство танка": 1,
+    "Количество отнимаемых очков за смерть": 1,
+    "Настройки добычи": {
+      "Настройка добычи(shortname/количество очков": {
+        "wood": 2
+      }
+    }
+  },
+  "Настройки уровней обычных уровней": {
+    "Список уровней": [
+      {
+        "Номер уровня": 1,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 2,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 3,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 4,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 5,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 6,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 7,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 8,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 9,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 10,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 11,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 12,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      }
+    ]
+  },
+  "Настройки уровней донатных уровней": {
+    "Список уровней": [
+      {
+        "Номер уровня": 1,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 2,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 3,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 4,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 5,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 6,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 7,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 8,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 9,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 10,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 11,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      },
+      {
+        "Номер уровня": 12,
+        "Количество Exp для получения этого уровня": 1000,
+        "Картинка отображения награды": "https://i.imgur.com/WUtLEeN.png",
+        "Награда за уровень": {
+          "ShortName": "rifle.ak",
+          "Amount": 1,
+          "SkinID": 0,
+          "Команды, которые должны выполниться": [
+            "givecoin %STEAMID% 10",
+            "o.grant user %STEAMID% kits.vip"
+          ]
+        }
+      }
+    ]
+  }
+}

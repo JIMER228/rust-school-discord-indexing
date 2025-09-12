@@ -1,0 +1,1355 @@
+{
+  "Using logging for player case openings.": false,
+  "Plugin interface customization": {
+    "Use sound effects in conjunction with the interface": true,
+    "PNG: Toggle switch turned left (35х20)": "https://i.ibb.co/TYFkDHP/1222.png",
+    "PNG: Toggle switch turned right (35х20)": "https://i.ibb.co/2SqX63m/2-1.png",
+    "PNG: Back panel of information about the number of cases (277x46)": "https://i.postimg.cc/sgP6msKt/CVwUO8y.png",
+    "PNG: Back panel of inventory button (178x46)": "https://i.postimg.cc/MZCJrZbT/MmB7paC.png",
+    "PNG: Back panel of balance information (122x46)": "https://i.postimg.cc/BvS0ch5B/61im43h.png",
+    "PNG: Glow effect for cases (909x377)": "https://i.postimg.cc/tJWWbdS7/ZURvF4x.png",
+    "PNG: End cap (if there is no item in the case) (143x155)": "https://i.postimg.cc/J0VHpDr8/uHTdwjY.png",
+    "PNG: Back page (60x60)": "https://i.postimg.cc/9FBwBQv3/5iHnDXC.png",
+    "PNG: Next page (60x60)": "https://i.postimg.cc/sx4xKTHP/LR2j88f.png",
+    "PNG: Button 'Open Case ' (350x46)": "https://i.postimg.cc/jdqStQk9/zvtUYCS.png",
+    "PNG: 'Buy' button (172x46)": "https://i.postimg.cc/dVkvVWRW/hV4Xksf.png",
+    "PNG: 'Sell' button (172x46)": "https://i.postimg.cc/k4cPpL95/OFjBLhn.png",
+    "PNG: Button Lock Picture (172x46)": "https://i.postimg.cc/QMZLxjdt/8KOy2pU.png",
+    "PNG: The picture next to the displayed chance (13x13)": "https://i.ibb.co/gSrn52J/434.png",
+    "PNG: Images that will be displayed at the reward depending on the DISPLAYED CHANCE of falling out [Chance(0-100)] - PNG (143x155) (The order of filling: From greater to lesser chance)": {
+      "50": "https://i.postimg.cc/ZYMM5JfS/CR545Ie.png",
+      "25": "https://i.postimg.cc/SNYtXH5z/VIM8jSa.png",
+      "10": "https://i.postimg.cc/J0fxc4gH/fz3Foqr.png",
+      "0": "https://i.postimg.cc/J0fxc4gH/fz3Foqr.png"
+    }
+  },
+  "Settings cases": {
+    "free_case": {
+      "Link to case picture (350x350)": "https://i.postimg.cc/Dzv9bB1k/fz3-Foffffffqr.png",
+      "Setting up case names (if you don't need them, leave the fields blank)": {
+        "Case name in Russia": "",
+        "Case name in English": ""
+      },
+      "Setting up the sale and purchase of cases (IQEconomic/Economics/TPEconomic)": {
+        "Case purchase price (If set to 0 - the case cannot be bought)": 0,
+        "Case sale price (If set to 0 - the case cannot be sold)": 0
+      },
+      "Setting Restrictions": {
+        "Permission that give the opportunity to open a case (leave the field empty - it will be available to everyone)": "",
+        "IQRankSystem : Rank giving the opportunity to open a case (leave the field blank - it will be available to everyone)": ""
+      },
+      "Setting rewards from a case": [
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 79,
+          "The displayed chance of getting this reward": 70,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "wood",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3000,
+              "Max amount": 5000
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 60,
+          "The displayed chance of getting this reward": 60,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "stones",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1000,
+              "Max amount": 3000
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 30,
+          "The displayed chance of getting this reward": 30,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "metal.fragments",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 500,
+              "Max amount": 2000
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 15,
+          "The displayed chance of getting this reward": 30,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "icepick.salvaged",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 50,
+          "The displayed chance of getting this reward": 30,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "grenade.f1",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 30,
+          "The displayed chance of getting this reward": 35,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "flamethrower",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 60,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "pistol.revolver",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "pistol.python",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 4,
+          "The displayed chance of getting this reward": 8,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "rifle.ak",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 6,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "rifle.lr300",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 1,
+          "The displayed chance of getting this reward": 3,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "supply.signal",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 10,
+          "The displayed chance of getting this reward": 20,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "scrap",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 50,
+              "Max amount": 200
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 5,
+          "The displayed chance of getting this reward": 20,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "door.hinged.toptier",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 1,
+          "Chance of dropping this reward": 10,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "https://i.postimg.cc/xjJWHkNC/hGXoUms.png",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "command your plugin %STEAMID%",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 1
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 1,
+          "Chance of dropping this reward": 10,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "https://i.postimg.cc/kg9Zkf16/zzsL6qZ.png",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "command your plugin %STEAMID%",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 1
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 1,
+          "Chance of dropping this reward": 5,
+          "The displayed chance of getting this reward": 10,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "https://i.postimg.cc/nztQk9cJ/X0VAteL.png",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "addgroup %STEAMID% vip 3d",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 259200,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        }
+      ]
+    },
+    "components_case": {
+      "Link to case picture (350x350)": "https://i.postimg.cc/s25MvfP0/j7pA2qD.png",
+      "Setting up case names (if you don't need them, leave the fields blank)": {
+        "Case name in Russia": "",
+        "Case name in English": ""
+      },
+      "Setting up the sale and purchase of cases (IQEconomic/Economics/TPEconomic)": {
+        "Case purchase price (If set to 0 - the case cannot be bought)": 20,
+        "Case sale price (If set to 0 - the case cannot be sold)": 10
+      },
+      "Setting Restrictions": {
+        "Permission that give the opportunity to open a case (leave the field empty - it will be available to everyone)": "",
+        "IQRankSystem : Rank giving the opportunity to open a case (leave the field blank - it will be available to everyone)": ""
+      },
+      "Setting rewards from a case": [
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 10,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "riflebody",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 15,
+          "The displayed chance of getting this reward": 20,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "smgbody",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 5
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 15,
+          "The displayed chance of getting this reward": 20,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "semibody",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 20,
+          "The displayed chance of getting this reward": 30,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "metalpipe",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 10
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 15,
+          "The displayed chance of getting this reward": 25,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "techparts",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 50,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "roadsigns",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 5,
+              "Max amount": 30
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 25,
+          "The displayed chance of getting this reward": 40,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "metalspring",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 15
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "sewingkit",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 10,
+              "Max amount": 25
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 50,
+          "The displayed chance of getting this reward": 75,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "sheetmetal",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 5
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 70,
+          "The displayed chance of getting this reward": 80,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "tarp",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 5
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 25,
+          "The displayed chance of getting this reward": 35,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "gears",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 8
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 50,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "propanetank",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 10
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        }
+      ]
+    },
+    "blueprints_case": {
+      "Link to case picture (350x350)": "https://i.postimg.cc/HxpknwkV/2jTQUla.png",
+      "Setting up case names (if you don't need them, leave the fields blank)": {
+        "Case name in Russia": "",
+        "Case name in English": ""
+      },
+      "Setting up the sale and purchase of cases (IQEconomic/Economics/TPEconomic)": {
+        "Case purchase price (If set to 0 - the case cannot be bought)": 70,
+        "Case sale price (If set to 0 - the case cannot be sold)": 25
+      },
+      "Setting Restrictions": {
+        "Permission that give the opportunity to open a case (leave the field empty - it will be available to everyone)": "",
+        "IQRankSystem : Rank giving the opportunity to open a case (leave the field blank - it will be available to everyone)": ""
+      },
+      "Setting rewards from a case": [
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 1,
+          "The displayed chance of getting this reward": 3,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "rocket.launcher",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 5,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "rifle.ak",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 6,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "rifle.bolt",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 5,
+          "The displayed chance of getting this reward": 10,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "smg.thompson",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 8,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "shotgun.pump",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 14,
+          "The displayed chance of getting this reward": 20,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "pistol.python",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 40,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "pistol.revolver",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "weapon.mod.lasersight",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "weapon.mod.silencer",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 40,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "weapon.mod.flashlight",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 10,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "door.double.hinged.toptier",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 4,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "door.hinged.toptier",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 70,
+          "The displayed chance of getting this reward": 60,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "ladder.wooden.wall",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 35,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "wall.external.high.stone",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 30,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": true,
+            "Shortname item": "gates.external.high.stone",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        }
+      ]
+    },
+    "raiders_case": {
+      "Link to case picture (350x350)": "https://i.postimg.cc/pLbxyf0R/COSxi3t.png",
+      "Setting up case names (if you don't need them, leave the fields blank)": {
+        "Case name in Russia": "",
+        "Case name in English": ""
+      },
+      "Setting up the sale and purchase of cases (IQEconomic/Economics/TPEconomic)": {
+        "Case purchase price (If set to 0 - the case cannot be bought)": 70,
+        "Case sale price (If set to 0 - the case cannot be sold)": 0
+      },
+      "Setting Restrictions": {
+        "Permission that give the opportunity to open a case (leave the field empty - it will be available to everyone)": "",
+        "IQRankSystem : Rank giving the opportunity to open a case (leave the field blank - it will be available to everyone)": ""
+      },
+      "Setting rewards from a case": [
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 7,
+          "The displayed chance of getting this reward": 13,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "multiplegrenadelauncher",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 5,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "rocket.launcher",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 6,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "rifle.ak",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 25,
+          "The displayed chance of getting this reward": 40,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "grenade.beancan",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 5,
+              "Max amount": 15
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 1,
+          "The displayed chance of getting this reward": 2,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "lmg.m249",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 8,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "explosive.timed",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 13,
+          "The displayed chance of getting this reward": 30,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "explosive.satchel",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 3,
+              "Max amount": 8
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 35,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "sulfur",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1500,
+              "Max amount": 3500
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 15,
+          "The displayed chance of getting this reward": 25,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "gunpowder",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1000,
+              "Max amount": 2500
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 25,
+          "The displayed chance of getting this reward": 45,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "ammo.rifle.explosive",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 128,
+              "Max amount": 128
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 0,
+          "Chance of dropping this reward": 3,
+          "The displayed chance of getting this reward": 10,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "ammo.rocket.basic",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 3
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 0
+          }
+        },
+        {
+          "Select reward type: 0 - Item, 1 - Command": 1,
+          "Chance of dropping this reward": 10,
+          "The displayed chance of getting this reward": 15,
+          "PNG for reward (85x85) (if not required - leave blank) (not required for regular items)": "https://i.postimg.cc/xjJWHkNC/hGXoUms.png",
+          "Item setting (if item type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Is this a blueprint? true - yes/false - no": false,
+            "Shortname item": "",
+            "SkinID item": 0,
+            "Quantity setting (if you need a static value - set both fields to the same value)": {
+              "Min amount": 1,
+              "Max amount": 1
+            }
+          },
+          "Command setting (if Command type is selected)": {
+            "Item name in UI (if left blank, values from lang will be used)": "",
+            "Console command (%STEAMID% - will be replaced by the player's Steam64ID)": "command your plugin %STEAMID%",
+            "Seconds. Time for which the reward will be issued - leave 0 if this award is not issued for a while and fill in the field below (only affects the visual display)": 0,
+            "Amount. If it is a custom item or a reward that is issued in N quantity (affects visual display only)": 1
+          }
+        }
+      ]
+    }
+  },
+  "Setting up compatible plugins": {
+    "Setting up IQChat": {
+      "IQChat : Custom chat prefix": "<color=#F6C0DC>[TPCases]</color>\n",
+      "IQChat : Custom chat avatar (If required)": "0",
+      "IQChat : Use UI Notifications": false
+    }
+  },
+  "Setting the starting number of cases for the player": [
+    {
+      "Case key to issue (from the list of your cases)": "free_case",
+      "Permissions for obtaining cases (it will work if the player receives these rights or enters the server with them) (leave blank - will be available to everyone)": "",
+      "Number of cases to issue": 3
+    },
+    {
+      "Case key to issue (from the list of your cases)": "raiders_case",
+      "Permissions for obtaining cases (it will work if the player receives these rights or enters the server with them) (leave blank - will be available to everyone)": "tpcases.raider",
+      "Number of cases to issue": 1
+    }
+  ],
+  "Case drop setting (supports looting and destroying objects) : [ShortPrefabName] = Setting": {
+    "crate_elite": [
+      {
+        "Case drop chance": 10,
+        "Number of cases to issue": 1,
+        "Permission to receive a case (environment empty - will be available to everyone)": "",
+        "Case key to issue (from the list of your cases)": "components_case"
+      },
+      {
+        "Case drop chance": 5,
+        "Number of cases to issue": 1,
+        "Permission to receive a case (environment empty - will be available to everyone)": "",
+        "Case key to issue (from the list of your cases)": "blueprints_case"
+      },
+      {
+        "Case drop chance": 5,
+        "Number of cases to issue": 1,
+        "Permission to receive a case (environment empty - will be available to everyone)": "tpcases.vip",
+        "Case key to issue (from the list of your cases)": "raiders_case"
+      }
+    ],
+    "loot-barrel-1": [
+      {
+        "Case drop chance": 10,
+        "Number of cases to issue": 1,
+        "Permission to receive a case (environment empty - will be available to everyone)": "",
+        "Case key to issue (from the list of your cases)": "components_case"
+      }
+    ]
+  }
+}

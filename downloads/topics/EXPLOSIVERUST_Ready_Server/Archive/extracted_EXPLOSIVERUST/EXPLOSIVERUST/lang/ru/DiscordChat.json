@@ -1,0 +1,18 @@
+{
+  "V1.Discord.NotLinkedError": "Вам не разрешено писать в чат сервера, если ваши аккаунты не связаны.",
+  "V1.Discord.JoinLeave.ConnectedMessage": ":white_check_mark: {0:HH:mm} **{1}** подключился",
+  "V1.Discord.JoinLeave.DisconnectedMessage": ":x: {0:HH:mm} **{1}** отключился. Причина: {2}",
+  "V1.Discord.OnlineOffline.OnlineMessage": ":green_circle: Выключение сервера",
+  "V1.Discord.OnlineOffline.OfflineMessage": ":red_circle: Сервер снова онлайн",
+  "V1.Discord.ChatChannel.Message": ":desktop: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.ChatChannel.LinkedMessage": ":speech_left: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.ChatChannel.UnlinkedMessage": ":chains: ({0:HH:mm}) **{1}#{2}**: {3}",
+  "V1.Discord.TeamChannel.Message": ":busts_in_silhouette: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.CardsChannel.Message": ":black_joker: ({0:HH:mm}) **{1}**: {2}",
+  "V1.Discord.AdminChat.Message": ":mechanic: ({0:HH:mm}) **{1}** {2}",
+  "V1.Discord.AdminChat.Permission": "Вам не разрешено использовать канал чата администратора, потому что у вас нет разрешения.",
+  "V1.Server.DiscordTag": "[#5f79d6][Discord][/#]",
+  "V1.Server.UnlinkedMessage": "{0} [#5f79d6]{1}#{2}[/#]: {3}",
+  "V1.Server.LinkedMessage": "{0} [#5f79d6]{1}[/#]: {2}",
+  "V1.Server.ClanTag": "[{0}] "
+}

@@ -1,0 +1,1694 @@
+{
+  "INVENTORY.CONTROL": true,
+  "CHAT.TITLE": "<color=#88e892>[Kits]</color>",
+  "MESSAGES": {
+    "KITS.LIST": "Список наборов: ",
+    "KIT.DUBLICATE": "Набор с именем <color=#88e892>{0}</color> уже сущевствует!",
+    "KIT.ADDED": "Набор <color=#88e892>{0}</color> успешно добавлен!",
+    "KIT.ITEMS": "Преметы которые содержит набор скопированы из вашего инвентаря.",
+    "KIT.EDIT": "Начато редактирование набора <color=#88e892>{0}</color>",
+    "KIT.EDITED": "Набор <color=#88e892>{0}</color> успешно изменён.",
+    "KIT.DELETED": "Набор <color=#88e892>{0}</color> успешно удалён.",
+    "KIT.SAVED": "Редактирование набора <color=#88e892>{0}</color> успешно завершено!",
+    "KIT.GIVED": "Набора <color=#88e892>{0}</color> успешно получен!",
+    "KIT.NEEDNAME": "Укажите условное название набора!",
+    "KIT.COOLDOWN": "Вы недавно получали этот набор, дождитесь перезарядки.",
+    "KIT.LIMIT": "Вы получили максимальное количество этого набора.",
+    "INVENTORY.FULL": "В инвентаре недостаточно места, освободите <color=#88e892>{0}</color> слотов!",
+    "INVALID.NUM": "Указанное число не является корректным!",
+    "INVALID.VALUE": "Указанное значение '<color=red>{0}</color>' не является корректным!",
+    "EMPTY.VALUE": "Вы не указали значение для изменениея '<color=#88e892>{0}</color>'.",
+    "NO.ACCESS": "У вас недостаточно прав!"
+  },
+  "KITS.UI": {
+    "ENABLED": true,
+    "COL.COUNT": 6,
+    "UPDATE.RATE": 1.0,
+    "TOP": 15.0,
+    "HEIGHT": 10.0,
+    "KIT.MARGIN": 10.0,
+    "MAIN.BG": "0.0 0.0 0.0 0.5",
+    "AVALIABLE.BG": "69 79 88 0.8",
+    "AVALIABLE.COLOR": "255 255 255 1.0",
+    "AVALIABLE.TEXT": "Раз в <color=#65C56F>{0}</color>",
+    "COOLDOWN.BG": "192 60 56 0.8",
+    "COOLDOWN.COLOR": "255 255 255 1.0",
+    "COOLDOWN.FORMAT": "<color=#fcaf41>{0:D2}:{1:D2}:{2:D2}:{3:D2}</color>",
+    "STATE.AVALIABLE": "<color=#65C56F>Доступен</color>",
+    "STATE.COOLDOWN": "<color=#f0f0f0>Получен</color>",
+    "AUTO.CLOSE": 10.0
+  },
+  "KIT.EDIT.HELP": [
+    "/kit cd {value} - изменить время перезарядки набора.",
+    "/kit max {value} - изменить лимит получения для игрока.",
+    "/kit title {value} - изменить название набора.",
+    "/kit perm {value} - изменить право на использование набора.",
+    "/kit save - завершить редактирование набора.",
+    "/kit items - установить список предметов набора из инвентаря.",
+    "/kit auto {true/false} - установить автовыдачу набора при перерождении.",
+    "/kit remove {kit} - удалить набор."
+  ],
+  "KITS": {
+    "auto": {
+      "COOLDOWN": 0,
+      "LIMIT": 0,
+      "NAME": "auto",
+      "TITLE": "AUTO",
+      "PERMISSION": "",
+      "ITEMS": [
+        {
+          "name": "hatchet",
+          "container": "belt",
+          "amount": 1,
+          "skin": 2637157054,
+          "id": -1252059217,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "pickaxe",
+          "container": "belt",
+          "amount": 1,
+          "skin": 2637158928,
+          "id": -1302129395,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "blueberries",
+          "container": "belt",
+          "amount": 15,
+          "skin": 0,
+          "id": -586342290,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "hoodie",
+          "container": "wear",
+          "amount": 1,
+          "skin": 2613401647,
+          "id": 1751045826,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "pants",
+          "container": "wear",
+          "amount": 1,
+          "skin": 2613403154,
+          "id": 237239288,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "shoes.boots",
+          "container": "wear",
+          "amount": 1,
+          "skin": 1406796292,
+          "id": -1549739227,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": true
+    },
+    "Охотник": {
+      "COOLDOWN": 600,
+      "LIMIT": 0,
+      "NAME": "Охотник",
+      "TITLE": "ОХОТНИК",
+      "PERMISSION": "",
+      "ITEMS": [
+        {
+          "name": "knife.bone",
+          "container": "belt",
+          "amount": 1,
+          "skin": 1277364396,
+          "id": 1814288539,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "bow.hunting",
+          "container": "belt",
+          "amount": 1,
+          "skin": 1729683309,
+          "id": 1443579727,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "arrow.wooden",
+              "container": "main",
+              "amount": 1,
+              "skin": 0,
+              "id": -1234735557,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "arrow.wooden",
+          "container": "main",
+          "amount": 49,
+          "skin": 0,
+          "id": -1234735557,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "bone.armor.suit",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1746956556,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "deer.skull.mask",
+          "container": "wear",
+          "amount": 1,
+          "skin": 1935631950,
+          "id": -1903165497,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "Дом": {
+      "COOLDOWN": 36000,
+      "LIMIT": 0,
+      "NAME": "Дом",
+      "TITLE": "ДОМ",
+      "PERMISSION": "",
+      "ITEMS": [
+        {
+          "name": "wood",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -151838493,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.refined",
+          "container": "main",
+          "amount": 1000,
+          "skin": 0,
+          "id": 317398316,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "scrap",
+          "container": "main",
+          "amount": 300,
+          "skin": 0,
+          "id": -932201673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "stones",
+          "container": "main",
+          "amount": 5000,
+          "skin": 0,
+          "id": -2099697608,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lowgradefuel",
+          "container": "main",
+          "amount": 200,
+          "skin": 0,
+          "id": -946369541,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.fragments",
+          "container": "main",
+          "amount": 3500,
+          "skin": 0,
+          "id": 69511070,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "xmas.lightstring",
+          "container": "main",
+          "amount": 5,
+          "skin": 0,
+          "id": 1058261682,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "xmasdoorwreath",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 2009734114,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "sleepingbag",
+          "container": "main",
+          "amount": 1,
+          "skin": 2556857652,
+          "id": -1754948969,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "door.hinged.metal",
+          "container": "main",
+          "amount": 2,
+          "skin": 2589404104,
+          "id": -2067472972,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lock.code",
+          "container": "main",
+          "amount": 2,
+          "skin": 0,
+          "id": 1159991980,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "workbench1",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 1524187186,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "furnace",
+          "container": "main",
+          "amount": 1,
+          "skin": 1936112920,
+          "id": -1999722522,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "box.wooden.large",
+          "container": "main",
+          "amount": 2,
+          "skin": 1517816237,
+          "id": 833533164,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "workbench2",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -41896755,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "xmas.tree",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 794443127,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "xmas.door.garland",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 674734128,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "fleep+": {
+      "COOLDOWN": 10800,
+      "LIMIT": 0,
+      "NAME": "fleep+",
+      "TITLE": "FLEEP+",
+      "PERMISSION": "fleep+",
+      "ITEMS": [
+        {
+          "name": "smg.thompson",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": -1758372725,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "weapon.mod.simplesight",
+              "container": "main",
+              "amount": 1,
+              "skin": 0,
+              "id": -855748505,
+              "slot": -1,
+              "contents": []
+            },
+            {
+              "name": "weapon.mod.flashlight",
+              "container": "main",
+              "amount": 1,
+              "skin": 0,
+              "id": 952603248,
+              "slot": -1,
+              "contents": []
+            },
+            {
+              "name": "ammo.pistol",
+              "container": "main",
+              "amount": 7,
+              "skin": 0,
+              "id": 785728077,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "largemedkit",
+          "container": "belt",
+          "amount": 10,
+          "skin": 0,
+          "id": 254522515,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "syringe.medical",
+          "container": "belt",
+          "amount": 10,
+          "skin": 0,
+          "id": 1079279582,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "black.raspberries",
+          "container": "belt",
+          "amount": 25,
+          "skin": 0,
+          "id": 1931713481,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.pistol",
+          "container": "main",
+          "amount": 200,
+          "skin": 0,
+          "id": 785728077,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "furnace.large",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1992717673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "furnace.large",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1992717673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "furnace.large",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1992717673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "wood",
+          "container": "main",
+          "amount": 1100,
+          "skin": 0,
+          "id": -151838493,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.ore",
+          "container": "main",
+          "amount": 4000,
+          "skin": 0,
+          "id": -4031221,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "hazmatsuit.nomadsuit",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 491263800,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "lord": {
+      "COOLDOWN": 3600,
+      "LIMIT": 0,
+      "NAME": "lord",
+      "TITLE": "LORD",
+      "PERMISSION": "lord",
+      "ITEMS": [
+        {
+          "name": "rifle.ak",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1545779598,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 4,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "rifle.bolt",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1588298435,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 2,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "syringe.medical",
+          "container": "belt",
+          "amount": 50,
+          "skin": 0,
+          "id": 1079279582,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "largemedkit",
+          "container": "belt",
+          "amount": 50,
+          "skin": 0,
+          "id": 254522515,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle",
+          "container": "main",
+          "amount": 500,
+          "skin": 0,
+          "id": -1211166256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.incendiary",
+          "container": "main",
+          "amount": 500,
+          "skin": 0,
+          "id": 605467368,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.hv",
+          "container": "main",
+          "amount": 500,
+          "skin": 0,
+          "id": 1712070256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.explosive",
+          "container": "main",
+          "amount": 100,
+          "skin": 0,
+          "id": -1321651331,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.holosight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 442289265,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.flashlight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 952603248,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.lasersight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -132516482,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.muzzleboost",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1405508498,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.muzzlebrake",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 1478091698,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.silencer",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1850571427,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.small.scope",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 567235583,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.lasersight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -132516482,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.facemask",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -194953424,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "hoodie",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1751045826,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.plate.torso",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1110385766,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "pants",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 237239288,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "tactical.gloves",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1108136649,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "shoes.boots",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1549739227,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "Ресурсы": {
+      "COOLDOWN": 14400,
+      "LIMIT": 0,
+      "NAME": "Ресурсы",
+      "TITLE": "РЕСУРСЫ",
+      "PERMISSION": "lord",
+      "ITEMS": [
+        {
+          "name": "wood",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": -151838493,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lowgradefuel",
+          "container": "main",
+          "amount": 3000,
+          "skin": 0,
+          "id": -946369541,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.fragments",
+          "container": "main",
+          "amount": 6000,
+          "skin": 0,
+          "id": 69511070,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "charcoal",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -1938052175,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "targeting.computer",
+          "container": "main",
+          "amount": 5,
+          "skin": 0,
+          "id": 1523195708,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "stones",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -2099697608,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.refined",
+          "container": "main",
+          "amount": 3500,
+          "skin": 0,
+          "id": 317398316,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "scrap",
+          "container": "main",
+          "amount": 5000,
+          "skin": 0,
+          "id": -932201673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cloth",
+          "container": "main",
+          "amount": 5000,
+          "skin": 0,
+          "id": -858312878,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "sulfur",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": -1581843485,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "gunpowder",
+          "container": "main",
+          "amount": 5000,
+          "skin": 0,
+          "id": -265876753,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cctv.camera",
+          "container": "main",
+          "amount": 5,
+          "skin": 0,
+          "id": 634478325,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "King": {
+      "COOLDOWN": 3600,
+      "LIMIT": 0,
+      "NAME": "King",
+      "TITLE": "KING",
+      "PERMISSION": "king",
+      "ITEMS": [
+        {
+          "name": "rifle.lr300",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": -1812555177,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 4,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "rifle.bolt",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1588298435,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 2,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "syringe.medical",
+          "container": "belt",
+          "amount": 75,
+          "skin": 0,
+          "id": 1079279582,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "largemedkit",
+          "container": "belt",
+          "amount": 25,
+          "skin": 0,
+          "id": 254522515,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.explosive",
+          "container": "main",
+          "amount": 200,
+          "skin": 0,
+          "id": -1321651331,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.hv",
+          "container": "main",
+          "amount": 1000,
+          "skin": 0,
+          "id": 1712070256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.incendiary",
+          "container": "main",
+          "amount": 1000,
+          "skin": 0,
+          "id": 605467368,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle",
+          "container": "main",
+          "amount": 1000,
+          "skin": 0,
+          "id": -1211166256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.holosight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 442289265,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.flashlight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 952603248,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.muzzlebrake",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 1478091698,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.simplesight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -855748505,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.small.scope",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 567235583,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.muzzleboost",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1405508498,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.lasersight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -132516482,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.silencer",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1850571427,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.facemask",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -194953424,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "hoodie",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1751045826,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.plate.torso",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1110385766,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "roadsign.kilt",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1850456855,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "pants",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 237239288,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "tactical.gloves",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1108136649,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "shoes.boots",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1549739227,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "kРесурсы": {
+      "COOLDOWN": 14400,
+      "LIMIT": 0,
+      "NAME": "kРесурсы",
+      "TITLE": "KРЕСУРСЫ",
+      "PERMISSION": "king",
+      "ITEMS": [
+        {
+          "name": "wood",
+          "container": "main",
+          "amount": 20000,
+          "skin": 0,
+          "id": -151838493,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lowgradefuel",
+          "container": "main",
+          "amount": 4000,
+          "skin": 0,
+          "id": -946369541,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.fragments",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": 69511070,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "charcoal",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": -1938052175,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "targeting.computer",
+          "container": "main",
+          "amount": 10,
+          "skin": 0,
+          "id": 1523195708,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "gunpowder",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -265876753,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.refined",
+          "container": "main",
+          "amount": 4500,
+          "skin": 0,
+          "id": 317398316,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "scrap",
+          "container": "main",
+          "amount": 8000,
+          "skin": 0,
+          "id": -932201673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cloth",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -858312878,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "sulfur",
+          "container": "main",
+          "amount": 20000,
+          "skin": 0,
+          "id": -1581843485,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "stones",
+          "container": "main",
+          "amount": 20000,
+          "skin": 0,
+          "id": -2099697608,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cctv.camera",
+          "container": "main",
+          "amount": 10,
+          "skin": 0,
+          "id": 634478325,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "kinght": {
+      "COOLDOWN": 3600,
+      "LIMIT": 0,
+      "NAME": "kinght",
+      "TITLE": "KINGHT",
+      "PERMISSION": "kinght",
+      "ITEMS": [
+        {
+          "name": "rifle.ak",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1545779598,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 4,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "rifle.lr300",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": -1812555177,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 4,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "rifle.bolt",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1588298435,
+          "slot": -1,
+          "contents": [
+            {
+              "name": "ammo.rifle",
+              "container": "main",
+              "amount": 2,
+              "skin": 0,
+              "id": -1211166256,
+              "slot": -1,
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "syringe.medical",
+          "container": "belt",
+          "amount": 100,
+          "skin": 0,
+          "id": 1079279582,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "largemedkit",
+          "container": "belt",
+          "amount": 75,
+          "skin": 0,
+          "id": 254522515,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle",
+          "container": "main",
+          "amount": 2000,
+          "skin": 0,
+          "id": -1211166256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.incendiary",
+          "container": "main",
+          "amount": 2000,
+          "skin": 0,
+          "id": 605467368,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.hv",
+          "container": "main",
+          "amount": 2000,
+          "skin": 0,
+          "id": 1712070256,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "ammo.rifle.explosive",
+          "container": "main",
+          "amount": 300,
+          "skin": 0,
+          "id": -1321651331,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "coffin.storage",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 573676040,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.flashlight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 952603248,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.lasersight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -132516482,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.silencer",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1850571427,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.muzzleboost",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -1405508498,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.lasersight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -132516482,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.holosight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 442289265,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.simplesight",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": -855748505,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "weapon.mod.small.scope",
+          "container": "main",
+          "amount": 1,
+          "skin": 0,
+          "id": 567235583,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.facemask",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -194953424,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "hoodie",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1751045826,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.plate.torso",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1110385766,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "roadsign.kilt",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 1850456855,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "pants",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": 237239288,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "shoes.boots",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1549739227,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "tactical.gloves",
+          "container": "wear",
+          "amount": 1,
+          "skin": 0,
+          "id": -1108136649,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "resurs": {
+      "COOLDOWN": 14400,
+      "LIMIT": 0,
+      "NAME": "resurs",
+      "TITLE": "RESURS",
+      "PERMISSION": "kinght",
+      "ITEMS": [
+        {
+          "name": "wood",
+          "container": "main",
+          "amount": 25000,
+          "skin": 0,
+          "id": -151838493,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lowgradefuel",
+          "container": "main",
+          "amount": 6000,
+          "skin": 0,
+          "id": -946369541,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "charcoal",
+          "container": "main",
+          "amount": 20000,
+          "skin": 0,
+          "id": -1938052175,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "sulfur",
+          "container": "main",
+          "amount": 30000,
+          "skin": 0,
+          "id": -1581843485,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "targeting.computer",
+          "container": "main",
+          "amount": 20,
+          "skin": 0,
+          "id": 1523195708,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "scrap",
+          "container": "main",
+          "amount": 10000,
+          "skin": 0,
+          "id": -932201673,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.refined",
+          "container": "main",
+          "amount": 6000,
+          "skin": 0,
+          "id": 317398316,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "metal.fragments",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": 69511070,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cloth",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": -858312878,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "gunpowder",
+          "container": "main",
+          "amount": 15000,
+          "skin": 0,
+          "id": -265876753,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "cctv.camera",
+          "container": "main",
+          "amount": 20,
+          "skin": 0,
+          "id": 634478325,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "stones",
+          "container": "main",
+          "amount": 30000,
+          "skin": 0,
+          "id": -2099697608,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "Медикаменты": {
+      "COOLDOWN": 300,
+      "LIMIT": 0,
+      "NAME": "Медикаменты",
+      "TITLE": "МЕДИКАМЕНТЫ",
+      "PERMISSION": "",
+      "ITEMS": [
+        {
+          "name": "largemedkit",
+          "container": "belt",
+          "amount": 15,
+          "skin": 0,
+          "id": 254522515,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "syringe.medical",
+          "container": "belt",
+          "amount": 15,
+          "skin": 0,
+          "id": 1079279582,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    },
+    "добыча": {
+      "COOLDOWN": 300,
+      "LIMIT": 0,
+      "NAME": "добыча",
+      "TITLE": "Инструменты",
+      "PERMISSION": "",
+      "ITEMS": [
+        {
+          "name": "jackhammer",
+          "container": "belt",
+          "amount": 1,
+          "skin": 2386631418,
+          "id": 1488979457,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "chainsaw",
+          "container": "belt",
+          "amount": 1,
+          "skin": 0,
+          "id": 1104520648,
+          "slot": -1,
+          "contents": []
+        },
+        {
+          "name": "lowgradefuel",
+          "container": "main",
+          "amount": 200,
+          "skin": 0,
+          "id": -946369541,
+          "slot": -1,
+          "contents": []
+        }
+      ],
+      "AUTO": false
+    }
+  }
+}

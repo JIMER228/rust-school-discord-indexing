@@ -1,0 +1,821 @@
+16:50 [Info] Loading Oxide Core v2.0.4006...
+16:50 [Info] Loading extensions...
+16:50 [Info] Loaded extension CSharp v2.0.4049 by Oxide Team and Contributors
+16:50 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:50 [Info] Loaded extension Rust v2.0.5449 by Oxide Team and Contributors
+16:50 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:50 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:50 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:50 [Info] Local compiler MD5: 0
+16:50 [Info] Compiler MD5 hash did not match, downloading latest
+16:50 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+16:50 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.exe, attempting download again
+16:50 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:50 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:50 [Info] Using Covalence provider for game 'Rust'
+16:50 [Info] Loading plugins...
+16:50 [Info] Loaded plugin Rust v2.0.5449 by Oxide Team and Contributors
+16:50 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:51 [Info] IQChat was compiled successfully in 0ms
+16:51 [Warning] [IQChat] Языковой файл загружается...
+16:51 [Warning] [IQChat] Языковой файл загружен успешно
+16:51 [Info] Loaded plugin IQChat v0.3.9 by oxide russia
+16:54 [Info] IP address from external API: 178.176.168.66
+16:54 [Warning] [IQChat] Permissions - completed
+16:55 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+16:55 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+16:55 [Info] PowerlessTurrets, NoFlykick, NoEscape, NameRewards, MinicopterSeating, Metabolism, MachiningTools, Kits, IQWipeBlock, IQReportSystem, IQMarker, IQCraftSystem, InstantCraft, ImageLibrary, DeathMessages, Clans, BuildingUpgrade, Backpack, AdminNoLoot, Arkan, SkipNight, SlotPanel, SmeltOnGather, StatisticsRu, SupplySpeed, Trade, XDStatistics, XMenu, XRaidProtection and XRate were compiled successfully in 4107ms
+16:55 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+16:55 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+16:55 [Warning] [NoEscape] Благодарим за покупку плагина на сайте RustPlugin.ru. Если вы передадите этот плагин сторонним лицам знайте - это лишает вас гарантированных обновлений!
+16:55 [Warning] [NoEscape] Config update detected! Updating config values...
+16:55 [Warning] [NoEscape] Added Write List entity
+16:55 [Warning] [NoEscape] Added Black List commands
+16:55 [Warning] [NoEscape] Config update completed!
+16:55 [Info] Loaded plugin NoEscape v2.3.3 by oxide russia
+16:55 [Warning] [NameRewards] Благодарим за приобретение плагина на сайте RustPlugin.ru. Если вы приобрели этот плагин на другом ресурсе знайте - это лишает вас гарантированных обновлений!
+16:55 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+16:55 [Info] Loaded plugin Minicopter Seating v1.1.5 by Bazz3l
+16:55 [Error] [Metabolism] Configuration file is corrupt(or not exists), creating new one!
+16:55 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+16:55 [Warning] [MachiningTools] Благодарим за приобретение плагина на сайте RustPlugin.ru. Если вы приобрели этот плагин на другом ресурсе знайте - это лишает вас гарантированных обновлений!
+16:55 [Info] Loaded plugin MachiningTools v1.2.4 by oxide russia
+16:55 [Warning] [Kits] Благодарим за приобритение плагина на сайте RustPlugin.ru. Если вы приобрели этот плагин на другом ресурсе знайте - это лишает вас гарантированных обновлений!
+16:55 [Warning] [Kits] Config update detected! Updating config values...
+16:55 [Warning] [Kits] Config update completed!
+16:55 [Error] Failed to call hook 'OnServerInitialized' on plugin 'Kits v1.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnServerInitialized () [0x00067] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00274] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+16:55 [Info] Loaded plugin Kits v1.1.2 by Menevt
+16:55 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+16:55 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+16:55 [Info] Loaded plugin IQWipeBlock v1.1.23 by Menevt
+16:55 [Warning] [IQReportSystem] Языковой файл загружен успешно
+16:55 [Info] Loaded plugin IQReportSystem v0.2.7 by Menevt
+16:55 [Warning] [IQMarker] Языковой файл загружен успешно
+16:55 [Warning] [IQMarker] Загружаем изображения..
+16:55 [Error] Failed to call hook 'OnServerInitialized' on plugin 'IQMarker v1.1.5' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.IQMarker.HasImage (System.String imageName) [0x00028] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQMarker.LoadedImage () [0x00039] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQMarker.OnServerInitialized () [0x00011] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQMarker.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00130] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+16:55 [Info] Loaded plugin IQMarker v1.1.5 by Menevt
+16:55 [Warning] [IQCraftSystem] Языковой файл загружен успешно
+16:55 [Warning] [IQCraftSystem] Начинаю загрузку иконок..
+16:55 [Error] Failed to call hook 'OnServerInitialized' on plugin 'IQCraftSystem v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.IQCraftSystem.HasImage (System.String imageName) [0x00028] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQCraftSystem.LoadedIcon () [0x00050] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQCraftSystem.OnServerInitialized () [0x00000] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.IQCraftSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00b8d] in <6499447daae442879353660db83db2e5>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+16:55 [Info] Loaded plugin IQCraftSystem v0.0.8 by oxide russia
+16:55 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+16:55 [Warning] [Image Library] Retrieving item skin lists...
+16:55 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.58' took 1510ms
+16:55 [Info] Loaded plugin Image Library v2.0.58 by oxide russia
+16:55 [Warning] Calling 'OnServerInitialized' on 'DeathMessages v1.4.4' took 122ms
+16:55 [Info] Loaded plugin DeathMessages v1.4.4 by Menevt
+16:55 [Info] Loaded plugin Clans v1.0.5 by Plugin author OxideBro - RustPlugin.ru
+16:55 [Info] Loaded plugin Building Upgrade v1.1.23 by oxide russia
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Запретить открывать рюкзак в полёте
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Ссылка на изображение иконки UI
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Текст в кнопке UI
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Включить отображение размера рюкзака в UI
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Включить отображение UI рюкзака
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Включить автоматическую очистку рюкзаков при вайпе карты
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Разрешить лутание чужих рюкзаков по привилегии указаной в конфигурации
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Привилегия на разрешение лутания чужих рюкзаков
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Запретить переносить свои предметы в чужой рюкзак (если включена функция лутания чужих рюкзаков)
+16:55 [Warning] [Backpack] Конфигурация обновлена! Добавлен пункт: Какой вид заполнения использовать в UI (Примеры есть в описании плагина на сайте TopPlugin.ru)
+16:55 [Warning] [Backpack] Новые привилегии загружены.
+16:55 [Warning] [Backpack] Чёрный список предметов обновлен и загружен!
+16:55 [Info] Loaded plugin Backpack v1.5.0 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+16:55 [Warning] [Admin No Loot] Loading Default Config
+16:55 [Warning] [Admin No Loot] Config Loaded
+16:55 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+16:55 [Info] [Arkan] Arkan Init: map seed: 10456043, map size: 1000, server timestamp: 2022.4.28.16.50
+16:55 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+16:55 [Warning] [SkipNight] Создание нового файла конфигурации...
+16:55 [Warning] Missing plugin name prefix 'skipnight.' for permission 'skip.use' (by plugin 'SkipNight')
+16:55 [Info] Loaded plugin SkipNight v2.2.11 by A1M41K
+16:55 [Info] Loaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+16:55 [Info] Loaded plugin SmeltOnGather v1.0.2 by oxide russia
+16:55 [Warning] Missing plugin name prefix 'statisticsru.' for permission 'statistics.use' (by plugin 'Statistics')
+16:55 [Warning] Missing plugin name prefix 'statisticsru.' for permission 'statistics.hide' (by plugin 'Statistics')
+16:55 [Info] Loaded plugin Statistics v1.0.12 by Mevent
+16:55 [Info] Loaded plugin Supply Speed v1.0.0 by walkinrey
+16:55 [Info] Loaded plugin Trade v1.1.41 by oxide russia
+16:55 [Warning] Calling 'OnServerInitialized' on 'XDStatistics v1.9.33' took 117ms
+16:55 [Info] Loaded plugin XDStatistics v1.9.33 by DezLife
+16:55 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2850
+-----------------------------
+16:55 [Info] Loaded plugin XMenu v1.0.7 by Monster
+16:55 [Warning] [XRaidProtection] Создание начальной конфигурации плагина!!!
+16:55 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+-----------------------------
+16:55 [Info] Loaded plugin XRaidProtection v1.0.71 by Monster
+16:55 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+16:55 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 122ms
+16:55 [Info] Loaded plugin XRate v1.0.3 by Menevt
+16:55 [Warning] [Image Library] Processing approved skins; Page 1/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 2/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 3/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 4/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 5/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 6/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 7/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 8/32
+16:55 [Info] Listing 34 plugins:
+  01 "IQChat" (0.3.9) by oxide russia (0.09s) - IQChat.cs
+  02 "Powerless Turrets" (3.2.7) by August (0.00s) - PowerlessTurrets.cs
+  03 "No Flykick" (1.0.0) by Drop Dead (0.00s) - NoFlykick.cs
+  04 "NoEscape" (2.3.3) by oxide russia (0.00s) - NoEscape.cs
+  05 "NameRewards" (1.1.1) by Vlad-00003 (0.00s) - NameRewards.cs
+  06 "Minicopter Seating" (1.1.5) by Bazz3l (0.00s) - MinicopterSeating.cs
+  07 "Metabolism" (1.0.0) by Orange (0.00s) - Metabolism.cs
+  08 "MachiningTools" (1.2.4) by oxide russia (0.00s) - MachiningTools.cs
+  09 "Kits" (1.1.2) by Menevt (0.02s) - Kits.cs
+  10 "IQWipeBlock" (1.1.23) by Menevt (0.05s) - IQWipeBlock.cs
+  11 "IQReportSystem" (0.2.7) by Menevt (0.04s) - IQReportSystem.cs
+  12 "IQMarker" (1.1.5) by Menevt (0.02s) - IQMarker.cs
+  13 "IQCraftSystem" (0.0.8) by oxide russia (0.03s) - IQCraftSystem.cs
+  14 "Instant Craft" (2.1.5) by Orange (0.00s) - InstantCraft.cs
+  15 "Image Library" (2.0.58) by oxide russia (1.52s) - ImageLibrary.cs
+  16 "DeathMessages" (1.4.4) by Menevt (0.12s) - DeathMessages.cs
+  17 "Clans" (1.0.5) by Plugin author OxideBro - RustPlugin.ru (0.02s) - Clans.cs
+  18 "Building Upgrade" (1.1.23) by oxide russia (0.01s) - BuildingUpgrade.cs
+  19 "Backpack" (1.5.0) by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G (0.08s) - Backpack.cs
+  20 "Admin No Loot" (0.1.3) by Dana (0.00s) - AdminNoLoot.cs
+  21 "Arkan" (1.0.18) by Antidote (0.01s) - Arkan.cs
+  22 "SkipNight" (2.2.11) by A1M41K (0.02s) - SkipNight.cs
+  23 "SlotPanel" (0.0.33) by Hougan/Mevent#4546 (0.00s) - SlotPanel.cs
+  24 "SmeltOnGather" (1.0.2) by oxide russia (0.01s) - SmeltOnGather.cs
+  25 "Statistics" (1.0.12) by Mevent (0.02s) - StatisticsRu.cs
+  26 "Supply Speed" (1.0.0) by walkinrey (0.00s) - SupplySpeed.cs
+  27 "Trade" (1.1.41) by oxide russia (0.00s) - Trade.cs
+  28 "XDStatistics" (1.9.33) by DezLife (0.12s) - XDStatistics.cs
+  29 "XMenu" (1.0.7) by Monster (0.01s) - XMenu.cs
+  30 "XRaidProtection" (1.0.71) by Monster (0.01s) - XRaidProtection.cs
+  31 "XRate" (1.0.3) by Menevt (0.12s) - XRate.cs
+  32 AdminESP - Unloaded
+  33 AProtection - Unloaded
+  34 AutoDoors - Unloaded
+16:55 [Warning] [Image Library] Processing approved skins; Page 9/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 10/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 11/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 12/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 13/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 14/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 15/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 16/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 17/32
+16:55 [Warning] [Image Library] Processing approved skins; Page 18/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 19/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 20/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 21/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 22/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 23/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 24/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 25/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 26/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 27/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 28/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 29/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 30/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 31/32
+16:56 [Warning] [Image Library] Processing approved skins; Page 32/32
+16:56 [Info] [Image Library] Approved skins loaded
+16:57 [Info] [Image Library] Starting order Statistics
+17:01 [Info] BetterLoot was compiled successfully in 2896ms
+17:01 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:01 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:01 [Info] [BetterLoot] No Blacklist found, creating new file...
+17:01 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+17:01 [Info] [BetterLoot] Exported 766 items to 'NamesList'
+17:01 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:01 [Info] [BetterLoot] Updating internals ...
+17:01 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:01 [Info] [BetterLoot] Removed 1 stacked LootContainer
+17:01 [Info] [BetterLoot] Populated '84' supported containers.
+17:04 [Error] Could not load plugin 'Betterloot' (no plugin found with that file name)
+17:04 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 150ms
+17:04 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:04 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:04 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+17:04 [Info] [BetterLoot] Exported 766 items to 'NamesList'
+17:04 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:04 [Info] [BetterLoot] Updating internals ...
+17:04 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:04 [Info] [BetterLoot] No stacked LootContainer found.
+17:04 [Info] [BetterLoot] Populated '84' supported containers.
+17:04 [Info] Unloaded plugin Backpack v1.5.0 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:05 [Warning] [DEBUG] Load requested for plugin which is already loading: Backpacks
+17:05 [Info] Backpacks was compiled successfully in 3445ms
+17:05 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+17:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Cкрудж"
+17:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Cкрудж"
+17:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Cкрудж" wasn't removed from it.
+17:06 [Info] SlotPanel was compiled successfully in 396ms
+17:06 [Info] Unloaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+17:06 [Info] Loaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+17:06 [Info] AdminMenu was compiled successfully in 535ms
+17:06 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+17:08 [Info] Player 'Cкрудж (76561199209488563)' granted permission 'adminmenu.use'
+17:09 [Info] Player 'Cкрудж (76561199209488563)' granted permission 'adminmenu.permissions'
+17:11 [Info] Unloaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+17:11 [Info] Loaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+17:12 [Info] Unloaded plugin SlotPanel v0.0.33 by Hougan/Mevent#4546
+17:13 [Info] Kits was compiled successfully in 2855ms
+17:13 [Info] Unloaded plugin Kits v1.1.2 by Menevt
+17:13 [Error] Failed to add image for hunter. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY5WLHfDY0jhyo8DEiv5daOKs5q7Y1QPG32nDMkGo
+17:13 [Error] Failed to add image for med. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5WDEfDY0jhyo8DEiv5dROK8-r7IzQfEY7434uw/512fx384f
+17:13 [Error] Failed to add image for home. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://pic.moscow.ovh/images/2019/02/04/ad19afddfc18a25c31986ae41c0edca7.png
+17:13 [Error] Failed to add image for tool. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://rustlabs.com/img/items180/jackhammer.png
+17:13 [Error] Failed to add image for food. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://rustlabs.com/img/items180/black.raspberries.png
+17:13 [Error] Failed to add image for reward. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/872535153476505623/887825641171480657/2d09ff92c11f90e6.png
+17:13 [Error] Failed to add image for vip. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154287293706341/vipres.png
+17:13 [Error] Failed to add image for deluxe. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154339865100328/deluxeres.png
+17:13 [Error] Failed to add image for premium. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154280482177064/premiumres.png
+17:13 [Error] Failed to add image for king. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893164489766232094/kingres.png
+17:13 [Error] Failed to add image for god. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893161223514910830/godres.png
+17:13 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+17:13 [Error] Failed to add image for dlc. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://i.playground.ru/e/jKzvucECkINLRQB4mDqjZg.jpeg
+17:13 [Error] Failed to add image for vippvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154285284634654/vippvp.png
+17:13 [Error] Failed to add image for delpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154345422565446/deluxepvp.png
+17:13 [Error] Failed to add image for kingpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893164489669767178/kingpvp.png
+17:13 [Error] Failed to add image for godpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893161226270556200/godpvp.png
+17:13 [Error] Failed to add image for prempvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154280184360980/premiumpvp.png
+17:13 [Info] Loaded plugin Kits v1.0.1 by molik
+17:13 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:13 [Error] Could not load plugin 'IQWipeblock' (no plugin found with that file name)
+17:14 [Info] IQWipeBlock was compiled successfully in 480ms
+17:14 [Info] Unloaded plugin IQWipeBlock v1.1.23 by Menevt
+17:14 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+17:14 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+17:14 [Info] Loaded plugin IQWipeBlock v1.1.23 by Menevt
+17:14 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+17:14 [Info] Unloaded plugin IQChat v0.3.9 by oxide russia
+17:14 [Warning] [IQChat] Языковой файл загружается...
+17:14 [Warning] [IQChat] Языковой файл загружен успешно
+17:14 [Warning] [IQChat] Permissions - completed
+17:14 [Info] Loaded plugin IQChat v0.3.9 by oxide russia
+17:15 [Info] IQCraftSystem was compiled successfully in 3015ms
+17:15 [Info] Unloaded plugin IQCraftSystem v0.0.8 by oxide russia
+17:15 [Warning] [IQCraftSystem] Языковой файл загружен успешно
+17:15 [Warning] [IQCraftSystem] Начинаю загрузку иконок..
+17:15 [Error] [IQCraftSystem] AddImages SkyPlugins.ru...
+17:15 [Warning] [IQCraftSystem] Загрузка иконок завершена
+17:15 [Info] Loaded plugin IQCraftSystem v0.0.8 by oxide russia
+17:15 [Error] [IQCraftSystem] AddImages SkyPlugins.ru - completed..
+17:15 [Info] XMenu was compiled successfully in 451ms
+17:15 [Info] Unloaded plugin XMenu v1.0.7 by Monster
+17:15 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2850
+-----------------------------
+17:15 [Info] Loaded plugin XMenu v1.0.7 by Monster
+17:15 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:16 [Info] XDStatistics was compiled successfully in 423ms
+17:16 [Info] Unloaded plugin XDStatistics v1.9.33 by DezLife
+17:16 [Warning] Calling 'OnServerInitialized' on 'XDStatistics v1.9.33' took 492ms
+17:16 [Info] Loaded plugin XDStatistics v1.9.33 by DezLife
+17:18 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:18 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:18 [Info] ImageLibrary was compiled successfully in 2943ms
+17:18 [Info] Unloaded plugin Image Library v2.0.58 by oxide russia
+17:18 [Info] Loaded plugin Image Library v2.0.58 by oxide russia
+17:18 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:19 [Info] Unloaded plugin XMenu v1.0.7 by Monster
+17:19 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2850
+-----------------------------
+17:19 [Info] Loaded plugin XMenu v1.0.7 by Monster
+17:19 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:21 [Info] Unloaded plugin XMenu v1.0.7 by Monster
+17:21 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2850
+-----------------------------
+17:21 [Info] Loaded plugin XMenu v1.0.7 by Monster
+17:21 [Info] Unloaded plugin Statistics v1.0.12 by Mevent
+17:23 [Info] Unloaded plugin MachiningTools v1.2.4 by oxide russia
+17:23 [Info] Upgrade was compiled successfully in 2715ms
+17:23 [Error] [Upgrade] Configuration file is corrupt(or not exists), creating new one!
+17:23 [Warning] Upgrade has replaced the 'upgrade' chat command previously registered by BuildingUpgrade
+17:23 [Info] Loaded plugin Upgrade v1.0.1 by thouxanbanfauni
+17:23 [Info] Remove was compiled successfully in 615ms
+17:23 [Info] Loaded plugin Remove v1.3.0 by Ernieleo sell
+17:24 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:25 [Info] Unloaded plugin Building Upgrade v1.1.23 by oxide russia
+17:25 [Info] Teleportation was compiled successfully in 3209ms
+17:25 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+17:25 [Info] Trade was compiled successfully in 695ms
+17:25 [Info] Unloaded plugin Trade v1.1.41 by oxide russia
+17:25 [Warning] [Trade] Config update detected! Updating config values...
+17:25 [Error] Could not initialize plugin 'Trade v2.2.21' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Trade.UpdateConfigValues () [0x000a8] in <31d0668549264f95b7b25153358ee396>:0 
+  at Oxide.Plugins.Trade.LoadConfig () [0x00033] in <31d0668549264f95b7b25153358ee396>:0 
+  at Oxide.Core.Plugins.Plugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x0000f] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.CSPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x00000] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x00000] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Plugins.RustPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x0028e] in <ace8bde4e8774b129b2b0778c2806944>:0 
+  at Oxide.Core.Plugins.PluginManager.AddPlugin (Oxide.Core.Plugins.Plugin plugin) [0x00027] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.OxideMod.PluginLoaded (Oxide.Core.Plugins.Plugin plugin) [0x00035] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:25 [Info] No previous version to rollback plugin: Trade
+17:25 [Info] Vanish was compiled successfully in 636ms
+17:25 [Warning] [Vanish] Configuration changes saved to Vanish.json
+17:25 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+17:26 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:26 [Info] Unloaded plugin Trade v2.2.21 by OxideBro
+17:26 [Warning] [Trade] Благодарим за покупку плагина на сайте RustPlugin.ru. Если вы передадите этот плагин сторонним лицам знайте - это лишает вас гарантированных обновлений!
+17:26 [Warning] [Trade] Config update detected! Updating config values...
+17:26 [Warning] [Trade] Config update completed!
+17:26 [Info] Loaded plugin Trade v2.2.21 by OxideBro
+17:27 [Info] TimedPermissions was compiled successfully in 2908ms
+17:27 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+17:27 [Info] RestartGUI was compiled successfully in 451ms
+17:27 [Info] Loaded plugin RestartGUI v1.0.0 by poof
+17:27 [Info] VendingInStock was compiled successfully in 552ms
+17:27 [Info] Loaded plugin Vending In Stock v1.0.7 by AVOcoder
+17:29 [Info] XRate was compiled successfully in 2827ms
+17:29 [Warning] Calling 'Unload' on 'XRate v1.0.3' took 186ms
+17:29 [Info] Unloaded plugin XRate v1.0.3 by Menevt
+17:29 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+17:29 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 119ms
+17:29 [Info] Loaded plugin XRate v1.0.3 by Menevt
+17:30 [Info] NoEscape was compiled successfully in 3134ms
+17:30 [Info] Unloaded plugin NoEscape v2.3.3 by oxide russia
+17:30 [Info] Loaded plugin NoEscape v2.3.3 by oxide russia
+17:31 [Info] AutoDoors was compiled successfully in 405ms
+17:31 [Warning] [Auto Doors] Creating a new configuration file
+17:31 [Info] Loaded plugin Auto Doors v3.2.9 by Menevt
+17:31 [Info] RaidMarkers was compiled successfully in 422ms
+17:31 [Info] [Raid Markers] Generating new configuration file........
+17:31 [Info] Loaded plugin Raid Markers v1.0.1 by Menevt
+17:31 [Info] SimpleScan was compiled successfully in 358ms
+17:31 [Info] Loaded plugin Simple Scan v1.0.0 by Menevt
+17:31 [Info] StackModifier was compiled successfully in 621ms
+17:31 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! bluedogtags, 5000
+17:31 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! dogtagneutral, 5000
+17:31 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! reddogtags, 5000
+17:31 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! attire.egg.suit, 1
+17:31 [Info] Loaded plugin Stack Modifier v1.4.7 by Khan
+17:31 [Info] [Image Library] Starting order StackModifier
+17:32 [Info] Unloaded plugin Stack Modifier v1.4.7 by Khan
+17:32 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! bluedogtags, 5000
+17:32 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! dogtagneutral, 5000
+17:32 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! reddogtags, 5000
+17:32 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! attire.egg.suit, 1
+17:32 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:32 [Info] Loaded plugin Stack Modifier v1.4.7 by Khan
+17:32 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:33 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:33 [Info] FreeRT was compiled successfully in 2807ms
+17:33 [Info] Loaded plugin Free RT v0.1.5 by Menevt
+17:33 [Info] IQBreakingTools was compiled successfully in 494ms
+17:33 [Warning] [IQBreakingTools] Permissions - completed
+17:33 [Info] Loaded plugin IQBreakingTools v0.0.6 by Menevt
+17:33 [Info] LootBouncer was compiled successfully in 422ms
+17:33 [Warning] [Loot Bouncer] Creating a new configuration file
+17:33 [Warning] Calling 'OnServerInitialized' on 'LootBouncer v1.0.7' took 2475ms
+17:33 [Info] Loaded plugin Loot Bouncer v1.0.7 by Menevt
+17:34 [Info] PowerlessTurrets was compiled successfully in 542ms
+17:34 [Info] Unloaded plugin Powerless Turrets v3.2.7 by August
+17:34 [Info] Loaded plugin Powerless Turrets v3.2.7 by Menevt
+17:34 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:34 [Info] TPOnMap was compiled successfully in 383ms
+17:34 [Warning] Calling 'OnPluginLoaded' on 'LootBouncer v1.0.7' took average 2475ms
+17:34 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+17:34 [Info] Vanish was compiled successfully in 487ms
+17:34 [Info] Unloaded plugin Vanish v1.5.5 by Whispers88
+17:34 [Warning] [Vanish] Configuration appears to be outdated; updating and saving
+17:34 [Warning] [Vanish] Configuration changes saved to Vanish.json
+17:34 [Info] Loaded plugin Vanish v1.6.6 by Menevt
+17:34 [Info] XMiniCopterPlus was compiled successfully in 383ms
+17:34 [Warning] [XMiniCopterPlus] Создание начальной конфигурации плагина!!!
+17:34 [Warning] [XMiniCopterPlus] 
+-----------------------------
+     Author - https://topplugin.ru/ / https://discord.com/invite/5DPTsRmd3G
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+     Config - v.1539
+-----------------------------
+17:34 [Info] Loaded plugin XMiniCopterPlus v1.0.31 by Menevt
+17:34 [Info] Unloaded plugin Minicopter Seating v1.1.5 by Bazz3l
+17:34 [Info] FurnaceSplitterEx was compiled successfully in 618ms
+17:34 [Info] Loaded plugin Furnace Splitter Ex v2.2.0 by Menevt
+17:35 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:35 [Info] IQMarker was compiled successfully in 392ms
+17:35 [Info] Unloaded plugin IQMarker v1.1.5 by Menevt
+17:35 [Warning] [IQMarker] Языковой файл загружен успешно
+17:35 [Warning] [IQMarker] Загружаем изображения..
+17:35 [Warning] [IQMarker] Регистрируем права..
+17:35 [Warning] [IQMarker] Проверяем права игроков..
+17:35 [Warning] [IQMarker] Плагин загружен успешно!
+17:35 [Info] Loaded plugin IQMarker v1.1.5 by Menevt
+17:36 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:37 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:38 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:38 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <58317ec47da5498daf8dd48b2ad56e96>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:38 [Info] [Image Library] Starting order StackModifier
+17:39 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:40 [Info] Loading Oxide Core v2.0.4006...
+17:40 [Info] Loading extensions...
+17:41 [Info] Loaded extension CSharp v2.0.4049 by Oxide Team and Contributors
+17:41 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:41 [Info] Loaded extension Rust v2.0.5449 by Oxide Team and Contributors
+17:41 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:41 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Using Covalence provider for game 'Rust'
+17:41 [Info] Loading plugins...
+17:41 [Info] Loaded plugin Rust v2.0.5449 by Oxide Team and Contributors
+17:41 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:41 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:41 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:41 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, AutoDoors, Backpacks, BetterLoot, Clans, DeathMessages, FreeRT, FurnaceSplitterEx, ImageLibrary, InstantCraft, IQBreakingTools, IQChat, IQCraftSystem, IQMarker, IQReportSystem, IQWipeBlock, Kits, LootBouncer, Metabolism, NameRewards, NoEscape, NoFlykick, PowerlessTurrets, RaidMarkers, Remove, RestartGUI, SimpleScan, SkipNight, SmeltOnGather, StackModifier, SupplySpeed, Teleportation, TimedPermissions, TPOnMap, Trade, Upgrade, Vanish, VendingInStock, XDStatistics, XMenu, XMiniCopterPlus, XRaidProtection and XRate were compiled successfully in 0ms
+17:41 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+17:41 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+17:41 [Warning] [Admin No Loot] Config Loaded
+17:41 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+17:41 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+17:41 [Info] Loaded plugin Auto Doors v3.2.9 by Menevt
+17:41 [Info] Loaded plugin Backpacks v3.7.2 by LaserHydra
+17:41 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:41 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:41 [Info] Loaded plugin Clans v1.0.5 by oxide russia
+17:41 [Info] Loaded plugin DeathMessages v1.4.4 by Menevt
+17:41 [Info] Loaded plugin Free RT v0.1.5 by Menevt
+17:41 [Info] Loaded plugin Furnace Splitter Ex v2.2.0 by Menevt
+17:41 [Info] Loaded plugin Image Library v2.0.58 by oxide russia
+17:41 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+17:41 [Info] Loaded plugin IQBreakingTools v0.0.6 by Menevt
+17:41 [Warning] [IQChat] Языковой файл загружается...
+17:41 [Warning] [IQChat] Языковой файл загружен успешно
+17:41 [Info] Loaded plugin IQChat v0.3.9 by oxide russia
+17:41 [Warning] [IQCraftSystem] Языковой файл загружен успешно
+17:41 [Info] Loaded plugin IQCraftSystem v0.0.8 by oxide russia
+17:41 [Warning] [IQMarker] Языковой файл загружен успешно
+17:41 [Info] Loaded plugin IQMarker v1.1.5 by Menevt
+17:41 [Warning] [IQReportSystem] Языковой файл загружен успешно
+17:41 [Info] Loaded plugin IQReportSystem v0.2.7 by Menevt
+17:41 [Warning] [IQWipeBlock] Языковой файл загружен успешно
+17:41 [Info] Loaded plugin IQWipeBlock v1.1.23 by Menevt
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Error] Failed to call hook 'AddImage' on plugin 'ImageLibrary v2.0.58' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.AddImage (System.String url, System.String imageName, System.UInt64 imageId, System.Action callback) [0x00049] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00745] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:41 [Info] Loaded plugin Kits v1.0.1 by molik
+17:41 [Info] Loaded plugin Loot Bouncer v1.0.7 by Menevt
+17:41 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+17:41 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+17:41 [Info] Loaded plugin NoEscape v2.3.3 by oxide russia
+17:41 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+17:41 [Info] Loaded plugin Powerless Turrets v3.2.7 by Menevt
+17:41 [Info] Loaded plugin Raid Markers v1.0.1 by Menevt
+17:41 [Info] Loaded plugin Remove v1.3.0 by Ernieleo sell
+17:41 [Info] Loaded plugin RestartGUI v1.0.0 by poof
+17:41 [Info] Loaded plugin Simple Scan v1.0.0 by Menevt
+17:41 [Info] Loaded plugin SkipNight v2.2.11 by A1M41K
+17:41 [Info] Loaded plugin SmeltOnGather v1.0.2 by oxide russia
+17:41 [Info] Loaded plugin Stack Modifier v1.4.7 by Khan
+17:41 [Info] Loaded plugin Supply Speed v1.0.0 by walkinrey
+17:41 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+17:41 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+17:41 [Info] Loaded plugin TPOnMap v1.0.1 by CASHR
+17:41 [Info] Loaded plugin Trade v2.2.21 by OxideBro
+17:41 [Info] Loaded plugin Upgrade v1.0.1 by thouxanbanfauni
+17:41 [Info] Loaded plugin Vanish v1.6.6 by Menevt
+17:41 [Info] Loaded plugin Vending In Stock v1.0.7 by AVOcoder
+17:41 [Info] Loaded plugin XDStatistics v1.9.33 by DezLife
+17:41 [Info] Loaded plugin XMenu v1.0.7 by Monster
+17:41 [Info] Loaded plugin XMiniCopterPlus v1.0.31 by Menevt
+17:41 [Info] Loaded plugin XRaidProtection v1.0.71 by Monster
+17:41 [Info] Loaded plugin XRate v1.0.3 by Menevt
+17:43 [Info] IP address from external API: 178.176.168.66
+17:43 [Info] [Arkan] Arkan Init: map seed: 10456043, map size: 1000, server timestamp: 2022.4.28.17.40
+17:43 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+17:43 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:43 [Info] [BetterLoot] Updating internals ...
+17:43 [Info] [Clans] Loaded data with '1' valid Clans and overall '1' Members.
+17:43 [Warning] Calling 'OnServerInitialized' on 'DeathMessages v1.4.4' took 166ms
+17:43 [Warning] [IQBreakingTools] Permissions - completed
+17:43 [Warning] [IQChat] Permissions - completed
+17:43 [Warning] [IQCraftSystem] Начинаю загрузку иконок..
+17:43 [Error] [IQCraftSystem] AddImages SkyPlugins.ru...
+17:43 [Warning] [IQCraftSystem] Загрузка иконок завершена
+17:43 [Warning] [IQMarker] Загружаем изображения..
+17:43 [Warning] [IQMarker] Регистрируем права..
+17:43 [Warning] [IQMarker] Проверяем права игроков..
+17:43 [Warning] [IQMarker] Плагин загружен успешно!
+17:43 [Info] [IQWipeBlock] AddImages SkyPlugins.ru...
+17:43 [Error] Failed to add image for med. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5WDEfDY0jhyo8DEiv5dROK8-r7IzQfEY7434uw/512fx384f
+17:43 [Error] Failed to add image for home. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://pic.moscow.ovh/images/2019/02/04/ad19afddfc18a25c31986ae41c0edca7.png
+17:43 [Error] Failed to add image for tool. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://rustlabs.com/img/items180/jackhammer.png
+17:43 [Error] Failed to add image for food. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://rustlabs.com/img/items180/black.raspberries.png
+17:43 [Error] Failed to add image for reward. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/872535153476505623/887825641171480657/2d09ff92c11f90e6.png
+17:43 [Error] Failed to add image for vip. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154287293706341/vipres.png
+17:43 [Error] Failed to add image for deluxe. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154339865100328/deluxeres.png
+17:43 [Error] Failed to add image for premium. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154280482177064/premiumres.png
+17:43 [Error] Failed to add image for king. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893164489766232094/kingres.png
+17:43 [Error] Failed to add image for god. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893161223514910830/godres.png
+17:43 [Error] Failed to add image for autokit. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\file:///home/container/oxide/data/Kits/home.png
+17:43 [Error] Failed to add image for dlc. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://i.playground.ru/e/jKzvucECkINLRQB4mDqjZg.jpeg
+17:43 [Error] Failed to add image for vippvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154285284634654/vippvp.png
+17:43 [Error] Failed to add image for delpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154345422565446/deluxepvp.png
+17:43 [Error] Failed to add image for kingpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893164489669767178/kingpvp.png
+17:43 [Error] Failed to add image for godpvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893161226270556200/godpvp.png
+17:43 [Error] Failed to add image for prempvp. File address possibly invalide
+ C:\Users\Artem\Desktop\rms\server\default\oxide\data\Kits\https://cdn.discordapp.com/attachments/885541886134190150/893154280184360980/premiumpvp.png
+17:43 [Warning] Calling 'OnServerInitialized' on 'Kits v1.0.1' took 160ms
+17:43 [Warning] Calling 'OnServerInitialized' on 'LootBouncer v1.0.7' took 179ms
+17:43 [Warning] Missing plugin name prefix 'skipnight.' for permission 'skip.use' (by plugin 'SkipNight')
+17:43 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! bluedogtags, 5000
+17:43 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! dogtagneutral, 5000
+17:43 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! reddogtags, 5000
+17:43 [Info] [Stack Modifier] Yo Tell Developer about missing defaults! attire.egg.suit, 1
+17:43 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:43 [Warning] [XMenu] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2850
+-----------------------------
+17:43 [Warning] [XMiniCopterPlus] 
+-----------------------------
+     Author - https://topplugin.ru/ / https://discord.com/invite/5DPTsRmd3G
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+     Config - v.1539
+-----------------------------
+17:43 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+-----------------------------
+17:43 [Warning] [XRate] 
+-----------------------------
+     Author - Menevt/
+     Site - https://oxide-russia.ru/
+     Site - https://oxide-russia.ru/
+-----------------------------
+17:43 [Warning] Calling 'OnServerInitialized' on 'XRate v1.0.3' took 120ms
+17:43 [Info] [BetterLoot] No stacked LootContainer found.
+17:43 [Info] [BetterLoot] Populated '0' supported containers.
+17:43 [Error] [IQCraftSystem] AddImages SkyPlugins.ru - completed..
+17:43 [Info] [IQWipeBlock] AddImages SkyPlugins.ru - completed..
+17:44 [Warning] [Stack Modifier] Unable to find ImageLibrary plugin. This may be caused by StackModifier loading before it. Will check again in 1 minute
+17:45 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Cкрудж"
+17:45 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Cкрудж"
+17:45 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Cкрудж" wasn't removed from it.
+17:45 [Error] Failed to call hook 'OnPlayerRespawned' on plugin 'Kits v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.OnPlayerRespawned (BasePlayer player) [0x00000] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00426] in <e9cfc7414b4d4568a39783877005ad2a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e23ba2c0f246426296d81c842cbda3af>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <50629aa0e75d4126b345d8d9d64da28d>:0 
+17:45 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.58' took 1125ms [GARBAGE COLLECT]
+17:45 [Info] [Image Library] Starting order StackModifier
+17:45 [Info] [Image Library] Starting order StackModifier

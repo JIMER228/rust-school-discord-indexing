@@ -1,0 +1,30 @@
+Video :
+https://youtu.be/gtbsvNim9SQ
+1- Change the Docker Images in settings -> Nests -> rust -> rust to  
+   ghcr.io/goover/games:rust
+
+2- Go to Servers click on server name you want to install the script ->  startup replace the Startup Command with 
+   ./AutoWipe.sh +rcon.port {{RCON_PORT}} +rcon.web true  +rcon.password \"{{RCON_PASS}}\"
+Note : your going to use RCON password and port in Pterodactyl variables (startup).
+3- Upload AutoWipe.sh, AutoWipeConfig.txt  and discord.sh to File Manager.
+4- Connect to your server Terminal using SSH or any other method.
+5- Go to your Server folder 
+    Command #1 :
+    cd /var/lib/pterodactyl/volumes
+    Command #2:
+    ls
+    Command #3:
+    cd "your server folder name"
+    Command #4:
+    chmod +x AutoWipe.sh
+
+    Command #5:
+    chmod +x discord.sh
+6- Go back to File manager click on server folder and create folder named my_server_identity if you don't have one
+7- In my_server_identity create another folder cfg and in the new folder create file server.cfg with all your server configuration exept recon password and port.
+
+8- Change https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks to your discord channel webhook.
+9- Now go to server settings and  click on reinstall server (Some files may be deleted or modified during this process, please back up your data before continuing.)
+
+
+ Notepad++ Edit->EOL Conversion->Unix (LF) 

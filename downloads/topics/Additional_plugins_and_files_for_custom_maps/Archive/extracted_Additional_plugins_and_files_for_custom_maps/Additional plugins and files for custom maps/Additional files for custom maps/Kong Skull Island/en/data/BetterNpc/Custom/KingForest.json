@@ -1,0 +1,115 @@
+{
+  "Enabled? [true/false]": true,
+  "Position": "(45.9, 14.9, 825.1)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 7,
+      "Maximum numbers - Day": 9,
+      "Minimum numbers - Night": 3,
+      "Maximum numbers - Night": 4,
+      "NPCs setting": {
+        "Names": [
+          "Forest Tribe"
+        ],
+        "Health": 100.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 2.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 5.0,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 900.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "mask.bandana",
+            "SkinID (0 - default)": 2469938213
+          },
+          {
+            "ShortName": "attire.hide.poncho",
+            "SkinID (0 - default)": 2360597106
+          },
+          {
+            "ShortName": "attire.hide.skirt",
+            "SkinID (0 - default)": 844711556
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "spear.stone",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          },
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 10,
+            "SkinID (0 - default)": 0,
+            "Mods": []
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(1.5, 0.0, 0.6)",
+        "(51.9, -0.1, 11.8)",
+        "(92.0, -0.2, 33.4)",
+        "(-2.1, -0.3, -53.8)",
+        "(-17.0, -0.3, -78.7)",
+        "(11.4, -0.3, -102.3)",
+        "(-99.9, -0.2, -55.2)",
+        "(-128.0, -0.2, -53.3)",
+        "(-165.7, -0.3, -53.5)",
+        "(-203.8, -0.3, -69.1)",
+        "(-71.8, -0.2, -11.0)",
+        "(-19.0, -0.3, 77.0)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

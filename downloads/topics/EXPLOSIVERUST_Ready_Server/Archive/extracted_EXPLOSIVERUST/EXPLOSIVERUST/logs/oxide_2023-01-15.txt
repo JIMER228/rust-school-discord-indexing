@@ -1,0 +1,1916 @@
+00:06 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "dantop"
+00:06 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "dantop"
+00:06 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "dantop" wasn't removed from it.
+00:06 [Warning] [NoSteamHelper] No data player: 76561199188942259
+00:06 [Error] [] dantop[76561199188942259] зашел без GameWer
+00:17 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+00:26 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+00:26 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+00:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+00:26 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+00:30 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+00:31 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+00:41 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+00:52 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+00:56 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+00:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+01:13 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+01:14 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+01:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "法国茶"
+01:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "法国茶"
+01:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "法国茶" wasn't removed from it.
+01:15 [Warning] [NoSteamHelper] No data player: 76561199154570078
+01:25 [Info] [Guardian] IP Filter: Allowed connection from 212.109.6.132
+01:26 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+01:26 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+01:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+01:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+01:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+01:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "sibir.nat" wasn't removed from it.
+01:29 [Warning] [NoSteamHelper] No data player: 76561199071396114
+01:29 [Error] [] sibir.nat[76561199071396114] зашел без GameWer
+01:34 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+01:56 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+01:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+01:56 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+02:05 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+02:05 [Info] [Discord Extension] [Info]: Discord socket opened!
+02:05 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+02:05 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+02:11 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+02:20 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+02:26 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+02:26 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+02:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+02:56 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+02:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+02:57 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+03:26 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+03:26 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+03:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+03:26 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+03:41 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+03:56 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+03:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+04:26 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+04:26 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+04:26 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+04:40 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+04:56 [Info] [Guardian] IP Filter: Allowed connection from 212.109.6.132
+04:56 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+04:56 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+04:56 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+05:00 [Warning] Calling 'Unload' on 'AdminESP v0.0.11' took 106ms
+05:00 [Info] Unloaded plugin AdminESP v0.0.11 by OxideBro
+05:00 [Info] Unloaded plugin AdminMenu v0.1.50 by Menevt
+05:00 [Info] Unloaded plugin Admin No Loot v0.1.3 by Dana
+05:00 [Info] Unloaded plugin Arkan v1.0.18 by Antidote
+05:00 [Info] Unloaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+05:00 [Info] Unloaded plugin ComponentsEvent v1.0.0 by Drop Dead
+05:00 [Info] Unloaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Custom Rock v0.5.0 by birthdates
+05:00 [Info] Unloaded plugin Death Messages v2.1.55 by oxide-russia.ru
+05:00 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+05:00 [Info] Unloaded plugin EvaScanner v1.0.5 by Forent
+05:00 [Info] Unloaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+05:00 [Info] Unloaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+05:00 [Info] Unloaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Kits v1.1.2 by By Denzoff
+05:00 [Info] Unloaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Metabolism v1.0.0 by Orange
+05:00 [Info] Unloaded plugin NameRewards v1.1.1 by Vlad-00003
+05:00 [Info] Unloaded plugin NeverWear v0.1.4 by k1lly0u
+05:00 [Info] Unloaded plugin No Duds v1.1.0 by bearr
+05:00 [Info] Unloaded plugin NoEscape v2.3.3 by OxideBro
+05:00 [Info] Unloaded plugin No Flykick v1.0.0 by Drop Dead
+05:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+05:00 [Info] Unloaded plugin NoSteamHelper v1.2.0 by Kaidoz
+05:00 [Info] Unloaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Powerless Turrets v3.2.7 by August
+05:00 [Warning] Calling 'Unload' on 'QuickMarker v1.0.1' took 104ms
+05:00 [Info] Unloaded plugin Quick Marker v1.0.1 by Orange
+05:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 104ms
+05:00 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+05:00 [Info] Unloaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+05:00 [Info] Unloaded plugin Referral System v1.0.3 by TopPlugin.ru
+05:00 [Info] Unloaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Warning] Calling 'Unload' on 'SkinBox v1.0.0' took 102ms
+05:00 [Info] Unloaded plugin SkinBox v1.0.0 by MarinWebCode
+05:00 [Info] Unloaded plugin Skins v2.3.0 by misticos
+05:00 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+05:00 [Info] Unloaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Timed Permissions v1.3.2 by LaserHydra
+05:00 [Info] Unloaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+05:00 [Info] Unloaded plugin Vanish v1.5.5 by Whispers88
+05:00 [Info] Unloaded plugin XAntiCheat v0.3.79 by fermens
+05:00 [Info] Unloaded plugin XNickController v1.0.0 by Monster
+05:00 [Info] Unloaded plugin XRaidProtection v1.0.9 by Monster
+05:00 [Error] Failed to call hook 'Unload' on plugin 'XRate v1.0.3' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.XRate.Unload () [0x000c2] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.XRate.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00eee] in <5d120ccd2e804023b8fcafe89c0ec79d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+05:00 [Warning] Calling 'Unload' on 'XRate v1.0.3' took 104ms
+05:00 [Info] Unloaded plugin XRate v1.0.3 by TopPlugin.ru
+05:00 [Info] Unloaded plugin XpSystem v1.0.0 by Chibubrik
+05:00 [Info] Unloaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+05:00 [Info] Unloaded plugin Discord v0.2.1 by seanbyrne88
+05:00 [Info] Unloaded plugin Discord Chat v2.1.2 by MJSU
+05:00 [Info] Unloaded plugin Discord Core v2.1.3 by MJSU
+05:00 [Info] Unloaded plugin FGS v2.0.2 by Мизантроп
+05:00 [Info] Unloaded plugin Guardian v1.7.9 by WhiteDragon
+05:00 [Info] Unloaded plugin LauncherAlkad v1.1.0 by KosiakS
+05:00 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+05:00 [Info] Unloaded plugin  v3.0.37 by Мизантроп
+05:00 [Info] Unloaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+05:00 [Info] Unloaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+05:00 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+05:00 [Info] Unloaded plugin uCore v1.1.83 by Мизантроп
+05:00 [Info] [ServerStats] NetworkStatus: false
+05:00 [Info] Loading Oxide Core v2.0.4050...
+05:00 [Info] Loading extensions...
+05:00 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+05:00 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+05:00 [Info] [InKernel] Debug -> False
+05:00 [Info] [InExtension] Install -> InCore.Interception.dll
+05:00 [Info] [InExtension] Install -> InCore.Kernel.dll
+05:00 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+05:00 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+05:00 [Info] Loaded extension Rust v2.0.5740 by Oxide Team and Contributors
+05:00 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+05:00 [Info] Unity version: 2019.4.7f1
+05:00 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+05:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+05:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+05:00 [Info] Using Covalence provider for game 'Rust'
+05:00 [Info] Loading plugins...
+05:00 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+05:00 [Info] Loaded plugin Rust v2.0.5740 by Oxide Team and Contributors
+05:00 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+05:00 [Info] Added '// Reference: System.Drawing' in plugin 'HitMarker'
+05:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+05:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+05:00 [Info] Added '// Reference: Tags' in plugin 'FGS'
+05:00 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+05:00 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+05:00 [Info] Added '// Reference: Tags' in plugin 'uCore'
+05:00 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, Backpack, BlockSystem, ChatSystem, ComponentsEvent, ConnectMessages, CustomRock, DeathMessages, DiscordStatus, EvaScanner, Flaska, FurnaceSorter, GameStoresRUST, HitMarker, IQControllerSpawnCars, ImageLibrary, InstantSystem, InventorySystem, Kits, LogoSystem, LotterySystem, MenuSystem, Metabolism, NameRewards, NeverWear, NoDuds, NoEscape, NoFlykick, NoGiveNotices, NoSteamHelper, PMSystem, PassSystem, PortableVehicles, PowerlessTurrets, QuickMarker, QuickSmelt, RadHouse, ReferralSystem, RemoveUpgradeV2, Rules, SkinBox, Skins, SkyReportSystem, StackSystem, Teams, Teleportation, TimeSystem, TimedPermissions, Trade, VKBot, Vanish, XAntiCheat, XNickController, XRaidProtection, XRate, XpSystem, AutomatedEvents, Discord, DiscordChat, DiscordCore, FGS, Guardian, LauncherAlkad, Logger, MultiFighting, PlayerAdministration, ServerStats, WipeNameChanger and uCore were compiled successfully in 0ms
+05:00 [Info] InCompiledAssemblyPatch
+05:00 [Error] Error while compiling: FixAnimalNRE.cs(39,42): error CS0308: The non-generic type `BaseAIBrain' cannot be used with the type arguments
+05:00 [Warning] A plugin has polluted the global namespace by defining <Module>
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperModels
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperController
+05:00 [Warning] A plugin has polluted the global namespace by defining StringExt
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+05:00 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+05:00 [Warning] A plugin has polluted the global namespace by defining Tokens
+05:00 [Warning] A plugin has polluted the global namespace by defining UserData
+05:00 [Warning] A plugin has polluted the global namespace by defining Users
+05:00 [Warning] A plugin has polluted the global namespace by defining Steam
+05:00 [Warning] A plugin has polluted the global namespace by defining Response
+05:00 [Warning] A plugin has polluted the global namespace by defining Error
+05:00 [Warning] A plugin has polluted the global namespace by defining Params
+05:00 [Warning] A plugin has polluted the global namespace by defining Serialize
+05:00 [Warning] A plugin has polluted the global namespace by defining Converter
+05:00 [Warning] A plugin has polluted the global namespace by defining Helpers
+05:00 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+05:00 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`3
+05:00 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+05:00 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+05:00 [Warning] [Admin No Loot] Config Loaded
+05:00 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+05:00 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+05:00 [Info] Loaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin ComponentsEvent v1.0.0 by Drop Dead
+05:00 [Info] Loaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Custom Rock v0.5.0 by birthdates
+05:00 [Info] Loaded plugin Death Messages v2.1.55 by oxide-russia.ru
+05:00 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+05:00 [Info] Loaded plugin EvaScanner v1.0.5 by Forent
+05:00 [Info] Loaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+05:00 [Info] Loaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+05:00 [Info] Loaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+05:00 [Info] Loaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+05:00 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+05:00 [Info] Loaded plugin NeverWear v0.1.4 by k1lly0u
+05:00 [Info] Loaded plugin No Duds v1.1.0 by bearr
+05:00 [Info] Loaded plugin NoEscape v2.3.3 by OxideBro
+05:00 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+05:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+05:00 [Info] Loaded plugin NoSteamHelper v1.2.0 by Kaidoz
+05:00 [Info] Loaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+05:00 [Info] Loaded plugin Quick Marker v1.0.1 by Orange
+05:00 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+05:00 [Info] Loaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+05:00 [Info] Loaded plugin Referral System v1.0.3 by TopPlugin.ru
+05:00 [Info] Loaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Warning] Missing plugin name prefix 'skinbox' for permission 'skins.change' (by plugin 'SkinBox')
+05:00 [Info] Loaded plugin SkinBox v1.0.0 by MarinWebCode
+05:00 [Info] Loaded plugin Skins v2.3.0 by misticos
+05:00 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+05:00 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+05:00 [Info] Loaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+05:00 [Info] Loaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+05:00 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+05:00 [Info] Loaded plugin XAntiCheat v0.3.79 by fermens
+05:00 [Info] Loaded plugin XNickController v1.0.0 by Monster
+05:00 [Info] Loaded plugin XRaidProtection v1.0.9 by Monster
+05:00 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+05:00 [Info] Loaded plugin XpSystem v1.0.0 by Chibubrik
+05:00 [Info] Loaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+05:00 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+05:00 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+05:00 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+05:00 [Info] Loaded plugin FGS v2.0.2 by Мизантроп
+05:00 [Info] Loaded plugin Guardian v1.7.9 by WhiteDragon
+05:00 [Info] Loaded plugin LauncherAlkad v1.1.0 by KosiakS
+05:00 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+05:00 [Info] Loaded plugin  v3.0.37 by Мизантроп
+05:00 [Info] Loaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+05:00 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+05:00 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+05:00 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+05:04 [Info] IP address from command-line: 37.230.137.97
+05:04 [Info] [Arkan] Arkan Init: map seed: 51531, map size: 3000, server timestamp: 2023.1.15.5.0
+05:04 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+05:04 [Error] [GameStoresRUST] Incorrect ServerID, reciving auto commands (Products) disabled
+05:04 [Error] [GameStoresRUST] Verify that plugin is installed correct! Some of API settings are 'UNDEFINED'
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.admin' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.use' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.refund' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Calling 'OnServerInitialized' on 'RemoveUpgradeV2 v1.0.3' took 114ms
+05:04 [Warning] [Skins] Item with shortname "shortname" does not exist. Please review your Skins configuration.
+05:04 [Warning] Skins has replaced the 'skin' chat command previously registered by SkinBox
+05:04 [Warning] Skins has replaced the 'skins' chat command previously registered by SkinBox
+05:04 [Error] [SkyReportSystem] -----------------------------------
+05:04 [Error] [SkyReportSystem]            SkyReportSystem         
+05:04 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+05:04 [Error] [SkyReportSystem]           Version = 1.0.3      
+05:04 [Error] [SkyReportSystem] -----------------------------------
+05:04 [Warning] [Teams] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+05:04 [Warning] [XNickController] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2867
+-----------------------------
+05:04 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2857
+-----------------------------
+05:04 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+05:04 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+05:04 [Info] [ServerStats] NetworkStatus: true
+05:04 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 202ms
+05:04 [Info] [uCore] Загружаю базу данных...
+05:04 [Info] [uCore] Создаем базу, если не существует...
+05:04 [Info] [uCore] База данных загружена...
+05:04 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+05:04 [Info] [uCore] База загружена
+05:04 [Info] [Discord Extension] [Info]: Discord socket opened!
+05:04 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+05:04 [Info] [Discord Chat] Discord Chat Ready
+05:04 [Warning] [LauncherAlkad] Обновляю информацию...
+05:04 [Warning] [LauncherAlkad] Информация обновлена: 
+ => Сервер: 37.230.137.97:20560
+ => VK: Нету
+ => Shop: https://explosive.gamestores.app/?attempt=1
+ => Discord: https://discord.gg/WmvaKKt2tM
+ => Античит: Нету
+05:04 [Info] [Guardian] IP Filter: Allowed connection from 212.109.6.132
+05:05 [Info] [SkinBox] Загружено 215 встроенных скинов.
+05:05 [Info] [SkinBox] Загружено 3434 одобренных скинов.
+05:09 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+05:09 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+05:09 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "sibir.nat" wasn't removed from it.
+05:09 [Warning] [NoSteamHelper] No data player: 76561199071396114
+05:09 [Error] [] sibir.nat[76561199071396114] зашел без GameWer
+05:28 [Info] [Guardian] IP Filter: Allowed connection from 212.109.6.132
+05:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+05:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+05:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "sibir.nat" wasn't removed from it.
+05:29 [Warning] [NoSteamHelper] No data player: 76561199071396114
+05:29 [Error] [] sibir.nat[76561199071396114] зашел без GameWer
+05:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+05:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+06:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+06:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+06:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+06:21 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+06:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+06:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+06:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+06:40 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+06:42 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+06:42 [Info] [Discord Extension] [Info]: Discord socket opened!
+06:42 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+06:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+07:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+07:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+07:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+07:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+07:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+07:50 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+07:56 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+07:56 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+07:56 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+07:56 [Warning] [NoSteamHelper] No data player: 76561199427273559
+07:56 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+08:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+08:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+08:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+08:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+08:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+08:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+08:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+08:39 [Info] [Guardian] IP Filter: Allowed connection from 37.22.205.20
+08:46 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+08:46 [Info] [Discord Extension] [Info]: Discord socket opened!
+08:46 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+08:47 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+08:47 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+08:47 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+08:47 [Warning] [NoSteamHelper] No data player: 76561199083943118
+09:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+09:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+09:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+09:19 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #1
+Shots count 14
+Probability 83.125%
+Attachments count = 0
+Weapon - smg.mp5 
+Ammo - ammo.pistol
+Projectile ID: 149 | Shooting on the move
+Closest point 1: (697.1, 11.8, -239.8) Closest point 2: (697.1, 11.8, -239.8), prev (0.0, 0.0, 0.0)
+Fire time interval 0.097202
+Recoil angle: 0.2046302
+Screen coords point1: (500.0, 500.0), coords point2: (497.4, 500.2)
+Distance between two points: 2.560222
+
+Projectile ID: 150 | Shooting on the move
+Closest point 1: (697.8, 12.2, -239.3) Closest point 2: (697.8, 12.2, -239.3), prev (697.1, 11.8, -239.8)
+Fire time interval 0.109495
+Recoil angle: 0
+Screen coords point1: (500.0, 500.0), coords point2: (500.0, 499.5)
+Distance between two points: 0.5013802
+
+Projectile ID: 151 | Standing shooting position | Recoil angle: 0.4338616 | Fire time interval 0.094183
+Projectile ID: 152 | Standing shooting position | Recoil angle: 0.132704 | Fire time interval 0.097118
+Projectile ID: 153 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101975
+Projectile ID: 154 | Standing shooting position | Recoil angle: 1.433131 | Fire time interval 0.096796
+Projectile ID: 155 | Standing shooting position | Recoil angle: 0.2036718 | Fire time interval 0.097774
+Projectile ID: 156 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.115855
+Projectile ID: 157 | Standing shooting position | Recoil angle: 0.08846933 | Fire time interval 0.096914
+Projectile ID: 158 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.100411
+Projectile ID: 159 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.094
+Projectile ID: 160 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.108925
+Projectile ID: 161 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.089669
+09:20 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #2
+Shots count 12
+Probability 95%
+Attachments count = 0
+Weapon - smg.2 
+Ammo - ammo.pistol
+Projectile ID: 178 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.106079
+Projectile ID: 179 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.10643
+Projectile ID: 180 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.09043
+Projectile ID: 181 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.109584
+Projectile ID: 182 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101766
+Projectile ID: 183 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.099204
+Projectile ID: 184 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.096914
+Projectile ID: 185 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.100365
+Projectile ID: 186 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.102696
+Projectile ID: 187 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.097063
+Projectile ID: 188 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.103133
+09:20 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+09:20 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #3
+Shots count 17
+Probability 72.22222%
+Attachments count = 0
+Weapon - rifle.lr300 
+Ammo - ammo.rifle
+Projectile ID: 223 | Standing shooting position | Recoil angle: 3.068224 | Fire time interval 0.128169
+Projectile ID: 224 | Standing shooting position | Recoil angle: 0.5260038 | Fire time interval 0.115319
+Projectile ID: 225 | Standing shooting position | Recoil angle: 3.251849 | Fire time interval 0.123061
+Projectile ID: 226 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.117996
+Projectile ID: 227 | Standing shooting position | Recoil angle: 0.1266688 | Fire time interval 0.114834
+Projectile ID: 228 | Standing shooting position | Recoil angle: 0.3019647 | Fire time interval 0.12721
+Projectile ID: 229 | Standing shooting position | Recoil angle: 0.3006659 | Fire time interval 0.122081
+Projectile ID: 230 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.118854
+Projectile ID: 231 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.123793
+Projectile ID: 232 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.111498
+Projectile ID: 233 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.126849
+Projectile ID: 234 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.116018
+Projectile ID: 235 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.119615
+Projectile ID: 236 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.126604
+Projectile ID: 237 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.114562
+Projectile ID: 238 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.125153
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #4
+Shots count 24
+Probability 72.2%
+Attachments count = 0
+Weapon - smg.2 
+Ammo - ammo.pistol
+Projectile ID: 240 | Standing shooting position | Recoil angle: 0.4597013 | Fire time interval 0.106247
+Projectile ID: 241 | Standing shooting position | Recoil angle: 0.7783349 | Fire time interval 0.103968
+Projectile ID: 242 | Standing shooting position | Recoil angle: 0.3051875 | Fire time interval 0.089585
+Projectile ID: 243 | Standing shooting position | Recoil angle: 0.4068635 | Fire time interval 0.10166
+Projectile ID: 244 | Standing shooting position | Recoil angle: 0.1203313 | Fire time interval 0.110802
+Projectile ID: 245 | Standing shooting position | Recoil angle: 0.9851648 | Fire time interval 0.098248
+Projectile ID: 246 | Standing shooting position | Recoil angle: 0.7260464 | Fire time interval 0.098731
+Projectile ID: 247 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.090507
+Projectile ID: 248 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.107736
+Projectile ID: 249 | Standing shooting position | Recoil angle: 0.2158 | Fire time interval 0.098164
+Projectile ID: 250 | Standing shooting position | Recoil angle: 0.08846933 | Fire time interval 0.097573
+Projectile ID: 251 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.109854
+Projectile ID: 252 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.090843
+Projectile ID: 253 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.09846
+Projectile ID: 254 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.106865
+Projectile ID: 255 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.093233
+Projectile ID: 256 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.113969
+Projectile ID: 257 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.103492
+Projectile ID: 258 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.085484
+Projectile ID: 259 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.103167
+Projectile ID: 260 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.093327
+Projectile ID: 261 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.110474
+Projectile ID: 262 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.094631
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Guardian] Warning mOnets1[76561199427273559] for AntiCheat(Recoil): Custom SMG, yaw=0.000000, pitch=0.000000
+09:21 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #5
+Shots count 20
+Probability 72.38095%
+Attachments count = 0
+Weapon - smg.2 
+Ammo - ammo.pistol
+Projectile ID: 268 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.110523
+Projectile ID: 269 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.098896
+Projectile ID: 270 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.097391
+Projectile ID: 271 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.103551
+Projectile ID: 272 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.097551
+Projectile ID: 273 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101515
+Projectile ID: 274 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.098941
+Projectile ID: 275 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.096748
+Projectile ID: 276 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.103311
+Projectile ID: 277 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.093109
+Projectile ID: 278 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.102668
+Projectile ID: 279 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.099308
+Projectile ID: 280 | Standing shooting position | Recoil angle: 0.1186941 | Fire time interval 0.09745
+Projectile ID: 281 | Standing shooting position | Recoil angle: 0.5355885 | Fire time interval 0.107006
+Projectile ID: 282 | Standing shooting position | Recoil angle: 0.3810355 | Fire time interval 0.097736
+Projectile ID: 283 | Standing shooting position | Recoil angle: 0.311533 | Fire time interval 0.098268
+Projectile ID: 284 | Standing shooting position | Recoil angle: 0.5215207 | Fire time interval 0.103544
+Projectile ID: 285 | Standing shooting position | Recoil angle: 0.4111691 | Fire time interval 0.100722
+Projectile ID: 286 | Standing shooting position | Recoil angle: 0.2601963 | Fire time interval 0.099094
+09:21 [Info] [Arkan] No Recoil probable violation
+Player mOnets1/76561199427273559
+NR violation #6
+Shots count 19
+Probability 85.95238%
+Attachments count = 0
+Weapon - smg.2 
+Ammo - ammo.pistol
+Projectile ID: 307 | Standing shooting position | Recoil angle: 0.23239 | Fire time interval 0.110568
+Projectile ID: 308 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.094271
+Projectile ID: 309 | Standing shooting position | Recoil angle: 0.23239 | Fire time interval 0.10271
+Projectile ID: 310 | Standing shooting position | Recoil angle: 0.3127867 | Fire time interval 0.098997
+Projectile ID: 311 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.097977
+Projectile ID: 312 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101796
+Projectile ID: 313 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.098659
+Projectile ID: 314 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101609
+Projectile ID: 315 | Standing shooting position | Recoil angle: 0.09691329 | Fire time interval 0.099326
+Projectile ID: 316 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.099593
+Projectile ID: 317 | Standing shooting position | Recoil angle: 0.2315465 | Fire time interval 0.102974
+Projectile ID: 318 | Standing shooting position | Recoil angle: 0.5492961 | Fire time interval 0.108496
+Projectile ID: 319 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.093092
+Projectile ID: 320 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.101603
+Projectile ID: 321 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.10278
+Projectile ID: 322 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.08701
+Projectile ID: 323 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.106811
+Projectile ID: 324 | Standing shooting position | Recoil angle: 0 | Fire time interval 0.097762
+09:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+09:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+09:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+09:36 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+09:42 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+09:42 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+09:42 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+09:42 [Warning] [NoSteamHelper] No data player: 76561199427273559
+09:42 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+09:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+10:00 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+10:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+10:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+10:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+10:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "法国茶"
+10:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "法国茶"
+10:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "法国茶" wasn't removed from it.
+10:05 [Warning] [NoSteamHelper] No data player: 76561199154570078
+10:25 [Info] [Guardian] IP Filter: Allowed connection from 95.86.212.241
+10:32 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+10:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+10:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+10:39 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+10:39 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+10:39 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+10:39 [Warning] [NoSteamHelper] No data player: 76561199139127596
+10:56 [Info] [Guardian] IP Filter: Allowed connection from 212.109.6.132
+10:58 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+10:58 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "sibir.nat"
+10:58 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "sibir.nat" wasn't removed from it.
+10:58 [Warning] [NoSteamHelper] No data player: 76561199071396114
+10:58 [Error] [] sibir.nat[76561199071396114] зашел без GameWer
+10:58 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+11:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 240
+11:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+11:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+11:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+11:08 [Info] [Guardian] IP Filter: Allowed connection from 37.212.28.216
+11:18 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Alen Walker+"
+11:18 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Alen Walker+"
+11:18 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Alen Walker+" wasn't removed from it.
+11:18 [Warning] [NoSteamHelper] No data player: 76561199029727932
+11:18 [Error] [] Alen Walker+[76561199029727932] зашел без GameWer
+11:18 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "абумеянг"
+11:18 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "абумеянг"
+11:18 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "абумеянг" wasn't removed from it.
+11:18 [Warning] [NoSteamHelper] No data player: 76561199395456565
+11:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+11:19 [Info] [Guardian] IP Filter: Allowed connection from 37.22.205.20
+11:21 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+11:21 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+11:21 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+11:21 [Warning] [NoSteamHelper] No data player: 76561199083943118
+11:29 [Info] [Guardian] Warning (aka)-macros-rocket[76561199139127596] for AntiCheat(Fire Rate): M249, 0.008s
+11:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+11:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+11:48 [Info] [Guardian] IP Filter: Allowed connection from 37.212.90.254
+11:51 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+11:51 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+11:51 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "prizrak?!" wasn't removed from it.
+11:51 [Warning] [NoSteamHelper] No data player: 76561199274937580
+11:53 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+12:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+12:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+12:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+12:05 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+12:07 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+12:07 [Info] [Guardian] IP Filter: Allowed connection from 37.212.22.231
+12:08 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+12:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+12:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+12:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+12:15 [Warning] [NoSteamHelper] No data player: 76561199183978551
+12:22 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+12:26 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+12:26 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+12:26 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+12:26 [Warning] [NoSteamHelper] No data player: 76561199139127596
+12:26 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+12:26 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+12:33 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+12:33 [Info] [Discord Extension] [Info]: Discord socket opened!
+12:33 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+12:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 243
+12:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+12:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+12:41 [Info] [Guardian] IP Filter: Allowed connection from 87.117.56.88
+12:43 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:43 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:43 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "maksimnagornyj11" wasn't removed from it.
+12:43 [Warning] [NoSteamHelper] No data player: 76561199470487309
+12:43 [Error] [] maksimnagornyj11[76561199470487309] зашел без GameWer
+12:45 [Info] [Guardian] IP Filter: Allowed connection from 87.117.56.88
+12:46 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:46 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:46 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "maksimnagornyj11" wasn't removed from it.
+12:46 [Warning] [NoSteamHelper] No data player: 76561199470487309
+12:46 [Error] [] maksimnagornyj11[76561199470487309] зашел без GameWer
+12:47 [Info] [Guardian] IP Filter: Allowed connection from 87.117.56.88
+12:48 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:48 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:48 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "maksimnagornyj11" wasn't removed from it.
+12:48 [Warning] [NoSteamHelper] No data player: 76561199470487309
+12:48 [Error] [] maksimnagornyj11[76561199470487309] зашел без GameWer
+12:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+12:49 [Info] [Guardian] IP Filter: Allowed connection from 87.117.56.88
+12:50 [Info] [Guardian] IP Filter: Allowed connection from 5.227.30.103
+12:50 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:50 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:50 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "maksimnagornyj11" wasn't removed from it.
+12:50 [Warning] [NoSteamHelper] No data player: 76561199470487309
+12:50 [Error] [] maksimnagornyj11[76561199470487309] зашел без GameWer
+12:53 [Info] [Guardian] IP Filter: Allowed connection from 87.117.56.88
+12:53 [Info] [Guardian] IP Filter: Allowed connection from 94.181.82.168
+12:54 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+12:54 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:54 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "maksimnagornyj11"
+12:54 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "maksimnagornyj11" wasn't removed from it.
+12:54 [Warning] [NoSteamHelper] No data player: 76561199470487309
+12:54 [Error] [] maksimnagornyj11[76561199470487309] зашел без GameWer
+12:58 [Info] [Guardian] IP Filter: Allowed connection from 46.187.15.211
+13:00 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+13:00 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "[WCM]Farik"
+13:00 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "[WCM]Farik"
+13:00 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "[WCM]Farik" wasn't removed from it.
+13:00 [Warning] [NoSteamHelper] No data player: 76561198876156117
+13:00 [Error] [] [WCM]Farik[76561198876156117] зашел без GameWer
+13:00 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 243
+13:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+13:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+13:15 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+13:17 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:17 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:20 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:20 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:20 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:22 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:23 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:23 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+13:25 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:26 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+13:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+13:35 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:38 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+14:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 243
+14:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+14:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+14:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+14:07 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:09 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:12 [Info] [Guardian] IP Filter: Allowed connection from 212.15.62.247
+14:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Считами#FOXRUST"
+14:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Считами#FOXRUST"
+14:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Считами#FOXRUST" wasn't removed from it.
+14:15 [Warning] [NoSteamHelper] No data player: 76561199429002359
+14:16 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+14:17 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+14:30 [Info] [Guardian] IP Filter: Allowed connection from 109.254.131.0
+14:31 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "PM^_^#BESTRUST"
+14:31 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "PM^_^#BESTRUST"
+14:31 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "PM^_^#BESTRUST" wasn't removed from it.
+14:31 [Warning] [NoSteamHelper] No data player: 76561199470213524
+14:31 [Error] [] PM^_^#BESTRUST[76561199470213524] зашел без GameWer
+14:32 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+14:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 243
+14:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+14:36 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+14:37 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+14:39 [Info] [Guardian] IP Filter: Allowed connection from 193.143.67.132
+14:42 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+14:42 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+14:42 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+14:42 [Warning] [NoSteamHelper] No data player: 76561199427273559
+14:42 [Warning] [SkyReportSystem] Вызываемый игрок покинул сервер!
+14:42 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+14:44 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:45 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+14:46 [Info] [Guardian] IP Filter: Allowed connection from 79.105.170.221
+14:46 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "kapitan"
+14:46 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "kapitan"
+14:46 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "kapitan" wasn't removed from it.
+14:46 [Warning] [NoSteamHelper] No data player: 76561199466886250
+14:47 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:47 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "frosiaoksana"
+14:47 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "frosiaoksana"
+14:47 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "frosiaoksana" wasn't removed from it.
+14:47 [Warning] [NoSteamHelper] No data player: 76561198036498958
+14:47 [Error] [] frosiaoksana[76561198036498958] зашел без GameWer
+14:48 [Info] [Guardian] IP Filter: Allowed connection from 178.34.162.27
+14:48 [Info] [Guardian] IP Filter: Allowed connection from 185.184.233.61
+14:50 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+14:50 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+14:50 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+14:50 [Warning] [NoSteamHelper] No data player: 76561199139127596
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+14:50 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:51 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "negretosik222"
+14:51 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "negretosik222"
+14:51 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "negretosik222" wasn't removed from it.
+14:51 [Warning] [NoSteamHelper] No data player: 76561198883837008
+14:51 [Error] [] negretosik222[76561198883837008] зашел без GameWer
+14:53 [Info] [Guardian] IP Filter: Allowed connection from 79.105.170.221
+14:58 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Negodiai12345"
+14:58 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Negodiai12345"
+14:58 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Negodiai12345" wasn't removed from it.
+14:58 [Warning] [NoSteamHelper] No data player: 76561198178560847
+14:58 [Error] [] Negodiai12345[76561198178560847] зашел без GameWer
+14:58 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "frosiaoksana"
+14:58 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "frosiaoksana"
+14:58 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "frosiaoksana" wasn't removed from it.
+14:58 [Warning] [NoSteamHelper] No data player: 76561198036498958
+14:58 [Error] [] frosiaoksana[76561198036498958] зашел без GameWer
+15:02 [Info] [Guardian] Warning negretosik222[76561198883837008] for AntiCheat(Stash): N11(484,31,-139)
+15:02 [Info] [Guardian] Warning Negodiai12345[76561198178560847] for AntiCheat(Stash): N10(500,34,-93)
+15:03 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+15:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 245
+15:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+15:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+15:05 [Info] [Arkan] AIMBOT probable violation
+Attacker: frosiaoksana
+AIMBOT violation #1
+Weapon: rifle.semiauto
+Ammo: ammo.rifle
+Distance: 666880.5
+Target: mOnets1
+Hit part: head
+Date/Time: 01/15/2023 15:05:17
+
+Attacker mounted on 1module_cockpit_with_engine
+
+Attachments count = 0
+Ricochets count = 1
+isEqualFiredProjectileData = True
+isPlayerPositionToProjectileStartPositionDistanceViolation = False
+-
+____Trajectory #1 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = True
+isHitPointOnProjectileTrajectory = True
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = True
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #1 data log end____
+-
+____Trajectory #2 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = False
+     AIMBOT Violation: HitPoint is not located within line ProjectileTrajectoryLastSegment. 
+But HitPoint is located near the plane ProjectilePlane at a distance 0.03106689. HitPoint is located before line ProjectileTrajectoryLastSegment, distance to StartPoint 9.938482
+isHitPointOnProjectileTrajectory = False
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = True
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #2 data log end____
+
+15:05 [Info] [Arkan] AIMBOT probable violation
+Attacker: frosiaoksana
+AIMBOT violation #2
+Weapon: rifle.semiauto
+Ammo: ammo.rifle
+Distance: 666873.2
+Target: mOnets1
+Hit part: head
+Date/Time: 01/15/2023 15:05:18
+
+Attacker mounted on 1module_cockpit_with_engine
+
+Attachments count = 0
+Ricochets count = 1
+isEqualFiredProjectileData = True
+isPlayerPositionToProjectileStartPositionDistanceViolation = False
+-
+____Trajectory #1 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = True
+isHitPointOnProjectileTrajectory = True
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = True
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #1 data log end____
+-
+____Trajectory #2 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = False
+     AIMBOT Violation: HitPoint is not located within line ProjectileTrajectoryLastSegment. 
+But HitPoint is located near the plane ProjectilePlane at a distance 0.2379761. HitPoint is located before line ProjectileTrajectoryLastSegment, distance to StartPoint 2.649527
+isHitPointOnProjectileTrajectory = False
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = True
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #2 data log end____
+
+15:05 [Info] [Arkan] AIMBOT probable violation
+Attacker: frosiaoksana
+AIMBOT violation #3
+Weapon: rifle.semiauto
+Ammo: ammo.rifle
+Distance: 666701.6
+Target: mOnets1
+Hit part: chest
+Date/Time: 01/15/2023 15:05:49
+
+Attachments count = 0
+Ricochets count = 1
+isEqualFiredProjectileData = True
+isPlayerPositionToProjectileStartPositionDistanceViolation = False
+-
+____Trajectory #1 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = True
+isHitPointOnProjectileTrajectory = True
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = True
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #1 data log end____
+-
+____Trajectory #2 check data____
+isHitPointNearProjectileTrajectoryLastSegmentEndPoint = True
+isHitPointOnProjectileTrajectory = True
+isProjectileStartPointAtEndReverseProjectileTrajectory = True
+isHitPointNearProjectilePlane = False
+     AIMBOT Violation: HitPoint is not near the plane ProjectilePlane at a distance 0.3065796
+isLastSegmentOnProjectileTrajectoryPlane = True
+____Trajectory #2 data log end____
+
+15:05 [Info] [Guardian] Warning frosiaoksana[76561198036498958] for AntiCheat(Trajectory): Semi-Automatic Rifle, 36.6m, 666701.4m
+15:05 [Info] [Guardian] Warning frosiaoksana[76561198036498958] for AntiCheat(Trajectory): Semi-Automatic Rifle, 36.6m, 666701.4m
+15:05 [Info] [Guardian] Warning frosiaoksana[76561198036498958] for AntiCheat(Trajectory): Semi-Automatic Rifle, 36.6m, 666701.4m
+15:05 [Info] [Guardian] Warning frosiaoksana[76561198036498958] for AntiCheat(Trajectory): Semi-Automatic Rifle, 36.6m, 666701.6m
+15:12 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+15:13 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+15:17 [Info] [Guardian] IP Filter: Allowed connection from 67.209.130.133
+15:21 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "popova-east-limpopo"
+15:21 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "popova-east-limpopo"
+15:21 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "popova-east-limpopo" wasn't removed from it.
+15:21 [Warning] [NoSteamHelper] No data player: 76561199441965150
+15:21 [Error] [] popova-east-limpopo[76561199441965150] зашел без GameWer
+15:24 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+15:24 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:24 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:25 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+15:31 [Info] [Guardian] IP Filter: Allowed connection from 185.23.66.125
+15:31 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+15:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 245
+15:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+15:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+15:34 [Info] [Guardian] Kicked (aka)-macros-rocket[76561199139127596] for AntiFlood(Command): global.adminui_requestserverinfo
+15:39 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+15:39 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+15:42 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+15:45 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+15:45 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+15:45 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+15:45 [Warning] [NoSteamHelper] No data player: 76561199139127596
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:45 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:46 [Warning] Calling hook OnPlayerViolation resulted in a conflict between the following plugins: Vanish - False (Boolean), Guardian (True (Boolean))
+15:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+15:54 [Error] [Discord Extension] [Exception]: A web request exception occured (internal error) [RETRY=1/3].
+Request URL: [POST] https://discord.com/api/v9/channels/1063503680197898240/messages
+System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.GetRequestStream () [0x0004d] in <14e3453b740b4bd690e8d4e5a013a715>:0 
+  at Oxide.Ext.Discord.Rest.Request.WriteRequestData (System.Net.WebRequest request) [0x0002d] in <04348bf9a35746d283d4a8b439245576>:0 
+  at Oxide.Ext.Discord.Rest.Request.Fire () [0x00022] in <04348bf9a35746d283d4a8b439245576>:0  (WebException: The request timed out)
+  at System.Net.HttpWebRequest.GetRequestStream () [0x0004d] in <14e3453b740b4bd690e8d4e5a013a715>:0 
+  at Oxide.Ext.Discord.Rest.Request.WriteRequestData (System.Net.WebRequest request) [0x0002d] in <04348bf9a35746d283d4a8b439245576>:0 
+  at Oxide.Ext.Discord.Rest.Request.Fire () [0x00022] in <04348bf9a35746d283d4a8b439245576>:0 
+15:55 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+15:55 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+15:57 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+15:57 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+15:57 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+15:57 [Warning] [NoSteamHelper] No data player: 76561199139127596
+16:00 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:00 [Info] [Guardian] IP Filter: Allowed connection from 77.223.82.100
+16:00 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+16:01 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "DNS"
+16:01 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "DNS"
+16:01 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "DNS" wasn't removed from it.
+16:01 [Warning] [NoSteamHelper] No data player: 76561199137126632
+16:01 [Error] [] DNS[76561199137126632] зашел без GameWer
+16:02 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+16:02 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+16:02 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+16:02 [Warning] [NoSteamHelper] No data player: 76561199139127596
+16:03 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+16:03 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+16:03 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+16:03 [Warning] [NoSteamHelper] No data player: 76561199153678475
+16:03 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+16:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 245
+16:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+16:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:06 [Error] Failed to call hook 'ReportSystemBanReason' on plugin 'SkyReportSystem v1.0.3' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.SkyReportSystem.ReportSystemBanReason (ConsoleSystem+Arg arg) [0x0006c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.SkyReportSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0036d] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+16:07 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:10 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:17 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:23 [Info] [Guardian] IP Filter: Allowed connection from 37.22.205.20
+16:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+16:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+16:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+16:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+16:35 [Warning] [NoSteamHelper] No data player: 76561199083943118
+16:36 [Info] [Guardian] IP Filter: Allowed connection from 89.23.156.176
+16:38 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+16:39 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:43 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:46 [Warning] [DEBUG] Reload requested for plugin which is already loading: AuthLimiter
+16:46 [Info] AuthLimiter was compiled successfully in 1984ms
+16:46 [Info] InCompiledAssemblyPatch
+16:46 [Warning] AuthLimiter has polluted the global namespace by defining <Module>
+16:46 [Info] Loaded plugin Auth Limiter v1.0.2 by supreme
+16:46 [Info] GroupLimits was compiled successfully in 219ms
+16:46 [Info] InCompiledAssemblyPatch
+16:46 [Warning] GroupLimits has polluted the global namespace by defining <Module>
+16:46 [Warning] GroupLimits has polluted the global namespace by defining <>__AnonType0`3
+16:46 [Warning] GroupLimits has polluted the global namespace by defining <>__AnonType1`3
+16:46 [Warning] GroupLimits has polluted the global namespace by defining <>__AnonType2`1
+16:46 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+16:48 [Info] WipeNameChanger was compiled successfully in 1785ms
+16:48 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+16:48 [Info] InCompiledAssemblyPatch
+16:48 [Warning] WipeNameChanger has polluted the global namespace by defining <Module>
+16:48 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+16:48 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+16:48 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "dantop"
+16:48 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "dantop"
+16:48 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "dantop" wasn't removed from it.
+16:48 [Warning] [NoSteamHelper] No data player: 76561199188942259
+16:48 [Error] [] dantop[76561199188942259] зашел без GameWer
+16:48 [Info] Unloaded plugin Teams v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+16:49 [Warning] Calling 'Unload' on 'QuickMarker v1.0.1' took 110ms
+16:49 [Info] Unloaded plugin Quick Marker v1.0.1 by Orange
+16:50 [Error] [GameStoresRUST] Sending stats error! Plugin not initialized
+16:52 [Info] GameStoresRUST was compiled successfully in 1992ms
+16:52 [Info] Unloaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+16:52 [Info] InCompiledAssemblyPatch
+16:52 [Warning] GameStoresRUST has polluted the global namespace by defining <Module>
+16:52 [Warning] GameStoresRUST has polluted the global namespace by defining <>__AnonType0`2
+16:52 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+16:55 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+16:56 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+16:56 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+16:56 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+16:56 [Warning] [NoSteamHelper] No data player: 76561199427273559
+16:56 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+16:59 [Info] [Guardian] IP Filter: Allowed connection from 83.102.204.92
+16:59 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+16:59 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+16:59 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:00 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:01 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Gomer4ek"
+17:01 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Gomer4ek"
+17:01 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Gomer4ek" wasn't removed from it.
+17:01 [Warning] [NoSteamHelper] No data player: 76561199196129784
+17:01 [Error] [] Gomer4ek[76561199196129784] зашел без GameWer
+17:02 [Info] [Guardian] IP Filter: Allowed connection from 176.59.45.193
+17:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 245
+17:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+17:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+17:06 [Info] QuickSmelt was compiled successfully in 2004ms
+17:06 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 115ms
+17:06 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+17:06 [Info] InCompiledAssemblyPatch
+17:06 [Warning] QuickSmelt has polluted the global namespace by defining <Module>
+17:06 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 118ms
+17:06 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+17:06 [Info] Group 'default' already has permission 'QuickSmelt.use'
+17:06 [Info] [Discord Chat] [Discord] Forent13#6666: Ускорил печи в 50 раз !
+17:06 [Info] [Discord Chat] [Discord] Forent13#6666: Проверяйте
+17:07 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:08 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:09 [Info] [Guardian] IP Filter: Allowed connection from 37.212.28.216
+17:13 [Info] [Guardian] IP Filter: Allowed connection from 46.173.81.64
+17:13 [Warning] Calling 'Unload' on 'AdminESP v0.0.11' took 110ms
+17:13 [Info] Unloaded plugin AdminESP v0.0.11 by OxideBro
+17:13 [Info] Unloaded plugin AdminMenu v0.1.50 by Menevt
+17:13 [Info] Unloaded plugin Admin No Loot v0.1.3 by Dana
+17:13 [Info] Unloaded plugin Arkan v1.0.18 by Antidote
+17:13 [Info] Unloaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+17:13 [Info] Unloaded plugin ComponentsEvent v1.0.0 by Drop Dead
+17:13 [Info] Unloaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Custom Rock v0.5.0 by birthdates
+17:13 [Info] Unloaded plugin Death Messages v2.1.55 by oxide-russia.ru
+17:13 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+17:13 [Info] Unloaded plugin EvaScanner v1.0.5 by Forent
+17:13 [Info] Unloaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+17:13 [Info] Unloaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+17:13 [Info] Unloaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Kits v1.1.2 by By Denzoff
+17:13 [Info] Unloaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Metabolism v1.0.0 by Orange
+17:13 [Info] Unloaded plugin NameRewards v1.1.1 by Vlad-00003
+17:13 [Info] Unloaded plugin NeverWear v0.1.4 by k1lly0u
+17:13 [Info] Unloaded plugin No Duds v1.1.0 by bearr
+17:13 [Info] Unloaded plugin NoEscape v2.3.3 by OxideBro
+17:13 [Info] Unloaded plugin No Flykick v1.0.0 by Drop Dead
+17:13 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:13 [Info] Unloaded plugin NoSteamHelper v1.2.0 by Kaidoz
+17:13 [Info] Unloaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Powerless Turrets v3.2.7 by August
+17:13 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 112ms
+17:13 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+17:13 [Info] Unloaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+17:13 [Info] Unloaded plugin Referral System v1.0.3 by TopPlugin.ru
+17:13 [Info] Unloaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Warning] Calling 'Unload' on 'SkinBox v1.0.0' took 115ms
+17:13 [Info] Unloaded plugin SkinBox v1.0.0 by MarinWebCode
+17:13 [Info] Unloaded plugin Skins v2.3.0 by misticos
+17:13 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+17:13 [Info] Unloaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin Timed Permissions v1.3.2 by LaserHydra
+17:13 [Info] Unloaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:13 [Info] Unloaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+17:13 [Info] Unloaded plugin Vanish v1.5.5 by Whispers88
+17:13 [Info] Unloaded plugin XAntiCheat v0.3.79 by fermens
+17:13 [Info] Unloaded plugin XNickController v1.0.0 by Monster
+17:13 [Info] Unloaded plugin XRaidProtection v1.0.9 by Monster
+17:13 [Error] Failed to call hook 'Unload' on plugin 'XRate v1.0.3' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.XRate.Unload () [0x000c2] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.XRate.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00eee] in <a7a8213fdeba444db181f9d94a0e8c77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:13 [Warning] Calling 'Unload' on 'XRate v1.0.3' took 116ms
+17:13 [Info] Unloaded plugin XRate v1.0.3 by TopPlugin.ru
+17:13 [Info] Unloaded plugin XpSystem v1.0.0 by Chibubrik
+17:13 [Info] Unloaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+17:13 [Info] Unloaded plugin Discord v0.2.1 by seanbyrne88
+17:13 [Info] Unloaded plugin Discord Chat v2.1.2 by MJSU
+17:13 [Info] Unloaded plugin Discord Core v2.1.3 by MJSU
+17:13 [Info] Unloaded plugin FGS v2.0.2 by Мизантроп
+17:13 [Info] Unloaded plugin Guardian v1.7.9 by WhiteDragon
+17:13 [Info] Unloaded plugin LauncherAlkad v1.1.0 by KosiakS
+17:13 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+17:13 [Info] Unloaded plugin  v3.0.37 by Мизантроп
+17:13 [Info] Unloaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+17:13 [Info] Unloaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+17:13 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+17:13 [Info] Unloaded plugin uCore v1.1.83 by Мизантроп
+17:13 [Info] Unloaded plugin Auth Limiter v1.0.2 by supreme
+17:13 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+17:13 [Info] [ServerStats] NetworkStatus: false
+17:13 [Info] Loading Oxide Core v2.0.4050...
+17:13 [Info] Loading extensions...
+17:13 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+17:13 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+17:13 [Info] [InKernel] Debug -> False
+17:13 [Info] [InExtension] Install -> InCore.Interception.dll
+17:13 [Info] [InExtension] Install -> InCore.Kernel.dll
+17:13 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+17:13 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:13 [Info] Loaded extension Rust v2.0.5740 by Oxide Team and Contributors
+17:13 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:13 [Info] Unity version: 2019.4.7f1
+17:13 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:13 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:13 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:13 [Info] Using Covalence provider for game 'Rust'
+17:13 [Info] Loading plugins...
+17:13 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+17:13 [Info] Loaded plugin Rust v2.0.5740 by Oxide Team and Contributors
+17:13 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:13 [Info] Added '// Reference: System.Drawing' in plugin 'HitMarker'
+17:13 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:13 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:13 [Info] Added '// Reference: Tags' in plugin 'FGS'
+17:13 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+17:13 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+17:13 [Info] Added '// Reference: Tags' in plugin 'uCore'
+17:14 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, Backpack, BlockSystem, ChatSystem, ComponentsEvent, ConnectMessages, CustomRock, DeathMessages, DiscordStatus, EvaScanner, Flaska, FurnaceSorter, GameStoresRUST, HitMarker, IQControllerSpawnCars, ImageLibrary, InstantSystem, InventorySystem, Kits, LogoSystem, LotterySystem, MenuSystem, Metabolism, NameRewards, NeverWear, NoDuds, NoEscape, NoFlykick, NoGiveNotices, NoSteamHelper, PMSystem, PassSystem, PortableVehicles, PowerlessTurrets, QuickSmelt, RadHouse, ReferralSystem, RemoveUpgradeV2, Rules, SkinBox, Skins, SkyReportSystem, StackSystem, Teleportation, TimeSystem, TimedPermissions, Trade, VKBot, Vanish, XAntiCheat, XNickController, XRaidProtection, XRate, XpSystem, AuthLimiter, AutomatedEvents, Discord, DiscordChat, DiscordCore, FGS, GroupLimits, Guardian, LauncherAlkad, Logger, MultiFighting, PlayerAdministration, ServerStats, WipeNameChanger and uCore were compiled successfully in 0ms
+17:14 [Info] InCompiledAssemblyPatch
+17:14 [Error] Error while compiling: FixAnimalNRE.cs(39,42): error CS0308: The non-generic type `BaseAIBrain' cannot be used with the type arguments
+17:14 [Warning] A plugin has polluted the global namespace by defining <Module>
+17:14 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperModels
+17:14 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperController
+17:14 [Warning] A plugin has polluted the global namespace by defining StringExt
+17:14 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+17:14 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+17:14 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+17:14 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+17:14 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+17:14 [Warning] A plugin has polluted the global namespace by defining Tokens
+17:14 [Warning] A plugin has polluted the global namespace by defining UserData
+17:14 [Warning] A plugin has polluted the global namespace by defining Users
+17:14 [Warning] A plugin has polluted the global namespace by defining Steam
+17:14 [Warning] A plugin has polluted the global namespace by defining Response
+17:14 [Warning] A plugin has polluted the global namespace by defining Error
+17:14 [Warning] A plugin has polluted the global namespace by defining Params
+17:14 [Warning] A plugin has polluted the global namespace by defining Serialize
+17:14 [Warning] A plugin has polluted the global namespace by defining Converter
+17:14 [Warning] A plugin has polluted the global namespace by defining Helpers
+17:14 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+17:14 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+17:14 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+17:14 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+17:14 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`3
+17:14 [Warning] A plugin has polluted the global namespace by defining <>__AnonType3`3
+17:14 [Warning] A plugin has polluted the global namespace by defining <>__AnonType4`1
+17:14 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+17:14 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+17:14 [Warning] [Admin No Loot] Config Loaded
+17:14 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+17:14 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+17:14 [Info] Loaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin ComponentsEvent v1.0.0 by Drop Dead
+17:14 [Info] Loaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Custom Rock v0.5.0 by birthdates
+17:14 [Info] Loaded plugin Death Messages v2.1.55 by oxide-russia.ru
+17:14 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+17:14 [Info] Loaded plugin EvaScanner v1.0.5 by Forent
+17:14 [Info] Loaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+17:14 [Info] Loaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+17:14 [Info] Loaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+17:14 [Info] Loaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+17:14 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+17:14 [Info] Loaded plugin NeverWear v0.1.4 by k1lly0u
+17:14 [Info] Loaded plugin No Duds v1.1.0 by bearr
+17:14 [Info] Loaded plugin NoEscape v2.3.3 by OxideBro
+17:14 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+17:14 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:14 [Info] Loaded plugin NoSteamHelper v1.2.0 by Kaidoz
+17:14 [Info] Loaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+17:14 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+17:14 [Info] Loaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+17:14 [Info] Loaded plugin Referral System v1.0.3 by TopPlugin.ru
+17:14 [Info] Loaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Warning] Missing plugin name prefix 'skinbox' for permission 'skins.change' (by plugin 'SkinBox')
+17:14 [Info] Loaded plugin SkinBox v1.0.0 by MarinWebCode
+17:14 [Info] Loaded plugin Skins v2.3.0 by misticos
+17:14 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+17:14 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+17:14 [Info] Loaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+17:14 [Info] Loaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+17:14 [Info] Loaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+17:14 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+17:14 [Info] Loaded plugin XAntiCheat v0.3.79 by fermens
+17:14 [Info] Loaded plugin XNickController v1.0.0 by Monster
+17:14 [Info] Loaded plugin XRaidProtection v1.0.9 by Monster
+17:14 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+17:14 [Info] Loaded plugin XpSystem v1.0.0 by Chibubrik
+17:14 [Info] Loaded plugin Auth Limiter v1.0.2 by supreme
+17:14 [Info] Loaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+17:14 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+17:14 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+17:14 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+17:14 [Info] Loaded plugin FGS v2.0.2 by Мизантроп
+17:14 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:14 [Info] Loaded plugin Guardian v1.7.9 by WhiteDragon
+17:14 [Info] Loaded plugin LauncherAlkad v1.1.0 by KosiakS
+17:14 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+17:14 [Info] Loaded plugin  v3.0.37 by Мизантроп
+17:14 [Info] Loaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+17:14 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+17:14 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+17:14 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+17:17 [Info] IP address from command-line: 37.230.137.97
+17:17 [Info] [Arkan] Arkan Init: map seed: 51531, map size: 3000, server timestamp: 2023.1.15.17.13
+17:17 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+17:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.admin' (by plugin 'RemoveUpgradeV2')
+17:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.use' (by plugin 'RemoveUpgradeV2')
+17:17 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.refund' (by plugin 'RemoveUpgradeV2')
+17:17 [Warning] Calling 'OnServerInitialized' on 'RemoveUpgradeV2 v1.0.3' took 160ms
+17:17 [Warning] [Skins] Item with shortname "shortname" does not exist. Please review your Skins configuration.
+17:17 [Warning] Skins has replaced the 'skin' chat command previously registered by SkinBox
+17:17 [Warning] Skins has replaced the 'skins' chat command previously registered by SkinBox
+17:17 [Error] [SkyReportSystem] -----------------------------------
+17:17 [Error] [SkyReportSystem]            SkyReportSystem         
+17:17 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+17:17 [Error] [SkyReportSystem]           Version = 1.0.3      
+17:17 [Error] [SkyReportSystem] -----------------------------------
+17:17 [Warning] Calling 'OnServerInitialized' on 'XAntiCheat v0.3.79' took 127ms
+17:17 [Warning] [XNickController] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2867
+-----------------------------
+17:17 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2857
+-----------------------------
+17:17 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+17:17 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+17:17 [Info] [ServerStats] NetworkStatus: true
+17:17 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 213ms
+17:17 [Info] [uCore] Загружаю базу данных...
+17:17 [Info] [uCore] Создаем базу, если не существует...
+17:17 [Info] [uCore] База данных загружена...
+17:17 [Info] [uCore] База загружена
+17:17 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+17:17 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:17 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:17 [Info] [Discord Chat] Discord Chat Ready
+17:17 [Warning] [LauncherAlkad] Обновляю информацию...
+17:17 [Warning] [LauncherAlkad] Информация обновлена: 
+ => Сервер: 37.230.137.97:20560
+ => VK: Нету
+ => Shop: https://explosive.gamestores.app/?attempt=1
+ => Discord: https://discord.gg/WmvaKKt2tM
+ => Античит: Нету
+17:17 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:17 [Info] [Guardian] IP Filter: Allowed connection from 89.23.156.176
+17:18 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+17:18 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+17:18 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+17:18 [Warning] [NoSteamHelper] No data player: 76561199427273559
+17:18 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+17:18 [Info] [SkinBox] Загружено 215 встроенных скинов.
+17:18 [Info] [SkinBox] Загружено 3434 одобренных скинов.
+17:18 [Info] [Guardian] IP Filter: Allowed connection from 67.209.130.133
+17:19 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "popova-east-limpopo"
+17:19 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "popova-east-limpopo"
+17:19 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "popova-east-limpopo" wasn't removed from it.
+17:19 [Warning] [NoSteamHelper] No data player: 76561199441965150
+17:19 [Error] [] popova-east-limpopo[76561199441965150] зашел без GameWer
+17:19 [Info] [Guardian] IP Filter: Allowed connection from 37.212.90.254
+17:20 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+17:20 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+17:20 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "prizrak?!" wasn't removed from it.
+17:20 [Warning] [NoSteamHelper] No data player: 76561199274937580
+17:20 [Info] [Guardian] IP Filter: Allowed connection from 46.173.81.64
+17:20 [Info] [Guardian] IP Filter: Allowed connection from 5.129.176.29
+17:21 [Info] [Guardian] IP Filter: Allowed connection from 37.22.205.20
+17:21 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+17:22 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+17:22 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+17:22 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+17:22 [Warning] [NoSteamHelper] No data player: 76561199083943118
+17:22 [Info] [Guardian] IP Filter: Allowed connection from 37.212.22.231
+17:22 [Info] [Guardian] IP Filter: Allowed connection from 37.212.28.216
+17:22 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:24 [Info] [Guardian] IP Filter: Allowed connection from 37.212.22.231
+17:26 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+17:26 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+17:26 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+17:26 [Warning] [NoSteamHelper] No data player: 76561199183978551
+17:27 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "DeadInside#bloodrust"
+17:27 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "DeadInside#bloodrust"
+17:27 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "DeadInside#bloodrust" wasn't removed from it.
+17:27 [Warning] [NoSteamHelper] No data player: 76561199400856564
+17:27 [Error] [] DeadInside#bloodrust[76561199400856564] зашел без GameWer
+17:27 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "dantop"
+17:27 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "dantop"
+17:27 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "dantop" wasn't removed from it.
+17:27 [Warning] [NoSteamHelper] No data player: 76561199188942259
+17:27 [Error] [] dantop[76561199188942259] зашел без GameWer
+17:28 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+17:28 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+17:28 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+17:28 [Warning] [NoSteamHelper] No data player: 76561199139127596
+17:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+17:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+17:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "KenKaneki" wasn't removed from it.
+17:29 [Warning] [NoSteamHelper] No data player: 76561199302556515
+17:29 [Error] [] KenKaneki[76561199302556515] зашел без GameWer
+17:30 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+17:32 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+17:32 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+17:32 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+17:32 [Warning] [NoSteamHelper] No data player: 76561199153678475
+17:32 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+17:33 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "абумеянг"
+17:33 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "абумеянг"
+17:33 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "абумеянг" wasn't removed from it.
+17:33 [Warning] [NoSteamHelper] No data player: 76561199395456565
+17:34 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+17:34 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+17:37 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+17:45 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "法国茶"
+17:45 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "法国茶"
+17:45 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "法国茶" wasn't removed from it.
+17:45 [Warning] [NoSteamHelper] No data player: 76561199154570078
+17:45 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+17:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:48 [Info] [Guardian] IP Filter: Allowed connection from 194.126.180.179
+17:51 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "волтер білий"
+17:51 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "волтер білий"
+17:51 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "волтер білий" wasn't removed from it.
+17:51 [Warning] [NoSteamHelper] No data player: 76561199070872973
+17:51 [Info] [Guardian] IP Filter: Allowed connection from 85.253.213.232
+17:52 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "TOP G"
+17:52 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "TOP G"
+17:52 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "TOP G" wasn't removed from it.
+17:52 [Warning] [NoSteamHelper] No data player: 76561199470354133
+17:52 [Error] [] TOP G[76561199470354133] зашел без GameWer
+17:52 [Info] [Guardian] IP Filter: Allowed connection from 178.34.163.36
+17:54 [Info] [Guardian] IP Filter: Allowed connection from 46.173.81.64
+17:56 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+17:56 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+17:56 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "KenKaneki" wasn't removed from it.
+17:56 [Warning] [NoSteamHelper] No data player: 76561199302556515
+17:56 [Error] [] KenKaneki[76561199302556515] зашел без GameWer
+17:59 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "жироFFник"
+17:59 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "жироFFник"
+17:59 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "жироFFник" wasn't removed from it.
+17:59 [Warning] [NoSteamHelper] No data player: 76561199137299121
+17:59 [Error] [] жироFFник[76561199137299121] зашел без GameWer
+18:00 [Info] [Guardian] IP Filter: Allowed connection from 194.85.68.15
+18:15 [Info] [Guardian] IP Filter: Allowed connection from 176.59.194.132
+18:17 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "какашка"
+18:17 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "какашка"
+18:17 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "какашка" wasn't removed from it.
+18:17 [Warning] [NoSteamHelper] No data player: 76561199467774269
+18:17 [Error] [] какашка[76561199467774269] зашел без GameWer
+18:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+18:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+18:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:18 [Info] [Guardian] IP Filter: Allowed connection from 95.78.31.140
+18:20 [Info] [Guardian] IP Filter: Allowed connection from 176.59.194.132
+18:21 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "какашка"
+18:21 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "какашка"
+18:21 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "какашка" wasn't removed from it.
+18:21 [Warning] [NoSteamHelper] No data player: 76561199467774269
+18:21 [Error] [] какашка[76561199467774269] зашел без GameWer
+18:22 [Info] [Guardian] Kicked 法国茶[76561199154570078] for AntiFlood(Dropped Items): Hammer
+18:22 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+18:22 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Chest"
+18:22 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Chest"
+18:22 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Chest" wasn't removed from it.
+18:22 [Warning] [NoSteamHelper] No data player: 76561199117285978
+18:22 [Error] [] Chest[76561199117285978] зашел без GameWer
+18:24 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+18:25 [Info] [ServerStats] NetworkStatus: false
+18:25 [Info] [ServerStats] NetworkStatus: true
+18:27 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+18:28 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+18:28 [Info] [Guardian] IP Filter: Allowed connection from 178.91.5.79
+18:28 [Info] [Guardian] IP Filter: Allowed connection from 37.99.40.78
+18:30 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "fack"
+18:30 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "fack"
+18:30 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "fack" wasn't removed from it.
+18:30 [Warning] [NoSteamHelper] No data player: 76561199143907875
+18:30 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+18:31 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Kaneki Ken"
+18:31 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Kaneki Ken"
+18:31 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Kaneki Ken" wasn't removed from it.
+18:31 [Warning] [NoSteamHelper] No data player: 76561199366286982
+18:31 [Error] [] Kaneki Ken[76561199366286982] зашел без GameWer
+18:33 [Info] [Guardian] IP Filter: Allowed connection from 37.212.2.52
+18:34 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+18:34 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "(aka)-macros-rocket"
+18:34 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "(aka)-macros-rocket" wasn't removed from it.
+18:34 [Warning] [NoSteamHelper] No data player: 76561199139127596
+18:35 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+18:35 [Info] [Discord Extension] [Info]: Discord socket opened!
+18:35 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+18:36 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+18:37 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+18:39 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+18:39 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+18:39 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+18:39 [Warning] [NoSteamHelper] No data player: 76561199183978551
+18:41 [Info] [Guardian] IP Filter: Allowed connection from 176.93.243.40
+18:42 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+18:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+18:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:47 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+18:48 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "法国茶"
+18:48 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "法国茶"
+18:48 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "法国茶" wasn't removed from it.
+18:48 [Warning] [NoSteamHelper] No data player: 76561199154570078
+18:51 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Mrs Apple"
+18:51 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Mrs Apple"
+18:51 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Mrs Apple" wasn't removed from it.
+18:51 [Warning] [NoSteamHelper] No data player: 76561199254342769
+18:51 [Error] [] Mrs Apple[76561199254342769] зашел без GameWer
+18:53 [Info] [Guardian] IP Filter: Allowed connection from 89.23.150.16
+19:00 [Info] [Guardian] IP Filter: Allowed connection from 37.215.45.64
+19:00 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+19:00 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mOnets1"
+19:00 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mOnets1" wasn't removed from it.
+19:00 [Warning] [NoSteamHelper] No data player: 76561199427273559
+19:00 [Error] [] mOnets1[76561199427273559] зашел без GameWer
+19:02 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+19:03 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+19:03 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+19:03 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "prizrak?!" wasn't removed from it.
+19:03 [Warning] [NoSteamHelper] No data player: 76561199274937580
+19:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 244
+19:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+19:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:20 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:21 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+19:22 [Info] [Guardian] IP Filter: Allowed connection from 46.216.226.243
+19:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+19:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:56 [Info] [Guardian] IP Filter: Allowed connection from 89.151.179.49
+19:56 [Info] [Guardian] IP Filter: Allowed connection from 37.212.2.52
+19:57 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+19:57 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+19:57 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+19:57 [Warning] [NoSteamHelper] No data player: 76561199183978551
+20:01 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:02 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Председатель"
+20:02 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Председатель"
+20:02 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Председатель" wasn't removed from it.
+20:02 [Warning] [NoSteamHelper] No data player: 76561199441190550
+20:02 [Error] [] Председатель[76561199441190550] зашел без GameWer
+20:10 [Info] [Guardian] IP Filter: Allowed connection from 176.100.119.134
+20:11 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Gaspar"
+20:11 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Gaspar"
+20:11 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Gaspar" wasn't removed from it.
+20:11 [Warning] [NoSteamHelper] No data player: 76561198808871375
+20:11 [Error] [] Gaspar[76561198808871375] зашел без GameWer
+20:12 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+20:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+20:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:17 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+20:29 [Info] [Guardian] IP Filter: Allowed connection from 37.212.2.52
+20:31 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+20:31 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "MakLaut"
+20:31 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "MakLaut" wasn't removed from it.
+20:31 [Warning] [NoSteamHelper] No data player: 76561199183978551
+20:31 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+20:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:32 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+20:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+20:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:16 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+21:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+21:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+21:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:18 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+21:26 [Info] [Guardian] IP Filter: Allowed connection from 92.255.216.240
+21:39 [Info] [Guardian] IP Filter: Allowed connection from 37.215.45.64
+21:41 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+21:41 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "prizrak?!"
+21:41 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "prizrak?!" wasn't removed from it.
+21:41 [Warning] [NoSteamHelper] No data player: 76561199274937580
+21:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+21:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:47 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+22:02 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+22:02 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+22:02 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+22:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+22:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+22:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+22:05 [Warning] [NoSteamHelper] No data player: 76561199153678475
+22:05 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+22:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+22:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+22:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:22 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+22:22 [Info] [Discord Extension] [Info]: Discord socket opened!
+22:22 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+22:30 [Info] [Guardian] IP Filter: Allowed connection from 188.65.242.202
+22:36 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ekaterinademiceva9"
+22:36 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ekaterinademiceva9"
+22:36 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ekaterinademiceva9" wasn't removed from it.
+22:36 [Warning] [NoSteamHelper] No data player: 76561199422037556
+22:36 [Error] [] ekaterinademiceva9[76561199422037556] зашел без GameWer
+22:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+22:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:04 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+23:17 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+23:17 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+23:17 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+23:17 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:32 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+23:47 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 246
+23:47 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/

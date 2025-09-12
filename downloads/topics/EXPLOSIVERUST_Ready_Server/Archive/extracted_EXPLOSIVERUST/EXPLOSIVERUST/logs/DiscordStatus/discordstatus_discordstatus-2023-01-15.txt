@@ -1,0 +1,5 @@
+[2023-01-15 17:17:35] System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00084] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Convert.ToInt32 (System.Single value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.DiscordStatus.Format (System.String message) [0x001c7] in <fa9fff81caea4e79a2d41a2011f6213a>:0 
+  at Oxide.Plugins.DiscordStatus.UpdateStatus () [0x00053] in <fa9fff81caea4e79a2d41a2011f6213a>:0 

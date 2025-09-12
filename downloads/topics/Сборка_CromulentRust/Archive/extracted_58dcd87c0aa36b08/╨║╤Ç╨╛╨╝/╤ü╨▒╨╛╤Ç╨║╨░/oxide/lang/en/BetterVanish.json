@@ -1,0 +1,19 @@
+{
+  "CommandVanish": "vanish",
+  "CommandSetVanish": "setvanish",
+  "CommandUnvanishAll": "unvanishall",
+  "CommandInvSpy": "invspy",
+  "VanishDisabled": "<color=#FF686B>Vanish disabled</color>",
+  "VanishEnabled": "<color=#91D6FF>Vanish enabled</color>",
+  "VanishDisabledOther": "<color=#FF686B>You disabled vanish on {0}</color>",
+  "VanishEnabledOther": "<color=#91D6FF>You enabled vanish on {0}</color>",
+  "VanishPermanent": "<color=#FF686B>You have no rights to disable vanish!</color>",
+  "UnvanishedPlayers": "<color=#FF686B>You unvanished {0} players!</color>",
+  "SetVanishHelp": "Syntax: /setvanish PlayerName",
+  "SafePointNotSet": "You haven't set your <color=#F7B267>Safe Point</color>!\nType <color=#FF686B>/vanish safepoint</color> to save your current position.\nYou will be automatically teleported there upon disconnection.",
+  "SafePointSaved": "Your current position is saved as a Safe Point!",
+  "MultiplePlayers": "Multiple players found!\nRefine your search or use Steam ID.",
+  "NothingInSight": "No players in sight",
+  "NoSuchPlayer": "No such player found ({0})",
+  "InvSpyLooting": "Looting: {0} ({1})."
+}

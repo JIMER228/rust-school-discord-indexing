@@ -1,0 +1,25 @@
+{
+  "Check friends": false,
+  "Check team": false,
+  "Check clan": false,
+  "Permissions": [
+    {
+      "Permission": "supplylimiter.default",
+      "Priority": 1,
+      "Cooldown": 1800,
+      "Amount to start cooldown": 10
+    },
+    {
+      "Permission": "supplylimiter.vip",
+      "Priority": 2,
+      "Cooldown": 300,
+      "Amount to start cooldown": 1
+    },
+    {
+      "Permission": "supplylimiter.god",
+      "Priority": 3,
+      "Cooldown": 60,
+      "Amount to start cooldown": 3
+    }
+  ]
+}

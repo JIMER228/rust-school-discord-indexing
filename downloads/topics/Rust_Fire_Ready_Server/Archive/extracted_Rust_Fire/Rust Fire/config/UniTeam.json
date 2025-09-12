@@ -1,0 +1,15 @@
+{
+  "Commands": [
+    "friend",
+    "friends",
+    "team",
+    "clan"
+  ],
+  "Max Team": 3,
+  "Friendly Fire settings": {
+    "Check for friendly fire": true,
+    "Bypass explosive damage at Friendly Fire": false,
+    "Hit effect on friendly fire": "assets/prefabs/locks/keypad/effects/lock.code.unlock.prefab",
+    "Effect volume": 5
+  }
+}

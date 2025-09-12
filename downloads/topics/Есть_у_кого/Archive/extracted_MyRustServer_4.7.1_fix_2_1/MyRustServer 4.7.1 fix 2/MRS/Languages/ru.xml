@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Localization>
+  <Texts>
+   <Text controlId="TabPage12" value="Вебхуки 3" />
+<Text controlId="MetroLabel82" value="Миниатюра:" />
+<Text controlId="MetroLabel176" value="Цвет:" />
+<Text controlId="MetroLabel163" value="ID упоминания роли:" />
+<Text controlId="MetroLabel75" value="Цвет:" />
+<Text controlId="MetroLabel49" value="ID упоминания роли:" />
+<Text controlId="MetroLabel173" value="Миниатюра:" />
+<Text controlId="MetroLabel174" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel175" value="Обновление Carbon" />
+<Text controlId="MetroButton32" value="Отправить тест" />
+<Text controlId="MetroButton31" value="Сохранить настройки" />
+<Text controlId="MetroLabel149" value="Обновление Oxide" />
+<Text controlId="MetroButton26" value="Отправить тест" />
+<Text controlId="MetroLabel144" value="Ссылка на вебхук:" />
+<Text controlId="MetroButton4" value="Сохранить настройки" />
+<Text controlId="MetroButton7" value="Отправить журнал ошибок" />
+<Text controlId="Cbnoflag2" value="" />
+<Text controlId="ToolStripMenuItem10" value="Удалить" />
+<Text controlId="ToolStripMenuItem21" value="Язык" />
+<Text controlId="RussianToolStripMenuItem" value="Русский (много ошибок)" />
+<Text controlId="ToolStripMenuItem34" value="Подключить WebSocket" />
+<Text controlId="CbWipeServer" value="WipeServer" />
+<Text controlId="Label51" value="Версия:" />
+<Text controlId="Toolplayer" value="Игроки: " />
+<Text controlId="Toolsleepers" value="Спящие:" />
+<Text controlId="ToolJoining" value="Присоединение:" />
+<Text controlId="Toolfps" value="FPS:" />
+<Text controlId="Toolentitycount" value="Количество сущностей:" />
+<Text controlId="Toolcpu" value="ЦП:" />
+<Text controlId="ToolRAM" value="ОЗУ:" />
+<Text controlId="LStatusTop" value="Статус" />
+<Text controlId="MetroLabel107" value="строка состояния" />
+<Text controlId="BSupport" value="Поддержка" />
+<Text controlId="BDashboard" value="Управление" />
+<Text controlId="BInstaller" value="Установщик" />
+<Text controlId="BSettings" value="Настройки" />
+<Text controlId="BDiscordRemote" value="Discord" />
+<Text controlId="BPlugins" value="Плагины" />
+<Text controlId="BServerMessages" value="Сообщения" />
+<Text controlId="BWipeManager" value="Менеджер Wipe" />
+<Text controlId="BPlayerManager" value="Игроки" />
+<Text controlId="BOxide" value="Расширения" />
+<Text controlId="BConsole" value="Консоль" />
+<Text controlId="MetroButton17" value="Сохранить настройки" />
+<Text controlId="TabPage11" value="Вебхуки 2" />
+<Text controlId="MetroLabel171" value="\n = новая строка" />
+<Text controlId="MetroLabel191" value="! = IP сервера:Порт" />
+<Text controlId="MetroLabel192" value="$ = Изображение сервера" />
+<Text controlId="MetroLabel193" value="? = Время (сек)" />
+<Text controlId="MetroLabel161" value="Цвет:" />
+<Text controlId="MetroLabel151" value="Перезагрузка сервера" />
+<Text controlId="MetroLabel152" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel155" value="Миниатюра:" />
+<Text controlId="DCServerWipecolor" value="Аква" />
+<Text controlId="MetroLabel153" value="ID упоминания роли:" />
+<Text controlId="MetroLabel158" value="ID упоминания роли:" />
+<Text controlId="MetroLabel162" value="Цвет:" />
+<Text controlId="MetroLabel154" value="ID упоминания роли:" />
+<Text controlId="MetroLabel159" value="Цвет:" />
+<Text controlId="MetroLabel164" value="Миниатюра:" />
+<Text controlId="MetroLabel160" value="Миниатюра:" />
+<Text controlId="MetroLabel165" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel166" value="Обновление клиента" />
+<Text controlId="MetroLabel157" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel167" value="ID упоминания роли:" />
+<Text controlId="MetroLabel168" value="Обновление сервера" />
+<Text controlId="MetroLabel169" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel170" value="Миниатюра:" />
+<Text controlId="MetroLabel156" value="Очистка сервера" />
+<Text controlId="MetroLabel172" value="Цвет:" />
+<Text controlId="MetroLabel105" value="Изображение:" />
+<Text controlId="MetroLabel126" value="Текст:" />
+<Text controlId="MetroLabel127" value="Изображение:" />
+<Text controlId="MetroLabel125" value="Текст:" />
+<Text controlId="MetroButton29" value="Сохранить настройки" />
+<Text controlId="MetroButton25" value="Отправить тест" />
+<Text controlId="MetroButton27" value="Отправить тест" />
+<Text controlId="MetroButton28" value="Отправить тест" />
+<Text controlId="MetroButton24" value="Отправить тест" />
+<Text controlId="MetroLabel102" value="ID канала для тестового сообщения:" />
+<Text controlId="Botsendtest" value="Отправить тестовое сообщение" />
+<Text controlId="TabPage10" value="Вебхуки" />
+<Text controlId="MetroLabel190" value="\n = новая линия" />
+<Text controlId="MetroLabel114" value="! = IP сервера:Порт" />
+<Text controlId="CBDCServerStartsUpimg" value="" />
+<Text controlId="MetroLabel180" value="ID упоминания роли:" />
+<Text controlId="MetroLabel181" value="Запускается" />
+<Text controlId="MetroLabel182" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel183" value="Миниатюра:" />
+<Text controlId="MetroLabel184" value="Текст:" />
+<Text controlId="MetroLabel185" value="Цвет:" />
+<Text controlId="MetroLabel186" value="Изображение:" />
+<Text controlId="MetroLabel79" value="$ = Изображение сервера" />
+<Text controlId="MetroLabel147" value="ID упоминания роли:" />
+<Text controlId="MetroLabel148" value="Цвет:" />
+<Text controlId="MetroLabel150" value="Миниатюра:" />
+<Text controlId="MetroLabel146" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel145" value="Остановка сервера" />
+<Text controlId="MetroLabel142" value="ID упоминания роли:" />
+<Text controlId="MetroLabel143" value="Цвет:" />
+<Text controlId="MetroLabel141" value="Миниатюра:" />
+<Text controlId="MetroLabel140" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel139" value="Сервер не в сети" />
+<Text controlId="MetroLabel138" value="ID упоминания роли:" />
+<Text controlId="MetroLabel137" value="Сервер в сети" />
+<Text controlId="MetroLabel131" value="Ссылка на вебхук:" />
+<Text controlId="MetroLabel135" value="Миниатюра:" />
+<Text controlId="MetroLabel119" value="Текст:" />
+<Text controlId="MetroLabel136" value="Цвет:" />
+<Text controlId="MetroLabel130" value="Изображение:" />
+<Text controlId="MetroLabel128" value="Изображение:" />
+<Text controlId="MetroLabel129" value="Изображение:" />
+<Text controlId="MetroLabel133" value="? = Время (сек)" />
+<Text controlId="MetroButton35" value="Отправить тест" />
+<Text controlId="MetroButton23" value="Отправить тест" />
+<Text controlId="MetroButton22" value="Отправить тест" />
+<Text controlId="MetroButton21" value="Отправить тест" />
+<Text controlId="BtnSaveMessage" value="Сохранить сообщения" />
+<Text controlId="TabPage4" value="Пользовательское сообщение" />
+<Text controlId="MetroLabel99" value="является командой" />
+<Text controlId="MetroLabel50" value="является командой" />
+<Text controlId="MetroLabel48" value="является командой" />
+<Text controlId="MetroLabel14" value="является командой" />
+<Text controlId="MetroLabel5" value="является командой" />
+<Text controlId="MetroLabel98" value="Тестовое сообщение" />
+<Text controlId="MetroLabel92" value="#4 Сообщение" />
+<Text controlId="MetroLabel93" value="Время в минутах" />
+<Text controlId="MetroLabel94" value="#3 Сообщение" />
+<Text controlId="MetroLabel95" value="#2 Сообщение" />
+<Text controlId="MetroLabel96" value="Время в минутах" />
+<Text controlId="MetroLabel97" value="#1 Сообщение" />
+<Text controlId="Customtestmessage" value="Тестовое сообщение" />
+<Text controlId="Btcustommessage" value="Сохранить сообщения" />
+<Text controlId="TabPage9" value="Настройки бота" />
+<Text controlId="LinkLabel12" value="Команды бота Discord" />
+<Text controlId="LinkLabel11" value="Руководство по боту Discord" />
+<Text controlId="BunifuGroupBox8" value="Консоль Discord" />
+<Text controlId="LinkLabel8" value="Портал разработчика Discord" />
+<Text controlId="BunifuGroupBox4" value="Настройки бота Discord" />
+<Text controlId="MetroLabel84" value="Скрыть статус бота" />
+<Text controlId="MetroLabel76" value="Запустить бота при запуске MRS" />
+<Text controlId="MetroLabel134" value="% = Макс. игроков" />
+<Text controlId="MetroLabel132" value="$ = Игроки онлайн" />
+<Text controlId="MetroLabel74" value="Server_ID:" />
+<Text controlId="MetroLabel104" value="Установить игру:" />
+<Text controlId="MetroLabel73" value="Role_ID: (Права)" />
+<Text controlId="Botdisconnect" value="Отключить бота" />
+<Text controlId="MetroLabel72" value="Токен бота:" />
+<Text controlId="Botconnect" value="Подключить бота" />
+<Text controlId="MetroLabel113" value="Префикс:" />
+<Text controlId="BunifuGroupBox3" value="Настройки вебхука Discord" />
+<Text controlId="MetroLabel80" value="Отправить уведомление о вайпе" />
+<Text controlId="MetroLabel77" value="Отправить состояние сервера" />
+<Text controlId="MetroLabel78" value="Отправить обновления" />
+<Text controlId="MetroButton20" value="Сохранить настройки" />
+<Text controlId="MetroLabel103" value="Тестовое сообщение:" />
+<Text controlId="TabPage16" value="Менеджер разрешений" />
+<Text controlId="Label44" value="Разрешения" />
+<Text controlId="Label43" value="Игрок" />
+<Text controlId="Label42" value="Группы" />
+<Text controlId="ToolStripMenuItem28" value="Добавить группу" />
+<Text controlId="ToolStripMenuItem26" value="Удалить группу" />
+<Text controlId="ToolStripMenuItem27" value="Добавить пользователя" />
+<Text controlId="ToolStripMenuItem30" value="Копировать SteamID" />
+<Text controlId="ToolStripMenuItem29" value="Удалить пользователя" />
+<Text controlId="MetroButton12" value="Удалить Carbon" />
+<Text controlId="MetroButton11" value="Установить или обновить Carbon" />
+<Text controlId="Btnaddcommand" value="Добавить команду" />
+<Text controlId="ToolStripMenuItem36" value="Открыть профиль Steam" />
+<Text controlId="ToolStripMenuItem37" value="Копировать SteamID" />
+<Text controlId="ToolStripMenuItem38" value="Копировать имя" />
+<Text controlId="ToolStripMenuItem39" value="Проверить IP" />
+<Text controlId="ToolStripMenuItem42" value="Убить игрока" />
+<Text controlId="ToolStripMenuItem44" value="Забанить игрока (с причиной)" />
+<Text controlId="MetroButton6" value="Перезагрузить" />
+<Text controlId="TabPage8" value="Забаненные" />
+<Text controlId="MetroButton18" value="Перезагрузить" />
+<Text controlId="ToolStripMenuItem22" value="Открыть профиль Steam" />
+<Text controlId="ToolStripMenuItem23" value="Копировать SteamID" />
+<Text controlId="ToolStripMenuItem24" value="Копировать имя" />
+<Text controlId="ToolStripMenuItem25" value="Разбанить игрока" />
+<Text controlId="TabPage14" value="Настройки" />
+<Text controlId="Label50" value="Сообщение" />
+<Text controlId="Label49" value="Блокировка страны" />
+<Text controlId="MetroButton8" value="Список стран" />
+<Text controlId="Label48" value="Сообщение" />
+<Text controlId="Label47" value="Сообщение" />
+<Text controlId="Label46" value="Кик при максимально разрешенных банах" />
+<Text controlId="Label36" value="Кик при максимально допустимом пинге" />
+<Text controlId="LinkLabel10" value="(Steam API ключ)" />
+<Text controlId="MetroButton5" value="Сохранить" />
+<Text controlId="TabPage3" value="Сообщение сервера" />
+<Text controlId="MetroLabel179" value="Отправка предупреждения о низком FPS" />
+<Text controlId="MetroLabel178" value="ID упоминания роли:" />
+<Text controlId="MetroLabel177" value="Цвет:" />
+<Text controlId="MetroLabel115" value="? = Регист" />
+<Text controlId="Btnbackup" value="Создать резервную копию" />
+<Text controlId="MetroLabel87" value="Авто" />
+<Text controlId="MetroButton2" value="Сохранить настройки" />
+<Text controlId="MetroLabel86" value="Каждые X дней:" />
+<Text controlId="MetroLabel89" value="Следующий резерв" />
+<Text controlId="OpenToolStripMenuItem" value="Открыть" />
+<Text controlId="ToolStripMenuItem11" value="Удалить" />
+<Text controlId="WipeTab" value="Вайп" />
+<Text controlId="Btnwipe" value="Вайп сервера" />
+<Text controlId="WipeSheduleTab" value="Расписание вайпа" />
+<Text controlId="BunifuGroupBox6" value="Пользовательская папка/файл" />
+<Text controlId="ToolStripMenuItem31" value="Удалить" />
+<Text controlId="MetroButton34" value="Папка" />
+<Text controlId="MetroButton33" value="файл" />
+<Text controlId="BunifuGroupBox5" value="Дата вайпа" />
+<Text controlId="MetroLabel117" value="Следующий вайп:" />
+<Text controlId="MetroLabel100" value="Пользовательская карта" />
+<Text controlId="MetroLabel51" value="Пользовательская папка/файл" />
+<Text controlId="MetroLabel52" value="Пользовательский код" />
+<Text controlId="MetroLabel53" value="Новый код карты при вайпе " />
+<Text controlId="MetroLabel54" value="Токены игроков" />
+<Text controlId="MetroLabel55" value="Состояния игроков" />
+<Text controlId="MetroLabel60" value="Идентификаторы игроков" />
+<Text controlId="MetroLabel61" value="Смерти игроков" />
+<Text controlId="MetroLabel62" value="Рюкзаки" />
+<Text controlId="MetroLabel63" value="Карта" />
+<Text controlId="MetroLabel64" value="Чертежи" />
+<Text controlId="MetroLabel65" value="Полный вайп" />
+<Text controlId="MetroLabel66" value="Логи" />
+<Text controlId="Btsheduleadd" value="Добавить расписание" />
+<Text controlId="CustomSeedTab" value="Пользовательские" />
+<Text controlId="Btnrandomemap" value="Добавить случайную карту" />
+<Text controlId="MetroButton1" value="файл" />
+<Text controlId="MetroLabel68" value="Пользовательская папка/файл" />
+<Text controlId="MetroLabel67" value="Пользовательский код" />
+<Text controlId="MetroLabel18" value="Пользовательская карта" />
+<Text controlId="ToolStripMenuItem18" value="Удалить" />
+<Text controlId="ToolStripMenuItem35" value="Редактировать" />
+<Text controlId="Btaddcustommap" value="Добавить карту" />
+<Text controlId="Btnaddfolder" value="папку" />
+<Text controlId="ToolStripMenuItem17" value="Удалить" />
+<Text controlId="ToolStripMenuItem16" value="Удалить" />
+<Text controlId="Btaddmap" value="Добавить карту" />
+<Text controlId="TabPage6" value="Oxide" />
+<Text controlId="TabPage17" value="Установка/Обновление" />
+<Text controlId="BUninstallOxide" value="Удалить Oxide" />
+<Text controlId="BInstallOxide" value="Установить или обновить Oxide" />
+<Text controlId="BStartServer" value="Запустить сервер" />
+<Text controlId="Label6" value="Перезапуск" />
+<Text controlId="Label34" value="Приоритет ЦПУ" />
+<Text controlId="Label11" value="Настройки" />
+<Text controlId="Label12" value="Режим игры" />
+<Text controlId="CombForceRestart" value="06:00" />
+<Text controlId="Label33" value="Принудительный (24)" />
+<Text controlId="Label13" value="Привязка ЦПУ" />
+<Text controlId="Label14" value="Автоперезапуск сервера" />
+<Text controlId="Label32" value="Обновления только при запуске" />
+<Text controlId="Label27" value="Включить" />
+<Text controlId="Label23" value="Автообновление сервера" />
+<Text controlId="Btncpuaffinity" value="Открыть" />
+<Text controlId="BUninstallDiscordExtension" value="Удалить расширение Discord" />
+<Text controlId="BUninstallRustEdit" value="Удалить RustEdit" />
+<Text controlId="BInstallDiscordExtension" value="Установить / Обновить расширение Discord" />
+<Text controlId="BInstallRustEdit" value="Установить / Обновить RustEdit" />
+<Text controlId="BVerifyServerFiles" value="Проверить файлы сервера" />
+<Text controlId="BInstallServer" value="Установить или обновить сервер" />
+<Text controlId="TabPage1" value="Настройки сервера" />
+<Text controlId="Label40" value="Добавить порты в брандмауэр Windows" />
+<Text controlId="MetroLabel120" value="размер изображения 256x256" />
+<Text controlId="MetroButton14" value="Загрузить" />
+<Text controlId="MetroButton13" value="Загрузить" />
+<Text controlId="MetroLabel106" value="Сервер IP:" />
+<Text controlId="MetroLabel112" value="Query порт:" />
+<Text controlId="Lblrconip" value="Rcon IP:" />
+<Text controlId="Btnnewseed" value="Случайно" />
+<Text controlId="BtnAddUsers" value="Пользователь" />
+<Text controlId="Btnaddmap" value="Добавить карту" />
+<Text controlId="Btndescription" value="Изменить" />
+<Text controlId="Btnsavesettings" value="Сохранить настройки" />
+<Text controlId="TabPage13" value="ConVars" />
+<Text controlId="BunifuGroupBox7" value="Консольные переменные" />
+<Text controlId="ToolStripMenuItem15" value="Удалить" />
+<Text controlId="BAddConVars" value="добавить ConVar" />
+<Text controlId="TabPage5" value="Расширенные настройки" />
+<Text controlId="MetroLabel81" value="Создать резервную копию при запуске сервера" />
+<Text controlId="MetroLabel118" value="Свернуть консоль сервера при запуске" />
+<Text controlId="MetroLabel116" value="Команды запуска процесса" />
+<Text controlId="MetroButton10" value="добавить аргумент запуска процесса" />
+<Text controlId="ToolStripMenuItem6" value="Удалить" />
+<Text controlId="MetroLabel108" value="Запускать Rust Server при запуске MyRustServer" />
+<Text controlId="BunifuGroupBox1" value="Настройки автоматического резервного копирования" />
+<Text controlId="LinkLabel13" value="Папка резервных копий:" />
+<Text controlId="MetroLabel90" value="Время:" />
+<Text controlId="PDes5" value="Описание" />
+<Text controlId="PAuthor5" value="Разработчик" />
+<Text controlId="PVersion5" value="версия" />
+<Text controlId="PName3" value="Имя плагина" />
+<Text controlId="PDes3" value="Описание" />
+<Text controlId="PAuthor3" value="Разработчик" />
+<Text controlId="PVersion3" value="версия" />
+<Text controlId="PDes2" value="Описание" />
+<Text controlId="PAuthor2" value="Разработчик" />
+<Text controlId="PVersion2" value="версия" />
+<Text controlId="PName2" value="Имя плагина" />
+<Text controlId="PName1" value="Имя плагина" />
+<Text controlId="PDes1" value="Описание" />
+<Text controlId="PAuthor1" value="Разработчик" />
+<Text controlId="PVersion1" value="версия" />
+<Text controlId="BunifuDropdown1" value="Название (А-Я)" />
+<Text controlId="MetroButton30" value="Поиск" />
+<Text controlId="MetroLabel16" value="Ваш SteamID:" />
+<Text controlId="MetroLabel19" value="размер изображения 1024x512" />
+<Text controlId="MetroLabel2" value="Макс:" />
+<Text controlId="lblserverport" value="Порт сервера:" />
+<Text controlId="lblrconport" value="Порт Rcon:" />
+<Text controlId="lblappport" value="Rust+" />
+<Text controlId="lblservermap" value="Тип карты:" />
+<Text controlId="lblmapsize" value="Размер карты:" />
+<Text controlId="lblmapseed" value="Код карты:" />
+<Text controlId="lblcustommap" value="Выбор карты:" />
+<Text controlId="lblrconpw" value="Пароль Rcon:" />
+<Text controlId="lbltags" value="Теги:" />
+<Text controlId="lbldescription" value="Описание:" />
+<Text controlId="lblapplogo" value="Логотип приложения:" />
+<Text controlId="lblweburl" value="Веб-URL:" />
+<Text controlId="lbllogourl" value="Логотип:" />
+<Text controlId="lblnameserver" value="Название:" />
+<Text controlId="MetroLabel44" value="Показать сервер в" />
+<Text controlId="MetroLabel32" value="Перезапуск сервера" />
+<Text controlId="MetroLabel33" value="СОбновление сервера" />
+<Text controlId="MetroLabel39" value="Минуты перезапуска" />
+<Text controlId="MetroLabel34" value="Обновление Oxide" />
+<Text controlId="MetroLabel37" value="Минуты перезапуска" />
+<Text controlId="MetroLabel38" value="Минуты перезапуска" />
+<Text controlId="MetroLabel35" value="Вайп сервера" />
+<Text controlId="MetroLabel36" value="Минуты перезапуска" />
+<Text controlId="MetroButton19" value="Сохранить сервер" />
+<Text controlId="Label2" value="Панель управления" />
+<Text controlId="BKillServer" value="Остановить сервер" />
+<Text controlId="BRestartServer" value="Перезапустить сервер" />
+<Text controlId="MetroLabel26" value="Смерти игроков" />
+<Text controlId="MetroLabel25" value="Рюкзаки" />
+<Text controlId="MetroLabel24" value="Карта" />
+<Text controlId="MetroLabel23" value="Чертежи" />
+<Text controlId="MetroLabel22" value="Полный вайп" />
+<Text controlId="ToolStripMenuItem14" value="Удалить" />
+<Text controlId="MetroLabel20" value="Логи" />
+<Text controlId="ColumnHeader4" value="Имя файла" />
+<Text controlId="TabEditor1" value="Плагины" />
+<Text controlId="BtnLoadPlugins" value="Загрузить плагины" />
+<Text controlId="TabUpdate1" value="Обновление" />
+<Text controlId="MetroButton3" value="Платные плагины" />
+<Text controlId="Btnblacklixt" value="Черный список" />
+<Text controlId="BtnAutoUpdatePlugins" value="Обновить все" />
+<Text controlId="Btncheckplugins" value="Проверка обновления" />
+<Text controlId="MetroLabel21" value="Авто (каждые 2 часа)" />
+<Text controlId="TabConfig1" value="Редактор" />
+<Text controlId="TabInstaller1" value="Установщик плагинов" />
+<Text controlId="PName10" value="Имя плагина" />
+<Text controlId="PDes10" value="Описание" />
+<Text controlId="PAuthor10" value="Разработчик" />
+<Text controlId="PVersion10" value="версия" />
+<Text controlId="PName9" value="Имя плагина" />
+<Text controlId="PDes9" value="Описание" />
+<Text controlId="PAuthor9" value="Разработчик" />
+<Text controlId="PVersion9" value="версия" />
+<Text controlId="PName8" value="Имя плагина" />
+<Text controlId="PDes8" value="Описание" />
+<Text controlId="PAuthor8" value="Разработчик" />
+<Text controlId="PVersion8" value="версия" />
+<Text controlId="PName6" value="Имя плагина" />
+<Text controlId="PDes6" value="Описание" />
+<Text controlId="PAuthor6" value="Разработчик" />
+<Text controlId="PVersion6" value="версия" />
+<Text controlId="PName7" value="Имя плагина" />
+<Text controlId="PDes7" value="Описание" />
+<Text controlId="PAuthor7" value="Разработчик" />
+<Text controlId="PVersion7" value="версия" />
+<Text controlId="PName4" value="Имя плагина" />
+<Text controlId="PDes4" value="Описание" />
+<Text controlId="PAuthor4" value="Разработчик" />
+<Text controlId="PVersion4" value="версия" />
+<Text controlId="PName5" value="Имя плагина" />
+<Text controlId="ToolStripMenuItem7" value="Перезагрузить" />
+<Text controlId="ToolStripMenuItem12" value="Обновить" />
+<Text controlId="ToolStripMenuItem8" value="Посмотреть сайт" />
+<Text controlId="ToolStripMenuItem20" value="Включить/Отключить" />
+<Text controlId="ToolStripMenuItem9" value="Удалить" />
+<Text controlId="OpenSteamprofile" value="Открыть профиль Steam" />
+<Text controlId="CopySteamID" value="Копировать SteamID" />
+<Text controlId="CopyName" value="Копировать имя" />
+<Text controlId="CheckIP" value="Проверить IP" />
+<Text controlId="ToolStripMenuItem32" value="Дать предметы" />
+<Text controlId="ToolStripMenuItem33" value="Вылечить игрока" />
+<Text controlId="KillPlayer" value="Убить игрока" />
+<Text controlId="KickPlayer" value="Выгнать игрока (с причиной)" />
+<Text controlId="BanPlayer" value="Забанить игрока (с причиной)" />
+<Text controlId="Teleportto" value="Телепортировать к" />
+<Text controlId="SetAdminToolStripMenuItem" value="Игрока к себе" />
+<Text controlId="SetModToolStripMenuItem" value="Себя к игроку" />
+<Text controlId="Permissions" value="Разрешения" />
+<Text controlId="SetAdminToolStripMenuItem1" value="Назначить админом" />
+<Text controlId="SetModToolStripMenuItem1" value="Назначить модератором" />
+<Text controlId="RemoveAdminToolStripMenuItem1" value="Убрать админа" />
+<Text controlId="RemoveModToolStripMenuItem1" value="Убрать модератора" />
+<Text controlId="LinkLabel4" value="Разрешения Oxide" />
+<Text controlId="MetroLabel15" value="автопрокрутка" />
+<Text controlId="MetroLabel3" value="Отправить команду" />
+<Text controlId="Lblconsole" value="Консоль сервера" />
+<Text controlId="Lblquickc" value="Быстрые команды" />
+<Text controlId="ToolStripMenuItem19" value="Удалить" />
+<Text controlId="MetroLabel40" value="Пользовательская папка/файл" />
+<Text controlId="MetroButton9" value="Добавить папку" />
+<Text controlId="MetroLabel45" value="Авто расписание вайпа" />
+<Text controlId="ToolStripMenuItem13" value="Удалить" />
+<Text controlId="MetroLabel42" value="Удалить" />>
+<Text controlId="MetroLabel30" value="Новый код карты при вайпе" />
+<Text controlId="MetroLabel29" value="Токены игроков" />
+<Text controlId="MetroLabel28" value="Состояния игроков" />
+<Text controlId="MetroLabel27" value="Идентификаторы игроков" />
+<Text controlId="Label16" value="Игроки:" />
+<Text controlId="Label24" value="Сервер PID:" />
+<Text controlId="Label19" value="Время работы:" />
+<Text controlId="Label18" value="Подсчетсубъектов:" />
+<Text controlId="Label17" value="ФПС:" />
+<Text controlId="MetroLabel7" value="местный:" />
+<Text controlId="MetroLabel10" value="местный:" />
+<Text controlId="MetroLabel57" value="местный:" />
+<Text controlId="MetroLabel58" value="местный:" />
+<Text controlId="MetroLabel11" value="новый:" />
+<Text controlId="MetroLabel4" value="новый:" />
+<Text controlId="Label22" value="Спальные места:" />
+<Text controlId="Label21" value="Присоединение:" />
+<Text controlId="Label20" value="Протокол:" />
+<Text controlId="Label31" value="Последняя протирка:" />
+<Text controlId="Label37" value="ОЗУ:" />
+<Text controlId="Label38" value="IP-адрес сервера:" />
+<Text controlId="Label15" value="Обзор сервера" />
+<Text controlId="MetroLabel189" value="Показать сервер в" />
+<Text controlId="MetroLabel46" value="местный:" />
+<Text controlId="MetroLabel47" value="новый:" />
+<Text controlId="MetroLabel122" value="местный:" />
+<Text controlId="MetroLabel121" value="новый:" />
+<Text controlId="MetroLabel71" value="Время в минутах:" />
+<Text controlId="MetroLabel91" value="Время в минутах:" />
+<Text controlId="MetroLabel83" value="Дата до сервера Название" />
+<Text controlId="MetroButton38" value="Преобразование Oxide в Carbon" />
+<Text controlId="MetroButton36" value="Деактивировать все" />
+<Text controlId="MetroButton37" value="Активировать все" />
+<Text controlId="MetroButton41" value="Загрузить список" />
+<Text controlId="MetroButton40" value="Очистить список" />
+<Text controlId="TabPage7" value="Онлайн" />
+<Text controlId="TabPage15" value="Оффлайн" />
+
+  </Texts>
+</Localization>

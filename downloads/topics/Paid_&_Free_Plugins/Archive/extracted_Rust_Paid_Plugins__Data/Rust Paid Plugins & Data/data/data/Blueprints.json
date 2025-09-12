@@ -1,0 +1,641 @@
+{
+  "multiplegrenadelauncher": {
+    "Name": "Grenade Launcher",
+    "Image": "multiplegrenadelauncher.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 900,
+    "Resources": {
+      "metal.fragments": 750,
+      "metalpipe": 6,
+      "metal.refined": 150
+    }
+  },
+  "rifle.lr300": {
+    "Name": "LR-300 Assault Rifle",
+    "Image": "rifle.lr300.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 900,
+    "Resources": {
+      "riflebody": 1,
+      "metal.refined": 125,
+      "metal.fragments": 350
+    }
+  },
+  "pistol.m92": {
+    "Name": "M92 Pistol",
+    "Image": "pistol.m92.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 2,
+    "ResearchCost": 450,
+    "Resources": {
+      "semibody": 1,
+      "metal.refined": 80
+    }
+  },
+  "rifle.m39": {
+    "Name": "M39 Rifle",
+    "Image": "rifle.m39.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 650,
+    "Resources": {
+      "riflebody": 1,
+      "metal.fragments": 350,
+      "metal.refined": 120
+    }
+  },
+  "rifle.l96": { 
+    "Name": "L96 Rifle",
+    "Image": "rifle.l96.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "riflebody": 1,
+      "metal.fragments": 500,
+      "metal.refined": 250
+    }
+  },
+  "lmg.m249": { 
+    "Name": "M249",
+    "Image": "lmg.m249.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 1250,
+    "Resources": {
+      "riflebody": 2,
+      "metal.fragments": 750,
+      "metal.refined": 450
+    }
+  },
+  "weapon.mod.8x.scope": { 
+    "Name": "16x Zoom Scope",
+    "Image": "weapon.mod.8x.scope.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 1250,
+    "Resources": {
+      "metal.fragments": 50,
+      "metal.refined": 180
+    }
+  },
+  "ammo.grenadelauncher.he": { 
+    "Name": "40mm HE Grenade",
+    "Image": "ammo.grenadelauncher.he.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 750,
+    "Resources": {
+      "metal.fragments": 50,
+      "gunpowder": 75
+    }
+  },
+  "ammo.grenadelauncher.smoke": { 
+    "Name": "40mm Smoke Grenade",
+    "Image": "ammo.grenadelauncher.smoke.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 750,
+    "Resources": {
+      "metal.fragments": 50,
+      "gunpowder": 25
+    }
+  },
+  "ammo.rocket.smoke": { 
+    "Name": "Smoke Rocket",
+    "Image": "ammo.rocket.smoke.png",
+    "SkinID": 0,
+    "Category": "weapons",
+    "Tier": 3,
+    "ResearchCost": 450,
+    "Resources": {
+      "metal.fragments": 120,
+      "lowgradefuel": 75,
+      "gunpowder": 45
+    }
+  },
+
+  "spinner.wheel": { 
+    "Name": "Gambling Wheel",
+    "Image": "https://rustplugins.net/products/placeanything/gamblingwheel.png",
+    "SkinID": 2682493718,
+    "Category": "construction",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "spinner.wheel": 1,
+      "metal.fragments": 75
+    }
+  },
+  "arcade.machine.chippy": { 
+    "Name": "Slot Machine",
+    "Image": "https://rustplugins.net/products/placeanything/slotmachine.png",
+    "SkinID": 2682435313,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 150,
+    "Resources": {
+      "techparts": 2,
+      "metal.fragments": 75
+    }
+  },
+  "box.wooden.large{1}": { 
+    "Name": "Recycler",
+    "Image": "https://rustplugins.net/products/craftmenu/recycler_icon.png",
+    "SkinID": 1594245394,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 650,
+    "Resources": {
+      "metal.fragments": 250,
+      "techparts": 5,
+      "metal.refined": 95
+    }
+  },
+  "door.double.hinged.toptier": { 
+    "Name": "Vault Door",
+    "Image": "https://rustplugins.net/products/craftmenu/vault-icon.png",
+    "SkinID": 2643584466,
+    "Category": "construction",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "gears": 15,
+      "metal.refined": 350
+    }
+  },
+  "door.closer": { 
+    "Name": "Door Closer",
+    "Image": "door.closer.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "metalspring": 2,
+      "metal.fragments": 75
+    }
+  },
+  "mining.quarry": { 
+    "Name": "Mining Quarry",
+    "Image": "mining.quarry.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "wood": 1500,
+      "gears": 7,
+      "metal.fragments": 750
+    }
+  },
+  "samsite": { 
+    "Name": "SAM Site",
+    "Image": "samsite.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 3,
+    "ResearchCost": 650,
+    "Resources": {
+      "targeting.computer": 3,
+      "techparts": 8,
+      "metal.refined": 150
+    }
+  },
+  "mining.pumpjack": { 
+    "Name": "PumpJack",
+    "Image": "mining.pumpjack.png",
+    "SkinID": 0,
+    "Category": "construction",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "wood": 1500,
+      "metalpipe": 15,
+      "metal.fragments": 750
+    }
+  },
+
+
+
+
+
+  "nightvisiongoggles": { 
+    "Name": "Night Vision Goggles",
+    "Image": "nightvisiongoggles.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 3,
+    "ResearchCost": 350,
+    "Resources": {
+      "techparts": 6,
+      "cloth": 15,
+      "metal.refined": 75
+    }
+  },
+  "diving.tank": { 
+    "Name": "Diving Tank",
+    "Image": "diving.tank.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 250,
+    "Resources": {
+      "tarp": 12,
+      "sewingkit": 6,
+      "propanetank": 4
+    }
+  },
+  "hazmatsuit_scientist_peacekeeper": { 
+    "Name": "Peacekeeper's Suit",
+    "Image": "https://rustplugins.net/products/craftmenu/hazmatsuit_scientist_peacekeeper.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 250,
+    "Resources": {
+      "tarp": 10,
+      "sewingkit": 5,
+      "metal.refined": 25
+    }
+  },
+  "diving.wetsuit": { 
+    "Name": "Wetsuit",
+    "Image": "diving.wetsuit.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 1,
+    "ResearchCost": 125,
+    "Resources": {
+      "tarp": 6,
+      "sewingkit": 2,
+      "cloth": 25
+    }
+  },
+  "clatter.helmet": { 
+    "Name": "Clatter Helmet",
+    "Image": "clatter.helmet.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 2,
+    "ResearchCost": 125,
+    "Resources": {
+      "tarp": 8,
+      "sewingkit": 2,
+      "metal.fragments": 65
+    }
+  },
+  "cratecostume": { 
+    "Name": "Crate Costume",
+    "Image": "cratecostume.png",
+    "SkinID": 0,
+    "Category": "clothing",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "wood": 350,
+      "rope": 2
+    }
+  },
+
+
+
+  
+
+  "jackhammer": {
+    "Name": "Jackhammer",
+    "Image": "jackhammer.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 2,
+    "ResearchCost": 350,
+    "Resources": {
+      "techparts": 2,
+      "metal.refined": 150
+    }
+  },
+  "electric.generator.small": {
+    "Name": "Generator",
+    "Image": "electric.generator.small.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 3,
+    "ResearchCost": 950,
+    "Resources": {
+      "techparts": 8,
+      "metal.refined": 450,
+      "wiretool": 45
+    }
+  },
+  "generator.wind.scrap": {
+    "Name": "Wind Turbine",
+    "Image": "generator.wind.scrap.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 2,
+    "ResearchCost": 650,
+    "Resources": {
+      "gears": 12,
+      "metal.refined": 320,
+      "techparts": 10
+    }
+  },
+  "industrial.wall.light": {
+    "Name": "Industrial Wall Light",
+    "Image": "industrial.wall.light.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 30
+    }
+  },
+  "battery.small": {
+    "Name": "Small Battery",
+    "Image": "battery.small.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 15,
+      "bleach": 1,
+      "lowgradefuel": 35
+    }
+  },
+  "targeting.computer": {
+    "Name": "Targeting Computer",
+    "Image": "targeting.computer.png",
+    "SkinID": 0,
+    "Category": "electrical",
+    "Tier": 1,
+    "ResearchCost": 25,
+    "Resources": {
+      "metal.fragments": 75,
+      "techparts": 6
+    }
+  },
+
+
+
+
+
+  "box.repair.bench": {
+    "Name": "Rowboat",
+    "Image": "https://rustplugins.net/products/craftmenu/rowboat.png",
+    "SkinID": 1742651766,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "wood": 600,
+      "metal.refined": 25,
+      "carburetor2": 1
+    }
+  },
+  "box.repair.bench{0}": {
+    "Name": "Sedan",
+    "Image": "https://rustplugins.net/products/craftmenu/sedan.png",
+    "SkinID": 1742652663,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "metal.fragments": 250,
+      "metal.refined": 25,
+      "scrap": 75
+    }
+  },
+  "box.repair.bench{1}": {
+    "Name": "RHIB",
+    "Image": "https://rustplugins.net/products/craftmenu/rhib.png",
+    "SkinID": 1742627792,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "tarp": 25,
+      "metal.refined": 45,
+      "carburetor3": 2
+    }
+  },
+  "box.repair.bench{2}": {
+    "Name": "Minicopter",
+    "Image": "https://rustplugins.net/products/craftmenu/mini.png",
+    "SkinID": 1742653197,
+    "Category": "vehicles",
+    "Tier": 3,
+    "ResearchCost": 50,
+    "Resources": {
+      "carburetor3": 2,
+      "metal.refined": 125
+    }
+  },
+  "box.repair.bench{3}": {
+    "Name": "Scrap Helicopter",
+    "Image": "https://rustplugins.net/products/craftmenu/scrapheli512.png",
+    "SkinID": 1856165291,
+    "Category": "vehicles",
+    "Tier": 1,
+    "ResearchCost": 75,
+    "Resources": {
+      "carburetor3": 4,
+      "metal.refined": 350
+    }
+  },
+  "box.repair.bench{4}": {
+    "Name": "Chinook 47",
+    "Image": "https://rustplugins.net/products/craftmenu/ch47.png",
+    "SkinID": 1771792500,
+    "Category": "vehicles",
+    "Tier": 3,
+    "ResearchCost": 75,
+    "Resources": {
+      "techparts": 8,
+      "metal.refined": 500,
+      "carburetor3": 8
+    }
+  },
+
+
+
+  "fun.boomboxportable": {
+    "Name": "Portable Boom Box",
+    "Image": "fun.boomboxportable.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 120
+    } 
+  },
+  "boombox": {
+    "Name": "Boom Box",
+    "Image": "boombox.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 200,
+      "metal.fragments": 100,
+      "cloth": 20
+    } 
+  },
+  "fun.casetterecorder": {
+    "Name": "Cassette Recorder",
+    "Image": "fun.casetterecorder.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "megaphone": {
+    "Name": "Megaphone",
+    "Image": "megaphone.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 50,
+      "metal.fragments": 75
+    } 
+  },
+  "discoball": {
+    "Name": "Disco Ball",
+    "Image": "discoball.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 50
+    } 
+  },
+  "cassette": {
+    "Name": "Long Cassette",
+    "Image": "cassette.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100
+    } 
+  },
+  "drumkit": {
+    "Name": "Junkyard Drum Kit",
+    "Image": "drumkit.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100,
+      "wood": 200
+    } 
+  },
+  "microphonestand": {
+    "Name": "Microphone Stand",
+    "Image": "microphonestand.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "newyeargong": {
+    "Name": "New Year Gong",
+    "Image": "newyeargong.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 100,
+      "metal.fragments": 50
+    } 
+  },
+  "abovegroundpool": {
+    "Name": "Above Ground Pool",
+    "Image": "abovegroundpool.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 500,
+      "tarp": 3,
+      "metal.fragments": 200
+    } 
+  },
+  "boogieboard": {
+    "Name": "Boogie Board",
+    "Image": "boogieboard.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "tarp": 1,
+      "metal.fragments": 75
+    } 
+  },
+  "piano": {
+    "Name": "Wheelbarrow Piano",
+    "Image": "piano.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "wood": 200,
+      "metal.fragments": 100
+    } 
+  },
+  "connected.speaker": {
+    "Name": "Connected Speaker",
+    "Image": "connected.speaker.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 75
+    } 
+  },
+  "telephone": {
+    "Name": "Connected Speaker",
+    "Image": "telephone.png",
+    "SkinID": 0,
+    "Category": "dlc",
+    "Tier": 1,
+    "ResearchCost": 0,
+    "Resources": {
+      "metal.fragments": 100,
+      "techparts": 1,
+      "wood": 50
+    } 
+  }
+
+
+}

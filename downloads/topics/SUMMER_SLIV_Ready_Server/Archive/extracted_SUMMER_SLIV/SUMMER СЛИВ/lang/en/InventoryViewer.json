@@ -1,0 +1,9 @@
+{
+  "InvalidArguments": "Invalid argument(s) supplied! Use '/{0} <name>' or '/{0} list <number>'.",
+  "InvalidSelection": "Invalid number, use the number in front of the player's name. Use '/{0} list' to check the list of players again.",
+  "MultiplePlayersFound": "Multiple players found with that name, please select one of these players by using '/{0} list <number>':",
+  "NoListAvailable": "You do not have a players list available, use '/{0} <name>' instead.",
+  "NoPlayersFound": "Couldn't find any players matching that name.",
+  "NotAllowed": "You are not allowed to use this command.",
+  "TooManyPlayersFound": "Too many players were found, the list of matches is only showing the first 5. Try to be more specific."
+}

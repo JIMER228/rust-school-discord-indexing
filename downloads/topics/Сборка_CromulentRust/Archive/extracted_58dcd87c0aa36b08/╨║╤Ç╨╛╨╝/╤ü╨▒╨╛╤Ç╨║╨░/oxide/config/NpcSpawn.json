@@ -1,0 +1,13 @@
+{
+  "Могут ли кастомные NPC атаковать животных? [true/false]": false,
+  "Могут ли кастомные NPC атаковать других NPC? [true/false]": false,
+  "Могут ли кастомные NPC атаковать спящих игроков? [true/false]": false,
+  "Могут ли кастомные NPC атаковать игроков в состоянии Wounded? [true/false]": false,
+  "Могут ли кастомные NPC атаковать игроков в SafeZone? [true/false]": false,
+  "Используемый prefab для кастомных NPC": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+  "Версия конфигурации": {
+    "Major": 2,
+    "Minor": 7,
+    "Patch": 1
+  }
+}

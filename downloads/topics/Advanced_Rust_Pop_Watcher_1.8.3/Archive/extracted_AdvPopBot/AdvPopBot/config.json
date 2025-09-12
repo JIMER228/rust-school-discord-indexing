@@ -1,0 +1,78 @@
+{
+
+    "TOTAL_POP_BOT_TOKEN": "",
+
+    "SERVERS": [
+      {
+        "RCON_IP": "",
+        "RCON_PORT": 28016,
+        "RCON_PASS": "",
+        "BOT_TOKEN": "",
+
+        "SERVER_OFFLINE_MESSAGE": "Server offline...",
+        "PLAYER_COUNT_MESSAGE": "(playersOnline/maxPlayers) Online!..",
+        "PLAYERS_JOINING_MESSAGE": "(playersOnline/maxPlayers) ⇋ (joiningPlayers Joining!)",
+        "PLAYERS_QUEUED_MESSAGE": "(playersOnline/maxPlayers) ⇋ (queuedPlayers Queued!)",
+
+        "ENABLE_THRESHOLD": false,
+        "THRESHOLD_PERCENT": "",
+        "THRESHOLD_MESSAGE": "",
+
+        "LOG_WHEN_SERVER_GOES_OFFLINE_AND_ONLINE": false,
+        "LOG_CHANNEL_ID": "",
+        "SERVER_IDENTIFIER": "",
+        "ONLINE_COLOR": "#00ff26",
+        "OFFLINE_COLOR": "#ff0008",
+
+        "ENABLE_DYNAMIC_POP_CHANGER": false,
+        "INCREASE_POP_IF_THIS_MANY_PLAYERS_AWAY_FROM_MAX_PLAYERS": "",
+        "INCREASE_BY": "",
+        "DECREASE_POP_IF_THIS_MANY_PLAYERS_AWAY_FROM_MAX_PLAYERS": "",
+        "DECREASE_BY": "",
+        "MAX_PLAYER_CAP": "",
+        "STARTING_PLAYER_CAP": "",
+        "DO_NOT_INCREASE_PLAYER_CAP_IF_SERVER_IS_ON_LESS_THAN_THIS_AMOUNT_OF_FPS": "",
+
+        "LOG_WHEN_POP_CAP_GETS_CHANGED": false,
+        "POP_CAP_LOG_CHANNEL_ID": "",
+        "INCREASE_COLOR": "#00ff26",
+        "DECREASE_COLOR": "#ff0008"
+
+      },
+      {
+        "RCON_IP": "",
+        "RCON_PORT": 28016,
+        "RCON_PASS": "",
+        "BOT_TOKEN": "",
+
+        "SERVER_OFFLINE_MESSAGE": "Server offline...",
+        "PLAYER_COUNT_MESSAGE": "(playersOnline/maxPlayers) Online!..",
+        "PLAYERS_JOINING_MESSAGE": "(playersOnline/maxPlayers) ⇋ (joiningPlayers Joining!)",
+        "PLAYERS_QUEUED_MESSAGE": "(playersOnline/maxPlayers) ⇋ (queuedPlayers Queued!)",
+
+        "ENABLE_THRESHOLD": false,
+        "THRESHOLD_PERCENT": "",
+        "THRESHOLD_MESSAGE": "",
+
+        "LOG_WHEN_SERVER_GOES_OFFLINE_AND_ONLINE": false,
+        "LOG_CHANNEL_ID": "",
+        "SERVER_IDENTIFIER": "",
+        "ONLINE_COLOR": "#00ff26",
+        "OFFLINE_COLOR": "#ff0008",
+
+        "ENABLE_DYNAMIC_POP_CHANGER": false,
+        "INCREASE_POP_IF_THIS_MANY_PLAYERS_AWAY_FROM_MAX_PLAYERS": "",
+        "INCREASE_BY": "",
+        "DECREASE_POP_IF_THIS_MANY_PLAYERS_AWAY_FROM_MAX_PLAYERS": "",
+        "DECREASE_BY": "",
+        "MAX_PLAYER_CAP": "",
+        "STARTING_PLAYER_CAP": "",
+        "DO_NOT_INCREASE_PLAYER_CAP_IF_SERVER_IS_ON_LESS_THAN_THIS_AMOUNT_OF_FPS": "",
+
+        "LOG_WHEN_POP_CAP_GETS_CHANGED": false,
+        "POP_CAP_LOG_CHANNEL_ID": "",
+        "INCREASE_COLOR": "#00ff26",
+        "DECREASE_COLOR": "#ff0008"
+      }
+    ]
+}

@@ -1,0 +1,35 @@
+﻿//Reference: I18N
+//Reference: I18N.Other
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using Facepunch;
+using Network;
+using Newtonsoft.Json;
+using Oxide.Core.Libraries;
+using WebSocketSharp;
+using UnityEngine;
+
+namespace Oxide.Plugins
+{
+	[Info("RemoveBotsFromSand", "TheRyuzaki", "1.0.0")]
+	class RemoveBotsFromSand : RustPlugin
+	{
+		void OnServerInitialized()
+		{
+			int coutnBots = 0;
+			BasePlayer[] players = GameObject.FindObjectsOfType<BasePlayer>();
+			foreach (var player in players)
+			{
+				if (player.displayName.ToLower().StartsWith("bots ") || player.displayName.ToLower().Contains(" ddos"))
+				{
+					coutnBots++;
+					player.Kill(BaseNetworkable.DestroyMode.None);
+				}
+			}
+			this.Puts("Cleared bots: " + coutnBots);
+		}
+	}
+}

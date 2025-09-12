@@ -1,0 +1,20 @@
+{
+  "Настройки миникоптера | Minicopter Settings": {
+    "Популяция миникоптеров на один квадратный километр | Minicopter population": 2,
+    "Включить наполнение баков миникоптеров бензином | Enabled free fuel": false,
+    "Количество топлива добавляемое в бак коптеров | Fuel count": 100,
+    "Заблокировать инвентарь миникоптеров в случае если мы добавляем топливо | Block minicopter inventory if we add fuel": false,
+    "[MAP]: Включить отображение миникоптеров на стандартной карте | Enabled create map marker": false,
+    "[MAP]: Радиус отметки на карте | Marker radius": 0.3,
+    "[MAP]: Текст на отметке на карты миникоптера | Marker description": "MiniCopter\nFree fuel"
+  },
+  "Настройки скрап-коптера | ScrapCopter settings": {
+    "Популяция скрап-коптеров на один квадратный километр | ScrapCopter population": 0,
+    "Включить наполнение баков скрап-коптеров бензином | Enabled free fuel": false,
+    "Количество топлива добавляемое в бак скрап-коптеров | Fuel count": 100,
+    "Заблокировать инвентарь скрап-коптеров в случае если мы добавляем топливо | Block scrap-copter inventory if we add fuel": false,
+    "[MAP]: Включить отображение скрап-коптеров на стандартной карте | Enabled create map marker": false,
+    "[MAP]: Радиус отметки на карте | Marker radius": 0.3,
+    "[MAP]: Текст на отметке на карты скрап-коптеров | Marker description": "ScrapCopter\nFree fuel"
+  }
+}

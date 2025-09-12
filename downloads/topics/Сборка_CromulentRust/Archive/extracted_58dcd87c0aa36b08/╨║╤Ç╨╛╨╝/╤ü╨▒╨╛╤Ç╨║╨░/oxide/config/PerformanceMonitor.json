@@ -1,0 +1,15 @@
+{
+  "Save file dates in European Format 27-06-2023 (other format is North American 06-27-2023)": false,
+  "Create reports every (seconds)": 0,
+  "Create plugins report": true,
+  "Create plugins average hook-time report (Will substantially increase time of report)": false,
+  "Create entities report": true,
+  "Excluded entities": [
+    "shortname here",
+    "another here"
+  ],
+  "Excluded plugins": [
+    "name here",
+    "another name"
+  ]
+}

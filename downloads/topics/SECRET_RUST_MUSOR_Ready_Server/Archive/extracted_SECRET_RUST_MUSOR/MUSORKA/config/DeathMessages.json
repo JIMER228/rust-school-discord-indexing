@@ -1,0 +1,103 @@
+{
+  "Configuration Version": {
+    "Major": 2,
+    "Minor": 3,
+    "Patch": 9
+  },
+  "Позиция: AnchorMin (Это изнаальная позиция точки, от неё в лево будет уходить основное UI по оффсетам, дефолт 1 1 - Верхний правый угол)": "0.999 1",
+  "Позиция: AnchorMax (Это изнаальная позиция точки, от неё в лево будет уходить основное UI по оффсетам, дефолт 1 1 - Верхний правый угол)": "0.999 1",
+  "A. Время показа сообщения (сек)": 5,
+  "B. Размер текста": 10,
+  "C1. Показывать убиства NPC": false,
+  "D. Показывать убийства спящих": true,
+  "E. Хранение логов": false,
+  "H. Цвет оружия": "#ffffff",
+  "I. Цвет дистанции": "#ffffff",
+  "K. Дистанция": -1.0,
+  "L. Название вертолета": "Вертолет",
+  "M. Название Bradlay (Танк)": "Танк",
+  "N. Имя NPC": "НПЦ",
+  "P. Выводить убийства в консоль": false,
+  "Оружие": {
+    "Assault Rifle": "AK-47",
+    "Assault Rifle - ICE": "AK-47",
+    "Beancan Grenade": "Beancan",
+    "Nailgun": "Гвоздомет",
+    "Bolt Action Rifle": "Bolt",
+    "Crossbow": "Crossbow",
+    "Custom SMG": "SMG",
+    "Double Barrel Shotgun": "Double Shotgun",
+    "Compound Bow": "Compound Bow",
+    "Eoka Pistol": "Eoka",
+    "F1 Grenade": "F1 Grenade",
+    "Hunting Bow": "Bow",
+    "LR-300 Assault Rifle": "LR-300",
+    "M249": "М249",
+    "M92 Pistol": "M92",
+    "MP5A4": "MP5A4",
+    "L96 Rifle": "L96",
+    "HMLMG": "HMLMG",
+    "Prototype 17": "Prototype 17",
+    "Pump Shotgun": "Pump Shotgun",
+    "Python Revolver": "Python",
+    "Revolver": "Revolver",
+    "Semi-Automatic Pistol": "P250",
+    "Semi-Automatic Rifle": "Semi Automic",
+    "Thompson": "Thompson",
+    "Waterpipe Shotgun": "Waterpipe Shotgun",
+    "Satchel Charge": "Satchel",
+    "Timed Explosive Charge": "С4",
+    "RocketSpeed": "RocketSpeed",
+    "Incendiary Rocket": "Rocket",
+    "Rocket": "Rocket",
+    "Spas-12 Shotgun": "Spas-12",
+    "Multiple Grenade Launcher": "Grenade Launcher",
+    "40mm.grenade.he": "Grenade Launcher"
+  },
+  "Цвета имени в UI": {
+    "deathmessages.default": {
+      "Цвет имени если игрока убили": "#ffffff",
+      "Цвет имени если игрок убил": "#ff9c00"
+    },
+    "deathmessages.vip": {
+      "Цвет имени если игрока убили": "#ffffff",
+      "Цвет имени если игрок убил": "#ff9c00"
+    },
+    "deathmessages.elite": {
+      "Цвет имени если игрока убили": "#ffffff",
+      "Цвет имени если игрок убил": "#ff9c00"
+    }
+  },
+  "Турели": {
+    "Flame Turret": "Огненная турель",
+    "Guntrap": "Гантрап",
+    "Static Turret": "Турель"
+  },
+  "Сообщения ({attacker} - инициатор,  {victim} - жертва, {weapon} - оружие,  {distance} - дистанция": {
+    "Arrow": "{attacker} убил {victim} ({weapon}, {distance} м.)",
+    "Blunt": "{attacker} убил {victim} ({weapon})",
+    "Bullet": "{attacker} убил {victim} ({weapon}, {distance} м.)",
+    "Flamethrower": "{attacker} сжег игрока {victim} ({weapon})",
+    "Explosion": "{attacker} взорвал игрока {victim} ({weapon})",
+    "Helicopter": "{attacker} прямым попаданием убил {victim}.",
+    "BradleyAPC": "{attacker} прямым попаданием убил {victim}.",
+    "BradleyAPCDeath": "{victim} был уничтожен игроком {attacker} ({weapon})",
+    "HelicopterDeath": "{victim} был сбит игроком {attacker} ({weapon})",
+    "Slash": "{attacker} убил {victim} ({weapon})",
+    "Stab": "{attacker} убил {victim} ({weapon})",
+    "Suicide": "{victim} совершил самоубийство.",
+    "Turret": "{victim} был убит  турелью",
+    "Guntrap": "{victim} был убит гантрапом",
+    "Bleeding": "{victim} умер от кровотечения",
+    "Blunt Sleeping": "{attacker} убил {victim} ({weapon})",
+    "Bullet Sleeping": "{attacker} убил {victim} ({weapon}, {distance} метров)",
+    "Flamethrower Sleeping": "{attacker} сжег игрока {victim} ({weapon})",
+    "Explosion Sleeping": "{attacker} убил {victim} ({weapon})",
+    "Helicopter Sleeping": "{victim} был убит {attacker} пока он спал.",
+    "BradleyAPC Sleeping": "{victim} был убит {attacker} пока он спал.",
+    "Slash Sleeping": "{attacker} убил {victim} ({weapon})",
+    "Stab Sleeping": "{attacker} убил {victim} ({weapon})",
+    "Unknown": "У {victim} что-то пошло не так.",
+    "Turret Sleeping": "{attacker} был убит турелью."
+  }
+}

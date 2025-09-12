@@ -1,0 +1,251 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Restarting: DiscordConnect.cs(13,25): error CS0234: The type or namespace name `DiscordObjects' does not exist in the namespace `Oxide.Ext.Discord'. Are you missing an assembly reference?
+GameStoresRUST.cs(235,22): warning CS0114: `Oxide.Plugins.GameStoresRUST.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+MeteorFall.cs(741,20): error CS0246: The type or namespace name `Scientist' could not be found. Are you missing an assembly reference?
+Trade.cs(37,22): warning CS0114: `Oxide.Plugins.Trade.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+DiscordConnect.cs(255,44): error CS0246: The type or namespace name `GuildMember' could not be found. Are you missing `Oxide.Ext.Discord.Entities.Guilds' using directive?
+DiscordConnect.cs(278,44): error CS0246: The type or namespace name `Message' could not be found. Are you missing `Network' using directive?
+Kits.cs(125,30): warning CS0108: `Oxide.Plugins.Kits.Config' hides inherited member `Oxide.Core.Plugins.Plugin.Config'. Use the new keyword if hiding was intended
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+MultiFighting.cs(50,22): warning CS0114: `Oxide.Plugins.MultiFighting.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+RaidBlock.cs(908,22): warning CS0114: `Oxide.Plugins.RaidBlock.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+Warning: restarting compilation
+
+[SERVER v1.0.20] Console: GameStoresRUST.cs(235,22): warning CS0114: `Oxide.Plugins.GameStoresRUST.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+Trade.cs(37,22): warning CS0114: `Oxide.Plugins.Trade.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+Kits.cs(125,30): warning CS0108: `Oxide.Plugins.Kits.Config' hides inherited member `Oxide.Core.Plugins.Plugin.Config'. Use the new keyword if hiding was intended
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+MultiFighting.cs(50,22): warning CS0114: `Oxide.Plugins.MultiFighting.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+RaidBlock.cs(908,22): warning CS0114: `Oxide.Plugins.RaidBlock.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+AProtection.cs(283,17): warning CS0162: Unreachable code detected
+AdminESP.cs(301,17): warning CS0219: The variable `mainName' is assigned but its value is never used
+AdminESP.cs(313,17): warning CS0219: The variable `type' is assigned but its value is never used
+AdminESP.cs(944,17): warning CS0162: Unreachable code detected
+BrokenItemsCleaner.cs(150,34): warning CS0168: The variable `e' is declared but never used
+Clans.cs(1447,21): warning CS0219: The variable `reply' is assigned but its value is never used
+Clans.cs(3114,13): warning CS0162: Unreachable code detected
+Clans.cs(5722,38): warning CS0219: The variable `inFullRange' is assigned but its value is never used
+GameStoresRUST.cs(203,47): warning CS0168: The variable `e' is declared but never used
+GameStoresRUST.cs(1611,38): warning CS0168: The variable `e' is declared but never used
+IQMenu.cs(363,17): warning CS0162: Unreachable code detected
+MultiEvents.cs(1753,21): warning CS0168: The variable `e' is declared but never used
+SkipNight.cs(61,17): warning CS0219: The variable `VoteGUI' is assigned but its value is never used
+SkipNight.cs(167,17): warning CS0219: The variable `VoteGUI' is assigned but its value is never used
+SkipNight.cs(500,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(175,26): warning CS0472: The result of comparing value type `bool' with null is always `false'
+StackSizeController.cs(180,26): warning CS0472: The result of comparing value type `bool' with null is always `false'
+StackSizeController.cs(185,26): warning CS0472: The result of comparing value type `bool' with null is always `false'
+StackSizeController.cs(190,26): warning CS0472: The result of comparing value type `bool' with null is always `false'
+StackSizeController.cs(195,26): warning CS0472: The result of comparing value type `bool' with null is always `false'
+StackSizeController.cs(200,26): warning CS0472: The result of comparing value type `float' with null is always `false'
+StackSizeController.cs(177,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(182,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(187,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(192,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(197,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(202,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(552,18): warning CS0472: The result of comparing value type `ItemCategory' with null is always `false'
+StackSizeController.cs(554,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(617,18): warning CS0472: The result of comparing value type `ItemCategory' with null is always `false'
+StackSizeController.cs(619,17): warning CS0162: Unreachable code detected
+StackSizeController.cs(653,89): warning CS0184: The given expression is never of the provided (`ContainerIOEntity') type
+WipeBlock.cs(673,17): warning CS0162: Unreachable code detected
+XAntiCheat.cs(516,30): warning CS0162: Unreachable code detected
+XAntiCheat.cs(1574,26): warning CS0219: The variable `iNFO' is assigned but its value is never used
+Arkan.cs(1161,26): warning CS0472: The result of comparing value type `uint' with null is always `false'
+Arkan.cs(1161,43): warning CS0162: Unreachable code detected
+Arkan.cs(1357,14): warning CS0219: The variable `lengthLastSegmentProjectileTrajectory' is assigned but its value is never used
+Arkan.cs(1358,14): warning CS0219: The variable `lengthLastSegmentReverseProjectileTrajectory' is assigned but its value is never used
+Arkan.cs(2845,12): warning CS0219: The variable `hitInfoDistance' is assigned but its value is never used
+Arkan.cs(3293,33): warning CS0219: The variable `projectilePosition' is assigned but its value is never used
+Arkan.cs(3294,33): warning CS0219: The variable `projectileVelocity' is assigned but its value is never used
+Arkan.cs(3326,14): warning CS0219: The variable `lengthLastSegmentProjectileTrajectory' is assigned but its value is never used
+Arkan.cs(3327,14): warning CS0219: The variable `lengthLastSegmentReverseProjectileTrajectory' is assigned but its value is never used
+Arkan.cs(3609,40): warning CS0219: The variable `fsd' is assigned but its value is never used
+DiscordCore.cs(610,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordCore.cs(656,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordCore.cs(700,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordCore.cs(711,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordCore.cs(730,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordPlayers.cs(106,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordStatus.cs(180,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+DiscordStatus.cs(218,32): warning CS0219: The variable `maxplayers' is assigned but its value is never used
+DiscordStatus.cs(219,32): warning CS0219: The variable `onlineplayers' is assigned but its value is never used
+DiscordStatus.cs(265,34): warning CS0618: `Oxide.Ext.Discord.Constants.DiscordHooks' is obsolete: `Please switch DiscordHooks -> DiscordExtHooks due to conflicts with a plugin name. This will be removed in a future update.'
+EnhancedBanSystem.cs(2163,20): warning CS0219: The variable `steamid' is assigned but its value is never used
+EnhancedBanSystem.cs(2164,20): warning CS0219: The variable `name' is assigned but its value is never used
+EnhancedBanSystem.cs(2337,20): warning CS0219: The variable `steamid' is assigned but its value is never used
+EnhancedBanSystem.cs(2339,20): warning CS0219: The variable `name' is assigned but its value is never used
+EnhancedBanSystem.cs(2340,20): warning CS0219: The variable `errorreason' is assigned but its value is never used
+IQChat.cs(4274,41): warning CS0219: The variable `Other' is assigned but its value is never used
+IQChat.cs(1450,39): warning CS0219: The variable `seconds' is assigned but its value is never used
+IQChat.cs(1471,34): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(1404,36): warning CS0219: The variable `Suspect' is assigned but its value is never used
+IQReportSystem.cs(1413,36): warning CS0219: The variable `Suspect' is assigned but its value is never used
+IQReportSystem.cs(2509,38): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(3782,38): warning CS0168: The variable `ex' is declared but never used
+IQReportSystem.cs(2944,39): warning CS0219: The variable `seconds' is assigned but its value is never used
+IQReportSystem.cs(2965,34): warning CS0168: The variable `ex' is declared but never used
+ImageLibrary.cs(579,17): warning CS0219: The variable `totalPages' is assigned but its value is never used
+ImageLibrary.cs(671,59): warning CS0219: The variable `loadOrder' is assigned but its value is never used
+ImageLibrary.cs(774,75): warning CS0219: The variable `loadOrder' is assigned but its value is never used
+Kits.cs(609,23): warning CS0219: The variable `userid' is assigned but its value is never used
+NTeleportation.cs(3942,25): warning CS0219: The variable `num' is assigned but its value is never used
+TimedPermissions.cs(330,21): warning CS0219: The variable `temp' is assigned but its value is never used
+AdminESP.cs(234,25): warning CS0414: The private field `Oxide.Plugins.AdminESP.ins' is assigned but its value is never used
+Clans.cs(38,17): warning CS0169: The private field `Oxide.Plugins.Clans.lib' is never used
+Clans.cs(42,36): warning CS0414: The private field `Oxide.Plugins.Clans.originalNames' is assigned but its value is never used
+Clans.cs(145,16): warning CS0414: The private field `Oxide.Plugins.Clans.pluginPrefix' is assigned but its value is never used
+Clans.cs(149,16): warning CS0414: The private field `Oxide.Plugins.Clans.pluginPrefixFormat' is assigned but its value is never used
+Clans.cs(171,14): warning CS0414: The private field `Oxide.Plugins.Clans.addClanMembersAsIOFriends' is assigned but its value is never used
+Clans.cs(193,14): warning CS0414: The private field `Oxide.Plugins.Clans.enableAtLogin' is assigned but its value is never used
+Clans.cs(201,22): warning CS0414: The private field `Oxide.Plugins.Clans.useRankColorsPanel' is assigned but its value is never used
+Clans.cs(1066,22): warning CS0414: The private field `Oxide.Plugins.Clans.ins' is assigned but its value is never used
+Clans.cs(3043,16): warning CS0414: The private field `Oxide.Plugins.Clans.ButtonListed' is assigned but its value is never used
+GameStoresRUST.cs(214,29): warning CS0414: The private field `Oxide.Plugins.GameStoresRUST.initialization' is assigned but its value is never used
+GameStoresRUST.cs(226,23): warning CS0414: The private field `Oxide.Plugins.GameStoresRUST.TimerCheckInstant' is assigned but its value is never used
+NPC.cs(51,31): warning CS0414: The private field `Oxide.Plugins.NPC.supplyDrops' is assigned but its value is never used
+NPC.cs(240,27): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.items' is never assigned to, and will always have its default value `null'
+NPC.cs(233,31): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.Item.shortname' is never assigned to, and will always have its default value `null'
+NPC.cs(234,29): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.Item.skinId' is never assigned to, and will always have its default value `0'
+NPC.cs(235,28): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.Item.minAmount' is never assigned to, and will always have its default value `0'
+NPC.cs(236,28): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.Item.maxAmount' is never assigned to, and will always have its default value `0'
+NPC.cs(237,30): warning CS0649: Field `Oxide.Plugins.NPC.NPCExtraLootDefinition.Item.probability' is never assigned to, and will always have its default value `0'
+NPC.cs(258,29): warning CS0649: Field `Oxide.Plugins.NPC.NPCLootDefinition.excludeList' is never assigned to, and will always have its default value `null'
+Rustcord.cs(36,34): warning CS0169: The private field `Oxide.Plugins.Rustcord.PrivateMessages' is never used
+Rustcord.cs(310,24): warning CS0169: The private field `Oxide.Plugins.Rustcord.rbdiff' is never used
+Rustcord.cs(36,67): warning CS0169: The private field `Oxide.Plugins.Rustcord.Clans' is never used
+Rustcord.cs(36,74): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminChat' is never used
+Rustcord.cs(36,85): warning CS0169: The private field `Oxide.Plugins.Rustcord.DiscordAuth' is never used
+Rustcord.cs(36,98): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminHammer' is never used
+Rustcord.cs(36,111): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminRadar' is never used
+Rustcord.cs(36,123): warning CS0169: The private field `Oxide.Plugins.Rustcord.Vanish' is never used
+Rustcord.cs(36,131): warning CS0169: The private field `Oxide.Plugins.Rustcord.RaidableBases' is never used
+SkipNight.cs(20,21): warning CS0414: The private field `Oxide.Plugins.SkipNight.RequiredVotes' is assigned but its value is never used
+SkipNight.cs(23,21): warning CS0169: The private field `Oxide.Plugins.SkipNight.SkipNig' is never used
+SkipNight.cs(24,21): warning CS0169: The private field `Oxide.Plugins.SkipNight.ReturnNig' is never used
+SkipNight.cs(25,21): warning CS0169: The private field `Oxide.Plugins.SkipNight.ToSkipNight' is never used
+SkipNight.cs(31,23): warning CS0414: The private field `Oxide.Plugins.SkipNight.t' is assigned but its value is never used
+XAntiCheat.cs(945,33): warning CS0414: The private field `Oxide.Plugins.XAntiCheat.PLAYERINFO' is assigned but its value is never used
+XAntiCheat.cs(1017,22): warning CS0414: The private field `Oxide.Plugins.XAntiCheat.names' is assigned but its value is never used
+XAntiCheat.cs(1289,30): warning CS0414: The private field `Oxide.Plugins.XAntiCheat.constructionColl' is assigned but its value is never used
+XAntiCheat.cs(1290,30): warning CS0414: The private field `Oxide.Plugins.XAntiCheat.buildingLayer' is assigned but its value is never used
+XAntiCheat.cs(923,27): warning CS0649: Field `Oxide.Plugins.XAntiCheat.resp.response' is never assigned to, and will always have its default value `null'
+XAntiCheat.cs(928,34): warning CS0649: Field `Oxide.Plugins.XAntiCheat.avatar.players' is never assigned to, and will always have its default value `null'
+XAntiCheat.cs(933,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.Players.profilestate' is never assigned to, and will always have its default value `null'
+XAntiCheat.cs(934,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.Players.timecreated' is never assigned to, and will always have its default value `null'
+XAntiCheat.cs(939,29): warning CS0649: Field `Oxide.Plugins.XAntiCheat.INFO.dateTime' is never assigned to, and will always have its default value
+XAntiCheat.cs(940,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.INFO.profilestate' is never assigned to, and will always have its default value `false'
+XAntiCheat.cs(941,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.INFO.steam' is never assigned to, and will always have its default value `false'
+XAntiCheat.cs(942,64): warning CS0649: Field `Oxide.Plugins.XAntiCheat.INFO.hitinfo' is never assigned to, and will always have its default value `null'
+XAntiCheat.cs(1643,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.VPNINFO.vpn' is never assigned to, and will always have its default value `false'
+XAntiCheat.cs(1644,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.VPNINFO.proxy' is never assigned to, and will always have its default value `false'
+XAntiCheat.cs(1645,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.VPNINFO.tor' is never assigned to, and will always have its default value `false'
+XAntiCheat.cs(1646,25): warning CS0649: Field `Oxide.Plugins.XAntiCheat.VPNINFO.hosting' is never assigned to, and will always have its default value `false'
+AdminPanel.cs(75,53): warning CS0649: Field `Oxide.Plugins.AdminPanel.PlayerAdministration' is never assigned to, and will always have its default value `null'
+DiscordStatus.cs(39,24): warning CS0414: The private field `Oxide.Plugins.DiscordStatus.seperatorText' is assigned but its value is never used
+DiscordStatus.cs(40,22): warning CS0169: The private field `Oxide.Plugins.DiscordStatus.enableChatSeparators' is never used
+IQChat.cs(56,60): warning CS0649: Field `Oxide.Plugins.IQChat.XDNotifications' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(36,140): warning CS0649: Field `Oxide.Plugins.IQReportSystem.SLMenu' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(83,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatPreifx' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(84,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatColorChat' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(85,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.FakePlayer.IQChatColorNick' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(120,33): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_ip' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(121,27): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_nick' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(122,32): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.another_accs' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(123,38): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_check' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(130,37): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.bans' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(126,30): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.moderSteamID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(127,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.serverName' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(128,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.last_checks.time' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(133,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.banID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(134,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.reason' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(135,31): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.serverName' is never assigned to, and will always have its default value `null'
+IQReportSystem.cs(136,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.OVHserverID' is never assigned to, and will always have its default value `0'
+IQReportSystem.cs(137,28): warning CS0649: Field `Oxide.Plugins.IQReportSystem.Response.RustCCBans.banDate' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(44,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.itemShortNames' is assigned but its value is never used
+ImageLibrary.cs(846,29): warning CS0649: Field `Oxide.Plugins.ImageLibrary.QueryResponse.response' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(851,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Response.total' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(852,43): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Response.publishedfiledetails' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(857,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.result' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(858,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.publishedfileid' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(859,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.creator' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(860,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.creator_appid' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(861,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.consumer_appid' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(862,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.consumer_shortcutid' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(863,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.filename' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(864,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.file_size' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(865,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.preview_file_size' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(866,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.file_url' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(868,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.url' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(869,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.hcontent_file' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(870,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.hcontent_preview' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(871,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.title' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(872,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.file_description' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(873,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.time_created' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(874,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.time_updated' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(875,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.visibility' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(876,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.flags' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(877,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.workshop_file' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(878,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.workshop_accepted' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(879,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.show_subscribe_all' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(880,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.num_comments_public' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(881,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.banned' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(882,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.ban_reason' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(883,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.banner' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(884,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.can_be_deleted' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(885,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.app_name' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(886,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.file_type' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(887,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.can_subscribe' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(888,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.subscriptions' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(889,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.favorited' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(890,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.followers' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(891,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.lifetime_subscriptions' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(892,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.lifetime_favorited' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(893,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.lifetime_followers' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(894,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.lifetime_playtime' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(895,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.lifetime_playtime_sessions' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(896,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.views' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(897,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.num_children' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(898,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.num_reports' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(899,30): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.previews' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(900,26): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.tags' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(901,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.language' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(902,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.maybe_inappropriate_sex' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(903,25): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.maybe_inappropriate_violence' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(908,29): warning CS0649: Field `Oxide.Plugins.ImageLibrary.PublishedFileDetails.Tag.adminonly' is never assigned to, and will always have its default value `false'
+ImageLibrary.cs(915,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.previewid' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(916,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.sortorder' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(917,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.url' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(918,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.size' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(919,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.filename' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(920,24): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.preview_type' is never assigned to, and will always have its default value `0'
+ImageLibrary.cs(921,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.youtubevideoid' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(922,27): warning CS0649: Field `Oxide.Plugins.ImageLibrary.Preview.external_reference' is never assigned to, and will always have its default value `null'
+ImageLibrary.cs(1041,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.ImageAssets.isLoading' is assigned but its value is never used
+LauncherAlkad.cs(21,24): warning CS0414: The private field `Oxide.Plugins.LauncherAlkad.config' is assigned but its value is never used
+MultiFighting.cs(222,27): warning CS0414: The private field `Oxide.Plugins.MultiFighting.AssemblyHash' is assigned but its value is never used
+MultiFighting.cs(593,26): warning CS0414: The private field `Oxide.Plugins.MultiFighting.developerIDs' is assigned but its value is never used
+MultiFighting.cs(1154,40): warning CS0414: The private field `Oxide.Plugins.Tokens._DB_HEADER' is assigned but its value is never used
+MultiFighting.cs(1155,48): warning CS0414: The private field `Oxide.Plugins.Tokens._DB_MINVERSION' is assigned but its value is never used
+NTeleportation.cs(68,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
+NTeleportation.cs(83,30): warning CS0414: The private field `Oxide.Plugins.NTeleportation.triggerLayer' is assigned but its value is never used
+NTeleportation.cs(87,30): warning CS0414: The private field `Oxide.Plugins.NTeleportation.builtLayer' is assigned but its value is never used
+NTeleportation.cs(88,30): warning CS0414: The private field `Oxide.Plugins.NTeleportation.deployedLayer' is assigned but its value is never used
+NTeleportation.cs(100,66): warning CS0649: Field `Oxide.Plugins.NTeleportation.CompoundTeleport' is never assigned to, and will always have its default value `null'
+
+[SERVER v1.0.20] Got Message: Exit
+[SERVER v1.0.20] Exit received.
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

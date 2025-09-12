@@ -1,0 +1,177 @@
+{
+  "Automatic wipe on wipe": false,
+  "Default Kit Color": "#A0A935",
+  "Work with Notify?": true,
+  "Use NoEscape? (Raid/Combat block)": false,
+  "Can admins edit? (by flag)": true,
+  "Whitelist for NoEscape": [
+    "kit name 1",
+    "kit name 2"
+  ],
+  "Commands": [
+    "kit",
+    "kits"
+  ],
+  "Economy": {
+    "Type (Plugin/Item)": "Plugin",
+    "Plugin name": "Economics",
+    "Balance add hook": "Deposit",
+    "Balance remove hook": "Withdraw",
+    "Balance show hook": "Balance",
+    "ShortName": "scrap",
+    "Display Name (empty - default)": "",
+    "Skin": 0
+  },
+  "Rarity Settings": [
+    {
+      "Chance": 40,
+      "Color": "#A0A935"
+    }
+  ],
+  "Auto Kits": [
+    "autokit",
+    "autokit_vip",
+    "autokit_premium"
+  ],
+  "Getting an auto kit 1 time?": false,
+  "Allow to enable/disable autokit?": false,
+  "Permission to enable/disable autokit": "kits.changeautokit",
+  "Logs": {
+    "To Console": true,
+    "To File": true
+  },
+  "Color 1": "#161617",
+  "Color 2": "#0E0E10",
+  "Color 3": "#4B68FF",
+  "Color 4": "#303030",
+  "Color Red": "#FF4B4B",
+  "Color White": "#FFFFFF",
+  "Show Number?": true,
+  "Show No Permission Description?": true,
+  "Show All Kits?": false,
+  "CopyPaste Parameters": [
+    "deployables",
+    "true",
+    "inventories",
+    "true"
+  ],
+  "Block in Building Block?": false,
+  "NPC Kits": {
+    "1234567": {
+      "Description": "Free Kits",
+      "Kits": [
+        "kit_one",
+        "kit_two"
+      ]
+    },
+    "7654321": {
+      "Description": "VIPs Kits",
+      "Kits": [
+        "kit_three",
+        "kit_four"
+      ]
+    }
+  },
+  "Description": {
+    "Description": "",
+    "Enabled": true,
+    "Background Color": {
+      "HEX": "#0E0E10",
+      "Opacity (0 - 100)": 100.0
+    },
+    "Font Size": 18,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Opacity (0 - 100)": 100.0
+    },
+    "AnchorMin": "0 0",
+    "AnchorMax": "1 0",
+    "OffsetMin": "0 -55",
+    "OffsetMax": "0 -5"
+  },
+  "Info Kit Description": {
+    "Enabled": true,
+    "Background Color": {
+      "HEX": "#0E0E10",
+      "Opacity (0 - 100)": 100.0
+    },
+    "Font Size": 18,
+    "Font": "robotocondensed-bold.ttf",
+    "Align": "MiddleCenter",
+    "Text Color": {
+      "HEX": "#FFFFFF",
+      "Opacity (0 - 100)": 100.0
+    },
+    "AnchorMin": "0.5 1",
+    "AnchorMax": "0.5 1",
+    "OffsetMin": "-125 -55",
+    "OffsetMax": "125 -5"
+  },
+  "Interface": {
+    "Height": 455.0,
+    "Width": 640.0,
+    "Kit Height": 165.0,
+    "Kit Width": 135.0,
+    "Margin": 10.0,
+    "Kits On String": 4,
+    "Strings": 2,
+    "Y Indent": -100.0,
+    "Display Name Settings": {
+      "Enabled": true,
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1",
+      "OffsetMin": "-45 -75",
+      "OffsetMax": "45 0"
+    },
+    "Image Settings": {
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1",
+      "OffsetMin": "-32 -75",
+      "OffsetMax": "32 -11"
+    },
+    "Kit Available Settings": {
+      "AnchorMin": "0 1",
+      "AnchorMax": "1 1",
+      "OffsetMin": "0 -100",
+      "OffsetMax": "0 -75"
+    },
+    "Kit Amount Settings": {
+      "Width": 115.0,
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1",
+      "OffsetMin": "-125",
+      "OffsetMax": "-120"
+    },
+    "Kit Cooldown Settings": {
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1",
+      "OffsetMin": "-32.5 -125",
+      "OffsetMax": "32.5 -105"
+    },
+    "Kit Sale Settings": {
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1",
+      "OffsetMin": "-32.5 -115",
+      "OffsetMax": "32.5 -95"
+    },
+    "Kit Cooldown Settings (with amount)": {
+      "AnchorMin": "0 1",
+      "AnchorMax": "1 1",
+      "OffsetMin": "0 -120",
+      "OffsetMax": "0 -95"
+    },
+    "No Permission Settings": {
+      "AnchorMin": "0 1",
+      "AnchorMax": "1 1",
+      "OffsetMin": "0 -100",
+      "OffsetMax": "0 -75"
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 2,
+    "Patch": 0
+  }
+}

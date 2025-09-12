@@ -1,0 +1,31 @@
+{
+  "Text Display Frequency (Seconds)": 2.0,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=#f6eae0>Welcome {PLAYERNAME}!</color>",
+      "Bottom Status": "<color=#664d46>You wake up...</color>"
+    },
+    {
+      "Top Status": "<color=#f6eae0>Hi!</color>",
+      "Bottom Status": "<color=#664d46>Loading...</color>"
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=#f6eae0>Loading...</color>",
+      "Bottom Status": "<color=#ce422b>{AHEAD}</color> <color=#f6eae0>players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=#f6eae0>Loading...</color>",
+      "Bottom Status": "<color=#ce422b>{AHEAD}</color> <color=#f6eae0>players ahead of you.</color>"
+    }
+  ],
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#1e2020>2X</color>",
+    "Bottom Status": "<color=#f6eae0>Welcome!</color>"
+  }
+}

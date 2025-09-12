@@ -1,0 +1,96 @@
+{
+  "menu": [
+    {
+      "icon": "https://imgur.com/ftxAJSe.png",
+      "iconFlash": "",
+      "name": "vip",
+      "type": "Chat",
+      "showImage": ""
+    },
+    {
+      "icon": "https://i.imgur.com/BrDkELv.png",
+      "iconFlash": "",
+      "name": "block",
+      "type": "Chat",
+      "showImage": ""
+    },
+    {
+      "icon": "https://i.imgur.com/UIFLczq.png",
+      "iconFlash": "",
+      "name": "wipe",
+      "type": "Chat",
+      "showImage": "https://i.imgur.com/cDUOplm.png"
+    },
+    {
+      "icon": "https://i.imgur.com/M0kn6h8.png",
+      "iconFlash": "",
+      "name": "help",
+      "type": "Chat",
+      "showImage": ""
+    },
+    {
+      "icon": "https://i.imgur.com/LBbmfyQ.png",
+      "iconFlash": "",
+      "name": "report",
+      "type": "Chat",
+      "showImage": ""
+    },
+    {
+      "icon": "https://i.imgur.com/hDksOr3.png",
+      "iconFlash": "",
+      "name": "store",
+      "type": "Chat",
+      "showImage": ""
+    }
+  ],
+  "mainIcon": {
+    "0": "https://i.imgur.com/cQ4C3ql.png",
+    "1": "https://i.imgur.com/LtdNZwM.png",
+    "2": "https://i.imgur.com/6PITTbK.png",
+    "3": "https://i.imgur.com/4GLPzaQ.png",
+    "4": "https://i.imgur.com/mO5oqvs.png",
+    "5": "https://i.imgur.com/uIS6zGO.png",
+    "6": "https://i.imgur.com/5VS72gf.png",
+    "7": "https://i.imgur.com/wZTITaH.png",
+    "8": "https://i.imgur.com/kgA60BG.png",
+    "9": "https://i.imgur.com/6zfwwId.png",
+    "10": "https://i.imgur.com/kCS9VtE.png",
+    "11": "https://i.imgur.com/Zok03To.png",
+    "12": "https://i.imgur.com/t8Wn5pg.png",
+    "13": "https://i.imgur.com/ZHHtr1E.png",
+    "14": "https://i.imgur.com/orryqd2.png",
+    "15": "https://i.imgur.com/jgj2xNR.png",
+    "16": "https://i.imgur.com/yfc0cRZ.png",
+    "17": "https://i.imgur.com/doZ0Cel.png",
+    "18": "https://i.imgur.com/Io4LzDy.png",
+    "19": "https://i.imgur.com/oR3uX3s.png",
+    "20": "https://i.imgur.com/Yp2cFxm.png"
+  },
+  "mainIconFlash": "https://i.imgur.com/FPTU0BF.png",
+  "refreshSeconds": 60,
+  "WipeDay": 5,
+  "WipeHour": 14,
+  "GlobalWipeDay": 5,
+  "GlobalWipeHour": 14,
+  "debugUi": false,
+  "AlwaysShowMenu": true,
+  "UIClose": [
+    "UI_Report",
+    "UI_Block",
+    "UI_Mute"
+  ],
+  "wipes": {
+    "2019-08-02T14:00:00": 0,
+    "2019-08-09T14:00:00": 1,
+    "2019-08-16T14:00:00": 1,
+    "2019-08-23T14:00:00": 1,
+    "2019-08-30T14:00:00": 1
+  },
+  "UILeftCorner": "0.2254687 0.2230325",
+  "UISize": "666 374",
+  "CalendarTextDaySize": 30,
+  "CalendarTextWipeDaySize": 24,
+  "CalendarTextOnlineSize": 12,
+  "submenuIconSize": 36,
+  "submenuIconBetween": 4
+}

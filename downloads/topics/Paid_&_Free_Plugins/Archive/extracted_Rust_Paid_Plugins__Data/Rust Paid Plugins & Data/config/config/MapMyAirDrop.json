@@ -1,0 +1,26 @@
+{
+  "Banner Settings": {
+    "Banner GUI Settings": {
+      "Anchor Max": "1.0 0.90",
+      "Anchor Min": "0.0 0.85",
+      "Offset Max": "0 0",
+      "Offset Min": "0 0"
+    },
+    "Banner HUD Settings": {
+      "Anchor Max": "0.17 0.96",
+      "Anchor Min": "0.1 0.91",
+      "Offset Max": "0 0",
+      "Offset Min": "0 0"
+    },
+    "Display Drop Banner For All Users (Overrides 'mapmyairdrop.banner')": "false",
+    "Display Drop HUD For All Users (Overrides 'mapmyairdrop.hud')": "false",
+    "HUD Banner Display Limit": "5"
+  },
+  "Map Marker settings": {
+    "The Map Marker Alpha On The Map (0 to 1)": "0.4",
+    "The Map Marker Color On The Map (Hex Code)": "#FF00FF",
+    "The Map Marker Looted Alpha On The Map (0 to 1)": "0.4",
+    "The Map Marker Looted Color On The Map (Hex Code)": "#00FFFF",
+    "The Map Marker Radius On The Map": "1"
+  }
+}

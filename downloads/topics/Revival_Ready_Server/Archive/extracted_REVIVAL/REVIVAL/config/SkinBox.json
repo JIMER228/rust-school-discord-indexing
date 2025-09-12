@@ -1,0 +1,289 @@
+{
+  "AvailableSkins": {
+    "approvedSkinsLimit": -1,
+    "maxPagesShown": 1,
+    "useApprovedSkins": true,
+    "usedRankedByTrendDays": 30,
+    "usedThreadsGetRanked": 3,
+    "useInbuiltSkins": true,
+    "useManualAddedSkins": true,
+    "useWebskinsRankedByTrend": true
+  },
+  "Cooldown": {
+    "activateAfterSkinTaken": true,
+    "cooldownBox": 60,
+    "cooldownOverrideAdmin": true,
+    "cooldownOverrideAuthLevel": 2,
+    "enableCooldown": false
+  },
+  "CustomPermissions": {
+    "enableCustomPerms": false,
+    "permCustomDeployable": "skinbox.deployable",
+    "permCustomPlayerwearable": "skinbox.playerwearable",
+    "permCustomWeapon": "skinbox.weapon"
+  },
+  "Settings": {
+    "accessOverrideAuthLevel": 2,
+    "allowStackedItems": false,
+    "boxUseDistance": 10.0,
+    "exludedSkinsAuthLevel": 2,
+    "forceAlsoWearables": true,
+    "forceClientAlways": false,
+    "forceClientPreload": false,
+    "hideQuickSort": false,
+    "hideSortItems": true,
+    "permissionUse": "skinbox.use",
+    "showLoadedSkinCounts": true,
+    "skinBoxCommand": "skin",
+    "steamApiKey": "252490"
+  },
+  "SkinsAdded": {
+    "SkinList": {
+      "door.hinged.toptier": [
+        899803813,
+        885137730,
+        840336069,
+        845137217,
+        952759655,
+        805027925,
+        802245713,
+        1999927543,
+        2569963792,
+        2624379005
+      ],
+      "hatchet": [
+        838343318,
+        2171464647,
+        2637157054
+      ],
+      "metal.plate.torso": [
+        809417949,
+        809419185,
+        896926526,
+        938327315,
+        865233732,
+        1993774875,
+        2092488087,
+        2304445825,
+        2352188221,
+        2377223360,
+        2432947351,
+        2510424165
+      ],
+      "rifle.ak": [
+        2628569024,
+        2585539626,
+        2268418002,
+        2289255115,
+        2426264628,
+        2468934608,
+        2510062939,
+        2536316473,
+        2566739934,
+        2677450807
+      ],
+      "rifle.bolt": [
+        902559857
+      ],
+      "tshirt": [
+        832577120
+      ],
+      "rifle.semiauto": [
+        818613234,
+        2546457625,
+        1616628843,
+        1788152335,
+        2131324289,
+        2192967963,
+        2249445756,
+        2605667736
+      ],
+      "pistol.semiauto": [
+        827533196,
+        1571099329,
+        1630961792,
+        2396924106
+      ],
+      "rocket.launcher": [
+        2379294835,
+        2425871996
+      ],
+      "pistol.revolver": [
+        815532676,
+        809897611,
+        2619132461
+      ],
+      "smg.mp5": [
+        2358958119,
+        2432107615,
+        1693898215,
+        2544660025
+      ],
+      "metal.facemask": [
+        784316334,
+        2092488951,
+        2304448562,
+        2377199365,
+        2432948498,
+        2510419774
+      ],
+      "wall.frame.garagedoor": [
+        2372862660,
+        2523385842,
+        2582112117,
+        2607200541,
+        2641906642
+      ],
+      "door.hinged.wood": [
+        2368189752,
+        2516629631
+      ],
+      "box.wooden.large": [
+        2533136959,
+        2579209697,
+        2581449517,
+        2601577757
+      ],
+      "furnace": [
+        2585220036,
+        2373010783,
+        2515400074
+      ],
+      "hoodie": [
+        2067569919,
+        2416648557,
+        2428818427,
+        2462377903
+      ],
+      "pants": [
+        2067568367,
+        2295664263,
+        2429020487,
+        2462383364
+      ],
+      "hammer": [
+        2627950172,
+        2060277379
+      ],
+      "jacket": [
+        834233801,
+        2296376871,
+        2395820290
+      ],
+      "rug": [
+        871072156,
+        2156295778
+      ],
+      "crossbow": [
+        1772979668,
+        2024146764,
+        2059058861,
+        2193672354
+      ],
+      "pistol.python": [
+        1812135451,
+        2059988260,
+        2100486270,
+        2512932146
+      ],
+      "sleepingbag": [
+        1883490546,
+        2357224663,
+        2581600314,
+        2596118180
+      ],
+      "lr300.item": [
+        1953108368,
+        2122513705,
+        2195318269,
+        2540239609,
+        2618461743
+      ],
+      "smg.2": [
+        1987573278,
+        2172135020,
+        2281845451,
+        2366165352
+      ],
+      "box.wooden": [
+        2000024196,
+        2146145661,
+        2394650621
+      ],
+      "locker": [
+        2058696685,
+        2242254710
+      ],
+      "shoes.boots": [
+        2075527039,
+        2304198263,
+        2410871443,
+        2496064553,
+        2537679237
+      ],
+      "coffeecan.helmet": [
+        2076260082,
+        2350097716,
+        2454442861,
+        2551769961
+      ],
+      "pickaxe": [
+        2171468844,
+        2480556660,
+        2637158928
+      ],
+      "explosive.satchel": [
+        2172795318,
+        2551145714
+      ],
+      "roadsign.kilt": [
+        2350090284,
+        2415101453,
+        2469019097,
+        2537677227,
+        2601514523
+      ],
+      "roadsign.jacket": [
+        2350092536,
+        2453102650,
+        2503955663,
+        2551767355
+      ],
+      "rock": [
+        2350375831
+      ],
+      "smg.thompson": [
+        2368291991,
+        2374200749,
+        2393708019,
+        2490318017,
+        2688174066
+      ],
+      "shotgun.double": [
+        2371140299,
+        2570866773
+      ],
+      "door.hinged.metal": [
+        2556919811,
+        2619098457,
+        2649782466,
+        2656549389
+      ]
+    }
+  },
+  "SkinsExcluded": {
+    "SkinList": []
+  },
+  "UsageCost": {
+    "costBoxOpen": 5,
+    "costDeployable": 10,
+    "costExcludeAdmins": true,
+    "costExcludePerm": "skinbox.costexcluded",
+    "costExcludePermEnabled": false,
+    "costPlayerwearable": 20,
+    "costWeapon": 30,
+    "enableUsageCost": false,
+    "useEconomics": false,
+    "useServerRewards": true
+  }
+}

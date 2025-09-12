@@ -1,0 +1,68 @@
+{
+  "Chat Prefix": "[ RUST FIRE ]",
+  "Show Chat Prefix": false,
+  "Bot Icon (SteamID)": 0,
+  "Cooldown Between Auto Responses For User": "10s",
+  "Global Cooldown Between Auto Responses": "2s",
+  "Use Default Chat (0), Chat Plus (1), Better Chat (2)": 0,
+  "Debug": false,
+  "Allow Multiple Auto Responses": false,
+  "Minimal Time Between Message And Answer": 1,
+  "Maximal Time Between Message And Answer": 5,
+  "Welcome Message": [
+    "Welcome, {name}!",
+    "Hello, dear {name}!",
+    "Hello, {name}! Your IP: {ip}"
+  ],
+  "Welcome Message Enabled": false,
+  "Joining Message": [
+    "<color=#ff7300>{name}</color> зашел на сервер"
+  ],
+  "Leaving Message": [
+    "<color=#ff7300>{name}</color> вышел с сервера ({reason})"
+  ],
+  "Joining Message Enabled": true,
+  "Leaving Message Enabled": true,
+  "Show Joining Message To Player That Joined": false,
+  "Show Leaving Message To Player That Left": false,
+  "Auto Messages": [
+    {
+      "Permission": "smartchatbot.messages",
+      "Message Frequency": "5m",
+      "Auto Messages": [
+        {
+          "Is Enabled": false,
+          "Message": "Do not mind, I am just a stupid bot."
+        }
+      ]
+    }
+  ],
+  "Auto Responses": [
+    {
+      "Permission": "smartchatbot.response",
+      "Auto Responses": [
+        {
+          "Is Enabled": false,
+          "Remove Message From Sender": false,
+          "Send Response For Everyone (true) or Only For Sender (false)": false,
+          "Triggers": [
+            {
+              "Percentage Of Contained Words": 0.75,
+              "Regex Enabled": false,
+              "Words": [
+                "How",
+                "this",
+                "bot",
+                "works"
+              ]
+            }
+          ],
+          "Answers": [
+            "This bot really works.",
+            "IT WORKS OMG!"
+          ]
+        }
+      ]
+    }
+  ]
+}

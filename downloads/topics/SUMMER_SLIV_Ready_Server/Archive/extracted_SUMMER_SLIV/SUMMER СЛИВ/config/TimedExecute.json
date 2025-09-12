@@ -1,0 +1,22 @@
+{
+  "EnableInGameTime-Timer": false,
+  "EnableRealTime-Timer": true,
+  "EnableTimerOnce": false,
+  "EnableTimerRepeat": false,
+  "InGameTime-Timer": {
+    "01:00": "weather rain",
+    "12:00": "command 1",
+    "15:00": "command 2"
+  },
+  "RealTime-Timer": {
+    "3:00:00": "restart"
+  },
+  "TimerOnce": {
+    "o.reload StatusVK": 180
+  },
+  "TimerRepeat": {
+    "o.reload IQChat": 120,
+    "o.reload XDStatistics": 7200,
+    "fog 0": 120,
+  }
+}

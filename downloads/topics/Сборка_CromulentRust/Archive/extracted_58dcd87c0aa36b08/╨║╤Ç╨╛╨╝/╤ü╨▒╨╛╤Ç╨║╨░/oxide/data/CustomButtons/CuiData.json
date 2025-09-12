@@ -1,0 +1,54 @@
+{
+  "tpmenu": {
+    "uiType": "Overlay",
+    "panelType": "button",
+    "OffsetMin": "57 -1",
+    "OffsetMax": "181 16",
+    "text": "ТП. МЕНЮ",
+    "panelColor": "0.27 0.27 0.53 1.00",
+    "panelChatCmd": "tpmenu",
+    "imageUrl": "",
+    "imgAnchorMin": null,
+    "imgAnchorMax": null,
+    "onCmdHide": "true"
+  },
+  "bp": {
+    "uiType": "Overlay",
+    "panelType": "button",
+    "OffsetMin": "-71.5 -1",
+    "OffsetMax": "-1 16",
+    "text": "РЮКЗАК   |",
+    "panelColor": "0.27 0.27 0.53 1.00",
+    "panelChatCmd": "backpack",
+    "imageUrl": "",
+    "imgAnchorMin": null,
+    "imgAnchorMax": null,
+    "onCmdHide": "true"
+  },
+  "remove": {
+    "uiType": "Overlay",
+    "panelType": "button",
+    "OffsetMin": "-7.5 -1",
+    "OffsetMax": "53 16",
+    "text": "REMOVE ",
+    "panelColor": "0.27 0.27 0.53 1.00",
+    "panelChatCmd": "up 1",
+    "imageUrl": "",
+    "imgAnchorMin": null,
+    "imgAnchorMax": null,
+    "onCmdHide": "true"
+  },
+  "menu": {
+    "uiType": "Overlay",
+    "panelType": "button",
+    "OffsetMin": "-199 -1",
+    "OffsetMax": "-75 16",
+    "text": "ГЛ. МЕНЮ",
+    "panelColor": "0.27 0.27 0.53 1.00",
+    "panelChatCmd": "menu",
+    "imageUrl": "",
+    "imgAnchorMin": null,
+    "imgAnchorMax": null,
+    "onCmdHide": "true"
+  }
+}

@@ -1,0 +1,25 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Got Message: Ready
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Console: Rustcord.cs(3119,17): warning CS0219: The variable `dict' is assigned but its value is never used
+Rustcord.cs(3682,17): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+Rustcord.cs(3682,39): warning CS0162: Unreachable code detected
+Rustcord.cs(3727,17): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+Rustcord.cs(3727,39): warning CS0162: Unreachable code detected
+Rustcord.cs(37,34): warning CS0169: The private field `Oxide.Plugins.Rustcord.PrivateMessages' is never used
+Rustcord.cs(107,24): warning CS0169: The private field `Oxide.Plugins.Rustcord.rbdiff' is never used
+Rustcord.cs(37,67): warning CS0169: The private field `Oxide.Plugins.Rustcord.Clans' is never used
+Rustcord.cs(37,74): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminChat' is never used
+Rustcord.cs(37,85): warning CS0169: The private field `Oxide.Plugins.Rustcord.DiscordAuth' is never used
+Rustcord.cs(37,98): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminHammer' is never used
+Rustcord.cs(37,111): warning CS0169: The private field `Oxide.Plugins.Rustcord.AdminRadar' is never used
+Rustcord.cs(37,123): warning CS0169: The private field `Oxide.Plugins.Rustcord.Kits' is never used
+Rustcord.cs(37,129): warning CS0169: The private field `Oxide.Plugins.Rustcord.Vanish' is never used
+Rustcord.cs(37,137): warning CS0169: The private field `Oxide.Plugins.Rustcord.RaidableBases' is never used
+Rustcord.cs(37,152): warning CS0169: The private field `Oxide.Plugins.Rustcord.DangerousTreasures' is never used
+Rustcord.cs(37,172): warning CS0169: The private field `Oxide.Plugins.Rustcord.NoGiveNotices' is never used
+Rustcord.cs(37,187): warning CS0169: The private field `Oxide.Plugins.Rustcord.Give' is never used
+
+[SERVER v1.0.24] Connection closed.
+[SERVER v1.0.24] Shutdown

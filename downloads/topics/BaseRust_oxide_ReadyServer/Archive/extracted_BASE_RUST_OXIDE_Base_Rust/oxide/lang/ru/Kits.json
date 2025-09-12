@@ -1,0 +1,22 @@
+{
+  "Kit Was Removed": "{Prefix}{kitname} был удалён",
+  "Kit Doesn't Exist": "{Prefix}Этого комплекта не существует",
+  "Not Found Player": "{Prefix}Игрок не найден",
+  "To Many Player": "{Prefix}Найдено несколько игроков",
+  "Permission Denied": "{Prefix}У вас нет полномочий использовать этот комплект",
+  "Limite Denied": "{Prefix}Вы уже использовали этот комплект максимальное количество раз",
+  "Cooldown Denied": "{Prefix}Вы сможете использовать этот комплект через {time}",
+  "Reset": "{Prefix}Вы обнулили все данные о использовании комплектов игроков",
+  "Kit Already Exist": "{Prefix}Этот набор уже существует",
+  "Kit Created": "{Prefix}Вы создали новый набор - {name}",
+  "Kit Extradited": "{Prefix}Вы получили комплект {kitname}",
+  "Kit Cloned": "{Prefix}Предметы были скопированы из инвентаря в набор",
+  "UI Amount": "<b>Осталось: {amount}</b>",
+  "Help": "/kit name|add|clone|remove|list|reset",
+  "Help Add": "/kit add <kitname>",
+  "Help Clone": "/kit clone <kitname>",
+  "Help Remove": "/kit remove <kitname>",
+  "Help Give": "/kit give <kitname> <playerName|steamID>",
+  "Give Succes": "Вы успешно выдали игрок {0} набор {1}",
+  "No Space": "Невозможно получить набор - недостаточно места в инвентаре"
+}

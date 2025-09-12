@@ -1,0 +1,77 @@
+{
+  "NoEscape Options": {
+    "Block teleport when raid blocked": true,
+    "Block teleport when combat blocked": false,
+    "Disable respawn options when raid blocked": false,
+    "Disable respawn options when combat blocked": false
+  },
+  "Teleport Options": {
+    "Amount of time to wait before teleporting (seconds)": 10,
+    "Cooldown time (seconds)": 60,
+    "Block teleport if player is hostile": true,
+    "Block teleport if player is building blocked": false,
+    "Teleport command name (Outpost)": "otp",
+    "Teleport command name (Bandit Camp)": "btp",
+    "Teleport cancel command name": "canceltp",
+    "VIP Times": {
+      "compoundteleport.vip1": {
+        "Amount of time to wait before teleporting (seconds)": 5,
+        "Cooldown time (seconds)": 150
+      },
+      "compoundteleport.vip2": {
+        "Amount of time to wait before teleporting (seconds)": 3,
+        "Cooldown time (seconds)": 30
+      }
+    }
+  },
+  "Respawn Options": {
+    "Allow respawning at Outpost": true,
+    "Allow respawning at Bandit Camp": true,
+    "Disable respawn options if player is hostile": true,
+    "Cooldown time (seconds)": 60,
+    "Force respawns to (None, Outpost, Bandit)": "None"
+  },
+  "Custom Spawn Points": [
+    {
+      "The name of this area": "Example1",
+      "Is this area enabled?": false,
+      "Allow teleporting to this area": true,
+      "Allow respawning at this area": true,
+      "World position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Radius of points generated": 50.0,
+      "Names of potential raycast target valid for points": [
+        "road",
+        "carpark",
+        "pavement",
+        "walkway"
+      ]
+    },
+    {
+      "The name of this area": "Example2",
+      "Is this area enabled?": false,
+      "Allow teleporting to this area": true,
+      "Allow respawning at this area": true,
+      "World position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Radius of points generated": 50.0,
+      "Names of potential raycast target valid for points": [
+        "road",
+        "carpark",
+        "pavement",
+        "walkway"
+      ]
+    }
+  ],
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 16
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "AddToAllWorkcarts": false,
+  "AddToAutomatedWorkcarts": true,
+  "SafeZoneRadius": 0.0,
+  "DisarmOccupants": false,
+  "EnableTurrets": false,
+  "TurretPositions": [
+    {
+      "Position": {
+        "x": 0.85,
+        "y": 2.62,
+        "z": 1.25
+      },
+      "RotationAngle": 180.0
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 3.84,
+        "z": 3.7
+      },
+      "RotationAngle": 0.0
+    }
+  ]
+}

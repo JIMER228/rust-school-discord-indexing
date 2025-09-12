@@ -1,0 +1,293 @@
+/*
+///Скачано с дискорд сервера Rust Edit [PRO+]
+///discord.gg/9vyTXsJyKR
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+#if RUST
+using Facepunch;
+#endif
+using Newtonsoft.Json;
+using UnityEngine;
+using WebSocketSharp;
+using Random = UnityEngine.Random;
+
+namespace Oxide.Plugins
+{
+    [Info("ServerStats", "discord.gg/9vyTXsJyKR", "1.0.5")]
+    public class ServerStats : CovalencePlugin
+    {
+        private static ServerStats Instance { get; set; } = null;
+
+        private WebSocketSharp.WebSocket WebSocketClient = new WebSocket("wss://s1.server-stats.skyplugins.ru:5191/");
+        private FPSVisor ActiveVisor;
+        private bool NetworkStatus = false;
+        private bool HaveSubscribers = false;
+        private bool HasUnloading = false;
+        private int MinimalFPS = 9999;
+        private int AttemptConnect = 0;
+
+        protected override void LoadDefaultConfig()
+        {
+            this.Config["Password"] = Random.Range(1000, 999999);
+            this.LogWarning("Config file ServerStats.json is not found, you new password: " + this.Config["Password"]);
+            this.Config.Save();
+        }
+
+        void Init()
+        {
+            Instance = this;
+        }
+
+        void OnServerInitialized()
+        {
+            this.Config.Load();
+
+            this.ActiveVisor = Terrain.activeTerrain.gameObject.AddComponent<FPSVisor>();
+            WebSocketClient.SslConfiguration.EnabledSslProtocols = System.Security.Authentication.SslProtocols.Tls12;
+
+            this.WebSocketClient.OnOpen += OnNetworkConnected;
+            this.WebSocketClient.OnClose += OnNetworkClose;
+            this.WebSocketClient.OnMessage += OnNetworkMessage;
+            this.timer.Repeat(1, 0, this.DoServerStats);
+            this.DoNetworkConnect();
+        }
+
+
+        void Unload()
+        {
+            this.HasUnloading = true;
+            Component.Destroy(this.ActiveVisor);
+            this.WebSocketClient.CloseAsync();
+        }
+
+        private void OnNetworkMessage(object sender, MessageEventArgs e)
+        {
+            try
+
+            {
+                Dictionary<string, object> packet = JsonConvert.DeserializeObject<Dictionary<string, object>>(e.Data);
+                object method = string.Empty;
+                if (packet.TryGetValue("method", out method))
+                {
+                    switch ((string)method)
+                    {
+                        case "haveSubscribers":
+                            this.HaveSubscribers = true;
+                            break;
+                        case "notHaveSubscribers":
+                            this.HaveSubscribers = false;
+                            break;
+                    }
+                }
+            }
+            catch
+            {
+
+            }
+        }
+
+        private void OnNetworkClose(object sender, CloseEventArgs e)
+        {
+            if (this.NetworkStatus != false)
+            {
+                this.Puts("NetworkStatus: false");
+            }
+            this.NetworkStatus = false;
+            HaveSubscribers = false;
+            if (this.HasUnloading == false)
+            {
+                AttemptConnect++;
+                this.timer.Once(10f * AttemptConnect, this.DoNetworkConnect);
+            }
+        }
+
+        private void OnNetworkConnected(object sender, EventArgs e)
+        {
+            if (this.NetworkStatus != true)
+            {
+                this.Puts("NetworkStatus: true");
+            }
+            this.NetworkStatus = true;
+#if RUST
+            NetworkWelcomePacket packet = Pool.Get<NetworkWelcomePacket>();
+#else
+            NetworkWelcomePacket packet = new NetworkWelcomePacket();
+#endif
+            this.WebSocketClient.SendAsync(JsonConvert.SerializeObject(packet), (res) => { });
+#if RUST
+            Pool.Free(ref packet);
+#endif
+        }
+
+        void DoServerStats()
+        {
+            if (this.NetworkStatus == true && this.HaveSubscribers == true)
+            {
+                var listPlugins = this.plugins.PluginManager.GetPlugins().ToArray();
+#if RUST
+                NetworkTickPacket packet = Pool.Get<NetworkTickPacket>();
+#else
+                NetworkTickPacket packet = new NetworkTickPacket();
+#endif
+                QueueWorkerThread(_ =>
+                {
+                    for (var i = 0; i < listPlugins.Length; i++)
+                    {
+                        packet.ListPlugins.Add(new NetworkTickPacket.PluginItem
+                        {
+                            Name = listPlugins[i].Name,
+                            Version = listPlugins[i].Version.ToString(),
+                            Author = listPlugins[i].Author,
+                            Hash = listPlugins[i].Name.GetHashCode(),
+                            Time = listPlugins[i].TotalHookTime
+                        });
+                    }
+
+                    if (this.NetworkStatus == true && this.HaveSubscribers == true)
+                        this.WebSocketClient.SendAsync(JsonConvert.SerializeObject(packet), (res) => { });
+#if RUST
+                    Pool.Free(ref packet);
+#endif
+                });
+            }
+        }
+
+        void DoNetworkConnect()
+        {
+            if (this.NetworkStatus == false && this.HasUnloading == false)
+                this.WebSocketClient.Connect();           
+        }
+
+        public class FPSVisor : MonoBehaviour
+        {
+            private void Update()
+            {
+#if RUST
+            if (Instance.MinimalFPS > (int)global::Performance.current.frameRate)
+                Instance.MinimalFPS = (int)global::Performance.current.frameRate;
+#else
+                if (Instance.MinimalFPS > (int)(1f / UnityEngine.Time.deltaTime))
+                    Instance.MinimalFPS = (int)(1f / UnityEngine.Time.deltaTime);
+#endif
+            }
+        }
+
+#if RUST
+        public class NetworkWelcomePacket : Pool.IPooled
+#else
+        public class NetworkWelcomePacket
+#endif
+        {
+            [JsonProperty("method")]
+            public string Method { get; } = "reg_server";
+
+            [JsonProperty("ServerIp")]
+            public string ServerIp { get; } = Instance.server.Address + ":" + Instance.server.Port;
+            [JsonProperty("serverName")]
+            public string ServerName { get; } = Instance.server.Name;
+            [JsonProperty("password")]
+            public string Password => Instance.Config["Password"].ToString();
+
+            public void EnterPool()
+            {
+
+            }
+
+            public void LeavePool()
+            {
+
+            }
+        }
+
+#if RUST
+        public class NetworkTickPacket: Pool.IPooled
+#else
+        public class NetworkTickPacket
+#endif
+        {
+            [JsonProperty("method")]
+            public string Method { get; } = "tick_server";
+            [JsonProperty("listPlugins")]
+#if RUST
+            public List<PluginItem> ListPlugins { get; } = Pool.GetList<PluginItem>();
+#else
+            public List<PluginItem> ListPlugins { get; } = new List<PluginItem>();
+#endif
+
+            [JsonProperty("minfps")]
+            public int MinimalFps
+            {
+                get
+                {
+                    int currentValue = Instance.MinimalFPS;
+                    Instance.MinimalFPS = 9999;
+                    return currentValue;
+                }
+            }
+            [JsonProperty("fps")]
+#if RUST
+            public int Fps => global::Performance.current.frameRate;
+#else
+            public int Fps => Mathf.RoundToInt(1f / UnityEngine.Time.smoothDeltaTime);
+#endif
+
+            [JsonProperty("ent")]
+#if RUST
+            public int Ent => BaseNetworkable.serverEntities.Count;
+#else
+            public int Ent => 0;
+#endif
+            [JsonProperty("online")]
+            public int Online => Instance.players.Connected.Count();
+            [JsonProperty("SleepPlayer")]
+            public int SleepPlayer => BasePlayer.sleepingPlayerList.Count;
+            [JsonProperty("JoiningPlayer")]
+            public int JoiningPlayer => ServerMgr.Instance.connectionQueue.Joining;
+            [JsonProperty("QueuedPlayer")]
+            public int QueuedPlayer => ServerMgr.Instance.connectionQueue.Queued;
+
+            public void EnterPool()
+            {
+                this.ListPlugins.Clear();
+            }
+
+            public void LeavePool()
+            {
+
+            }
+
+            public struct PluginItem
+            {
+                [JsonProperty("name")]
+                public string Name
+                {
+                    get; set;
+                }
+                [JsonProperty("author")]
+                public string Author
+                {
+                    get; set;
+                }
+                [JsonProperty("version")]
+                public string Version
+                {
+                    get; set;
+                }
+                [JsonProperty("hash")]
+                public int Hash
+                {
+                    get; set;
+                }
+                [JsonProperty("time")]
+                public double Time
+                {
+                    get; set;
+                }
+            }
+        }
+
+    }
+}

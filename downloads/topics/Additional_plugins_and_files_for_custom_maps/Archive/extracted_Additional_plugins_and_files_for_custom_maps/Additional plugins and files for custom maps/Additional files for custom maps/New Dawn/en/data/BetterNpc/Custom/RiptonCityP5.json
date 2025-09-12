@@ -1,0 +1,123 @@
+{
+  "Enabled? [true/false]": true,
+  "Position": "(212.9, 31.3, 1224.5)",
+  "Rotation": "(0.0, 0.0, 0.0)",
+  "Radius": 20.0,
+  "Remove other NPCs? [true/false]": true,
+  "Presets": [
+    {
+      "Enabled? [true/false]": true,
+      "Minimum numbers - Day": 16,
+      "Maximum numbers - Day": 16,
+      "Minimum numbers - Night": 16,
+      "Maximum numbers - Night": 16,
+      "NPCs setting": {
+        "Names": [
+          "Вояка"
+        ],
+        "Health": 300.0,
+        "Roam Range": 10.0,
+        "Chase Range": 100.0,
+        "Attack Range Multiplier": 1.0,
+        "Sense Range": 50.0,
+        "Target Memory Duration [sec.]": 10.0,
+        "Scale damage": 1.0,
+        "Aim Cone Scale": 1.0,
+        "Detect the target only in the NPC's viewing vision cone? [true/false]": false,
+        "Vision Cone": 135.0,
+        "Speed": 7.5,
+        "Minimum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Maximum time of appearance after death (not used for Events) [sec.]": 1800.0,
+        "Disable radio effects? [true/false]": true,
+        "Is this a stationary NPC? [true/false]": false,
+        "Remove a corpse after death? (it is recommended to use the true value to improve performance) [true/false]": true,
+        "Wear items": [
+          {
+            "ShortName": "hazmatsuit.arcticsuit",
+            "SkinID (0 - default)": 0
+          }
+        ],
+        "Belt items": [
+          {
+            "ShortName": "syringe.medical",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          },
+          {
+            "ShortName": "rifle.ak",
+            "Amount": 1,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          },
+          {
+            "ShortName": "grenade.f1",
+            "Amount": 5,
+            "SkinID (0 - default)": 0,
+            "Mods": [],
+            "Ammo": null
+          }
+        ],
+        "Kits (it is recommended to use the previous 2 settings to improve performance)": []
+      },
+      "The amount of economics that is given for killing the NPC": {
+        "Economics": 0.0,
+        "Server Rewards (minimum 1)": 0,
+        "IQEconomic (minimum 1)": 0
+      },
+      "Type of appearance (0 - random; 1 - own list) (not used for Road and Biome)": 1,
+      "Own list of locations (not used for Road and Biome)": [
+        "(-137.0, -0.2, 70.4)",
+        "(-93.2, -0.2, 35.4)",
+        "(-40.7, -0.2, 28.2)",
+        "(2.1, -0.2, -9.6)",
+        "(59.8, -0.2, -18.9)",
+        "(99.8, -0.2, -57.2)",
+        "(127.3, 0.3, -4.6)",
+        "(124.4, 0.3, 9.6)",
+        "(128.1, 0.3, 20.1)",
+        "(158.9, 0.3, 5.5)",
+        "(146.4, 0.3, 12.4)",
+        "(92.0, -0.3, -86.5)",
+        "(79.2, -0.3, -79.9)",
+        "(95.0, -0.3, -95.7)",
+        "(23.6, -0.3, 14.5)",
+        "(20.1, 4.2, 23.9)",
+        "(-44.3, 0.5, -6.3)",
+        "(-60.1, 0.5, 55.5)",
+        "(-45.0, 0.5, 54.9)"
+      ],
+      "The path to the crate that appears at the place of death (empty - not used)": "",
+      "Which loot table should the plugin use? (0 - default; 1 - own; 2 - AlphaLoot; 3 - CustomLoot; 4 - loot table of the Rust objects; 5 - combine the 1 and 4 methods)": 4,
+      "Loot table from prefabs (if the loot table type is 4 or 5)": {
+        "Minimum numbers of prefabs": 1,
+        "Maximum numbers of prefabs": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of prefabs": [
+          {
+            "Chance [0.0-100.0]": 100.0,
+            "The path to the prefab": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab"
+          }
+        ]
+      },
+      "Own loot table (if the loot table type is 1 or 5)": {
+        "Minimum numbers of items": 1,
+        "Maximum numbers of items": 1,
+        "Use minimum and maximum values? [true/false]": true,
+        "List of items": [
+          {
+            "ShortName": "scrap",
+            "Minimum": 100,
+            "Maximum": 200,
+            "Chance [0.0-100.0]": 50.0,
+            "Is this a blueprint? [true/false]": false,
+            "SkinID (0 - default)": 0,
+            "Name (empty - default)": ""
+          }
+        ]
+      }
+    }
+  ]
+}

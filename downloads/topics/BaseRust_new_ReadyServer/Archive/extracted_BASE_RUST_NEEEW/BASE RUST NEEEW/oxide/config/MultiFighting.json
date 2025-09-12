@@ -1,0 +1,22 @@
+{
+  "Luma": {
+    "default_message": true,
+    "message": "Не корректный клиент игры",
+    "debug": false
+  },
+  "GW": {
+    "включить защиту от подмены steamid": true,
+    "включить строгий режим подмены": false
+  },
+  "uCore": {
+    "снимать админку у пиратов если разный ip": true,
+    "не пускать если раньше заходил с лицухи": true
+  },
+  "Steam": {
+    "Проверять пиратов через стим": true,
+    "Steam Web Api Key (https://steamcommunity.com/dev/apikey)": "4B36D82A614ADDB71136867F56C9B2DB"
+  },
+  "EAC": {
+    "enabled": false
+  }
+}

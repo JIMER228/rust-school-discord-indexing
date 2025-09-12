@@ -1,0 +1,87 @@
+{
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 97
+  },
+  "Event Automation": {
+    "Enable automated events": false,
+    "Randomise automated events": true,
+    "Event order for non-randomised events": []
+  },
+  "Event Timers": {
+    "Time to close the event if minimum players has not been reached (seconds)": 180,
+    "Time to start the event when minimum players reached (seconds)": 30,
+    "Time to finish racing after the first player has won (seconds)": 30,
+    "Interval between automated events (seconds)": 1800,
+    "Time from when racers are teleported to their race car until the race starts (seconds)": 10
+  },
+  "Checkpoint Options": {
+    "Spawn lights around checkpoint markers": true,
+    "Light type (Lantern, Flasher, Siren)": "Siren",
+    "Checkpoint marker block grade (Twigs, Wood, Stone, Metal, TopTier)": "Metal",
+    "Launch a firework when player crosses the finish line": false,
+    "Firework prefab path": "assets/prefabs/deployable/fireworks/mortarchampagne.prefab"
+  },
+  "Reward Options": {
+    "Enable reward system": true,
+    "Give prizes to all podium winners": true,
+    "Use ServerRewards as prize money": true,
+    "Use Economics as prize money": false,
+    "Use Scrap as prize money": false,
+    "Prize money for first place": 20,
+    "Prize money for second place": 15,
+    "Prize money for third place": 10
+  },
+  "Event Entry Options": {
+    "Enable entrance fee": false,
+    "Collect entrance fee from ServerRewards money": false,
+    "Collect entrance fee from Economics money": false,
+    "Collect entrance fee using Scrap": false,
+    "Fee amount": 100
+  },
+  "Racer Options": {
+    "Disable metabolism while racing": false,
+    "Racers clothing (chosen at random)": [
+      [
+        "hazmatsuit"
+      ],
+      [
+        "shoes.boots",
+        "tshirt",
+        "pants",
+        "deer.skull.mask"
+      ]
+    ]
+  },
+  "UI Options": {
+    "Lap/Checkpoint counter": {
+      "Display to player": true,
+      "Position - X minimum": 0.69,
+      "Position - X maximum": 0.83,
+      "Position - Y minimum": 0.14,
+      "Position - Y maximum": 0.175,
+      "Background color (hex)": "#F2F2F2",
+      "Background alpha": 0.05,
+      "Status color (hex)": "#ce422b"
+    },
+    "Lap/Checkpoint times": {
+      "Display to player": true,
+      "Position - X minimum": 0.69,
+      "Position - X maximum": 0.83,
+      "Position - Y minimum": 0.18,
+      "Position - Y maximum": 0.215,
+      "Background color (hex)": "#F2F2F2",
+      "Background alpha": 0.05,
+      "Status color (hex)": "#ce422b"
+    }
+  },
+  "Blacklisted commands for event players": [
+    "s",
+    "tp",
+    "tpr",
+    "tpa",
+    "home"
+  ],
+  "Disable spectate mode for finished racers": true
+}

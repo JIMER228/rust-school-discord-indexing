@@ -1,0 +1,205 @@
+{
+  "Settings": {
+    "Clear Data On Map Wipe": false,
+    "Use Teams": false,
+    "Use Clans": true,
+    "Use Friends": true,
+    "Auto pickup is enabled by default": true,
+    "Prevent pickup other player's backpack": false,
+    "Prevent pickup other player's corpse": false,
+    "Prevent pickup other player's plant entity": false,
+    "Prevent pickup other player's loot container": true,
+    "Prevent pickup of plant entities in the planter box": false
+  },
+  "Chat Settings": {
+    "Chat Command": "ap",
+    "Chat Prefix": "<color=#00FFFF>[AutoPickup]</color>: ",
+    "Chat SteamID Icon": 0
+  },
+  "Auto Pickup Settings": {
+    "PlantEntity": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "CollectibleEntity": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "MurdererCorpse": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "ScientistCorpse": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "PlayerCorpse": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "ItemDropBackpack": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "ItemDrop": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "WorldItem": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    },
+    "LootContainer": {
+      "Enabled": true,
+      "Check Radius": 0.0
+    },
+    "CollectableGifts": {
+      "Enabled": true,
+      "Check Radius": 0.5
+    }
+  },
+  "World Item Pickup Settings": {
+    "Auto Pickup Delay": 0.5,
+    "Check that player's inventory is full": true,
+    "Only pickup items that exist in player's inventory": false,
+    "Item Block List (Item shortname)": [],
+    "Allow Pickup Item Category": {
+      "Attire": true,
+      "Misc": true,
+      "Items": true,
+      "Ammunition": true,
+      "Construction": true,
+      "Component": true,
+      "Traps": true,
+      "Electrical": true,
+      "Fun": true,
+      "Food": true,
+      "Resources": true,
+      "Tool": true,
+      "Weapon": true,
+      "Medical": true
+    }
+  },
+  "Collectable Gifts Pickup Settings": {
+    "Requires player to hold a basket": true
+  },
+  "Loot Container Pickup Settings": {
+    "loot-barrel-1": true,
+    "loot-barrel-2": true,
+    "trash-pile-1": true,
+    "crate_basic": true,
+    "crate_elite": true,
+    "crate_mine": true,
+    "crate_normal": true,
+    "crate_normal_2": true,
+    "crate_normal_2_food": true,
+    "crate_normal_2_medical": true,
+    "crate_tools": true,
+    "crate_underwater_advanced": true,
+    "crate_underwater_basic": true,
+    "dm ammo": true,
+    "dm c4": true,
+    "dm construction resources": true,
+    "dm construction tools": true,
+    "dm food": true,
+    "dm medical": true,
+    "dm res": true,
+    "dm tier1 lootbox": true,
+    "dm tier2 lootbox": true,
+    "dm tier3 lootbox": true,
+    "foodbox": true,
+    "loot_barrel_1": true,
+    "loot_barrel_2": true,
+    "loot_component_test": true,
+    "loot_trash": true,
+    "minecart": true,
+    "oil_barrel": true,
+    "vehicle_parts": true,
+    "roadsign1": true,
+    "roadsign2": true,
+    "roadsign3": true,
+    "roadsign4": true,
+    "roadsign5": true,
+    "roadsign6": true,
+    "roadsign7": true,
+    "roadsign8": true,
+    "roadsign9": true,
+    "codelockedhackablecrate": true,
+    "codelockedhackablecrate_oilrig": true,
+    "supply_drop": true,
+    "giftbox_loot": true,
+    "presentdrop": true,
+    "stocking_large_deployed": true,
+    "stocking_small_deployed": true,
+    "bradley_crate": true,
+    "heli_crate": true,
+    "diesel_barrel_world": true,
+    "visualshelvestest": true,
+    "hiddenhackablecrate": true,
+    "invisible_crate_basic": true,
+    "invisible_crate_elite": true,
+    "invisible_crate_normal": true,
+    "invisible_crate_normal_2": true,
+    "invisible_crate_normal_2_food": true,
+    "invisible_crate_normal_2_medical": true,
+    "invisible_crate_tools": true,
+    "invisible_foodbox": true,
+    "invisible_vehicle_parts": true,
+    "crate_ammunition": true,
+    "crate_food_1": true,
+    "crate_food_2": true,
+    "crate_fuel": true,
+    "crate_medical": true,
+    "tech_parts_1": true,
+    "tech_parts_2": true,
+    "wagon_crate_normal": true,
+    "wagon_crate_normal_2": true,
+    "wagon_crate_normal_2_food": true,
+    "wagon_crate_normal_2_medical": true,
+    "logstash": true,
+    "missionlootbox_basic": true,
+    "missionstash": true,
+    "tacklebox": true
+  },
+  "Collectible Entity Pickup Settings": {
+    "berry-black-collectable": true,
+    "berry-blue-collectable": true,
+    "berry-green-collectable": true,
+    "berry-red-collectable": true,
+    "berry-white-collectable": true,
+    "berry-yellow-collectable": true,
+    "corn-collectable": true,
+    "hemp-collectable": true,
+    "mushroom-cluster-5": true,
+    "mushroom-cluster-6": true,
+    "potato-collectable": true,
+    "pumpkin-collectable": true,
+    "halloween-bone-collectable": true,
+    "halloween-metal-collectable": true,
+    "halloween-stone-collectable": true,
+    "halloween-sulfur-collectible": true,
+    "halloween-wood-collectable": true,
+    "metal-collectable": true,
+    "stone-collectable": true,
+    "sulfur-collectable": true,
+    "wood-collectable": true,
+    "diesel_collectable": true
+  },
+  "Plant Entity Pickup Settings": {
+    "black_berry.entity": true,
+    "blue_berry.entity": true,
+    "green_berry.entity": true,
+    "red_berry.entity": true,
+    "white_berry.entity": true,
+    "yellow_berry.entity": true,
+    "corn.entity": true,
+    "hemp.entity": true,
+    "potato.entity": true,
+    "pumpkin.entity": true
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 2,
+    "Patch": 15
+  }
+}

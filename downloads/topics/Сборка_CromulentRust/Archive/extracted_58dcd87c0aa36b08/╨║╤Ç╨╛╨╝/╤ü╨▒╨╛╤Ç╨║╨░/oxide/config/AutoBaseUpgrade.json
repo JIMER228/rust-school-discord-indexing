@@ -1,0 +1,17 @@
+{
+  "Allow the repair of deployable objects?": true,
+  "AnchorMin": "0.56 0.83",
+  "How long after an entity is damaged before it can be repaired (Seconds)": 120,
+  "OffsetMax": "406.44 77.785",
+  "Run upgrade effect": true,
+  "Upgrade cooldown (seconds)": {
+    "autobaseupgrade.use": 0.2,
+    "autobaseupgrade.vip": 0.2
+  },
+  "AnchorMax": "0.7 0.668",
+  "Cost Modifier for repairs": {
+    "autobaseupgrade.use": 1.5,
+    "autobaseupgrade.vip": 1.0
+  },
+  "OffsetMin": "293.746 57.215"
+}

@@ -1,0 +1,15 @@
+{
+  "No Permission": "You don't have permission to use this command.",
+  "Invalid Time Format": "Invalid Time Format: Ex: 1d12h30m | d = days, h = hours, m = minutes",
+  "Player Has No Info": "There is no info about this player.",
+  "Player Info": "Information for <color=#C4FF00>{player}</color>:\n<color=#C4FF00>Groups</color>: {groups}\n<color=#C4FF00>Permissions</color>: {permissions}",
+  "User Doesn't Have Permission": "{target} does not have permission '{permission}'.",
+  "User Isn't In Group": "{target} isn't in group '{group}'.",
+  "Reset Access Warning": "This command will reset all access data and create a backup. Please confirm by calling the command with 'yes' as parameter",
+  "Access Reset Successfully": "All groups and permissions revoked and data cleared. Backup created at {filename}.json",
+  "Syntax : revokeperm": "Syntax: revokeperm <player|steamid> <permission>",
+  "Syntax : grantperm": "Syntax: removegroup <player|steamid> <group>",
+  "Syntax : removegroup": "Syntax: removegroup <player|steamid> <group>",
+  "Syntax : addgroup": "Syntax: addgroup <player|steamid> <group> <time Ex: 1d12h30m>",
+  "Syntax : resetaccess": "Syntax: timedpermissions_resetaccess [yes]"
+}

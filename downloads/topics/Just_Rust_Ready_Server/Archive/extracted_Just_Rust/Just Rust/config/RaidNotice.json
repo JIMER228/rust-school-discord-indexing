@@ -1,0 +1,63 @@
+{
+  "Homes": {
+    "checkForHomesNear": true,
+    "homeDistance": 160.0
+  },
+  "RaiderName": {
+    "showRaiderName": true,
+    "showRaiderNameOnlyPermission": false,
+    "showRaiderNamePermission": "raidnotice.showraidername"
+  },
+  "NotifySettings": {
+    "notifyClanButNotFriends": false,
+    "notifyFriends": false,
+    "notifyOnlyByBuildingPrivlidge": true,
+    "notifyOnlyOwner": false
+  },
+  "Settings": {
+    "includeDateTimeToMessage": false,
+    "noticePrefabsContainsWords": [
+      "door",
+      "window.bars",
+      "window.glass",
+      "floor.ladder.hatch",
+      "floor.frame",
+      "floor.grill",
+      "wall.frame",
+      "shutter",
+      "external"
+    ],
+    "notifyOnSelfRaid": false,
+    "notifyOwnerIfNoBuildingPrivlidge": true,
+    "sendOnline": true,
+    "sendNextNoticeInterval": 60.0,
+    "sendNextNoticeIntervalIfOnline": 180.0
+  },
+  "Discord": {
+    "sendDiscord": false,
+    "sendDiscordIfOnline": false
+  },
+  "Steam": {
+    "sendSteam": false,
+    "sendSteamIfOnline": false,
+    "SteamBotServerKeyAdd": "",
+    "SteamBotUrl": "",
+    "SteamBotName": "",
+    "SteamBotSteamId": "",
+    "SteamBotLogin": "",
+    "SteamBotPassword": "",
+    "SteamBotServerMainKey": "",
+    "SteamApiKey": ""
+  },
+  "Telegram": {
+    "sendTelegram": false,
+    "sendTelegramIfOnline": false,
+    "telegramToken": ""
+  },
+  "Vkontakte": {
+    "sendVk": false,
+    "sendVkIfOnline": false,
+    "vkGroup": "https://vk.com/groupName",
+    "vkToken": ""
+  }
+}

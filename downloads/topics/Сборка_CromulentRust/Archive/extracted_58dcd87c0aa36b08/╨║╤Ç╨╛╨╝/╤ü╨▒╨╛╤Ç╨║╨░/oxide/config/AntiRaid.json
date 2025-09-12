@@ -1,0 +1,17 @@
+{
+  "Сообщение если у игрока есть антирейд": "Дом принадлежит админу, его невозможно зарейдить.",
+  "Белый список объектов, на которые будет действовать антирейд": [
+    "wall.frame.cell",
+    "wall.window.glass.reinforced",
+    "wall.window.bars.toptier",
+    "floor.grill",
+    "floor.triangle.grill",
+    "gates.external.high.stone",
+    "wall.external.high.stone",
+    "gates.external.high.wood",
+    "wall.external.high"
+  ],
+  "Черный список объектов, на которые не будет действовать антирейд": [
+    "wall.frame.cell.gate"
+  ]
+}

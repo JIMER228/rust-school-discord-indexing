@@ -1,0 +1,306 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Информация о сервере",
+        "HeaderText": "★<color=#ff7300> RUST FIRE #1 [MAX 3] </color>★",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#ff7300>На сервере разрешено играть компанией не более 3 человек.</color>",
+              "",
+              "<color=#ff7300>Особенности нашего проекта:</color>",
+              "<color=#ff7300>★</color>  Мощная серверная машина с защитой от DDoS атак",
+              "<color=#ff7300>★</color>  Сбалансированная сборка сервера с лучшими плагинами",
+              "<color=#ff7300>★</color>  Игровой магазин с низкими ценами и с часто проводимыми акциями",
+              "<color=#ff7300>★</color>  Отличная техподдержка, отзывчивая администрация 18+",
+              "",
+              "<color=#ff7300>Настройки сервера и плагины:</color>",
+              "<color=#ff7300>★</color>  Добыча ресурсов х2",
+              "<color=#ff7300>★</color>  На сервере рейты компонентов x2.5",
+              "<color=#ff7300>★</color>  День длится 55 минут, ночь 5 минут",
+              "<color=#ff7300>★</color>  Внутриигровая карта",
+              "<color=#ff7300>★</color>  Ежедневные кейсы (подарки), которые можно открывать на сайте",
+              "<color=#ff7300>★</color>  Система телепортации",
+              "<color=#ff7300>★</color>  Система друзей и дружественный огонь",
+              "<color=#ff7300>★</color>  Блокировка телепортации и ремува во время рейдов",
+              "<color=#ff7300>★</color>  Стаки, киты, ремув, торговля, мгновенный крафт",
+              "",
+              "Донат магазин:<color=#ff7300> shop.rust-fire.ru</color>       Группа вк:<color=#ff7300> vk.com/rust.fire</color>       Бинд:<color=#ff7300> bind K chat.say команда</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 30,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Доступные команды",
+        "HeaderText": "<color=#ff7300>Список доступных команд</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "Здесь вы найдете все команды доступные обычным игрокам",
+              "",
+              "<color=#ff7300>/help </color>- информация о сервере и доступным командам",
+              "<color=#ff7300>/sethome <название> </color>- создать точку дома",
+              "<color=#ff7300>/home <название> </color>- телепорт домой",
+              "<color=#ff7300>/kit </color>- список доступных наборов",
+              "<color=#ff7300>/trade <ник игрока> </color>- обмен (торговля) между игроками",
+              "<color=#ff7300>/remove </color>- включить удаление своих построек(доступен 7ч)",
+              "<color=#ff7300>/friend add  <ник игрока> </color>- добавить игрока в друзья",
+              "<color=#ff7300>/friend remove <nick> </color>- удалить друга.",
+              "<color=#ff7300>/ff on|off </color>- включить/выключить дружественный огонь",
+              "<color=#ff7300>/pm <ник> <сообщение> </color>- отправить ЛС игроку",
+              "<color=#ff7300>/r </color>- ответить на последнее ЛС",
+              "<color=#ff7300>/s </color>- открыть внутреигровой магазин",
+              "<color=#ff7300>/map </color>- открыть внутриигровую карту (Бинд карты на F1: <color=#ff7300>bind m chat.say /map</color>)",
+              "<color=#ff7300>/sil <ссылка> </color>- загрузка своих картинок на таблички/картины",
+              "<color=#ff7300>/block</color>- узнать блокировку предметов",
+              "<color=#ff7300>/craft </color>- меню крафта уникальных предметов",
+              "<color=#ff7300>/marker</color>- отображение наносимого урона",
+              "<color=#ff7300>/craftad</color> - скрафтить автозакрыватель двери",
+              "<color=#ff7300>/skin </color>- смена скинов предметов и одежды"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#ff7300>VIP</color> услуга",
+        "HeaderText": "<color=#ff7300>Возможности [VIP] аккаунта</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#ff7300>Услуги для VIP</color>",
+              "<color=#ff7300>★</color>  Рейты х2.5 на добычу ресурсов",
+              "<color=#ff7300>★</color>  Полный метаболизм (еда, вода, HP - 100%)",
+              "<color=#ff7300>★</color>  3 точки дома (2 у обычных игроков)",
+              "<color=#ff7300>★</color>  Перезарядка телепорта 2.30 минуты (3 у обычных игроков)",
+              "<color=#ff7300>★</color>  Время телепортации 12 секунд (15 у обычных игроков)",
+              "<color=#ff7300>★</color>  Приставка [<color=#FFD700>VIP</color>] перед ником",
+              "",
+              "<color=#ff7300>Команды для VIP</color>",
+              " <color=#ff7300>/kit vip</color> - набор випа с откатом в 24 часа",
+              "",
+              "<color=#ff7300>Сколько это стоит?</color>",
+              "7 дней - 130 рублей <color=#FFD700> [VIP] </color> 30 дней - 250 рублей",
+              "<color=#ff7300>Купить VIP услугу можно в нашем магазине:</color><color=#61AFCE> shop.rust-fire.ru</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#ff7300>PREMIUM</color> услуга",
+        "HeaderText": "<color=#ff7300>Возможности [PREMIUM] аккаунта</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#ff7300>Услуги для PREMIUM</color>",
+              "<color=#ff7300>★</color>  Рейты х3 на добычу ресурсов",
+              "<color=#ff7300>★</color>  Полный метаболизм (еда, вода, HP - 100%)",
+              "<color=#ff7300>★</color>  4 точки дома (2 у обычных игроков)",
+              "<color=#ff7300>★</color>  Перезарядка телепорта 2 минуты (3 у обычных игроков)",
+              "<color=#ff7300>★</color>  Время телепортации 10 секунд (15 у обычных игроков)",
+              "<color=#ff7300>★</color>  Приставка [<color=#C2FD53>PREMIUM</color>] перед ником",
+              "",
+              "<color=#ff7300>Команды для PREMIUM</color>",
+              "<color=#ff7300> /kit premium</color> - набор премиума с откатом в 24 часа",
+              "",
+              "<color=#ff7300>Сколько это стоит?</color>",
+              "7 дней - 250 рублей <color=#C2FD53> [PREMIUM] </color> 30 дней - 450 рублей",
+              "<color=#ff7300>Купить ПРЕМИУМ услуги можно в нашем магазине:</color><color=#61AFCE> shop.rust-fire.ru</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#ff7300>ELITE</color> услуга",
+        "HeaderText": "<color=#ff7300>Возможности ELITE аккаунта</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#ff7300>★</color>  Рейты х3.5 на добычу ресурсов",
+              "<color=#ff7300>★</color>  Полный метаболизм (еда, вода, HP - 100%)",
+              "<color=#ff7300>★</color>  5 точки дома (2 у обычных игроков)",
+              "<color=#ff7300>★</color>  Перезарядка телепорта 1.30 минут (3 мин. у обычных игроков)",
+              "<color=#ff7300>★</color>  Время телепортации 8 секунд (15 у обычных игроков)",
+              "<color=#ff7300>★</color>  Приставка [<color=#6CF6FE>ELITE</color>] перед ником",
+              "",
+              "<color=#ff7300>Команды для ELITE</color>",
+              "<color=#ff7300> /kit elite </color>- набор элит.Откат 24 часа",
+              "<color=#ff7300> /kit eliteBoom </color>- набор взрывчатки.Откат 24 часа",
+              "",
+              "<color=#ff7300>Сколько это стоит?</color>",
+              "7 дней - 380 рублей <color=#6CF6FE> [ELITE] </color> 30 дней - 710 рублей",
+              "<color=#ff7300>Купить ELITE услуги можно в нашем магазине:</color><color=#61AFCE> shop.rust-fire.ru</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#ff7300>FIRE</color> услуга",
+        "HeaderText": "<color=#ff7300>Возможности FIRE аккаунта</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#ff7300>★</color>  Рейты х4 на добычу ресурсов",
+              "<color=#ff7300>★</color>  Полный метаболизм (еда, вода, HP - 100%)",
+              "<color=#ff7300>★</color>  6 точки дома (2 у обычных игроков)",
+              "<color=#ff7300>★</color>  Перезарядка телепорта 1 минута (3 мин. у обычных игроков)",
+              "<color=#ff7300>★</color>  Время телепортации 5 секунд (15 у обычных игроков)",
+              "<color=#ff7300>★</color>  Приставка [<color=#ff7300>FIRE</color>] перед ником",
+              "",
+              "<color=#ff7300>Команды для FIRE</color>",
+              "<color=#ff7300> /kit fire </color>- набор fire.Откат 24 часа",
+              "<color=#ff7300> /kit fireBoom </color>- набор взрывчатки.Откат 24 часа",
+              "",
+              "<color=#ff7300>Сколько это стоит?</color>",
+              "7 дней - 520 рублей <color=#ff7300> [FIRE] </color> 30 дней - 990 рублей",
+              "<color=#ff7300>Купить FIRE услуги можно в нашем магазине:</color><color=#61AFCE> shop.rust-fire.ru</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Как покупать в магазине?",
+        "HeaderText": "<color=#ff7300>Дополнительная информация о покупках в магазине</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#ff7300>Как покупать в нашем онлайн магазине? Сейчас расскажем.</color>",
+              "1.Войдите в магазин <color=#ff7300>shop.rust-fire.ru</color>, используйте Steam аккаунт для авторизации",
+              "2.Пополните баланс, с любого электронного кошелька",
+              "3.Выберите необходимый предмет, количество и нажмите - Получить",
+              "4.С вашего счета спишется затраченная сумма.",
+              "5.Зайдите на сервер и используйте команду <color=#ff7300>/store</color>",
+              "6.В открывшемся меню выберите купленный товар, нажмите на него.",
+              "<color=#ff7300>В магазине можно приобрести различные типы привилегий: VIP, PREMIUM, ELITE, FIRE</color>",
+              "<color=#ff7300>а также другие плюшки.</color>",
+              ""
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Бинды",
+        "HeaderText": "<color=#ff7300>Список доступных биндов</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "Бинды прописываются в игровую консоль F1, где 'key' это ваша кнопка на клавиатуре",
+              "",
+              "<color=#ff7300>bind key map.open </color>- открыть карту",
+              "<color=#ff7300>bind key tp.menu </color>- открыть меню телепортации",
+              "<color=#ff7300>bind key upgrade.use </color>- режим улучшения построек",
+              "<color=#ff7300>bind key remove.use </color>- режим удаления построек",
+              "<color=#ff7300>bind k kit </color>- наборы",
+              "<color=#ff7300>bind key /chat.say 'любая команда' </color>- универсальный бинд на любую команду"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 27,
+        "TextFontSize": 15,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerConnected": false,
+    "ShowInfoOnlyOncePerRuntime": false,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#C25219",
+    "InactiveButtonColor": "#3F2112",
+    "CloseButtonColor": "#00000000",
+    "NextPageButtonColor": "#C25219",
+    "PrevPageButtonColor": "#C25219",
+    "BackgroundColor": "#00000088",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "<color=#e6e7e8>/info</color>",
+      "Position": {
+        "MinX": 0.04,
+        "MaxX": 0.09,
+        "MinY": 0.96,
+        "MaxY": 0.99
+      },
+      "Color": "#00000000",
+      "FontSize": 16
+    },
+    "UpgradedConfig": false
+  }
+}

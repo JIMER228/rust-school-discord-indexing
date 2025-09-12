@@ -1,0 +1,10 @@
+{
+  "RestartInit": "<color=lime>Рестарт сервера через</color> <color=red>{0}</color> <color=lime>минут(ы)!</color>",
+  "RestartInitPatch": "<color=red>Вышло обновление OxideBuild</color> <color=lime>рестарт через</color> <color=red>{0}</color> <color=lime>минут(ы)!</color>",
+  "RestartInitSec": "<color=lime>Рестарт сервера через</color> <color=red>{0}</color> <color=lime>секунд(ы/у)!</color>",
+  "RestartCancel": "<b><color=orange>Рестарт сервера остановлен!</color></b>",
+  "ManualInit": "<color=orange>Отсчет таймера начнется со следующей полной минуты</color>",
+  "ManualCancel": "<color=orange>Таймер был отменён</color>",
+  "DevblogDetected": "<color=orange>Вышел новый DevBlog</color> <color=green>{0}</color>",
+  "OxideBuildDetected": "<color=orange>Вышло обновление OxideBuild</color> <color=green>{0}</color>"
+}

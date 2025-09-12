@@ -1,0 +1,242 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using Newtonsoft.Json;
+using Oxide.Core;
+using Oxide.Core.Libraries;
+using Oxide.Core.Libraries.Covalence;
+using Oxide.Core.Plugins;
+using UnityEngine;
+
+namespace Oxide.Plugins
+{
+    [Info("Online Statistics", "Orange", "1.0.1")]
+    [Description("https://rustworkshop.space/")]
+    public class OnlineStatistics : RustPlugin
+    {
+        #region Vars
+
+        private static OnlineStatistics plugin;
+
+        #endregion
+        
+        #region Oxide Hooks
+
+        private void Init()
+        {
+            plugin = this;
+            LoadData();
+        }
+
+        private void OnServerInitialized()
+        {
+            foreach (var player in BasePlayer.activePlayerList)
+            {
+                OnPlayerInit(player);
+            }
+        }
+
+        private void Unload()
+        {
+            foreach (var player in BasePlayer.activePlayerList)
+            {
+                OnPlayerDisconnected(player);
+            }
+            
+            SaveData();
+        }
+        
+        private void OnPlayerInit(BasePlayer player)
+        {
+            PlayerInfo.Get(player);
+        }
+
+        private void OnPlayerDisconnected(BasePlayer player)
+        {
+            var info = PlayerInfo.Get(player);
+            if (info != null)
+            {
+                info.Dispose();
+            }
+        }
+
+        private void SetPlayerRefer(BasePlayer player, string refer)
+        {
+            var info =  PlayerInfo.Get(player);
+            info.refer = refer;
+            if (info.lastConnect == new DateTime())
+            {
+                info.Dispose();
+            }
+        }
+
+        private object CanBeReferred(BasePlayer player)
+        {
+            var info = PlayerInfo.Get(player);
+            if (string.IsNullOrEmpty(info.refer) == false)
+            {
+                info.Dispose();
+                return true;
+            }
+
+            return null;
+        }
+
+        #endregion
+
+        #region Commands
+
+        [ConsoleCommand("online.check")]
+        private void cmdControlConsole(ConsoleSystem.Arg arg)
+        {
+            var str = "Invites:\n";
+            var dic = new Dictionary<string, int>();
+            foreach (var value in data.playersData.Values)
+            {
+                if (value.refer == null)
+                {
+                    continue;
+                }
+                dic.TryAdd(value.refer, 0);
+                dic[value.refer] += 1;
+            }
+
+            var total = dic.Sum(x => x.Value);
+            foreach (var value in dic)
+            {
+                str += $" * {value.Key}: {((float) value.Value * 100 / (float) total):0}% [{value.Value}]\n";
+            }
+            
+            PrintWarning(str);
+        }
+
+        #endregion
+
+        #region Data
+
+        private const string filename = "Data";
+        private static PluginData data = new PluginData();
+        private bool corruptedData;
+
+        private class PluginData
+        {
+            public Dictionary<string, PlayerInfo> playersData = new Dictionary<string, PlayerInfo>();
+            
+            [JsonIgnore]
+            public Dictionary<string, PlayerInfo> cache = new Dictionary<string, PlayerInfo>();
+        }
+
+        private class PlayerInfo
+        {
+            public HashSet<DateTime> connects = new HashSet<DateTime>();
+            public bool steamPlayer;
+            public int playtime;
+            public string refer;
+            public ulong userID;
+            public bool rewardWasReceived;
+            
+            [JsonIgnore] 
+            public DateTime lastConnect;
+            
+            [JsonIgnore] 
+            private BasePlayer player;
+
+            public static PlayerInfo Get(BasePlayer player)
+            {
+                if (player == null)
+                {
+                    return null;
+                }
+                
+                var info = (PlayerInfo) null;
+                if (data.cache.TryGetValue(player.UserIDString, out info) == false)
+                {
+                    if (data.playersData.TryGetValue(player.UserIDString, out info) == false)
+                    {
+                        info = new PlayerInfo();
+                        data.playersData.Add(player.UserIDString, info);
+                    }
+                    
+                    data.cache.Add(player.UserIDString, info);
+                }
+
+                if (info.lastConnect == new DateTime())
+                {
+                    info.lastConnect = DateTime.Now;
+                    info.connects.Add(DateTime.Now);
+                }
+
+                var connection = player.Connection;
+                if (connection != null)
+                {
+                    info.steamPlayer = plugin.IsSteamPlayer(player.Connection);
+                }
+                
+                info.player = player;
+                info.userID = player.userID;
+                return info;
+            }
+
+            public void Dispose()
+            {
+                if (lastConnect != new DateTime())
+                {
+                    if (player != null)
+                    {
+                        playtime += player.secondsConnected;
+                    }
+                    
+                    lastConnect = new DateTime();
+                }
+
+                if (data.cache.ContainsKey(userID.ToString()))
+                {
+                    data.cache.Remove(userID.ToString());
+                }
+            }
+        }
+
+        private void LoadData(string keyName = filename)
+        {
+            try
+            {
+                data = Interface.Oxide.DataFileSystem.ReadObject<PluginData>($"{Name}/{keyName}");
+                timer.Every(Core.Random.Range(500, 700f), () => SaveData());
+            }
+            catch (Exception e)
+            {
+                corruptedData = true;
+                data = new PluginData();
+                
+                timer.Every(30f, () =>
+                {
+                    PrintError($"!!! CRITICAL DATA ERROR !!!\n * Data was not loaded!\n * Data auto-save was disabled!\n * Error: {e.Message}");
+                });
+                
+                LogToFile("errors", $"\n\nError: {e.Message}\n\nTrace: {e.StackTrace}\n\n", this);
+            }
+        }
+
+        private void SaveData(string keyName = filename)
+        {
+            if (corruptedData == false || data == null)
+            {
+                Interface.Oxide.DataFileSystem.WriteObject($"{Name}/{keyName}", data);
+            }
+        }
+
+        #endregion
+
+        #region MultiFighting Support
+
+        [PluginReference] private Plugin MultiFighting;
+
+        private bool IsSteamPlayer(Network.Connection connection)
+        {
+            var flag = MultiFighting?.Call<bool>("IsSteam", connection) ?? true;
+            return flag;
+        }
+
+        #endregion
+    }
+}

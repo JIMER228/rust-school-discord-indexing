@@ -1,0 +1,47 @@
+{
+  "Command": [
+    "trade",
+    "t"
+  ],
+  "Extra accept command": [
+    "trade yes",
+    "trade accept"
+  ],
+  "Extra decline command": [
+    "trade no",
+    "trade cancel"
+  ],
+  "Effect on completing trade": "assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab",
+  "Effect on pending request": "assets/bundled/prefabs/fx/invite_notice.prefab",
+  "Log trades": false,
+  "Block trade in raidblock": true,
+  "Block in building privilege": true,
+  "Start cooldown after accepting trade": false,
+  "Effects volume": 0.025,
+  "Permissions": [
+    {
+      "Permission": "trade.default",
+      "Priority": 1,
+      "Size": 6,
+      "Cooldown": 60
+    },
+    {
+      "Permission": "trade.premium",
+      "Priority": 2,
+      "Size": 8,
+      "Cooldown": 60
+    },
+    {
+      "Permission": "trade.elite",
+      "Priority": 3,
+      "Size": 10,
+      "Cooldown": 60
+    },
+    {
+      "Permission": "trade.fire",
+      "Priority": 4,
+      "Size": 12,
+      "Cooldown": 60
+    }
+  ]
+}

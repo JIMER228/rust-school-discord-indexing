@@ -1,0 +1,16 @@
+{
+  "not_friend": "<color=#D3D3D3>You must be a friend or clanmate with the operator</color>",
+  "controls1": "<color=#ce422b>Car Controls:</color>\n<color=#D3D3D3>Accelerate:</color> <color=#ce422b>{0}</color>\n<color=#D3D3D3>Brake/Reverse:</color> <color=#ce422b>{1}</color>\n<color=#D3D3D3>Turn Left:</color> <color=#ce422b>{2}</color>\n<color=#D3D3D3>Turn Right:</color> <color=#ce422b>{3}</color>\n<color=#D3D3D3>Hand Brake:</color> <color=#ce422b>{4}</color>\n<color=#D3D3D3>Toggle Lights:</color> <color=#ce422b>{5}</color>",
+  "access_inventory": "<color=#D3D3D3>Access Inventory (from outside of the vehicle) </color><color=#ce422b>{0}</color>",
+  "cooldowns": "<color=#D3D3D3>Погоди не много. Нельзя так часто спавнить авто! Осталось: <color=#ce422b>{0:00} мин..</color></color>",
+  "access_fuel": "<color=#D3D3D3>Access Fuel Tank (from outside of the vehicle) </color><color=#ce422b>{0}</color>",
+  "fuel_type": "<color=#D3D3D3>This vehicle requires </color><color=#ce422b>{0}</color> <color=#D3D3D3>to run!</color>",
+  "not_enabled": "<color=#D3D3D3>Passengers is not enabled</color>",
+  "nopermission": "<color=#D3D3D3>You do not have permission to drive this car</color>",
+  "health": "HLTH: ",
+  "fuel": "FUEL: {0} L",
+  "fullhealth": "<color=#D3D3D3>This vehicle is already at full health</color>",
+  "noresources": "<color=#D3D3D3>You need atleast </color><color=#ce422b>{0}x {1}</color> <color=#D3D3D3>to make repairs</color>",
+  "repairhelp": "<color=#D3D3D3>You can make repairs to this vehicle using a hammer which costs </color><color=#ce422b>{0}x {1}</color> <color=#D3D3D3>per hit</color>",
+  "itemnotallowed": "<color=#D3D3D3>You can not use that item whilst you are in a car</color>"
+}

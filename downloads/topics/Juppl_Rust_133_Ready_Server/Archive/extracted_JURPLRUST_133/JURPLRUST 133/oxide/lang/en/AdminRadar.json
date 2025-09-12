@@ -1,0 +1,13 @@
+{
+  "RadarOff": "РАДАР БЫЛ <color=red>ОТКЛЮЧЕН</color>",
+  "NoAccess": "Неизвестная команда: {0}",
+  "RadarOn": "РАДАР БЫЛ <color=green>ВКЛЮЧЕН</color> | ФИЛЬТР <color=green>{0}</color>",
+  "InvalidSyntax": "Неверный синтаксис команды: /{0} help",
+  "CommandDisabled": "Команда /{0} {1} отключена администратором сервера.",
+  "RadarGive": "Радар был {0} для {1}",
+  "Enabled": "<color=green>Включено</color>",
+  "Disabled": "<color=red>Отключено</color>",
+  "SettingUpdate": "Настройка {0} {1} изменена с {2} на {3}",
+  "RadarList": "------[ Активные радары ]------\n{0}",
+  "NoRadars": "Ни один игрок в настоящее время не использует радар"
+}

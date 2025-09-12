@@ -1,0 +1,104 @@
+{
+  "Adminmode": {
+    "adminsRemainCupAuthed": false,
+    "adminsRemainTurretAuthed": false,
+    "enableAdminmodeAtLogin": false
+  },
+  "Blocker": {
+    "allowIcebergBuilding": false,
+    "allowIcelakeBuilding": false,
+    "allowIcesheetBuilding": false,
+    "allowLaddersIntoBlocked": true,
+    "allowTwigIntoBlocked": true,
+    "notifyPlayersBeingBlocked": true
+  },
+  "Command": {
+    "shareCommand": "share"
+  },
+  "Formatting": {
+    "colorCmdUsage": "#ffff00",
+    "colorOFF": "#c0c0c0",
+    "colorON": "#008000",
+    "colorTextMsg": "#ffffff",
+    "pluginPrefix": "BASE-RUST",
+    "prefixColor": "#ffa500",
+    "prefixFormat": "<color={0}>{1}</color>: "
+  },
+  "Functions": {
+    "cupboardAuthMaxUsers (0 is disabled)": 0,
+    "enableAutoAuth": true,
+    "enableBoxSharing": true,
+    "enableCupSharing": true,
+    "enableDoorSharing": true,
+    "enableLockerSharing": true,
+    "enableQuarrySharing": false,
+    "enableQuarrySwitchCheck": false,
+    "enableTurretSharing": true,
+    "includeFlameTurrets": true,
+    "includeGunTraps": true,
+    "includeSamSites": true,
+    "samSiteShootEmptyVehicles": false
+  },
+  "Notification": {
+    "notifyAuthCupboard": true,
+    "notifyAuthTurret": true
+  },
+  "Options": {
+    "pseudoAdminPerms": [
+      "fauxadmin.allowed",
+      "fakeadmin.allow"
+    ],
+    "useClanAlliances": true,
+    "useClans": true,
+    "useFriendsApi": false
+  },
+  "Permission": {
+    "permGetClanShares": "dynamiccupshare.getclanshares",
+    "permGetFriendShares": "dynamiccupshare.getfriendshares",
+    "permGetShares": "dynamiccupshare.autoauth",
+    "permGetTeamShares": "dynamiccupshare.getteamshares",
+    "usePermAutoAuth": false,
+    "usePermGetClanShares": true,
+    "usePermGetFriendShares": false,
+    "usePermGetTeamShares": false
+  },
+  "PlayerDefaults": {
+    "AutoAuth": true,
+    "BoxShare": false,
+    "ClanBoxShare": true,
+    "ClanCupShare": true,
+    "ClanDoorShare": true,
+    "ClanLockerShare": true,
+    "ClanQuarryShare": true,
+    "ClanTurretShare": true,
+    "CupShare": false,
+    "DoorShare": false,
+    "LockerShare": false,
+    "QuarryShare": false,
+    "TurretShare": false
+  },
+  "PlayerToggles": {
+    "AutoAuth": true,
+    "BoxShare": true,
+    "ClanBoxShare": true,
+    "ClanCupShare": true,
+    "ClanDoorShare": true,
+    "ClanLockerShare": true,
+    "ClanQuarryShare": true,
+    "ClanTurretShare": true,
+    "CupShare": true,
+    "DoorShare": true,
+    "LockerShare": true,
+    "QuarryShare": true,
+    "TurretShare": true
+  },
+  "Security": {
+    "blockCupAccessNotSameClan": false,
+    "blockCupClearClanMembers": true,
+    "blockCupClearFriends": true,
+    "clanTurretShareOverride": false
+  },
+  "Storage": {
+    "useProtostorageUserdata": false
+  }
+}

@@ -1,0 +1,51 @@
+document.addEventListener('load', ()=>document.querySelectorAll('.product__price').forEach(elem=>parseInt(elem.innerText) == 0 ? elem.innerText = 'БЕСПЛАТНО' : ''), true);
+function disablecontext(e) {
+	var clickedEl = (e==null) ? event.srcElement.tagName : e.target.tagName;
+	if (clickedEl == "IMG") {
+		alert(errorMsg);
+		return false;
+	}
+}
+var errorMsg = "Хватит копировать наши картинки.";
+document.oncontextmenu = disablecontext;
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+const event = new CustomEvent("setCustomConfig")
+
+window.productsGrid = 5;
+window.currency = 'Руб'
+window.defaultPaymentAmount = 100
+window.zeroToFree = true
+window.oldDesignDropdownProduct = true
+window.sidebarStoreToRight = true      /* Расположение виджета (true - справа, false - слева) */
+newYearVibe = true  /* Включение отключение герлянды */
+window.sidebarProfileToRight = false
+
+window.dispatchEvent(event);
+
+function main() {
+    window.dispatchEvent(new CustomEvent("initСomponentsManager"));
+
+    window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+        const mondayWipeServer = document.querySelector('.MonitoringServer-module__wrapper:nth-child(1)')
+        const thursdayWipeServer = document.querySelector('.MonitoringServer-module__wrapper:nth-child(3)')
+
+        const label = document.createElement('span')
+
+        label.textContent = 'Вайп по ПН:'
+        mondayWipeServer.insertAdjacentElement('beforebegin', mondayLabel)
+
+        label.textContent = 'Вайп по ЧТ:'
+        thursdayWipeServer.insertAdjacentElement('beforebegin', thursdayLabel)
+    })
+
+    window.componentsManager.load()
+}
+
+if(window.isAppReady) {
+  main()
+} else {
+    window.addEventListener('appReady', () => {
+    main()
+  })
+}

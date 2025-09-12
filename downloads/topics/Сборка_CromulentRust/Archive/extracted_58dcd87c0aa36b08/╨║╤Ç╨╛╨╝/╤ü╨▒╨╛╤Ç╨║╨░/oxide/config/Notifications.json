@@ -1,0 +1,58 @@
+{
+  "Настройка интерфейса | Interface Settings": {
+    "Высота | Height": 125.0,
+    "Ширина | Width": 360.0,
+    "Отступ | Margin": 1.0,
+    "Цвет | Color": {
+      "HEX": "#28253C",
+      "Непрозрачность | Opacity (0 - 100)": 100.0
+    },
+    "Иконка | Icon": {
+      "OffsetMin": "10 -30",
+      "OffsetMax": "30 -10",
+      "AnchorMin": "0 1",
+      "AnchorMax": "0 1"
+    },
+    "Заглавие | Title": {
+      "Font Size": 18,
+      "Font": "robotocondensed-bold.ttf",
+      "Align": "MiddleCenter",
+      "Text Color": {
+        "HEX": "#FFFFFF",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "OffsetMin": "-100 -35",
+      "OffsetMax": "100 -5",
+      "AnchorMin": "0.5 1",
+      "AnchorMax": "0.5 1"
+    },
+    "Описание | Description": {
+      "Font Size": 16,
+      "Font": "robotocondensed-regular.ttf",
+      "Align": "MiddleCenter",
+      "Text Color": {
+        "HEX": "#4D4A62",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "OffsetMin": "-140 20",
+      "OffsetMax": "140 75",
+      "AnchorMin": "0.5 0",
+      "AnchorMax": "0.5 0"
+    },
+    "Закрыть | Close": {
+      "Font Size": 16,
+      "Font": "robotocondensed-bold.ttf",
+      "Align": "MiddleCenter",
+      "Text Color": {
+        "HEX": "#4D4A62",
+        "Непрозрачность | Opacity (0 - 100)": 100.0
+      },
+      "OffsetMin": "-25 -25",
+      "OffsetMax": "-5 -5",
+      "AnchorMin": "1 1",
+      "AnchorMax": "1 1"
+    },
+    "AnchorMin": "1 0",
+    "AnchorMax": "1 0"
+  }
+}

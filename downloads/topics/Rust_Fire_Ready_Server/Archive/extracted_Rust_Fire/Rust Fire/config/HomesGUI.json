@@ -1,0 +1,69 @@
+{
+  "PrefixEnabled": true,
+  "PrefixText": "<color=orange>Homes: </color>",
+  "DefaultTimeUntilTeleport": 15,
+  "TimeUntilTeleport": {
+    "homesgui.vip": 10,
+    "homesgui.elite": 5,
+    "homesgui.god": 3,
+    "homesgui.none": 0,
+    "teleportation.vip": 12,
+    "teleportation.premium": 10,
+    "teleportation.elite": 8,
+    "teleportation.fire": 5
+  },
+  "HomeCommandAliases": [],
+  "DefaultCooldown": 300,
+  "Cooldowns": {
+    "homesgui.vip": 60,
+    "homesgui.elite": 30,
+    "homesgui.god": 15,
+    "homesgui.none": 0,
+    "teleportation.vip": 240,
+    "teleportation.premium": 180,
+    "teleportation.elite": 120,
+    "teleportation.fire": 60
+  },
+  "DefaultMaxHomes": 2,
+  "MaxHomes": {
+    "homesgui.vip": 4,
+    "homesgui.elite": 6,
+    "homesgui.god": 10,
+    "homesgui.unlimited": 0,
+    "teleportation.vip": 3,
+    "teleportation.premium": 4,
+    "teleportation.elite": 5,
+    "teleportation.fire": 6
+  },
+  "DefaultMaxUses": 0,
+  "MaxUses": {
+    "homesgui.vip": 10,
+    "homesgui.elite": 20,
+    "homesgui.god": 30,
+    "homesgui.unlimited": 0,
+    "teleportation.vip": 0,
+    "teleportation.premium": 0,
+    "teleportation.elite": 0,
+    "teleportation.fire": 0
+  },
+  "AllowTeleportWhilstBleeding": false,
+  "AllowTeleportFromBuildBlock": false,
+  "AllowTeleportToBuildBlock": false,
+  "UseEconomicsPlugin": false,
+  "EconomicsPrice": 100.0,
+  "UseServerRewardsPlugin": false,
+  "ServerRewardsPrice": 100.0,
+  "PayAfterUsingDailyLimits": false,
+  "BlockTPCrafting": true,
+  "AdminInstaTP": false,
+  "AllowSetHomeInBuildBlocked": false,
+  "MustSetHomeOnBuilding": true,
+  "CanSetHomeOnFloor": false,
+  "CheckForBuildingOnHomeTP": true,
+  "ShouldCancelOnDamage": true,
+  "SleepingBags": {
+    "Create Home On Bag Placement": true,
+    "Create Home On Bed Placement": false,
+    "Remove Home On Bag/Bed Removal": true
+  }
+}

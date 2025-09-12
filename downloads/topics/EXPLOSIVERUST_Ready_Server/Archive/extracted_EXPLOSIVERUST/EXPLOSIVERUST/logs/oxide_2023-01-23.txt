@@ -1,0 +1,968 @@
+00:01 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+00:01 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+00:02 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+00:02 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+00:02 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+00:02 [Warning] [NoSteamHelper] No data player: 76561199232639986
+00:02 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+00:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+00:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+00:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+00:06 [Error] Failed to call hook 'ConsoleInventory' on plugin 'InventorySystem v1.0.3' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Linq.Enumerable.ElementAt[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Int32 index) [0x00031] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at Oxide.Plugins.InventorySystem.ConsoleInventory (ConsoleSystem+Arg args) [0x00059] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.InventorySystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x001e3] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+00:06 [Error] Failed to call hook 'ConsoleInventory' on plugin 'InventorySystem v1.0.3' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Linq.Enumerable.ElementAt[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Int32 index) [0x00031] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at Oxide.Plugins.InventorySystem.ConsoleInventory (ConsoleSystem+Arg args) [0x00059] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.InventorySystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x001e3] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+00:11 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "mahdi.ohnos1"
+00:11 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "mahdi.ohnos1"
+00:11 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "mahdi.ohnos1" wasn't removed from it.
+00:11 [Warning] [NoSteamHelper] No data player: 76561199233493473
+00:11 [Error] [] mahdi.ohnos1[76561199233493473] зашел без GameWer
+00:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+00:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+00:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+00:46 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+00:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+00:52 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+00:52 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+00:52 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+00:52 [Warning] [NoSteamHelper] No data player: 76561199232639986
+00:52 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+01:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+01:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+01:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+01:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+01:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+01:41 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+01:42 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+01:42 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+01:42 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+01:42 [Warning] [NoSteamHelper] No data player: 76561199232639986
+01:42 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+02:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+02:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+02:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+02:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+02:11 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <5524f5cb72414c5f908fa87e1f978b60>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+02:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+02:19 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+02:19 [Info] [Discord Extension] [Info]: Discord socket opened!
+02:19 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+02:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+02:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+03:02 [Info] [Guardian] IP Filter: Allowed connection from 185.19.6.18
+03:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+03:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+03:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+03:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Slaffy"
+03:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Slaffy"
+03:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Slaffy" wasn't removed from it.
+03:05 [Warning] [NoSteamHelper] No data player: 76561199123167751
+03:06 [Info] [Guardian] IP Filter: Allowed connection from 5.34.182.153
+03:10 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "emopunk"
+03:10 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "emopunk"
+03:10 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "emopunk" wasn't removed from it.
+03:10 [Warning] [NoSteamHelper] No data player: 76561198304798040
+03:10 [Error] [] emopunk[76561198304798040] зашел без GameWer
+03:31 [Info] [Guardian] IP Filter: Allowed connection from 193.246.51.134
+03:31 [Info] [Guardian] IP Filter: Allowed connection from 79.105.76.131
+03:33 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ok, me"
+03:33 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ok, me"
+03:33 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ok, me" wasn't removed from it.
+03:33 [Warning] [NoSteamHelper] No data player: 76561198990210478
+03:33 [Error] [] ok, me[76561198990210478] зашел без GameWer
+03:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+03:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+03:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+03:34 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+03:34 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+03:34 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+03:34 [Warning] [NoSteamHelper] No data player: 76561199083943118
+03:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+04:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+04:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+04:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+04:14 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+04:14 [Info] [Discord Extension] [Info]: Discord socket opened!
+04:14 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+04:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+04:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+04:39 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+04:40 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+04:40 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+04:40 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+04:40 [Warning] [NoSteamHelper] No data player: 76561199232639986
+04:40 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+05:00 [Info] Unloaded plugin AdminESP v0.0.11 by OxideBro
+05:00 [Info] Unloaded plugin AdminMenu v0.1.50 by Menevt
+05:00 [Info] Unloaded plugin Admin No Loot v0.1.3 by Dana
+05:00 [Info] Unloaded plugin Arkan v1.0.18 by Antidote
+05:00 [Info] Unloaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin ComponentsEvent v1.0.0 by Drop Dead
+05:00 [Info] Unloaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Custom Rock v0.5.0 by birthdates
+05:00 [Info] Unloaded plugin Death Messages v2.1.55 by oxide-russia.ru
+05:00 [Info] Unloaded plugin Discord Status v4.0.1 by Gonzi
+05:00 [Info] Unloaded plugin EvaScanner v1.0.5 by Forent
+05:00 [Info] Unloaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+05:00 [Info] Unloaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+05:00 [Info] Unloaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Kits v1.1.2 by By Denzoff
+05:00 [Info] Unloaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Metabolism v1.0.0 by Orange
+05:00 [Info] Unloaded plugin NameRewards v1.1.1 by Vlad-00003
+05:00 [Info] Unloaded plugin NeverWear v0.1.4 by k1lly0u
+05:00 [Info] Unloaded plugin No Duds v1.1.0 by bearr
+05:00 [Info] Unloaded plugin NoEscape v2.3.3 by OxideBro
+05:00 [Info] Unloaded plugin No Flykick v1.0.0 by Drop Dead
+05:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+05:00 [Info] Unloaded plugin NoSteamHelper v1.2.0 by Kaidoz
+05:00 [Info] Unloaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Powerless Turrets v3.2.7 by August
+05:00 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+05:00 [Info] Unloaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+05:00 [Info] Unloaded plugin Referral System v1.0.3 by TopPlugin.ru
+05:00 [Warning] Calling 'Unload' on 'RemoveUpgradeV2 v1.0.3' took 106ms
+05:00 [Info] Unloaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin SkinBox v1.0.0 by MarinWebCode
+05:00 [Info] Unloaded plugin Skins v2.3.0 by misticos
+05:00 [Info] Unloaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin StatsSystem v1.0.6 by SlivBySofia
+05:00 [Info] Unloaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+05:00 [Info] Unloaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin Timed Permissions v1.3.2 by LaserHydra
+05:00 [Info] Unloaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Unloaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+05:00 [Info] Unloaded plugin Vanish v1.5.5 by Whispers88
+05:00 [Info] Unloaded plugin XAntiCheat v0.3.79 by fermens
+05:00 [Info] Unloaded plugin XNickController v1.0.0 by Monster
+05:00 [Info] Unloaded plugin XRaidProtection v1.0.9 by Monster
+05:00 [Info] Unloaded plugin XRate v1.0.3 by TopPlugin.ru
+05:00 [Info] Unloaded plugin XpSystem v1.0.0 by Chibubrik
+05:00 [Info] Unloaded plugin Auth Limiter v1.0.2 by supreme
+05:00 [Info] Unloaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+05:00 [Info] Unloaded plugin Discord v0.2.1 by seanbyrne88
+05:00 [Info] Unloaded plugin Discord Chat v2.1.2 by MJSU
+05:00 [Info] Unloaded plugin Discord Core v2.1.3 by MJSU
+05:00 [Info] Unloaded plugin FGS v2.0.2 by Мизантроп
+05:00 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+05:00 [Info] Unloaded plugin Guardian v1.7.9 by WhiteDragon
+05:00 [Info] Unloaded plugin LauncherAlkad v1.1.0 by KosiakS
+05:00 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+05:00 [Info] Unloaded plugin  v3.0.40 by Мизантроп
+05:00 [Info] Unloaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+05:00 [Info] Unloaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+05:00 [Info] Unloaded plugin WipeNameChanger v1.0.1 by wazzzup
+05:00 [Info] Unloaded plugin uCore v1.1.83 by Мизантроп
+05:00 [Info] [ServerStats] NetworkStatus: false
+05:00 [Info] Loading Oxide Core v2.0.4050...
+05:00 [Info] Loading extensions...
+05:00 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+05:00 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+05:00 [Info] [InKernel] Debug -> False
+05:00 [Info] [InExtension] Install -> InCore.Interception.dll
+05:00 [Info] [InExtension] Install -> InCore.Kernel.dll
+05:00 [Info] Loaded extension InCoreLinux v1.0.8227 by Мизантроп
+05:00 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+05:00 [Info] Loaded extension Rust v2.0.5740 by Oxide Team and Contributors
+05:00 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+05:00 [Info] Unity version: 2019.4.7f1
+05:00 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+05:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+05:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+05:00 [Info] Using Covalence provider for game 'Rust'
+05:00 [Info] Loading plugins...
+05:00 [Info] Loaded plugin InCoreLinux v1.0.8227 by Мизантроп
+05:00 [Info] Loaded plugin Rust v2.0.5740 by Oxide Team and Contributors
+05:00 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+05:00 [Info] Added '// Reference: System.Drawing' in plugin 'HitMarker'
+05:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+05:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+05:00 [Info] Added '// Reference: Tags' in plugin 'FGS'
+05:00 [Info] Added '// Reference: Tags' in plugin 'MultiFighting'
+05:00 [Info] Added '// Reference: Facepunch.Steamworks.Posix' in plugin 'MultiFighting'
+05:00 [Info] Added '// Reference: Tags' in plugin 'uCore'
+05:00 [Info] AdminESP, AdminMenu, AdminNoLoot, Arkan, Backpack, BlockSystem, ChatSystem, ComponentsEvent, ConnectMessages, CustomRock, DeathMessages, DiscordStatus, EvaScanner, Flaska, FurnaceSorter, GameStoresRUST, HitMarker, IQControllerSpawnCars, ImageLibrary, InstantSystem, InventorySystem, Kits, LogoSystem, LotterySystem, MenuSystem, Metabolism, NameRewards, NeverWear, NoDuds, NoEscape, NoFlykick, NoGiveNotices, NoSteamHelper, PMSystem, PassSystem, PortableVehicles, PowerlessTurrets, QuickSmelt, RadHouse, ReferralSystem, RemoveUpgradeV2, Rules, SkinBox, Skins, SkyReportSystem, StackSystem, StatsSystem, Teleportation, TimeSystem, TimedPermissions, Trade, VKBot, Vanish, XAntiCheat, XNickController, XRaidProtection, XRate, XpSystem, AuthLimiter, AutomatedEvents, Discord, DiscordChat, DiscordCore, FGS, GroupLimits, Guardian, LauncherAlkad, Logger, MultiFighting, PlayerAdministration, ServerStats, WipeNameChanger and uCore were compiled successfully in 0ms
+05:00 [Info] InCompiledAssemblyPatch
+05:00 [Error] Error while compiling: FixAnimalNRE.cs(39,42): error CS0308: The non-generic type `BaseAIBrain' cannot be used with the type arguments
+05:00 [Warning] A plugin has polluted the global namespace by defining <Module>
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperModels
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamHelperController
+05:00 [Warning] A plugin has polluted the global namespace by defining StringExt
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TOKENDATA
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_SESSION
+05:00 [Warning] A plugin has polluted the global namespace by defining STEAM_TICKET
+05:00 [Warning] A plugin has polluted the global namespace by defining SteamTicket
+05:00 [Warning] A plugin has polluted the global namespace by defining NoSteamTicket
+05:00 [Warning] A plugin has polluted the global namespace by defining Tokens
+05:00 [Warning] A plugin has polluted the global namespace by defining UserData
+05:00 [Warning] A plugin has polluted the global namespace by defining Users
+05:00 [Warning] A plugin has polluted the global namespace by defining Steam
+05:00 [Warning] A plugin has polluted the global namespace by defining Response
+05:00 [Warning] A plugin has polluted the global namespace by defining Error
+05:00 [Warning] A plugin has polluted the global namespace by defining Params
+05:00 [Warning] A plugin has polluted the global namespace by defining Serialize
+05:00 [Warning] A plugin has polluted the global namespace by defining Converter
+05:00 [Warning] A plugin has polluted the global namespace by defining Helpers
+05:00 [Warning] A plugin has polluted the global namespace by defining TaskExtensions
+05:00 [Warning] A plugin has polluted the global namespace by defining <PrivateImplementationDetails>
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType0`2
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType1`2
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType2`3
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType3`3
+05:00 [Warning] A plugin has polluted the global namespace by defining <>__AnonType4`1
+05:00 [Info] Loaded plugin AdminESP v0.0.11 by OxideBro
+05:00 [Info] Loaded plugin AdminMenu v0.1.50 by Menevt
+05:00 [Warning] [Admin No Loot] Config Loaded
+05:00 [Info] Loaded plugin Admin No Loot v0.1.3 by Dana
+05:00 [Info] Loaded plugin Arkan v1.0.18 by Antidote
+05:00 [Info] Loaded plugin Backpack v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin BlockSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin ChatSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin ComponentsEvent v1.0.0 by Drop Dead
+05:00 [Info] Loaded plugin ConnectMessages v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Custom Rock v0.5.0 by birthdates
+05:00 [Info] Loaded plugin Death Messages v2.1.55 by oxide-russia.ru
+05:00 [Info] Loaded plugin Discord Status v4.0.1 by Gonzi
+05:00 [Info] Loaded plugin EvaScanner v1.0.5 by Forent
+05:00 [Info] Loaded plugin Flaska v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Furnace Sorter v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin GameStoresRUST v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin HitMarker v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin IQControllerSpawnCars v0.0.4 by Mercury
+05:00 [Info] Loaded plugin Image Library v1.0.3 by Absolut & K1lly0u
+05:00 [Info] Loaded plugin InstantSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin InventorySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Kits v1.1.2 by By Denzoff
+05:00 [Info] Loaded plugin LogoSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin LotterySystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin MenuSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Metabolism v1.0.0 by Orange
+05:00 [Info] Loaded plugin NameRewards v1.1.1 by Vlad-00003
+05:00 [Info] Loaded plugin NeverWear v0.1.4 by k1lly0u
+05:00 [Info] Loaded plugin No Duds v1.1.0 by bearr
+05:00 [Info] Loaded plugin NoEscape v2.3.3 by OxideBro
+05:00 [Info] Loaded plugin No Flykick v1.0.0 by Drop Dead
+05:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+05:00 [Info] Loaded plugin NoSteamHelper v1.2.0 by Kaidoz
+05:00 [Info] Loaded plugin PM System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin PassSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Portable Vehicles v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Powerless Turrets v3.2.7 by August
+05:00 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+05:00 [Info] Loaded plugin RadHouse v1.2.75 by 1.2.71 - VooDoo | 1.2.72+ - Drop Dead
+05:00 [Info] Loaded plugin Referral System v1.0.3 by TopPlugin.ru
+05:00 [Info] Loaded plugin RemoveUpgradeV2 v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Rules v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Warning] Missing plugin name prefix 'skinbox' for permission 'skins.change' (by plugin 'SkinBox')
+05:00 [Info] Loaded plugin SkinBox v1.0.0 by MarinWebCode
+05:00 [Info] Loaded plugin Skins v2.3.0 by misticos
+05:00 [Warning] [SkyReportSystem] Языковой файл загружен успешно
+05:00 [Info] Loaded plugin SkyReportSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin StackSystem v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin StatsSystem v1.0.6 by SlivBySofia
+05:00 [Info] Loaded plugin Teleportation v1.4.9 by 1.4.5 - Oxide-Russia.Ru | 1.4.6+ - Drop Dead
+05:00 [Info] Loaded plugin Time System v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin Timed Permissions v1.3.2 by LaserHydra
+05:00 [Info] Loaded plugin Trade v1.0.3 by https://topplugin.ru / https://discord.com/invite/5DPTsRmd3G
+05:00 [Info] Loaded plugin VKBot v1.7.5 by SkiTles | Ernieleo Mod
+05:00 [Info] Loaded plugin Vanish v1.5.5 by Whispers88
+05:00 [Info] Loaded plugin XAntiCheat v0.3.79 by fermens
+05:00 [Info] Loaded plugin XNickController v1.0.0 by Monster
+05:00 [Info] Loaded plugin XRaidProtection v1.0.9 by Monster
+05:00 [Info] Loaded plugin XRate v1.0.3 by TopPlugin.ru
+05:00 [Info] Loaded plugin XpSystem v1.0.0 by Chibubrik
+05:00 [Info] Loaded plugin Auth Limiter v1.0.2 by supreme
+05:00 [Info] Loaded plugin Automated Events v1.0.11 by k1lly0u/mspeedie/Arainrr
+05:00 [Info] Loaded plugin Discord v0.2.1 by seanbyrne88
+05:00 [Info] Loaded plugin Discord Chat v2.1.2 by MJSU
+05:00 [Info] Loaded plugin Discord Core v2.1.3 by MJSU
+05:00 [Info] Loaded plugin FGS v2.0.2 by Мизантроп
+05:00 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+05:00 [Info] Loaded plugin Guardian v1.7.9 by WhiteDragon
+05:00 [Info] Loaded plugin LauncherAlkad v1.1.0 by KosiakS
+05:00 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+05:00 [Info] Loaded plugin  v3.0.45 by Мизантроп
+05:00 [Info] Loaded plugin PlayerAdministration v1.5.25 by ThibmoRozier
+05:00 [Info] Loaded plugin ServerStats v1.0.5 by TheRyuzaki & skyplugins.ru
+05:00 [Info] Loaded plugin WipeNameChanger v1.0.1 by wazzzup
+05:00 [Info] Loaded plugin uCore v1.1.83 by Мизантроп
+05:04 [Info] IP address from command-line: 37.230.137.97
+05:04 [Info] [Arkan] Arkan Init: map seed: 51531, map size: 3000, server timestamp: 2023.1.23.5.0
+05:04 [Warning] [ChatSystem] 
+-----------------------------
+     Author - https://topplugin.ru/
+     VK - https://vk.com/rustnastroika
+     Discord - https://discord.com/invite/5DPTsRmd3G
+-----------------------------
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.admin' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.use' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Missing plugin name prefix 'removeupgradev2' for permission 'removeupgrade.refund' (by plugin 'RemoveUpgradeV2')
+05:04 [Warning] Calling 'OnServerInitialized' on 'RemoveUpgradeV2 v1.0.3' took 266ms
+05:04 [Warning] [Skins] Item with shortname "shortname" does not exist. Please review your Skins configuration.
+05:04 [Warning] Skins has replaced the 'skin' chat command previously registered by SkinBox
+05:04 [Warning] Skins has replaced the 'skins' chat command previously registered by SkinBox
+05:04 [Error] [SkyReportSystem] -----------------------------------
+05:04 [Error] [SkyReportSystem]            SkyReportSystem         
+05:04 [Error] [SkyReportSystem]           Author = TopPlugin.ru         
+05:04 [Error] [SkyReportSystem]           Version = 1.0.3      
+05:04 [Error] [SkyReportSystem] -----------------------------------
+05:04 [Warning] [XNickController] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2867
+-----------------------------
+05:04 [Warning] [XRaidProtection] 
+-----------------------------
+     Author - Monster
+     VK - vk.com/idannopol
+     Discord - Monster#4837
+     Config - v.2857
+-----------------------------
+05:04 [Warning] [Discord Core] Please set the Discord Bot Token and reload the plugin
+05:04 [Warning] [LauncherAlkad] Обновление данных через 5 секунд...
+05:04 [Info] [ServerStats] NetworkStatus: true
+05:04 [Warning] Calling 'OnServerInitialized' on 'ServerStats v1.0.5' took 137ms
+05:04 [Info] [uCore] Загружаю базу данных...
+05:04 [Info] [uCore] Создаем базу, если не существует...
+05:04 [Info] [uCore] База данных загружена...
+05:04 [Info] [uCore] База загружена
+05:04 [Info] [Discord Extension] [Info]: Discord socket opened!
+05:04 [Warning] [LauncherAlkad] Обновляю информацию...
+05:04 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+05:04 [Info] [Discord Chat] Discord Chat Ready
+05:04 [Warning] [LauncherAlkad] Информация обновлена: 
+ => Сервер: 37.230.137.97:20560
+ => VK: Нету
+ => Shop: https://explosive.gamestores.app/?attempt=1
+ => Discord: https://discord.gg/WmvaKKt2tM
+ => Античит: Нету
+05:04 [Warning] [VKBot] Сообщение не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+05:05 [Info] [SkinBox] Загружено 215 встроенных скинов.
+05:05 [Info] [SkinBox] Загружено 3434 одобренных скинов.
+05:10 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+05:11 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+05:11 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+05:11 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+05:11 [Warning] [NoSteamHelper] No data player: 76561199232639986
+05:11 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+05:26 [Info] [Guardian] IP Filter: Allowed connection from 89.248.237.176
+05:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+05:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+05:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+05:29 [Warning] [NoSteamHelper] No data player: 76561199083943118
+05:30 [Info] [Guardian] IP Filter: Allowed connection from 84.188.202.10
+05:32 [Info] [Guardian] IP Filter: Allowed connection from 213.87.127.28
+05:32 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ZAGAROV"
+05:32 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ZAGAROV"
+05:32 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ZAGAROV" wasn't removed from it.
+05:32 [Warning] [NoSteamHelper] No data player: 76561199353493188
+05:32 [Error] [] ZAGAROV[76561199353493188] зашел без GameWer
+05:33 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "????"
+05:33 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "????"
+05:33 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "????" wasn't removed from it.
+05:33 [Warning] [NoSteamHelper] No data player: 76561199471328237
+05:33 [Error] [] ????[76561199471328237] зашел без GameWer
+05:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+05:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+05:42 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+05:42 [Info] [Discord Extension] [Info]: Discord socket opened!
+05:42 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+05:56 [Info] [Guardian] IP Filter: Allowed connection from 5.253.144.133
+05:56 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "spomilk"
+05:56 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "spomilk"
+05:56 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "spomilk" wasn't removed from it.
+05:56 [Warning] [NoSteamHelper] No data player: 76561199415448776
+05:56 [Error] [] spomilk[76561199415448776] зашел без GameWer
+06:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+06:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+06:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+06:27 [Info] [Guardian] IP Filter: Allowed connection from 165.16.61.140
+06:31 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ACRENO"
+06:31 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ACRENO"
+06:31 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ACRENO" wasn't removed from it.
+06:31 [Warning] [NoSteamHelper] No data player: 76561199331282084
+06:31 [Error] [] ACRENO[76561199331282084] зашел без GameWer
+06:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+06:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+06:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+06:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+07:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+07:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+07:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+07:25 [Info] [Guardian] IP Filter: Allowed connection from 217.199.222.165
+07:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+07:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+07:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+07:29 [Warning] [NoSteamHelper] No data player: 76561199083943118
+07:31 [Info] [Arkan] No Recoil probable violation
+Player ZAGAROV/76561199353493188
+NR violation #1
+Shots count 6
+Probability 95%
+Attachments count = 0
+Weapon - smg.mp5 
+Ammo - ammo.pistol
+Projectile ID: 160 | Standing shooting position | Recoil angle: 0.1008706 | Fire time interval 0.108847
+Projectile ID: 161 | Standing shooting position | Recoil angle: 0.04845664 | Fire time interval 0.094786
+Projectile ID: 162 | Standing shooting position | Recoil angle: 0.02797646 | Fire time interval 0.096245
+Projectile ID: 163 | Standing shooting position | Recoil angle: 0.08392937 | Fire time interval 0.100967
+Projectile ID: 164 | Standing shooting position | Recoil angle: 0.06255726 | Fire time interval 0.10396
+07:32 [Info] [Guardian] IP Filter: Allowed connection from 176.116.165.178
+07:34 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "𝐒𝐚𝐬𝐮𝐤𝐞"
+07:34 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "𝐒𝐚𝐬𝐮𝐤𝐞"
+07:34 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "𝐒𝐚𝐬𝐮𝐤𝐞" wasn't removed from it.
+07:34 [Warning] [NoSteamHelper] No data player: 76561198831637508
+07:34 [Error] [] 𝐒𝐚𝐬𝐮𝐤𝐞[76561198831637508] зашел без GameWer
+07:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+07:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+07:50 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+07:50 [Info] [Discord Extension] [Info]: Discord socket opened!
+07:50 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+08:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+08:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+08:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+08:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+08:04 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+08:12 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:12 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:12 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+08:12 [Warning] [NoSteamHelper] No data player: 76561199153678475
+08:12 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+08:18 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+08:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+08:19 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:19 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:19 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+08:19 [Warning] [NoSteamHelper] No data player: 76561199153678475
+08:19 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+08:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+08:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+08:36 [Info] [Guardian] IP Filter: Allowed connection from 5.3.120.37
+08:41 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "gablan"
+08:41 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "gablan"
+08:41 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "gablan" wasn't removed from it.
+08:41 [Warning] [NoSteamHelper] No data player: 76561198109248492
+08:42 [Info] [Guardian] IP Filter: Allowed connection from 188.17.182.14
+08:42 [Info] [Guardian] Kicked Uler Love blacks[76561199153678475] for AntiFlood(Command): inventory.giveid
+08:43 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+08:44 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:44 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+08:44 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+08:44 [Warning] [NoSteamHelper] No data player: 76561199153678475
+08:44 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+08:45 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "9l PacTep"
+08:45 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "9l PacTep"
+08:45 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "9l PacTep" wasn't removed from it.
+08:45 [Warning] [NoSteamHelper] No data player: 76561199394855684
+08:45 [Error] [] 9l PacTep[76561199394855684] зашел без GameWer
+08:56 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+09:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+09:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+09:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+09:28 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+09:29 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+09:29 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+09:29 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+09:29 [Warning] [NoSteamHelper] No data player: 76561199153678475
+09:29 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+09:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+09:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+09:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+09:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+09:54 [Info] [Guardian] IP Filter: Allowed connection from 5.3.120.37
+09:59 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "gablan"
+09:59 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "gablan"
+09:59 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "gablan" wasn't removed from it.
+09:59 [Warning] [NoSteamHelper] No data player: 76561198109248492
+10:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+10:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+10:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+10:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+10:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+11:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+11:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+11:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+11:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+11:06 [Info] [Guardian] IP Filter: Allowed connection from 89.40.194.211
+11:17 [Info] [Guardian] IP Filter: Allowed connection from 89.40.194.211
+11:18 [Info] [Guardian] IP Filter: Allowed connection from 89.40.194.211
+11:18 [Info] [Guardian] IP Filter: Allowed connection from 89.40.194.211
+11:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+11:20 [Info] [Guardian] IP Filter: Allowed connection from 89.40.194.211
+11:28 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Рыбка Немо SKINBOX"
+11:28 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Рыбка Немо SKINBOX"
+11:28 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Рыбка Немо SKINBOX" wasn't removed from it.
+11:28 [Warning] [NoSteamHelper] No data player: 76561199194965728
+11:33 [Info] [Guardian] IP Filter: Allowed connection from 92.127.14.183
+11:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+11:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+11:39 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+11:39 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "липучка MAAK10"
+11:39 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "липучка MAAK10" wasn't removed from it.
+11:39 [Warning] [NoSteamHelper] No data player: 76561199083943118
+11:49 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+11:49 [Info] [Discord Extension] [Info]: Discord socket opened!
+11:49 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+12:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+12:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+12:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+12:13 [Info] [Guardian] IP Filter: Allowed connection from 109.191.36.17
+12:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "d756170"
+12:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "d756170"
+12:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "d756170" wasn't removed from it.
+12:15 [Warning] [NoSteamHelper] No data player: 76561199472031684
+12:15 [Error] [] d756170[76561199472031684] зашел без GameWer
+12:28 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+12:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+12:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+12:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+12:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+12:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+12:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+12:35 [Warning] [NoSteamHelper] No data player: 76561199153678475
+12:35 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+12:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+13:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+13:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+13:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+13:07 [Info] [Guardian] IP Filter: Allowed connection from 37.113.158.36
+13:08 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "zaharstf"
+13:08 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "zaharstf"
+13:08 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "zaharstf" wasn't removed from it.
+13:08 [Warning] [NoSteamHelper] No data player: 76561199470903906
+13:08 [Error] [] zaharstf[76561199470903906] зашел без GameWer
+13:15 [Info] [Guardian] IP Filter: Allowed connection from 176.49.103.197
+13:18 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "СУ_-ха_-РИ_-k"
+13:18 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "СУ_-ха_-РИ_-k"
+13:18 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "СУ_-ха_-РИ_-k" wasn't removed from it.
+13:18 [Warning] [NoSteamHelper] No data player: 76561199388543280
+13:18 [Error] [] СУ_-ха_-РИ_-k[76561199388543280] зашел без GameWer
+13:24 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+13:24 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:24 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:29 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+13:32 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+13:32 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+13:32 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+13:32 [Warning] [NoSteamHelper] No data player: 76561199153678475
+13:32 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+13:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+13:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+13:38 [Info] [Guardian] Kicked Uler Love blacks[76561199153678475] for AntiFlood(Command): inventory.giveid
+13:38 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+13:39 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+13:39 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+13:39 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+13:39 [Warning] [NoSteamHelper] No data player: 76561199153678475
+13:39 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+13:57 [Info] [Guardian] IP Filter: Allowed connection from 176.214.41.2
+14:02 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Penta asmo"
+14:02 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Penta asmo"
+14:02 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Penta asmo" wasn't removed from it.
+14:02 [Warning] [NoSteamHelper] No data player: 76561199444445698
+14:02 [Error] [] Penta asmo[76561199444445698] зашел без GameWer
+14:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+14:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+14:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+14:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+14:11 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 54.051170m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 46.689480m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 38.310330m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 25.112970m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 23.427120m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 13.856410m
+14:12 [Info] [Guardian] Warning Penta asmo[76561199444445698] for AntiCheat(Gravity): 75.373770m
+14:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+14:28 [Info] [Guardian] IP Filter: Allowed connection from 81.163.175.59
+14:31 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+14:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+14:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+14:34 [Info] [Guardian] IP Filter: Allowed connection from 91.207.219.162
+14:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+14:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+14:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "combater"
+14:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "combater"
+14:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "combater" wasn't removed from it.
+14:35 [Warning] [NoSteamHelper] No data player: 76561199470399759
+14:35 [Error] [] combater[76561199470399759] зашел без GameWer
+14:37 [Info] [Guardian] IP Filter: Allowed connection from 185.96.31.249
+14:38 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "💛Hyris_🇺🇦_💙"
+14:38 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "💛Hyris_🇺🇦_💙"
+14:38 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "💛Hyris_🇺🇦_💙" wasn't removed from it.
+14:38 [Warning] [NoSteamHelper] No data player: 76561199104344418
+14:38 [Error] [] 💛Hyris_🇺🇦_💙[76561199104344418] зашел без GameWer
+14:38 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "bigafac593"
+14:38 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "bigafac593"
+14:38 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "bigafac593" wasn't removed from it.
+14:38 [Warning] [NoSteamHelper] No data player: 76561199469859605
+14:38 [Error] [] bigafac593[76561199469859605] зашел без GameWer
+14:46 [Info] [Guardian] Kicked combater[76561199470399759] for AntiFlood(Dropped Items): Eoka Pistol
+14:46 [Info] [Guardian] IP Filter: Allowed connection from 91.207.219.162
+14:48 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "combater"
+14:48 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "combater"
+14:48 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "combater" wasn't removed from it.
+14:48 [Warning] [NoSteamHelper] No data player: 76561199470399759
+14:48 [Error] [] combater[76561199470399759] зашел без GameWer
+14:50 [Info] [Guardian] IP Filter: Allowed connection from 37.79.5.150
+14:55 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "бульбулятор"
+14:55 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "бульбулятор"
+14:55 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "бульбулятор" wasn't removed from it.
+14:55 [Warning] [NoSteamHelper] No data player: 76561199236120076
+14:55 [Error] [] бульбулятор[76561199236120076] зашел без GameWer
+15:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+15:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+15:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+15:10 [Info] [Guardian] IP Filter: Allowed connection from 95.57.76.32
+15:13 [Info] [Guardian] IP Filter: Allowed connection from 185.124.177.99
+15:13 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "позор мира"
+15:13 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "позор мира"
+15:13 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "позор мира" wasn't removed from it.
+15:13 [Warning] [NoSteamHelper] No data player: 76561199472504174
+15:13 [Error] [] позор мира[76561199472504174] зашел без GameWer
+15:14 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "otherworld.lua #insiderust"
+15:14 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "otherworld.lua #insiderust"
+15:14 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "otherworld.lua #insiderust" wasn't removed from it.
+15:14 [Warning] [NoSteamHelper] No data player: 76561198928535389
+15:14 [Error] [] otherworld.lua #insiderust[76561198928535389] зашел без GameWer
+15:30 [Info] [Guardian] IP Filter: Allowed connection from 109.253.161.199
+15:30 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "lomtik_prosto"
+15:30 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "lomtik_prosto"
+15:30 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "lomtik_prosto" wasn't removed from it.
+15:30 [Warning] [NoSteamHelper] No data player: 76561199235532744
+15:30 [Error] [] lomtik_prosto[76561199235532744] зашел без GameWer
+15:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+15:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+15:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+15:44 [Info] [Guardian] IP Filter: Allowed connection from 176.62.80.143
+15:46 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "b"
+15:46 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "b"
+15:46 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "b" wasn't removed from it.
+15:46 [Warning] [NoSteamHelper] No data player: 76561198889674527
+15:46 [Error] [] b[76561198889674527] зашел без GameWer
+15:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+16:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+16:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+16:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:05 [Info] [Guardian] IP Filter: Allowed connection from 87.150.129.184
+16:16 [Info] [Guardian] IP Filter: Allowed connection from 85.174.204.252
+16:19 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "-HECATE"
+16:19 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "-HECATE"
+16:19 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "-HECATE" wasn't removed from it.
+16:19 [Warning] [NoSteamHelper] No data player: 76561199366502908
+16:19 [Error] [] -HECATE[76561199366502908] зашел без GameWer
+16:31 [Info] [Guardian] IP Filter: Allowed connection from 46.138.6.164
+16:33 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ebal teby"
+16:33 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ebal teby"
+16:33 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ebal teby" wasn't removed from it.
+16:33 [Warning] [NoSteamHelper] No data player: 76561199442732451
+16:33 [Error] [] ebal teby[76561199442732451] зашел без GameWer
+16:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+16:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+16:40 [Info] [Guardian] IP Filter: Allowed connection from 91.203.63.27
+16:43 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+16:43 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Uler Love blacks"
+16:43 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Uler Love blacks" wasn't removed from it.
+16:43 [Warning] [NoSteamHelper] No data player: 76561199153678475
+16:43 [Error] [] Uler Love blacks[76561199153678475] зашел без GameWer
+16:43 [Info] [Guardian] Warning Uler Love blacks[76561199153678475] for AntiCheat(Server): InsideTerrain(100.000000)
+16:43 [Info] [Guardian] Warning Uler Love blacks[76561199153678475] for AntiCheat(Server): InsideTerrain(100.000000)
+16:43 [Info] [Guardian] Warning Uler Love blacks[76561199153678475] for AntiCheat(Server): InsideTerrain(100.000000)
+16:46 [Info] [Guardian] IP Filter: Allowed connection from 178.46.213.228
+16:47 [Info] [Guardian] IP Filter: Allowed connection from 178.75.42.44
+16:48 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "flow_klaviatura"
+16:48 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "flow_klaviatura"
+16:48 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "flow_klaviatura" wasn't removed from it.
+16:48 [Warning] [NoSteamHelper] No data player: 76561199278854365
+16:48 [Error] [] flow_klaviatura[76561199278854365] зашел без GameWer
+16:49 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "alikvk1945"
+16:49 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "alikvk1945"
+16:49 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "alikvk1945" wasn't removed from it.
+16:49 [Warning] [NoSteamHelper] No data player: 76561199036613157
+16:49 [Error] [] alikvk1945[76561199036613157] зашел без GameWer
+17:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+17:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+17:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+17:08 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+17:08 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:08 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:15 [Info] [Guardian] IP Filter: Allowed connection from 46.138.6.164
+17:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+17:22 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ebal teby"
+17:22 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ebal teby"
+17:22 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ebal teby" wasn't removed from it.
+17:22 [Warning] [NoSteamHelper] No data player: 76561199442732451
+17:22 [Warning] [SkyReportSystem] Вызываемый игрок покинул сервер!
+17:22 [Error] [] ebal teby[76561199442732451] зашел без GameWer
+17:28 [Info] [Guardian] IP Filter: Allowed connection from 5.3.120.37
+17:32 [Info] [Guardian] IP Filter: Allowed connection from 94.245.131.20
+17:33 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "sin pride luckyshot.site"
+17:33 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "sin pride luckyshot.site"
+17:33 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "sin pride luckyshot.site" wasn't removed from it.
+17:33 [Warning] [NoSteamHelper] No data player: 76561198872681662
+17:33 [Error] [] sin pride luckyshot.site[76561198872681662] зашел без GameWer
+17:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+17:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+17:34 [Info] [Guardian] IP Filter: Allowed connection from 37.20.160.180
+17:35 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "gablan"
+17:35 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "gablan"
+17:35 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "gablan" wasn't removed from it.
+17:35 [Warning] [NoSteamHelper] No data player: 76561198109248492
+17:36 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:37 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "One"
+17:37 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "One"
+17:37 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "One" wasn't removed from it.
+17:37 [Warning] [NoSteamHelper] No data player: 76561198823185496
+17:37 [Error] [] One[76561198823185496] зашел без GameWer
+17:41 [Info] [Guardian] IP Filter: Allowed connection from 84.244.31.227
+17:42 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "жопень228"
+17:42 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "жопень228"
+17:42 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "жопень228" wasn't removed from it.
+17:42 [Warning] [NoSteamHelper] No data player: 76561198826745104
+17:42 [Error] [] жопень228[76561198826745104] зашел без GameWer
+17:44 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+17:50 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+18:03 [Info] [Guardian] IP Filter: Allowed connection from 193.37.155.128
+18:03 [Info] [Guardian] IP Filter: Allowed connection from 81.163.175.59
+18:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+18:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+18:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:04 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "EEST"
+18:04 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "EEST"
+18:04 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "EEST" wasn't removed from it.
+18:04 [Warning] [NoSteamHelper] No data player: 76561199291274076
+18:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "bigafac593"
+18:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "bigafac593"
+18:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "bigafac593" wasn't removed from it.
+18:05 [Warning] [NoSteamHelper] No data player: 76561199469859605
+18:05 [Error] [] bigafac593[76561199469859605] зашел без GameWer
+18:11 [Info] [Guardian] IP Filter: Allowed connection from 46.173.93.233
+18:14 [Info] [Guardian] IP Filter: Allowed connection from 46.173.93.233
+18:19 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+18:19 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "KenKaneki"
+18:19 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "KenKaneki" wasn't removed from it.
+18:19 [Warning] [NoSteamHelper] No data player: 76561199302556515
+18:19 [Error] [] KenKaneki[76561199302556515] зашел без GameWer
+18:32 [Info] [Guardian] IP Filter: Allowed connection from 2.189.59.78
+18:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+18:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+18:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+18:40 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+18:40 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Nergal666"
+18:40 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Nergal666" wasn't removed from it.
+18:40 [Warning] [NoSteamHelper] No data player: 76561199232639986
+18:40 [Error] [] Nergal666[76561199232639986] зашел без GameWer
+18:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+19:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+19:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+19:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:09 [Info] [Guardian] IP Filter: Allowed connection from 95.57.76.32
+19:15 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "otherworld.lua #insiderust"
+19:15 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "otherworld.lua #insiderust"
+19:15 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "otherworld.lua #insiderust" wasn't removed from it.
+19:15 [Warning] [NoSteamHelper] No data player: 76561198928535389
+19:15 [Error] [] otherworld.lua #insiderust[76561198928535389] зашел без GameWer
+19:30 [Info] [Guardian] IP Filter: Allowed connection from 31.40.65.24
+19:31 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "xvide"
+19:31 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "xvide"
+19:31 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "xvide" wasn't removed from it.
+19:31 [Warning] [NoSteamHelper] No data player: 76561199107712205
+19:31 [Error] [] xvide[76561199107712205] зашел без GameWer
+19:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+19:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+19:37 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+19:45 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+19:45 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:45 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:03 [Info] [Guardian] IP Filter: Allowed connection from 176.51.78.142
+20:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+20:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+20:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+20:05 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "smeil3333"
+20:05 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "smeil3333"
+20:05 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "smeil3333" wasn't removed from it.
+20:05 [Warning] [NoSteamHelper] No data player: 76561199387573530
+20:05 [Error] [] smeil3333[76561199387573530] зашел без GameWer
+20:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+20:27 [Info] [Guardian] IP Filter: Allowed connection from 31.40.65.24
+20:28 [Info] [Guardian] IP Filter: Allowed connection from 185.210.140.155
+20:29 [Info] [Guardian] IP Filter: Allowed connection from 94.251.19.230
+20:30 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "xvide"
+20:30 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "xvide"
+20:30 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "xvide" wasn't removed from it.
+20:30 [Warning] [NoSteamHelper] No data player: 76561199107712205
+20:30 [Error] [] xvide[76561199107712205] зашел без GameWer
+20:31 [Info] [Guardian] IP Filter: Allowed connection from 185.210.140.155
+20:34 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "s9613255"
+20:34 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "s9613255"
+20:34 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "s9613255" wasn't removed from it.
+20:34 [Warning] [NoSteamHelper] No data player: 76561199430048742
+20:34 [Error] [] s9613255[76561199430048742] зашел без GameWer
+20:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+20:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+20:37 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "ZXCURSED"
+20:37 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "ZXCURSED"
+20:37 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "ZXCURSED" wasn't removed from it.
+20:37 [Warning] [NoSteamHelper] No data player: 76561199150186531
+20:57 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+20:57 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:57 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+21:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+21:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:06 [Info] [Guardian] IP Filter: Allowed connection from 176.122.206.243
+21:30 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "s1pliy"
+21:30 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "s1pliy"
+21:30 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "s1pliy" wasn't removed from it.
+21:30 [Warning] [NoSteamHelper] No data player: 76561198885192114
+21:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+21:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+21:34 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+21:45 [Error] Failed to call hook 'OnDiscordGuildMessageCreated' on plugin 'DiscordStatus v4.0.1' (IndexOutOfRangeException: Index was outside the bounds of the array.)
+  at Oxide.Plugins.DiscordStatus.OnDiscordGuildMessageCreated (Oxide.Ext.Discord.Entities.Messages.DiscordMessage message) [0x0002c] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.DiscordStatus.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0016c] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+21:49 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+21:58 [Info] [Guardian] IP Filter: Allowed connection from 178.234.143.236
+22:00 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "7OR"
+22:00 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "7OR"
+22:00 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "7OR" wasn't removed from it.
+22:00 [Warning] [NoSteamHelper] No data player: 76561199096744836
+22:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+22:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+22:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:09 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+22:09 [Info] [Discord Extension] [Info]: Discord socket opened!
+22:09 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+22:10 [Info] [Guardian] IP Filter: Allowed connection from 87.117.53.100
+22:12 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "[LK]morgrande"
+22:12 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "[LK]morgrande"
+22:12 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "[LK]morgrande" wasn't removed from it.
+22:12 [Warning] [NoSteamHelper] No data player: 76561199468026029
+22:27 [Info] [Guardian] IP Filter: Allowed connection from 46.53.252.25
+22:34 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Makarosha"
+22:34 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Makarosha"
+22:34 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Makarosha" wasn't removed from it.
+22:34 [Warning] [NoSteamHelper] No data player: 76561198274488971
+22:34 [Error] [] Makarosha[76561198274488971] зашел без GameWer
+22:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+22:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+22:37 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+22:44 [Info] [Guardian] IP Filter: Allowed connection from 188.190.221.122
+22:45 [Warning] [NameRewards] Permission "kits.nickname" doesn't exists and wasn't removed form the player "Дикая Сперма"
+22:45 [Warning] [NameRewards] Permission "nteleportation.nickname" doesn't exists and wasn't removed form the player "Дикая Сперма"
+22:45 [Warning] [NameRewards] Group "nickname" doesn't exists and the player "Дикая Сперма" wasn't removed from it.
+22:45 [Warning] [NoSteamHelper] No data player: 76561199072275498
+22:45 [Error] [] Дикая Сперма[76561199072275498] зашел без GameWer
+22:56 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+23:01 [Error] Failed to call hook 'OnEntityDeath' on plugin 'PassSystem v1.0.3' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.PassSystem.Progress (BasePlayer player, System.String name, System.Int32 amount) [0x00019] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.OnEntityDeath (BaseCombatEntity entity, HitInfo info) [0x00095] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.PassSystem.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x003db] in <d7f4d722cdfd46f1b0cdf2733914288a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+23:04 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+23:04 [Warning] [RadHouse] Не хватает игроков для запуска ивента
+23:04 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:04 [Info] [ComponentsEvent] Ивент "Фарм компонентов" успешно запущен и инициализирован!
+23:17 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+23:17 [Info] [Discord Extension] [Info]: Discord socket opened!
+23:17 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+23:19 [Info] [ComponentsEvent] Ивент "Фарм компонентов" остановлен или закончился!
+23:34 [Warning] [VKBot] Текст статуса слишком длинный. Измените формат статуса чтобы текст отобразился полностью. Лимит символов в статусе - 140. Длина текста - 247
+23:34 [Warning] [VKBot] Статус не отправлен(о). Файлы лога: /oxide/logs/VKBot/
+23:41 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+23:41 [Info] [Discord Extension] [Info]: Discord socket opened!
+23:41 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!

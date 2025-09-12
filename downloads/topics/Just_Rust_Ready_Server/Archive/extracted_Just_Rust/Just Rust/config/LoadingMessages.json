@@ -1,0 +1,32 @@
+{
+  "Text Display Frequency (Seconds)": 0.3,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=orange>Just-Rust.ru</color>",
+      "Bottom Status": "Загрузка,пожалуйста подождите."
+    },
+    {
+      "Top Status": "<color=orange>Just-Rust.ru</color>",
+      "Bottom Status": "<color=#05FFFF>Загрузка,пожалуйста подождите.</color>"
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "Вы в очереди(Игроки с привелегиями заходят вне очереди)",
+      "Bottom Status": "<color=orange>{AHEAD} игроков осталось.</color>"
+    },
+    {
+      "Top Status": "Вы в очереди.(Игроки с привелегиями заходят вне очереди)",
+      "Bottom Status": "<color=#05FFFF>{BEHIND} игроков позади вас.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#FF0F87>Just-Rust.ru</color>",
+    "Bottom Status": "<color=green>Загрузка завершена. Спавн игрока.</color>"
+  }
+}

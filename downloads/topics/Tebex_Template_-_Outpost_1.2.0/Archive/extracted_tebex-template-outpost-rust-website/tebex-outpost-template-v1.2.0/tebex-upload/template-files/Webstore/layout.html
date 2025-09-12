@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <title>{{ store.name }} | {{ __(page.title) }}</title>
+
+    <link href="/templates/209/css/style.min.css" rel="stylesheet">
+   
+    <link rel="shortcut icon" href="{{ store.favicon }}">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        
+        _gaq.push(['_setAccount', 'UA-36735942-3']);
+        _gaq.push(['_trackPageview']);
+        
+        {% if store.googleAnalytics %}
+            _gaq.push(['b._setAccount', '{{ store.googleAnalytics }}']);
+            _gaq.push(['b._trackPageview']);
+        {% endif %}
+        
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    
+        {% if store.css != '' -%}
+        <style>{{ store.css|raw }}</style>
+    {%- else -%}
+        <link href="{{ asset('style.css') }}" rel="stylesheet">
+    {%- endif %}
+
+  </head>
+  <body style="background: url(https://cdn.tebex.io/store/1299678/templates/202029/assets/c9ca53ea9e4cc860de8206e68b56e363178ceb58.png) no-repeat center top rgb(20, 24, 20)">
+    <div class="background-gradient"></div>
+    <div class="container">
+
+      <div class="header">
+
+        <div class="logo">
+            {% if store.logo %}
+                <a href="/"><img src="{{ store.logo }}" /></a>
+            {% else %}
+                <span>{{ store.name }}</span>
+            {% endif %}
+        </div>
+
+        <div class="buttons">
+          <div class="toolbar">
+            <div class="logout">
+                {% if basket.username %} 
+                    <a href="/checkout/logout" class="btn btn-danger">{{ __("Logout") }}</a> {% else %} <a href="/login" class="btn btn-info">{{ __("Login") }}</a>
+                {% endif %}
+            </div>
+            <div class="currency">
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                {{ basket.currency }} <span class="fa fa-caret-down"></span>
+              </button>
+              <ul class="dropdown-menu" role="menu">
+                {% for currency in store.currencies %}
+                    {% if currency.code in [store.currency, "AUD", "BRL", "CAD", "DKK", "EUR", "NOK", "NZD", "GBP", "SEK", "USD", "PLN"] %}
+                        <li {% if basket.currency == currency.code %}class="active"{% endif %}>
+                          <a href="?currency={{ currency.code }}">{{ currency.code }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="basket">
+                {% if basket.packages|length > 0 %}
+                    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                    {{ _p(":count item for :amount :currency", basket.packages|length, {'count' : basket.packages|length, 'amount' : basket.price|money, 'currency' : basket.currency}) }} <span class="fa fa-caret-down"></span>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                        {% for package in basket.packages %}
+                            <li class="item">
+                            <div class="name">{{ package.name[:25] }}</div>
+                            <div class="price">{{ package.price|money }} <small>{{ basket.currency }}</small></div>
+                            <div class="remove"><a href="/checkout/packages/remove/{{ package.id }}"><span class="fa fa-times"</span></a></div>
+                            </li>
+                        {% endfor %}
+                        <li class="checkout">
+                          <div class="total"><b>{{ __("Total") }}:</b> {{ basket.price|money }} <small>{{ basket.currency }}</small></div>
+                          <div class="button"><a href="/checkout/basket" class="btn btn-success">{{ __("Checkout") }}</a></div>
+                        </li>
+                    </ul>
+                {% else %}
+                  <a href="#" class="btn btn-info" disabled="disabled"><i class="icon-shopping-cart icon-white"></i> 
+                  {{ _p(":count item for :amount :currency", basket.packages|length, {'count' : basket.packages|length, 'amount' : basket.price|money, 'currency' : basket.currency}) }}
+                  </a>
+                {% endif %}
+            </div>
+          </div>
+        </div>
+
+      </div> 
+        
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">{{ store.name }}</a>
+          </div>
+
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="{% if page.category == "index" %}active{% endif %}"><a href="/">{{ __("Home") }}</a></li>
+                {% for category in store.categories %}
+                  {% if category.subcategories|length > 0 %}
+                    <li class="dropdown {% if category.active %}active{% endif %}">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ category.name }} <i class="fa fa-caret-down"></i></a>
+                        <ul class="dropdown-menu">
+                          {% for subcategory in category.subcategories %}
+                            <li><a href="/category/{{ subcategory.id }}">{{ subcategory.name }}</a></li>
+                          {% endfor %}
+                        </ul>
+                  {% else %}
+                    <li class="{% if category.active %}active{% endif %}"><a href="/category/{{ category.id }}">{{ category.name }}</a></li>
+                  {% endif %}
+                {% endfor %}
+                {% for page in store.pages %}
+                    <li class="{% if page.active %}active{% endif %}"><a href="/{{ page.slug }}">{{ page.title }}</a></li>
+                {% endfor %}                
+                {% if basket.packages|length > 0 %} 
+                    <li class="visible-xs {% if page.category == "checkout" %}active{% endif %}"><a href="/checkout/basket">{{ __("Checkout") }}</a></li>
+                {% endif %}
+                {% if basket.username %} 
+                    <li class="visible-xs"><a href="/checkout/logout">{{ __("Logout") }}</a></li>
+                {% endif %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+        
+      <div class="notification">
+        {% if page.message.display %}
+            <div class="alert alert-{{ page.message.type}} alert-dismissable">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                {{ page.message.text }}
+            </div>
+        {% endif %}  
+      </div>
+
+      {% block content %}{% endblock %}
+
+      <div class="footer">
+          <div class="language">
+              <div class="dropdown dropup">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-globe"></span>{{ __("Language") }}</a>
+                <ul class="dropdown-menu up">
+                  {% for locale, name in store.locales %}
+                      <li><a href="?locale={{ locale }}">{{ name }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+          </div>
+          <div class="branding"> 
+            {% if store.useCheckout %}
+                <a href="/terms/checkout">Terms</a> | <a href="/terms/privacy">Privacy</a> | <a href="/terms/impressum">Impressum</a> |
+            {% endif %}         
+            {{ __("Powered by") }} <a href="http://tebex.io" target="_blank">Tebex.io</a>
+          </div>
+      </div>
+    
+    </div>
+    
+    <div class="modal" id="popup-modal" tabindex="-1" role="dialog"></div>
+    
+    {% if page.category == "checkout" %}
+      <script src="https://js.stripe.com/v2/"></script>
+    {% endif %}
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>  
+    <script src="/templates/209/js/bootstrap.min.js"></script>
+    <script src="/templates/209/js/skin.min.js"></script>
+    <script src="/templates/209/js/site.js"></script>
+     <script>
+            jQuery(function(){
+                var countdowns = $(".countdown-to");
+                countdowns.each(function(){
+                   setInterval(function(ele) {
+                       timeLeft = parseInt(ele.attr("data-countdown"));
+                       if (timeLeft == 0) {
+                           ele.html("Time Expired!");
+                       } else {
+                       timeLeft--;
+                       ele.attr("data-countdown", timeLeft);
+                      var days = Math.floor(timeLeft / (60 * 60 * 24));
+                      var hours = Math.floor((timeLeft % (60 * 60 * 24)) / (60 * 60));
+                      var minutes = Math.floor((timeLeft % (60 * 60)) / (60));
+                      var seconds = Math.floor((timeLeft % 60));
+                      ele.html(days + "d " + hours + "h " + minutes + "m " + seconds + "s");
+                       }
+                   }, 1000, jQuery(this));
+                });
+            });
+
+        </script>
+  </body>
+</html>

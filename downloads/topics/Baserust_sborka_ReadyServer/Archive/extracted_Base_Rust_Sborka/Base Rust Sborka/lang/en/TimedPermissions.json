@@ -1,0 +1,16 @@
+{
+  "NoPermission": "<color=#CF1E1E>•</color> Ошибка:\nУ Вас нет прав на использование этой команды",
+  "InvalidTimeFormat": "<color=#CF1E1E>•</color> Ошибка:\nНеверный формат времени:\nПример: 1d12h30m || d = дни, h = часы, m = минуты.",
+  "UserDoesn'tHavePermission": "<color=#CF1E1E>•</color> Ошибка:\nУ игрока {target} нет привилегии {permission}",
+  "UserIsn'tInGroup": "<color=#CF1E1E>•</color> Ошибка:\nУ игрока {target} нет группы {group}",
+  "MultiplePlayersFound": "<color=#F5DA81>НАЙДЕНО НЕСКОЛЬКО ИГРОКОВ:</color> \n",
+  "PlayerNotFoundName": "<color=#CF1E1E>•</color> Ошибка:\nНе удалось найти игрока с таким именем: {nameOrID}",
+  "PlayerNotFoundSteam": "<color=#CF1E1E>•</color> Ошибка:\nНе удалось найти игрока с таким SteamID: {nameOrID}",
+  "NotService": "<color=#CF1E1E>•</color> Информация:\nУ вас нет временных услуг!",
+  "PlayerNotService": "<color=#CF1E1E>•</color> Информация:\nУ игрока нет временных услуг!",
+  "PermissionsInfo": "Привилегия: <color=#CF1E1E>{groups}</color>\nОставшееся время: <color=#CF1E1E>{timeleft}</color>\n",
+  "GroupsInfo": "Группа: <color=#CF1E1E>{groups}</color>\nОставшееся время: <color=#CF1E1E>{timeleft}</color>\n",
+  "Days": "д.",
+  "Hours": "ч.",
+  "Minutes": "м."
+}

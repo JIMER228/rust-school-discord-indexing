@@ -1,0 +1,99 @@
+{
+  "-": "-",
+  "SteamAPI": "0AE8F782C8BAF997D2371172F2C900C7",
+  "Silent Aim: настройка": {
+    "Банить?": true,
+    "Автобан (не знаешь, не трогай!)": 7,
+    "Причина бана": "\"Silent Aim! (1)\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "Spider: настройка": {
+    "Банить?": true,
+    "Причина бана": "\"Spider! (2)\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "ESP SmallStash: настройка": {
+    "Количество": 150,
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "Возможный лут": {
+      "rifle.ak": 1,
+      "rifle.bolt": 1,
+      "rifle.l96": 1,
+      "rifle.lr300": 1,
+      "rifle.semiauto": 1,
+      "wood": 10000,
+      "stones": 10000,
+      "metal.refined": 50,
+      "metal.fragments": 10000,
+      "metal.facemask": 1,
+      "scrap": 500
+    }
+  },
+  "FLY: настройка": {
+    "Банить?": false,
+    "Причина бана": "\"FLY! (3)\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "TEAMBAN: настройка": {
+    "Банить?": true,
+    "Причина бана": "\"TEAMBAN\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "Банить, если в команде N забаненных": 2,
+    "На сколько часов бан?": 72
+  },
+  "CODELOCK: настройка": {
+    "Банить?": false,
+    "Причина бана": "\"CODELOCK!\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "Задержка в секундах перед баном, после детекта": 75.0,
+    "На сколько часов бан?": 8760
+  },
+  "HITMOD: настройка": {
+    "Банить?": true,
+    "Причина бана": "\"HITMOD! (6)\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "NORECOIL: настройка": {
+    "Банить?": true,
+    "Причина бана": "\"NORECOIL! (11)\"",
+    "Задержка в секундах перед баном, после детекта": 30.0,
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "SPINERBOT: настройка": {
+    "Банить?": true,
+    "Причина бана": "\"SPINERBOT! (10)\"",
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW",
+    "На сколько часов бан?": 8760
+  },
+  "Debug camera": {
+    "Банить?": true,
+    "Discord Webhook": "https://discord.com/api/webhooks/1116040738866741310/5eI_6rfqxrl2cTf1rJ9V6-AM9qU68Rsz292Z3G9uv3vOnxznNMAOB_aHFkUWlNUn-tiW"
+  },
+  "Отображать данные при подключении игрока?": false,
+  "Не банить Steam игроков?": false,
+  "Отправлять в тюрьму, если есть плагин PrisonBitch": false,
+  "Банить не настроеные аккаунты?": false,
+  "Банить аккаунты, которым меньше X дней": 0,
+  "На сколько часов банить новые аккаунты": 1,
+  "Кикать не настроенные аккаунты": false,
+  "Кикать приватные аккаунты": false,
+  "Кикать игроков использующих VPN": true,
+  "Не кикать лицухи?": true,
+  "Не банить лицушников за новые аккаунты?": true,
+  "Писать/сохранять логи [0 - нет | 1 - только баны | 2 - все]": 2,
+  "Discord: ID канала": "1063526090762629241",
+  " Логи попаданий с огнестрела в консоль": false,
+  "IPINFO ТОКЕН": "d5800504199ae6",
+  "tt": "nothing",
+  "Шаблоны банов": {
+    "BAN.ACCOUNT": "ban {steamid} {reason} {time}",
+    "PRISON.ACCOUNT": "prison.add {steamid} {time} {reason}",
+    "EBSBAN.ACCOUNT": "ban {steamid} {time}h {reason}"
+  },
+  "Логи на языке": "ru"
+}

@@ -1,0 +1,20 @@
+{
+  "Repeated Report": "You have already sent a report to this player!",
+  "New Report": "{hostname and connect}A new player report has been received!\nName of the complaining player: {0}, his SteamID: {1}\nSuspect: {2}, his SteamID: {3}\n\nReport title: {4}, report text: {5 }",
+  "Report Command": "To send a complaint about a player press the F7 key",
+  "No Access": "You do not have access to this command",
+  "Player Not Found": "Player not found. Maybe he went out",
+  "Player On Check": "The player is already being on check!",
+  "You On Check": "You are undergoing player check! To start a new one, end the current",
+  "Player Check Notify": "<size=16>WARNING!</size>\nYou are suspected of using third-party software\nSubmit your Discord to the moderator with the /discord command, you have 5 minutes",
+  "Moderator Check Notify": "<size=16>WARNING!</size>\nYou are checking the player\nWait for the player to submit his Discord and get to work\nTo complete the check, write /check and follow the further instructions, if a player needs to be banned, use /ban after that",
+  "Send Discord Help": "To send your Discord to a moderator use: /discord\nBe sure to follow the instructions, otherwise the moderator will not see your discord!",
+  "Send Discord Error": "You have not entered your Discord correctly. Follow the instructions for the /discord command",
+  "Moderator Leave": "The moderator who checked you came out. Verification completed automatically without a verdict",
+  "Player Send Discord": "WARNING! The player you are checking sent you their Discord: {0}",
+  "Discord Double": "The player's discord is also duplicated in your console (F1)",
+  "Verdict Help": "To close player check enter /check cancel \"Verdict\", be sure to use quotes!",
+  "Verdict Error": "You have passed the verdict incorrectly. Follow the instructions for the /check command",
+  "Success Vedict": "You have successfully completed the check and delivered your verdict\nDon't forget to ban the player if he is found to be an offender :)",
+  "SteamID": "SteamID of player {0}: {1}"
+}

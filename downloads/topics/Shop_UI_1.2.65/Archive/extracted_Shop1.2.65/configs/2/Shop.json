@@ -1,0 +1,126 @@
+{
+  "Main Settings": {
+    "» Require permission to open Shop": false,
+    "» Block shop usage while building blocked": false,
+    "» Require TC Auth. to use shop": false,
+    "» Shop Chat Command": "shop",
+    "» Pre-fill sell amount based on player's inventory": false,
+    "» Enable purchase cooldowns (data/Shop/Cooldowns.json)": false
+  },
+  "Global Sales": {
+    "» Permission Sales": {
+      "shop.sale30": 0.3,
+      "shop.sale75": 0.75
+    },
+    "» Item Sales": {
+      "wood": 0.15,
+      "stones": 0.15,
+      "metal.fragments": 0.1,
+      "sulfur": 0.05
+    }
+  },
+  "Block Shop Usage When (NoEscape Umod)": {
+    "» Is Raid Blocked": false,
+    "» Is Combat Blocked": false
+  },
+  "Addon Settings": {
+    "» Use Shop as WelcomePanel Addon": true,
+    "» Auto Detect Template": true,
+    "» Layout Container (only if auto detect is false)": {
+      "OffSetMin": "0 0",
+      "OffSetMax": "0 0",
+      "AnchorMin": "0 0.09",
+      "AnchorMax": "1.01 0.97"
+    }
+  },
+  "Item List Displaying": {
+    "» Show items gradually": true,
+    "» 'Tick' interval (in seconds)": 0.03,
+    "» FadeIn Effect": 0.5,
+    "» Custom image for currency (only for game item type)": null,
+    "» Item UI Settings": {
+      "Background Color": "0 0 0 0.4",
+      "Text Color": "1 1 1 0.6",
+      "Buy Button Color": "0.40 0.48 0.25 1",
+      "Sell Button Color": "0.16 0.34 0.49 1.0",
+      "Input Field Color": "0 0 0 0.6"
+    }
+  },
+  "Notifications and Sounds": {
+    "» Enable Notifications": true,
+    "» Duration (in seconds)": 2.5,
+    "» Enable Sounds": true,
+    "» Enable on item Cui Effect": true,
+    "» Success Notification": {
+      "Panel Color": "0.11 0.11 0.11 1",
+      "Accent Color": "0.40 0.48 0.25 1.0",
+      "Sound Prefab": "assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab"
+    },
+    "» Warning Notification": {
+      "Panel Color": "0.11 0.11 0.11 1",
+      "Accent Color": "0.56 0.20 0.15 1.0",
+      "Sound Prefab": "assets/prefabs/locks/keypad/effects/lock.code.denied.prefab"
+    },
+    "» Positions": {
+      "OffSetMin": "-190 100",
+      "OffSetMax": "0 170",
+      "AnchorMin": "1 0.5",
+      "AnchorMax": "1 0.5"
+    },
+    "» Messages": {
+      "onPurchase": "<size=13><b>PURCHASE SUCCESSFUL</b></size>\n\nYour puchase of <b>{amount}</b>x <b>{item}</b> was successfull.",
+      "noFunds": "<size=13><b>INSUFFICIENT FUNDS</b></size>\n\nYou don't have enough funds to purchase <b>{amount}</b>x <b>{item}</b>.",
+      "onSale": "<size=13><b>ITEM SOLD</b></size>\n\nYou successfully sold <b>{amount}</b>x <b>{item}</b>.",
+      "noItemToSell": "<size=13><b>MISSING ITEMS</b></size>\n\nYou don't have enough <b>{item}</b> to make this action.",
+      "noEscape": "<size=13><b>SHOP ACCESS RESTRICTED</b></size>\n\nYou are either <b>combat blocked</b> or <b>raid blocked</b>. Please wait before you try to use shop.",
+      "noPermission": "<size=13><b>MISSING PERMISSIONS</b></size>\n\nYou don't have permission to buy/sell in this category."
+    }
+  },
+  "UI Settings": {
+    "» Background Color": "0 0 0 0.6",
+    "» Background Blurr Intensity": "0.3",
+    "» Main Panel": {
+      "Color": "0 0 0 0",
+      "Image": "https://rustplugins.net/products/welcomepanel/3/main.png",
+      "AnchorMin": "0.317 0.2",
+      "AnchorMax": "0.81 0.8"
+    },
+    "» Side Panel": {
+      "Color": "0 0 0 0",
+      "Image": "https://rustplugins.net/products/welcomepanel/3/side.png",
+      "AnchorMin": "0.190 0.2",
+      "AnchorMax": "0.33 0.8"
+    },
+    "» Side Buttons": {
+      "Text Size": "15",
+      "Text Color": "1 1 1 0.8",
+      "Button Color 1.": "0 0 0 0.4",
+      "Button Color 2.": "0 0 0 0",
+      "Active Button Color": "0.56 0.20 0.15 1.0",
+      "Page Button Color": "0 0 0 0.4",
+      "Close Button Color": "0.56 0.20 0.15 1.0",
+      "Category Buttons": "0 0 0 0.4"
+    },
+    "» Title": {
+      "Text": "YOUR <b>SHOP TITLE</b>",
+      "Color": "0 0 0 0",
+      "AnchorMin": "0.190 0.74",
+      "AnchorMax": "0.81 0.802"
+    },
+    "» Logo (parented to title)": {
+      "Image": "https://rustplugins.net/products/welcomepanel/3/rustlogo.png",
+      "AnchorMin": "0.013 0.25",
+      "AnchorMax": "0.04 0.76"
+    },
+    "» Item Container": {
+      "OffSetMin": "-680 -360",
+      "OffSetMax": "680 360"
+    },
+    "» Layout Container": {
+      "OffSetMin": "-680 -360",
+      "OffSetMax": "680 360",
+      "AnchorMin": "0.5 0.5",
+      "AnchorMax": "0.5 0.5"
+    }
+  }
+}

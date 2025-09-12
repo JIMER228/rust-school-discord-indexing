@@ -1,0 +1,22 @@
+{
+  "The location of the basic building blocks (Cannot be destroyed)": [
+  ],
+  "Regular Entities": [
+	{
+      "Prefab": "assets/prefabs/deployable/playerioents/button/button.prefab",
+      "Skin": 0,
+      "Position": "(-0.047, 1.164, 0)",
+      "Rotation": "(270, 0, 0)"
+    }
+  ],
+  "Decor Entities": [
+	{
+      "Prefab": "assets/prefabs/deployable/frankensteintable/frankensteintable.deployed.prefab",
+      "Skin": 0,
+      "Position": "(-0.205, 0.634, 0)",
+      "Rotation": "(47.347, 90, 180)"
+    }
+  ],
+  "Box Colliders" : [
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "BetsServerRewards": false,
+  "BetsEconomics": false,
+  "BetsLoot": true,
+  "BetsDifferentTypes": false,
+  "UsePermissions": false,
+  "DeathMatchDuration": 1800,
+  "BattleDuration": 120,
+  "MaxTopListUIPlayers": 10,
+  "ButtonConfig": {
+    "Enabled": true,
+    "AnchorMin": "0.05052087 0.924074",
+    "AnchorMax": "0.0828125 0.9759259",
+    "Image": "https://gspics.org/images/2020/03/20/Z4uuh.png",
+    "Color": "0.95 0.95 0.95 0.7"
+  },
+  "Cooldowns": {
+    "Duel": 1.0,
+    "TeamBattle": 1.0,
+    "DeathMatch": 1.0
+  },
+  "MaxLootForBattle": [
+    {
+      "Name": "Rocket",
+      "ShortName": "ammo.rocket.basic",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    }
+  ],
+  "Weapons": [
+    {
+      "Name": "Assault Rifle",
+      "ShortName": "rifle.ak",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "LR-300",
+      "ShortName": "rifle.lr300",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Bolt",
+      "ShortName": "rifle.bolt",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "MP5A4",
+      "ShortName": "smg.mp5",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "SMG",
+      "ShortName": "smg.2",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Semi-Automatic",
+      "ShortName": "rifle.semiauto",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Thompson",
+      "ShortName": "smg.thompson",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "P250",
+      "ShortName": "pistol.semiauto",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Revolver",
+      "ShortName": "pistol.revolver",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Python",
+      "ShortName": "pistol.python",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Nailgun",
+      "ShortName": "pistol.nailgun",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "M92",
+      "ShortName": "pistol.m92",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Eoka",
+      "ShortName": "pistol.eoka",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Flame Thrower",
+      "ShortName": "flamethrower",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Bow",
+      "ShortName": "bow.hunting",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "SPAS-12",
+      "ShortName": "shotgun.spas12",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Pump Shotgun",
+      "ShortName": "shotgun.pump",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Double Shotgun",
+      "ShortName": "shotgun.double",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Waterpipe",
+      "ShortName": "shotgun.waterpipe",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Rocket Launcher",
+      "ShortName": "rocket.launcher",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Rifle L96",
+      "ShortName": "rifle.l96",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Crossbow",
+      "ShortName": "crossbow",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Rifle M39",
+      "ShortName": "rifle.m39",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Multiple Grenade Launcher",
+      "ShortName": "multiplegrenadelauncher",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "M249",
+      "ShortName": "lmg.m249",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Compound Bow",
+      "ShortName": "bow.compound",
+      "Amount": 1,
+      "Container": 0,
+      "Skin": 0
+    }
+  ],
+  "Meds": [
+    {
+      "Name": "Blueberries",
+      "ShortName": "blueberries",
+      "Amount": 15,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Large Medkit",
+      "ShortName": "largemedkit",
+      "Amount": 5,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Medical Syringe",
+      "ShortName": "syringe.medical",
+      "Amount": 10,
+      "Container": 0,
+      "Skin": 0
+    },
+    {
+      "Name": "Bandage",
+      "ShortName": "bandage",
+      "Amount": 10,
+      "Container": 0,
+      "Skin": 0
+    }
+  ],
+  "Armor": [
+    {
+      "Name": "Metal Chest Plate",
+      "ShortName": "metal.plate.torso",
+      "Amount": 1,
+      "Container": 2,
+      "Skin": 0
+    },
+    {
+      "Name": "Metal Facemask",
+      "ShortName": "metal.facemask",
+      "Amount": 1,
+      "Container": 2,
+      "Skin": 0
+    },
+    {
+      "Name": "Road Sign Kilt",
+      "ShortName": "roadsign.kilt",
+      "Amount": 1,
+      "Container": 2,
+      "Skin": 0
+    }
+  ],
+  "Ammo": [
+    {
+      "Name": "5.56 Rifle Ammo",
+      "ShortName": "ammo.rifle",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Pistol Bullet",
+      "ShortName": "ammo.pistol",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Nailgun Nails",
+      "ShortName": "ammo.nailgun.nails",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Rocket",
+      "ShortName": "ammo.rocket.basic",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "12 Gauge Buckshot",
+      "ShortName": "ammo.shotgun",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "12 Gauge Slug",
+      "ShortName": "ammo.shotgun.slug",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Wooden Arrow",
+      "ShortName": "arrow.wooden",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Fire Arrow",
+      "ShortName": "arrow.fire",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "High Velocity Rocket",
+      "ShortName": "ammo.rocket.hv",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "40mm HE Grenade",
+      "ShortName": "ammo.grenadelauncher.he",
+      "Amount": 6,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "12 Gauge Incendiary Shell",
+      "ShortName": "ammo.shotgun.fire",
+      "Amount": 30,
+      "Container": 1,
+      "Skin": 0
+    }
+  ],
+  "Mods": [
+    {
+      "Name": "4x Zoom Scope",
+      "ShortName": "weapon.mod.small.scope",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Holosight",
+      "ShortName": "weapon.mod.holosight",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Simple Handmade Sight",
+      "ShortName": "weapon.mod.simplesight",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    },
+    {
+      "Name": "Weapon Lasersight",
+      "ShortName": "weapon.mod.lasersight",
+      "Amount": 1,
+      "Container": 1,
+      "Skin": 0
+    }
+  ],
+  "BlueTeamSets": [
+    {
+      "Items": [
+        {
+          "Name": "TShirt",
+          "ShortName": "tshirt.long",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Pants",
+          "ShortName": "pants",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Boots",
+          "ShortName": "shoes.boots",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 13371337
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Name": "Hoodie",
+          "ShortName": "hoodie",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 14178
+        },
+        {
+          "Name": "Pants",
+          "ShortName": "pants",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Boots",
+          "ShortName": "shoes.boots",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 13371337
+        }
+      ]
+    }
+  ],
+  "RedTeamSets": [
+    {
+      "Items": [
+        {
+          "Name": "TShirt",
+          "ShortName": "tshirt.long",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 10006
+        },
+        {
+          "Name": "Pants",
+          "ShortName": "pants",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Boots",
+          "ShortName": "shoes.boots",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 13371337
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Name": "Hoodie",
+          "ShortName": "hoodie",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Pants",
+          "ShortName": "pants",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Boots",
+          "ShortName": "shoes.boots",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 13371337
+        }
+      ]
+    }
+  ],
+  "OtherSets": [
+    {
+      "Items": [
+        {
+          "Name": "Hoodie",
+          "ShortName": "hoodie",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Hide Pants",
+          "ShortName": "attire.hide.pants",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 0
+        },
+        {
+          "Name": "Burlap Shoes",
+          "ShortName": "burlap.shoes",
+          "Amount": 1,
+          "Container": 2,
+          "Skin": 13371337
+        }
+      ]
+    }
+  ]
+}

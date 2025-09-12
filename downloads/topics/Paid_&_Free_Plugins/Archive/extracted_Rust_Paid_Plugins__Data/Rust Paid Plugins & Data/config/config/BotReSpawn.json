@@ -1,0 +1,39 @@
+{
+  "DataPrefix": "default",
+  "UI": {
+    "ButtonColour": "0.7 0.32 0.17 1",
+    "ButtonColour2": "0.4 0.1 0.1 1"
+  },
+  "Global": {
+    "NPCs_Assist_NPCs": true,
+    "Ignore_Parented_HackedCrates": true,
+    "Ignore_HackableCrates_With_OwnerID": true,
+    "Reduce_Damage_Over_Distance": false,
+    "Ignore_Factions": false,
+    "Scale_Meds_To_Health": false,
+    "Allow_Ai_Dormant": false,
+    "Prevent_Biome_Ai_Dormant": false,
+    "Limit_ShortRange_Weapon_Use": false,
+    "NPCs_Damage_Armour": true,
+    "RustRewards_Whole_Numbers": true,
+    "Announce_Toplayer": false,
+    "UseServerTime": false,
+    "Disable_Non_Parented_Custom_Profiles_After_Wipe": true,
+    "Deaggro_Memory_Duration": 20,
+    "DayStartHour": 8,
+    "NightStartHour": 20,
+    "Show_Profiles_Seconds": 10,
+    "APC_Safe": true,
+    "Turret_Safe": true,
+    "Animal_Safe": true,
+    "Supply_Enabled": false,
+    "Ignore_Skinned_Supply_Grenades": false,
+    "Staggered_Despawn": false,
+    "Suicide_Boom": true,
+    "Remove_Frankenstein_Parts": true,
+    "Remove_KeyCard": true,
+    "Pve_Safe": true,
+    "Remove_BackPacks_Percent": 100,
+    "Max_Chute_Fall_Speed": 100
+  }
+}

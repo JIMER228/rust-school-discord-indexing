@@ -1,0 +1,29 @@
+{
+  "Commands": {
+    "CleanupChatCommand": "cleanup",
+    "CleanupConsoleCommand": "autocleanup.cleanup"
+  },
+  "Permissions": {
+    "CommandPermission": "autocleanup.cleanup",
+    "ExcludePermission": "autocleanup.exclude"
+  },
+  "Settings": {
+    "Broadcast Messages to Chat": false,
+    "Clean up when plugin is loaded": false,
+    "List of entities": [
+      "assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab",
+      "assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab",
+      "assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab",
+      "assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab",
+      "assets/prefabs/deployable/barricades/barricade.concrete.prefab",
+      "assets/prefabs/deployable/barricades/barricade.metal.prefab",
+      "assets/prefabs/deployable/barricades/barricade.sandbags.prefab",
+      "assets/prefabs/deployable/barricades/barricade.stone.prefab",
+      "assets/prefabs/deployable/barricades/barricade.wood.prefab",
+      "assets/prefabs/deployable/barricades/barricade.woodwire.prefab"
+    ],
+    "Log Messages to Console": false,
+    "Reduce health by (Percentage)": 100.0,
+    "Timer Interval (Seconds)": 1800.0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Настройки интерфейса плагина": {
+    "Сдвиг панели по вертикале (если некорректно отображается при текущих настройках)": 0,
+    "Текст на первой строке": "",
+    "Текст на второй строке": "",
+    "Название сервера": "JustRust X2"
+  },
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('328' - на 328 секунд вперёд, '-328' на 328 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "3600": [
+        "crossbow"
+      ],
+      "7200": [
+        "shotgun.waterpipe",
+        "flamethrower"
+      ],
+      "14400": [
+        "shotgun.double",
+        "pistol.python",
+        "pistol.revolver",
+        "pistol.semiauto"
+      ],
+      "25200": [
+        "shotgun.pump",
+        "shotgun.spas12",
+        "smg.thompson",
+        "smg.2",
+        "rifle.semiauto",
+        "pistol.m92",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt"
+      ],
+      "36000": [
+        "rifle.m39",
+        "grenade.beancan",
+        "smg.mp5",
+        "surveycharge",
+        "metal.facemask",
+        "metal.plate.torso"
+      ],
+      "86400": [
+        "ammo.rifle.explosive",
+        "explosive.satchel",
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.lr300",
+        "grenade.f1",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants",
+        "rocket.launcher",
+        "multiplegrenadelauncher",
+        "rifle.l96",
+        "lmg.m249",
+        "explosive.timed"
+      ]
+    },
+    "Названия категорий в интерфейсе": {
+      "Weapon": "ОРУЖИЯ",
+      "Ammunition": "БОЕПРИПАСОВ",
+      "Medical": "МЕДИЦИНЫ",
+      "Food": "ЕДЫ",
+      "Traps": "ЛОВУШЕК",
+      "Tool": "ИНСТРУМЕНТОВ",
+      "Construction": "КОНСТРУКЦИЙ",
+      "Resources": "РЕСУРСОВ",
+      "Items": "ПРЕДМЕТОВ",
+      "Component": "КОМПОНЕНТОВ",
+      "Misc": "ПРОЧЕГО",
+      "Attire": "ОДЕЖДЫ"
+    }
+  }
+}

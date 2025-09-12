@@ -1,0 +1,59 @@
+{
+  "CopterImage": "https://i.imgur.com/Wq5J3Im.png",
+  "copterItem": {
+    "DisplayName": "Коптер",
+    "modifications": [],
+    "ShortName": "stash.small",
+    "SkinId": 1764533101
+  },
+  "copterParts": [
+    {
+      "Amount": 1,
+      "DisplayName": "Двигатель",
+      "Image": "https://imgur.com/93thExI.png",
+      "lootSettings": [
+        {
+          "Chance": 10,
+          "MaxAmount": 1,
+          "MinAmount": 1,
+          "ShortName": "crate_elite"
+        }
+      ],
+      "ShortName": "glue",
+      "SkinId": 1981957323,
+      "StackSize": 1
+    },
+    {
+      "Amount": 4,
+      "DisplayName": "Лопасть",
+      "Image": "https://imgur.com/VkgDdNV.png",
+      "lootSettings": [
+        {
+          "Chance": 40,
+          "MaxAmount": 1,
+          "MinAmount": 1,
+          "ShortName": "crate_normal"
+        }
+      ],
+      "ShortName": "glue",
+      "SkinId": 1981964047,
+      "StackSize": 4
+    }
+  ],
+  "modifications": [
+    {
+      "DisplayName": "Стул",
+      "Image": "chair",
+      "KeyName": "chair",
+      "PriceAmount": 1,
+      "PriceName": "chair"
+    },
+    {
+      "DisplayName": "Здоровье",
+      "Image": "metal.refined",
+      "KeyName": "health",
+      "PriceAmount": 50,
+      "PriceName": "metal.refined"
+    }
+  ]
+}
